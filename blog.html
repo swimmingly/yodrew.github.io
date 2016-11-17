@@ -1,0 +1,13 @@
+---
+title: blog
+---
+
+<% sorted_articles.each do |post| %>
+  <div class='post'>
+    <h3><%= link_to post[:title], post.path %></h3>
+    <aside><%= get_pretty_date(post) %></aside>
+    <article>
+      <%= get_post_start(post) %>
+    </article>
+  </div>
+<% end %>
