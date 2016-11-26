@@ -1,5 +1,6 @@
 ---
-title: "appendix---laws of life"
+title: appendix---laws of life
+layout: page
 ---
 
 These are the logically interrelated biological laws that inform every move we make in hygiene. They cannot be broken anymore than the law of gravity can be broken. Also, they quickly convey the hygienic perspective.

@@ -1,5 +1,6 @@
 ---
-title: "appendix---pathology"
+title: appendix---pathology
+layout: page
 ---
 
 Pathology is the study of disease, including its nature, causes, and symptoms. Pathology guides our conscious response to disease. Every school of health has a general theory of pathology. In fact, many systems are named for their pathologies because they are basically oriented toward disease: homeopathy, naturopathy, osteopathy, allopathy (medicine). Allopathy's germ theory of disease leads doctors to gloss over causes and get right to symptomology and treatment. By contrast, a benevolent view of disease keeps a hygienist cool as a cucumber. Hygiene makes plenty of time to correct allopathy's imbalance with careful etiology (study of causes). This reveals the simplest and most effective responses.
