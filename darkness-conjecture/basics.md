@@ -1,5 +1,6 @@
 ---
-title: "basics"
+title: basics
+layout: page
 ---
 
 I will briefly explain the title, subtitle, and thesis of this part of the book in terms of theory. This site's [primary content](/) is the practical part. Further notes introduce the rest of the essays.

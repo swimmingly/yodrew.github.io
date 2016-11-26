@@ -1,5 +1,6 @@
 ---
-title: "the darkness conjecture"
+title: the darkness conjecture
+layout: page
 ---
 
 #### a strifeless recovery of rapture

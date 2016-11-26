@@ -1,5 +1,6 @@
 ---
-title: "strifeless"
+title: strifeless
+layout: page
 ---
 
 A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conversation brought out the meaning and an important implication of the word _strifeless_ (from the subtitle).

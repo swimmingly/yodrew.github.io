@@ -1,5 +1,6 @@
 ---
-title: "psychosis"
+title: psychosis
+layout: page
 ---
 
 _This essay is the heart of my work. It describes the insight that instantly precipitated the solution described earlier in [rapture](/darkness-conjecture/rapture/)._

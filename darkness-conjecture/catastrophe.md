@@ -1,5 +1,6 @@
 ---
-title: "catastrophe"
+title: catastrophe
+layout: page
 ---
 
 The catastrophic injury to the psyche I mention in the conjecture deserves some explanation.

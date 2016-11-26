@@ -1,5 +1,6 @@
 ---
-title: "dreamtime"
+title: dreamtime
+layout: page
 ---
 
 While chatting online with a friend, Brian Sullivan, I described to him my brief waking experience of dreamtime and wrote a bit about the pineal gland. I had learned about it from Mantak Chia in [_Dark Room Enlightenment_](http://www.scribd.com/doc/7109388/Mantak-Chia-Dark-Room-Enlightenment) and [David Wilcock](http://www.divinecosmos.com/videos/free-videos-online/374-the-2012-enigma-free-full-length-documentary-film) in [_2012 Enigma_](http://youtu.be/o1Hw8DVLw-A). Here is the edited chat:

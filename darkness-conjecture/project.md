@@ -1,5 +1,6 @@
 ---
-title: "project"
+title: project
+layout: page
 ---
 
 Here I would like to relate the history and future of this project.
