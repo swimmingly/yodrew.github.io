@@ -1,7 +1,7 @@
 ---
-title: "new articles: make darkness &#038; retreat manual"
+title: new articles: make darkness &#038; retreat manual
 created_at: 2011-03-12 17:23:57 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/03/new-articles-make-darkness-retreat-manual/

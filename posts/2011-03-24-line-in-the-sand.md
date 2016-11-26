@@ -1,7 +1,7 @@
 ---
-title: "line in the sand"
+title: line in the sand
 created_at: 2011-03-24 18:22:00 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/03/line-in-the-sand/

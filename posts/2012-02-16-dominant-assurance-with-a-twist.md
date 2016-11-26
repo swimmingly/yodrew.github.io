@@ -1,7 +1,7 @@
 ---
-title: "dominant assurance with a twist"
+title: dominant assurance with a twist
 created_at: 2012-02-16 04:58:36 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/02/dominant-assurance-with-a-twist/

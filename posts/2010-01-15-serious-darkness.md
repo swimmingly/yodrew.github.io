@@ -1,7 +1,7 @@
 ---
-title: "serious darkness"
+title: serious darkness
 created_at: 2010-01-15 16:53:59 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2010/01/serious-darkness/

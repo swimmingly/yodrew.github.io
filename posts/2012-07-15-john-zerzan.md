@@ -1,7 +1,7 @@
 ---
-title: "john zerzan"
+title: john zerzan
 created_at: 2012-07-15 22:19:06 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/07/john-zerzan/

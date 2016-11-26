@@ -1,7 +1,7 @@
 ---
-title: "superlight hypothesis"
+title: superlight hypothesis
 created_at: 2010-01-15 16:33:30 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2010/01/superlight-hypothesis/

@@ -1,7 +1,7 @@
 ---
-title: "limitless"
+title: limitless
 created_at: 2011-05-29 01:22:44 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/05/limitless/

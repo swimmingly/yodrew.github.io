@@ -1,7 +1,7 @@
 ---
-title: "post-retreat protocol"
+title: post-retreat protocol
 created_at: 2012-12-27 16:24:17 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/12/post-retreat-protocol/

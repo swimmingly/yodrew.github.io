@@ -1,7 +1,7 @@
 ---
-title: "the darkness hypothesis"
+title: the darkness hypothesis
 created_at: 2013-04-11 14:29:11 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/04/the-darkness-hypothesis/

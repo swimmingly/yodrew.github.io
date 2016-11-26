@@ -1,7 +1,7 @@
 ---
-title: "psychosagenesis"
+title: psychosagenesis
 created_at: 2009-08-11 08:49:02 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/08/psychosagenesis/

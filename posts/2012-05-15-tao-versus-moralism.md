@@ -1,7 +1,7 @@
 ---
-title: "tao versus moralism"
+title: tao versus moralism
 created_at: 2012-05-15 01:48:08 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/05/tao-versus-moralism/

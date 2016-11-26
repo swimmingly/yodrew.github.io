@@ -1,7 +1,7 @@
 ---
-title: "typable e-paper breakthrough"
+title: typable e-paper breakthrough
 created_at: 2012-01-23 03:59:28 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/01/typable-e-paper-breakthrough/

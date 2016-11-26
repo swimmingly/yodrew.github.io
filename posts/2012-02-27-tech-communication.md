@@ -1,7 +1,7 @@
 ---
-title: "tech communication"
+title: tech communication
 created_at: 2012-02-27 06:47:32 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/02/tech-communication/

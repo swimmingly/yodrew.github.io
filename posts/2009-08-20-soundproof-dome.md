@@ -1,7 +1,7 @@
 ---
-title: "soundproof dome"
+title: soundproof dome
 created_at: 2009-08-20 09:15:32 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/08/soundproof-dome/

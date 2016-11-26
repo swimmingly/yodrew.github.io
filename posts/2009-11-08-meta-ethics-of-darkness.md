@@ -1,7 +1,7 @@
 ---
-title: "meta-ethics of darkness"
+title: meta-ethics of darkness
 created_at: 2009-11-08 15:26:36 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/11/meta-ethics-of-darkness/

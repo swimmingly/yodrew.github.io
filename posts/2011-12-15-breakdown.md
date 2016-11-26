@@ -1,7 +1,7 @@
 ---
-title: "breakdown"
+title: breakdown
 created_at: 2011-12-15 01:30:59 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/12/breakdown/

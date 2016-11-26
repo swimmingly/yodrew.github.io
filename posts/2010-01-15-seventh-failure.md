@@ -1,7 +1,7 @@
 ---
-title: "seventh failure!"
+title: seventh failure!
 created_at: 2010-01-15 16:30:20 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2010/01/seventh-failure/

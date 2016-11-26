@@ -1,7 +1,7 @@
 ---
-title: "first client"
+title: first client
 created_at: 2013-04-08 10:14:07 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/04/first-client/

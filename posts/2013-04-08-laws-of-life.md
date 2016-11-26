@@ -1,7 +1,7 @@
 ---
-title: "laws of life"
+title: laws of life
 created_at: 2013-04-08 18:31:52 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/04/laws-of-life/

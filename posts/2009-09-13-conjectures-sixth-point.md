@@ -1,7 +1,7 @@
 ---
-title: "conjecture's sixth point"
+title: conjecture's sixth point
 created_at: 2009-09-13 09:25:20 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/conjectures-sixth-point/

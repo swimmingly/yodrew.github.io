@@ -1,7 +1,7 @@
 ---
-title: "static site generator"
+title: static site generator
 created_at: 2013-05-02 23:39:03 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/05/static-site-generator/

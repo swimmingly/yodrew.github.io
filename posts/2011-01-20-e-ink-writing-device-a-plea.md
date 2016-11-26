@@ -1,7 +1,7 @@
 ---
-title: "e-ink writing device: a plea"
+title: e-ink writing device: a plea
 created_at: 2011-01-20 02:49:50 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/01/e-ink-writing-device-a-plea/

@@ -1,7 +1,7 @@
 ---
-title: "conspiracy"
+title: conspiracy
 created_at: 2011-11-21 17:52:42 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/11/conspiracy/

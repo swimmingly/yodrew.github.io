@@ -1,7 +1,7 @@
 ---
-title: "atlas shrugged. the movie. is. coming."
+title: atlas shrugged. the movie. is. coming.
 created_at: 2011-02-12 16:07:14 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/02/atlas-shrugged-the-movie-is-coming/
