@@ -1,5 +1,6 @@
 ---
-title: "2x2-day retreat"
+title: 2x2-day retreat
+layout: page
 ---
 
 2013 Mar 28

@@ -1,5 +1,6 @@
 ---
-title: "four darkness experiences"
+title: four darkness experiences
+layout: page
 ---
 
 Here are descriptions of my first four experiences in darkness.

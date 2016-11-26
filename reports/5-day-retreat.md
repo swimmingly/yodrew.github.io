@@ -1,5 +1,6 @@
 ---
-title: "5-day retreat"
+title: 5-day retreat
+layout: page
 ---
 
 2012 Feb 09

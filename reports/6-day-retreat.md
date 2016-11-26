@@ -1,5 +1,6 @@
 ---
-title: "6-day retreat"
+title: 6-day retreat
+layout: page
 ---
 
 2011 Mar 17

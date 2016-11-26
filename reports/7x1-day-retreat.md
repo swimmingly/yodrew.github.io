@@ -1,5 +1,6 @@
 ---
-title: "7x1-day retreat"
+title: 7x1-day retreat
+layout: page
 ---
 
 2013 Jan 10
