@@ -1,5 +1,5 @@
 ---
-title: "The Ashers, a River, and I"
+title: The Ashers, a River, and I
 created_at: 2002-06-04 09:04:41
 kind: page
 tags: zzz

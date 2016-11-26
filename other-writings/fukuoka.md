@@ -1,5 +1,6 @@
 ---
-title: "On a Green Mountain with Masanobu Fukuoka"
+title: On a Green Mountain with Masanobu Fukuoka
+layout: page
 ---
 
 ...the Sensei of Natural Farming  

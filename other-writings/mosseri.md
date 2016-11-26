@@ -1,5 +1,6 @@
 ---
 title: Fasting Discovery
+layout: page
 ---
 
 "A Prodigious Discovery"
