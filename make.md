@@ -1,5 +1,6 @@
 ---
-title: "make"
+title: make
+layout: page
 ---
 
 Use the following plans and instructions to make essential components of a darkroom: ventilation, blinds, and plumbing. I provide designs for both grid-tied and off-grid locations. For those who would like to alter components or redesign them from scratch, design constraints accompany each one, describing its functions, qualities, and performance requirements.

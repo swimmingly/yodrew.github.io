@@ -1,5 +1,6 @@
 ---
-title: "design"
+title: design
+layout: page
 ---
 
 These are my specifications for a hygienic darkroom. As hygiene uses only normal conditions, a darkroom is merely what all shelter should be but usually is not: easily darkened. As well as  warm, well-ventilated, secure, comfortably furnished and sized, and tranquil.

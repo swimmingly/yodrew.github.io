@@ -1,5 +1,6 @@
 ---
-title: "darkrooms worldwide"
+title: darkrooms worldwide
+layout: page
 ---
 
 <!--

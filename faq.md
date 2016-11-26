@@ -1,5 +1,6 @@
 ---
-title: "faq"
+title: faq
+layout: page
 ---
 
 #### mechanics

@@ -1,5 +1,6 @@
 ---
-title: "protocol"
+title: protocol
+layout: page
 ---
 
 How to be and what to do once in darkness is simple. It's a lot like having a guest. Provide what is necessary for function and comfort, then stay out of the way. 

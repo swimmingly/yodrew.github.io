@@ -1,5 +1,6 @@
 ---
-title: "preface"
+title: preface
+layout: page
 ---
 
 This book comes out of a long investigation into the cause of joy. 

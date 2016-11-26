@@ -1,5 +1,6 @@
 ---
-title: "translate"
+title: translate
+layout: page
 ---
 
 Please help translate my book into Norwegian or Swedish! 

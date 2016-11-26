@@ -1,5 +1,6 @@
 ---
-title: "dedication"
+title: dedication
+layout: page
 ---
 
 For late friends,  

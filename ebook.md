@@ -1,5 +1,6 @@
 ---
-title: "ebook"
+title: ebook
+layout: page
 ---
 
 Download this ebook directly now:
