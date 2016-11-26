@@ -1,6 +1,7 @@
 ---
 title: "darkroom retreat"
 ---
+##        SITE UNDER RECONSTRUCTION. THERE IS NO MENU. SOME LINKS MAY NOT WORK. CHECK BACK SOON.
 
 ##### deep rest for the self-healing psyche
 {:#subtitle}
