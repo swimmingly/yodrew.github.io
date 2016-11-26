@@ -1,5 +1,6 @@
 ---
-title: "acknowledgments"
+title: acknowledgments
+layout: page
 ---
 
 Thanks to:

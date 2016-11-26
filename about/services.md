@@ -1,5 +1,6 @@
 ---
-title: "services"
+title: services
+layout: page
 ---
 
 I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build. 

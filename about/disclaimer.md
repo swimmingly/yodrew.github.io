@@ -1,5 +1,6 @@
 ---
-title: "disclaimer"
+title: disclaimer
+layout: page
 ---
 {:.entry}
 

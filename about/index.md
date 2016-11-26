@@ -1,5 +1,6 @@
 ---
-title: "about"
+title: about
+layout: page
 ---
 
 &nbsp;

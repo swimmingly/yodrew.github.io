@@ -1,5 +1,6 @@
 ---
-title: "bibliography and influences"
+title: bibliography and influences
+layout: page
 ---
 {:.entry}
 
