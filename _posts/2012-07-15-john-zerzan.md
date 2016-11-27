@@ -1,6 +1,5 @@
 ---
 title: john zerzan
-date: 2012-07-15 22:19:06 +0000
 layout: post
 permalink: /blog/2012/07/john-zerzan/
 ---

@@ -1,6 +1,5 @@
 ---
 title: site back online!
-date: 2009-10-17 10:03:50 +0000
 layout: post
 permalink: /blog/2009/10/site-back-online/
 ---

@@ -1,6 +1,5 @@
 ---
 title: wicked rest
-date: 2010-10-12 19:08:47 +0000
 layout: post
 permalink: /blog/2010/10/wicked-rest/
 ---

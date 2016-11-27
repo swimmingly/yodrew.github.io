@@ -1,6 +1,5 @@
 ---
 title: kansas city
-date: 2009-05-28 09:25:01 +0000
 layout: post
 permalink: /blog/2009/05/kansas-city/
 ---

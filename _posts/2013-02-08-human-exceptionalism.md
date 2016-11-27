@@ -1,6 +1,5 @@
 ---
 title: human exceptionalism
-date: 2013-02-08 22:45:42 +0000
 layout: post
 permalink: /blog/2013/02/human-exceptionalism/
 ---

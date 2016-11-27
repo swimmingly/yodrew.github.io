@@ -1,6 +1,5 @@
 ---
 title: poetry of rapture
-date: 2012-03-25 22:49:45 +0000
 layout: post
 permalink: /blog/2012/03/poetry-of-rapture/
 ---

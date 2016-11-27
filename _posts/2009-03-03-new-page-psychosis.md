@@ -1,6 +1,5 @@
 ---
 title: new page: psychosis
-date: 2009-03-03 09:25:25 +0000
 layout: post
 permalink: /blog/2009/03/new-page-psychosis/
 ---

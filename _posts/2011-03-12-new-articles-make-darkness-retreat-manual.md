@@ -1,6 +1,5 @@
 ---
 title: new articles: make darkness &#038; retreat manual
-date: 2011-03-12 17:23:57 +0000
 layout: post
 permalink: /blog/2011/03/new-articles-make-darkness-retreat-manual/
 ---

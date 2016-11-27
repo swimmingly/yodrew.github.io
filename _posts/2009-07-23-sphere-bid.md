@@ -1,6 +1,5 @@
 ---
 title: sphere bid
-date: 2009-07-23 09:42:00 +0000
 layout: post
 permalink: /blog/2009/07/sphere-bid/
 ---

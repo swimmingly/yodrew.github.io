@@ -1,6 +1,5 @@
 ---
 title: breakdown
-date: 2011-12-15 01:30:59 +0000
 layout: post
 permalink: /blog/2011/12/breakdown/
 ---

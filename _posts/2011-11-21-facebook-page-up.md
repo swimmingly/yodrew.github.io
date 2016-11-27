@@ -1,6 +1,5 @@
 ---
 title: facebook page up
-date: 2011-11-21 01:53:08 +0000
 layout: post
 permalink: /blog/2011/11/facebook-page-up/
 ---

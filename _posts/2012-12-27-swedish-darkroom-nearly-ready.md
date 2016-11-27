@@ -1,6 +1,5 @@
 ---
 title: swedish darkroom nearly ready
-date: 2012-12-27 05:08:29 +0000
 layout: post
 permalink: /blog/2012/12/swedish-darkroom-nearly-ready/
 ---

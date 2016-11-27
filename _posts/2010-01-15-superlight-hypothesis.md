@@ -1,6 +1,5 @@
 ---
 title: superlight hypothesis
-date: 2010-01-15 16:33:30 +0000
 layout: post
 permalink: /blog/2010/01/superlight-hypothesis/
 ---

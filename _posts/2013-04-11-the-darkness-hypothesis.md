@@ -1,6 +1,5 @@
 ---
 title: the darkness hypothesis
-date: 2013-04-11 14:29:11 +0000
 layout: post
 permalink: /blog/2013/04/the-darkness-hypothesis/
 ---

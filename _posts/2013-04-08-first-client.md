@@ -1,6 +1,5 @@
 ---
 title: first client
-date: 2013-04-08 10:14:07 +0000
 layout: post
 permalink: /blog/2013/04/first-client/
 ---

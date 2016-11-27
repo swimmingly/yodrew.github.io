@@ -1,6 +1,5 @@
 ---
 title: post-retreat protocol
-date: 2012-12-27 16:24:17 +0000
 layout: post
 permalink: /blog/2012/12/post-retreat-protocol/
 ---

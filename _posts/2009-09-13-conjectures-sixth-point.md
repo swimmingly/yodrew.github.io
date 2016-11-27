@@ -1,6 +1,5 @@
 ---
 title: conjecture's sixth point
-date: 2009-09-13 09:25:20 +0000
 layout: post
 permalink: /blog/2009/09/conjectures-sixth-point/
 ---

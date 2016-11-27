@@ -1,6 +1,5 @@
 ---
 title: syllogism
-date: 2011-03-24 18:18:00 +0000
 layout: post
 permalink: /blog/2011/03/syllogism/
 ---

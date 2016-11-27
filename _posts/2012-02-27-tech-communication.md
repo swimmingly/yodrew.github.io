@@ -1,6 +1,5 @@
 ---
 title: tech communication
-date: 2012-02-27 06:47:32 +0000
 layout: post
 permalink: /blog/2012/02/tech-communication/
 ---

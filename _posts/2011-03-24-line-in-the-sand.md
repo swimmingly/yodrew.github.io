@@ -1,6 +1,5 @@
 ---
 title: line in the sand
-date: 2011-03-24 18:22:00 +0000
 layout: post
 permalink: /blog/2011/03/line-in-the-sand/
 ---

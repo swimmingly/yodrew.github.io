@@ -1,6 +1,5 @@
 ---
 title: seventh failure!
-date: 2010-01-15 16:30:20 +0000
 layout: post
 permalink: /blog/2010/01/seventh-failure/
 ---

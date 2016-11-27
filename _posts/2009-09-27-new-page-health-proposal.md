@@ -1,6 +1,5 @@
 ---
 title: new page: health proposal
-date: 2009-09-27 08:59:48 +0000
 layout: post
 permalink: /blog/2009/09/new-page-health-proposal/
 ---

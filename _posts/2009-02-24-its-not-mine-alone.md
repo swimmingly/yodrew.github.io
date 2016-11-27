@@ -1,6 +1,5 @@
 ---
 title: it's not mine alone
-date: 2009-02-24 07:09:23 +0000
 layout: post
 permalink: /blog/2009/02/its-not-mine-alone/
 ---

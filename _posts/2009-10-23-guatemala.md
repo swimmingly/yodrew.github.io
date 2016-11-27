@@ -1,6 +1,5 @@
 ---
 title: guatemala
-date: 2009-10-23 09:56:22 +0000
 layout: post
 permalink: /blog/2009/10/guatemala/
 ---

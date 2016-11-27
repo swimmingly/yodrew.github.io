@@ -1,6 +1,5 @@
 ---
 title: darkness, take 6
-date: 2009-08-26 09:41:58 +0000
 layout: post
 permalink: /blog/2009/08/darkness-take-6/
 ---

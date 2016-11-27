@@ -1,6 +1,5 @@
 ---
 title: cool site: photoperiodeffect.com
-date: 2011-03-13 14:43:44 +0000
 layout: post
 permalink: /blog/2011/03/cool-site-photoperiodeffect-co/
 ---

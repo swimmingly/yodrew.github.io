@@ -1,6 +1,5 @@
 ---
 title: how not to retreat
-date: 2013-05-10 01:17:06 +0000
 layout: post
 permalink: /blog/2013/05/how-not-to-retreat/
 ---

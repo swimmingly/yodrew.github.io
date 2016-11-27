@@ -1,6 +1,5 @@
 ---
 title: design bonanza
-date: 2009-07-04 09:41:54 +0000
 layout: post
 permalink: /blog/2009/07/design-bonanza/
 ---

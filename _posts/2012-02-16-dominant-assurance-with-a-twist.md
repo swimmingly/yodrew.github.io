@@ -1,6 +1,5 @@
 ---
 title: dominant assurance with a twist
-date: 2012-02-16 04:58:36 +0000
 layout: post
 permalink: /blog/2012/02/dominant-assurance-with-a-twist/
 ---

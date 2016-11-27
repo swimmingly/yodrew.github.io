@@ -1,6 +1,5 @@
 ---
 title: atlas shrugged. the movie. is. coming.
-date: 2011-02-12 16:07:14 +0000
 layout: post
 permalink: /blog/2011/02/atlas-shrugged-the-movie-is-coming/
 ---

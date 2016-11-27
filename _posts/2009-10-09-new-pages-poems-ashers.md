@@ -1,6 +1,5 @@
 ---
 title: new pages: poems, ashers
-date: 2009-10-09 08:59:54 +0000
 layout: post
 permalink: /blog/2009/10/new-pages-poems-ashers/
 ---

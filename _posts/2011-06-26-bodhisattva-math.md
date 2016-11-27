@@ -1,6 +1,5 @@
 ---
 title: bodhisattva math
-date: 2011-06-26 08:53:42 +0000
 layout: post
 permalink: /blog/2011/06/bodhisattva-math/
 ---

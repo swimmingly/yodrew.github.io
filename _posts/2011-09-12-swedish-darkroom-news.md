@@ -1,6 +1,5 @@
 ---
 title: swedish darkroom news
-date: 2011-09-12 20:12:18 +0000
 layout: post
 permalink: /blog/2011/09/swedish-darkroom-news/
 ---

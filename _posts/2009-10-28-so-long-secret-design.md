@@ -1,6 +1,5 @@
 ---
 title: so long, secret design
-date: 2009-10-28 05:55:47 +0000
 layout: post
 permalink: /blog/2009/10/so-long-secret-design/
 ---

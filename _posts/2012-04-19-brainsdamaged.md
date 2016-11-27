@@ -1,6 +1,5 @@
 ---
 title: brainsdamaged
-date: 2012-04-19 03:08:51 +0000
 layout: post
 permalink: /blog/2012/04/brainsdamaged/
 ---

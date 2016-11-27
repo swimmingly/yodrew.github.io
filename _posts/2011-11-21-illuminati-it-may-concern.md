@@ -1,6 +1,5 @@
 ---
 title: illuminati it may concern
-date: 2011-11-21 18:13:40 +0000
 layout: post
 permalink: /blog/2011/11/illuminati-it-may-concern/
 ---

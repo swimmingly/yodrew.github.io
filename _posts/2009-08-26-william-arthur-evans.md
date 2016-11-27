@@ -1,6 +1,5 @@
 ---
 title: william arthur evans
-date: 2009-08-26 09:15:33 +0000
 layout: post
 permalink: /blog/2009/08/william-arthur-evans/
 ---

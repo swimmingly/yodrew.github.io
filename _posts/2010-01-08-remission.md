@@ -1,6 +1,5 @@
 ---
 title: remission
-date: 2010-01-08 11:47:48 +0000
 layout: post
 permalink: /blog/2010/01/remission/
 ---

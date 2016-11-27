@@ -1,6 +1,5 @@
 ---
 title: money without debt
-date: 2012-02-08 15:30:58 +0000
 layout: post
 permalink: /blog/2012/02/money-without-debt/
 ---

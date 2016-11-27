@@ -1,6 +1,5 @@
 ---
 title: love vs civilization
-date: 2010-10-11 14:04:15 +0000
 layout: post
 permalink: /blog/2010/10/love-vs-civilization/
 ---

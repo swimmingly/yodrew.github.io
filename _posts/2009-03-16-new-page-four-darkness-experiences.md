@@ -1,6 +1,5 @@
 ---
 title: new page: four darkness experiences
-date: 2009-03-16 09:15:35 +0000
 layout: post
 permalink: /blog/2009/03/new-page-four-darkness-experiences/
 ---

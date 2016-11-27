@@ -1,6 +1,5 @@
 ---
 title: darkness science
-date: 2011-01-25 01:45:40 +0000
 layout: post
 permalink: /blog/2011/01/darkness-science/
 ---

@@ -1,6 +1,5 @@
 ---
 title: first incoming link
-date: 2009-09-14 09:25:23 +0000
 layout: post
 permalink: /blog/2009/09/first-incoming-link/
 ---

@@ -1,6 +1,5 @@
 ---
 title: retreat reports moved
-date: 2013-05-07 03:31:33 +0000
 layout: post
 permalink: /blog/2013/05/retreatreports-moved/
 ---

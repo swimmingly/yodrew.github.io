@@ -1,6 +1,5 @@
 ---
 title: darkness made simple
-date: 2009-09-15 08:54:19 +0000
 layout: post
 permalink: /blog/2009/09/darkness-made-simple/
 ---

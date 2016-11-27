@@ -1,6 +1,5 @@
 ---
 title: dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust
-date: 2009-06-01 09:25:02 +0000
 layout: post
 permalink: /blog/2009/06/dark-vader-in-the-3-day-sith-bathchamber-of-sleep/
 ---

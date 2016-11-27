@@ -1,6 +1,5 @@
 ---
 title: conspiracy
-date: 2011-11-21 17:52:42 +0000
 layout: post
 permalink: /blog/2011/11/conspiracy/
 ---

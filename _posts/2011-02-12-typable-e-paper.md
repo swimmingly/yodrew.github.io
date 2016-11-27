@@ -1,6 +1,5 @@
 ---
 title: typable e-paper
-date: 2011-02-12 15:43:16 +0000
 layout: post
 permalink: /blog/2011/02/typable-e-paper/
 ---

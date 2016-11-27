@@ -1,6 +1,5 @@
 ---
 title: meta-ethics of darkness
-date: 2009-11-08 15:26:36 +0000
 layout: post
 permalink: /blog/2009/11/meta-ethics-of-darkness/
 ---

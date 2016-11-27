@@ -1,6 +1,5 @@
 ---
 title: serious darkness
-date: 2010-01-15 16:53:59 +0000
 layout: post
 permalink: /blog/2010/01/serious-darkness/
 ---

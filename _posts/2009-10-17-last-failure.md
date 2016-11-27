@@ -1,6 +1,5 @@
 ---
 title: last failure
-date: 2009-10-17 20:57:22 +0000
 layout: post
 permalink: /blog/2009/10/last-failure/
 ---

@@ -1,6 +1,5 @@
 ---
 title: atitlan report
-date: 2009-12-26 15:44:31 +0000
 layout: post
 permalink: /blog/2009/12/atitlan-report/
 ---

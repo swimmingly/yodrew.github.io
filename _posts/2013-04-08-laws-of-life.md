@@ -1,6 +1,5 @@
 ---
 title: laws of life
-date: 2013-04-08 18:31:52 +0000
 layout: post
 permalink: /blog/2013/04/laws-of-life/
 ---

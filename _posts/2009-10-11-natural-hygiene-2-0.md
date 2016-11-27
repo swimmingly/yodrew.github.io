@@ -1,6 +1,5 @@
 ---
 title: natural hygiene 2.0
-date: 2009-10-11 08:59:51 +0000
 layout: post
 permalink: /blog/2009/10/natural-hygiene-2-0/
 ---

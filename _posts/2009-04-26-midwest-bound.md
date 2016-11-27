@@ -1,6 +1,5 @@
 ---
 title: midwest-bound
-date: 2009-04-26 09:24:52 +0000
 layout: post
 permalink: /blog/2009/04/midwest-bound/
 ---

@@ -1,6 +1,5 @@
 ---
 title: tao versus moralism
-date: 2012-05-15 01:48:08 +0000
 layout: post
 permalink: /blog/2012/05/tao-versus-moralism/
 ---

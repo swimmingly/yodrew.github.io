@@ -1,6 +1,5 @@
 ---
 title: limitless
-date: 2011-05-29 01:22:44 +0000
 layout: post
 permalink: /blog/2011/05/limitless/
 ---

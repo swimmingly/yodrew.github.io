@@ -1,6 +1,5 @@
 ---
 title: darkness proposal
-date: 2009-09-04 09:58:35 +0000
 layout: post
 permalink: /blog/2009/09/darkness-proposal/
 ---

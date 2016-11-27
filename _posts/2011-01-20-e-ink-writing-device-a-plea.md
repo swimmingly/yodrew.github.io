@@ -1,6 +1,5 @@
 ---
 title: e-ink writing device: a plea
-date: 2011-01-20 02:49:50 +0000
 layout: post
 permalink: /blog/2011/01/e-ink-writing-device-a-plea/
 ---

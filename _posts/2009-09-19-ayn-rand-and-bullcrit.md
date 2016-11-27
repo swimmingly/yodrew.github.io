@@ -1,6 +1,5 @@
 ---
 title: ayn rand and bullcrit
-date: 2009-09-19 08:55:12 +0000
 layout: post
 permalink: /blog/2009/09/ayn-rand-and-bullcrit/
 ---

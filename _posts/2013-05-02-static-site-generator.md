@@ -1,6 +1,5 @@
 ---
 title: static site generator
-date: 2013-05-02 23:39:03 +0000
 layout: post
 permalink: /blog/2013/05/static-site-generator/
 ---
