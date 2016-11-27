@@ -1,7 +1,7 @@
 ---
-title: "typable e-paper"
+title: typable e-paper
 created_at: 2011-02-12 15:43:16 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2011/02/typable-e-paper/

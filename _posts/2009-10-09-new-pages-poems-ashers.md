@@ -1,7 +1,7 @@
 ---
-title: "new pages: poems, ashers"
+title: new pages: poems, ashers
 created_at: 2009-10-09 08:59:54 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/10/new-pages-poems-ashers/

@@ -1,7 +1,7 @@
 ---
-title: "how not to retreat"
+title: how not to retreat
 created_at: 2013-05-10 01:17:06 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/05/how-not-to-retreat/

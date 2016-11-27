@@ -1,7 +1,7 @@
 ---
-title: "wicked rest"
+title: wicked rest
 created_at: 2010-10-12 19:08:47 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2010/10/wicked-rest/

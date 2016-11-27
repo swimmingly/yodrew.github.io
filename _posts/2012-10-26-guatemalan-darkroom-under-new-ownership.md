@@ -1,7 +1,7 @@
 ---
-title: "guatemalan darkroom under new ownership"
+title: guatemalan darkroom under new ownership
 created_at: 2012-10-26 16:46:14 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/10/guatemalan-darkroom-under-new-ownership/

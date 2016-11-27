@@ -1,7 +1,7 @@
 ---
-title: "human exceptionalism"
+title: human exceptionalism
 created_at: 2013-02-08 22:45:42 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/02/human-exceptionalism/

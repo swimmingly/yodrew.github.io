@@ -1,7 +1,7 @@
 ---
-title: "guatemala"
+title: guatemala
 created_at: 2009-10-23 09:56:22 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/10/guatemala/

@@ -1,7 +1,7 @@
 ---
-title: "midwest-bound"
+title: midwest-bound
 created_at: 2009-04-26 09:24:52 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/04/midwest-bound/

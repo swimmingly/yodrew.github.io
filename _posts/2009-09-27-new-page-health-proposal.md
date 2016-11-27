@@ -1,7 +1,7 @@
 ---
-title: "new page: health proposal"
+title: new page: health proposal
 created_at: 2009-09-27 08:59:48 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/new-page-health-proposal/

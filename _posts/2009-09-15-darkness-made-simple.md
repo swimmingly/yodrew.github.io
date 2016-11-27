@@ -1,7 +1,7 @@
 ---
-title: "darkness made simple"
+title: darkness made simple
 created_at: 2009-09-15 08:54:19 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/darkness-made-simple/

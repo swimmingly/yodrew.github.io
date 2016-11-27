@@ -1,7 +1,7 @@
 ---
-title: "crowdfund"
+title: crowdfund
 created_at: 2016-07-17 17:26:58 +0200
-kind: article
+layout: post
 published: false
 category:
 tags:

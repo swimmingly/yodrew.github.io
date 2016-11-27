@@ -1,7 +1,7 @@
 ---
-title: "revisions, book"
+title: revisions, book
 created_at: 2013-08-03 13:11:17 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2013/08/revisions-book/

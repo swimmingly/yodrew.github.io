@@ -1,7 +1,7 @@
 ---
-title: "william arthur evans"
+title: william arthur evans
 created_at: 2009-08-26 09:15:33 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/08/william-arthur-evans/

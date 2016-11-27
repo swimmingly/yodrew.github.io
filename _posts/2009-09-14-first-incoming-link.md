@@ -1,7 +1,7 @@
 ---
-title: "first incoming link"
+title: first incoming link
 created_at: 2009-09-14 09:25:23 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/first-incoming-link/

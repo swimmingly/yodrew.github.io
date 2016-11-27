@@ -1,7 +1,7 @@
 ---
-title: "marketing"
+title: marketing
 created_at: 2009-09-09 08:59:49 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/marketing/

@@ -1,7 +1,7 @@
 ---
-title: "love vs civilization"
+title: love vs civilization
 created_at: 2010-10-11 14:04:15 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2010/10/love-vs-civilization/

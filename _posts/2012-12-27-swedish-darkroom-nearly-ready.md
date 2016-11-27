@@ -1,7 +1,7 @@
 ---
-title: "swedish darkroom nearly ready"
+title: swedish darkroom nearly ready
 created_at: 2012-12-27 05:08:29 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2012/12/swedish-darkroom-nearly-ready/

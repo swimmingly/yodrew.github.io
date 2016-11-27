@@ -1,7 +1,7 @@
 ---
-title: "ayn rand and bullcrit"
+title: ayn rand and bullcrit
 created_at: 2009-09-19 08:55:12 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/09/ayn-rand-and-bullcrit/

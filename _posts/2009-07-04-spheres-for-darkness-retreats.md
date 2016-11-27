@@ -1,7 +1,7 @@
 ---
-title: "spheres for darkness retreats"
+title: spheres for darkness retreats
 created_at: 2009-07-04 09:41:55 +0000
-kind: article
+layout: post
 category: 
 tags: 
 permalink: /blog/2009/07/spheres-for-darkness-retreats/
