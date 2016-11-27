@@ -2,7 +2,7 @@
 title: kansas city
 date: 2009-05-28 09:25:01 +0000
 layout: post
-permalink: /blog/2009/05/kansas-cit/
+permalink: /blog/2009/05/kansas-city/
 ---
 
 I'm in Kansas City, Missouri now, pursuing an unexpected opportunity to build a spherical geodesic plydome and retreat into darkness. Should take a month or two to prepare. We'll see!

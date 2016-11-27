@@ -5,6 +5,7 @@
 # ---/g' *md
 # sed -i 's/kind: article/layout: post/g' *.md
 
-sed -i 's/created_at:/date:/g' *.md
-sed -i '/tags:/d' *.md
-sed -i '/category:/d' *.md
+sed -i 's/^created_at:/date:/g' *.md
+sed -i '/^tags:/d' *.md
+sed -i '/^category:/d' *.md
+sed -i '/^published: true/d *.md
