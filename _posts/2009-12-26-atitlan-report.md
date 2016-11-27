@@ -1,9 +1,7 @@
 ---
 title: atitlan report
-created_at: 2009-12-26 15:44:31 +0000
+date: 2009-12-26 15:44:31 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/12/atitlan-report/
 ---
 

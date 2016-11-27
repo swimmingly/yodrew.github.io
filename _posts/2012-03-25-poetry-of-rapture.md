@@ -1,9 +1,7 @@
 ---
 title: poetry of rapture
-created_at: 2012-03-25 22:49:45 +0000
+date: 2012-03-25 22:49:45 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/03/poetry-of-rapture/
 ---
 

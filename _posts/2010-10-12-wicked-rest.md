@@ -1,9 +1,7 @@
 ---
 title: wicked rest
-created_at: 2010-10-12 19:08:47 +0000
+date: 2010-10-12 19:08:47 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2010/10/wicked-rest/
 ---
 

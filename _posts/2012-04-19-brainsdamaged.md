@@ -1,9 +1,7 @@
 ---
 title: brainsdamaged
-created_at: 2012-04-19 03:08:51 +0000
+date: 2012-04-19 03:08:51 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/04/brainsdamaged/
 ---
 

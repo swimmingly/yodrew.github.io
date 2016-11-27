@@ -1,9 +1,7 @@
 ---
 title: new page: psychosis
-created_at: 2009-03-03 09:25:25 +0000
+date: 2009-03-03 09:25:25 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/03/new-page-psychosis/
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: darkness science
-created_at: 2011-01-25 01:45:40 +0000
+date: 2011-01-25 01:45:40 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/01/darkness-science/
 ---
 

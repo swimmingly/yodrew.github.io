@@ -1,9 +1,7 @@
 ---
 title: post-retreat protocol
-created_at: 2012-12-27 16:24:17 +0000
+date: 2012-12-27 16:24:17 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/12/post-retreat-protocol/
 ---
 

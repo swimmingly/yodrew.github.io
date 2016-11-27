@@ -1,9 +1,7 @@
 ---
 title: john zerzan
-created_at: 2012-07-15 22:19:06 +0000
+date: 2012-07-15 22:19:06 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/07/john-zerzan/
 ---
 

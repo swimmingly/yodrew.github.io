@@ -1,9 +1,7 @@
 ---
 title: first client
-created_at: 2013-04-08 10:14:07 +0000
+date: 2013-04-08 10:14:07 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2013/04/first-client/
 ---
 

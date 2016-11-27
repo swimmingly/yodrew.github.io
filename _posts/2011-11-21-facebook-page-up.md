@@ -1,9 +1,7 @@
 ---
 title: facebook page up
-created_at: 2011-11-21 01:53:08 +0000
+date: 2011-11-21 01:53:08 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/11/facebook-page-up/
 ---
 

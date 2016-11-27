@@ -1,9 +1,7 @@
 ---
 title: the darkness hypothesis
-created_at: 2013-04-11 14:29:11 +0000
+date: 2013-04-11 14:29:11 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2013/04/the-darkness-hypothesis/
 ---
 

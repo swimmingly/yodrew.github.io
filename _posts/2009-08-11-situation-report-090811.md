@@ -1,9 +1,7 @@
 ---
 title: situation report 090811
-created_at: 2009-08-11 05:54:19 +0000
+date: 2009-08-11 05:54:19 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/08/situation-report-090811/
 ---
 

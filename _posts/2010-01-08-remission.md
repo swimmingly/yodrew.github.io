@@ -1,9 +1,7 @@
 ---
 title: remission
-created_at: 2010-01-08 11:47:48 +0000
+date: 2010-01-08 11:47:48 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2010/01/remission/
 ---
 

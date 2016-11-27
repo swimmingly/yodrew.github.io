@@ -1,9 +1,7 @@
 ---
 title: new page: four darkness experiences
-created_at: 2009-03-16 09:15:35 +0000
+date: 2009-03-16 09:15:35 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/03/new-page-four-darkness-experiences/
 ---
 

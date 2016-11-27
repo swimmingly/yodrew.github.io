@@ -1,9 +1,7 @@
 ---
 title: site back online!
-created_at: 2009-10-17 10:03:50 +0000
+date: 2009-10-17 10:03:50 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/10/site-back-online/
 ---
 

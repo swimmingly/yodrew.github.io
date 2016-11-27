@@ -1,9 +1,7 @@
 ---
 title: retreat reports moved
-created_at: 2013-05-07 03:31:33 +0000
+date: 2013-05-07 03:31:33 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2013/05/retreatreports-moved/
 ---
 

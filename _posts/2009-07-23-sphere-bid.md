@@ -1,9 +1,7 @@
 ---
 title: sphere bid
-created_at: 2009-07-23 09:42:00 +0000
+date: 2009-07-23 09:42:00 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/07/sphere-bid/
 ---
 

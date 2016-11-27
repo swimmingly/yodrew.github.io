@@ -1,9 +1,7 @@
 ---
 title: so long, secret design
-created_at: 2009-10-28 05:55:47 +0000
+date: 2009-10-28 05:55:47 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/10/so-long-secret-design/
 ---
 

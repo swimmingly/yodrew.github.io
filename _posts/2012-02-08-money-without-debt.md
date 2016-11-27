@@ -1,9 +1,7 @@
 ---
 title: money without debt
-created_at: 2012-02-08 15:30:58 +0000
+date: 2012-02-08 15:30:58 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/02/money-without-debt/
 ---
 

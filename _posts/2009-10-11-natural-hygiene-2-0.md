@@ -1,9 +1,7 @@
 ---
 title: natural hygiene 2.0
-created_at: 2009-10-11 08:59:51 +0000
+date: 2009-10-11 08:59:51 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/10/natural-hygiene-2-0/
 ---
 

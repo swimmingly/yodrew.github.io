@@ -1,9 +1,7 @@
 ---
 title: cool site: photoperiodeffect.com
-created_at: 2011-03-13 14:43:44 +0000
+date: 2011-03-13 14:43:44 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/03/cool-site-photoperiodeffect-co/
 ---
 

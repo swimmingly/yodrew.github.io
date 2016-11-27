@@ -1,9 +1,7 @@
 ---
 title: bodhisattva math
-created_at: 2011-06-26 08:53:42 +0000
+date: 2011-06-26 08:53:42 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/06/bodhisattva-math/
 ---
 

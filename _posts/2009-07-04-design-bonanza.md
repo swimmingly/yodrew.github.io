@@ -1,9 +1,7 @@
 ---
 title: design bonanza
-created_at: 2009-07-04 09:41:54 +0000
+date: 2009-07-04 09:41:54 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/07/design-bonanza/
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: last failure
-created_at: 2009-10-17 20:57:22 +0000
+date: 2009-10-17 20:57:22 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/10/last-failure/
 ---
 

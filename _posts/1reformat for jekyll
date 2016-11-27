@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# sed -i '2s/"//g' *.md
+# sed -i '3s/---/layout: page\
+# ---/g' *md
+# sed -i 's/kind: article/layout: post/g' *.md
+
+sed -i 's/created_at:/date:/g' *.md
+sed -i '/tags:/d' *.md
+sed -i '/category:/d' *.md

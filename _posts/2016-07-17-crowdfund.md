@@ -1,10 +1,8 @@
 ---
 title: crowdfund
-created_at: 2016-07-17 17:26:58 +0200
+date: 2016-07-17 17:26:58 +0200
 layout: post
 published: false
-category:
-tags:
 permalink: /blog/2016/07/crowdfund
 ---
 

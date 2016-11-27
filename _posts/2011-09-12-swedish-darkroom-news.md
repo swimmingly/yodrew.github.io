@@ -1,9 +1,7 @@
 ---
 title: swedish darkroom news
-created_at: 2011-09-12 20:12:18 +0000
+date: 2011-09-12 20:12:18 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/09/swedish-darkroom-news/
 ---
 

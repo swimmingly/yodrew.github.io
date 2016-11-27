@@ -1,9 +1,7 @@
 ---
 title: serious darkness
-created_at: 2010-01-15 16:53:59 +0000
+date: 2010-01-15 16:53:59 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2010/01/serious-darkness/
 ---
 

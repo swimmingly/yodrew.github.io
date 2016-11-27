@@ -1,9 +1,7 @@
 ---
 title: new retreat center in works
-created_at: 2012-10-25 11:40:59 +0000
+date: 2012-10-25 11:40:59 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/10/new-retreat-center-in-works/
 ---
 

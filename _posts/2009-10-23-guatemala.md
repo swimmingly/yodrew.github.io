@@ -1,9 +1,7 @@
 ---
 title: guatemala
-created_at: 2009-10-23 09:56:22 +0000
+date: 2009-10-23 09:56:22 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/10/guatemala/
 ---
 

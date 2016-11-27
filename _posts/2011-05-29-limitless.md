@@ -1,9 +1,7 @@
 ---
 title: limitless
-created_at: 2011-05-29 01:22:44 +0000
+date: 2011-05-29 01:22:44 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2011/05/limitless/
 ---
 

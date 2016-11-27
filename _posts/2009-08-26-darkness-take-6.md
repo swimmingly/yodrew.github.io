@@ -1,9 +1,7 @@
 ---
 title: darkness, take 6
-created_at: 2009-08-26 09:41:58 +0000
+date: 2009-08-26 09:41:58 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2009/08/darkness-take-6/
 ---
 

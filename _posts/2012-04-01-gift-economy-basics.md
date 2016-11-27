@@ -1,9 +1,7 @@
 ---
 title: gift economy basics
-created_at: 2012-04-01 16:57:07 +0000
+date: 2012-04-01 16:57:07 +0000
 layout: post
-category: 
-tags: 
 permalink: /blog/2012/04/gift-economy-basics/
 ---
 
