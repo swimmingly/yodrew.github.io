@@ -1,13 +1,19 @@
 ---
-title: blog
+layout: default
 ---
 
-<% sorted_articles.each do |post| %>
-  <div class='post'>
-    <h3><%= link_to post[:title], post.path %></h3>
-    <aside><%= get_pretty_date(post) %></aside>
-    <article>
-      <%= get_post_start(post) %>
+<h3>blog</h3>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">        
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-  </div>
-<% end %>
+  {% endfor %}
+</div>
