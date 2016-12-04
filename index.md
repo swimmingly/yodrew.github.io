@@ -39,13 +39,13 @@ Hygiene has long excelled in caring for the self-healing body. With darkness, hy
 Download _darkroom retreat_ as an ebook at:  
 [Leanpub](https://leanpub.com/darkroomretreat)
 
-    - download is free/pay what you like
-    - filetypes available:
-        - pdf: computer and printing
-        - epub: iOS and Android
-        - mobi: Kindle
-    - automatic notification of new versions, which are free forever
-    - no spam and your contact info remains hidden, even from me
+- download is free/pay what you like
+- filetypes available:
+    - pdf: computer and printing
+    - epub: iOS and Android
+    - mobi: Kindle
+- automatic notification of new versions, which are free forever
+- no spam and your contact info remains hidden, even from me
 
 If you dislike or have trouble with that method, click [here](/ebook/). 
 
