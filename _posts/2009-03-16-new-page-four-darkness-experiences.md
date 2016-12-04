@@ -1,5 +1,5 @@
 ---
-title: new page: four darkness experiences
+title: 'new page: four darkness experiences'
 layout: post
 permalink: /blog/2009/03/new-page-four-darkness-experiences/
 ---

@@ -1,5 +1,5 @@
 ---
-title: new page: health proposal
+title: 'new page: health proposal'
 layout: post
 permalink: /blog/2009/09/new-page-health-proposal/
 ---

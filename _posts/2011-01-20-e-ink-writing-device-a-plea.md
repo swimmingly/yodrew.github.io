@@ -1,5 +1,5 @@
 ---
-title: e-ink writing device: a plea
+title: 'e-ink writing device: a plea'
 layout: post
 permalink: /blog/2011/01/e-ink-writing-device-a-plea/
 ---

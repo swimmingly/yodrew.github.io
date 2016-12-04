@@ -1,5 +1,5 @@
 ---
-title: cool site: photoperiodeffect.com
+title: 'cool site: photoperiodeffect.com'
 layout: post
 permalink: /blog/2011/03/cool-site-photoperiodeffect-co/
 ---

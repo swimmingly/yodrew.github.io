@@ -1,5 +1,5 @@
 ---
-title: new articles: make darkness &#038; retreat manual
+title: 'new articles: make darkness & retreat manual'
 layout: post
 permalink: /blog/2011/03/new-articles-make-darkness-retreat-manual/
 ---

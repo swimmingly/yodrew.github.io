@@ -1,5 +1,5 @@
 ---
-title: new page: psychosis
+title: 'new page: psychosis'
 layout: post
 permalink: /blog/2009/03/new-page-psychosis/
 ---

@@ -1,5 +1,5 @@
 ---
-title: new page: register
+title: 'new page: register'
 layout: post
 permalink: /blog/2011/04/new-page-register/
 ---

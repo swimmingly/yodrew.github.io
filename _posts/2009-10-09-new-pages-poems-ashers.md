@@ -1,5 +1,5 @@
 ---
-title: new pages: poems, ashers
+title: 'new pages: poems, ashers'
 layout: post
 permalink: /blog/2009/10/new-pages-poems-ashers/
 ---
