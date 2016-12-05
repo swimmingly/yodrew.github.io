@@ -25,7 +25,7 @@ The book explains why a retreat works, how to do it, and how to make a darkroom,
 
 ##### toward a hygienic psychology
 
-Neither spiritual nor disciplined, therapeutic nor psychedelic, this is the first approach to darkness---and psychology---based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. Hygiene taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
+Neither discipline, therapy, nor psychedelic, this is the first approach to darkness---and psychology---based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. Hygiene taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
 
