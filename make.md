@@ -266,7 +266,7 @@ For example, I once found a cosmetically damaged door in the garbage at a buildi
 
 Another darkroom had no ventilation or suitable holes anywhere. Except it had no door. So we built a frame inside the doorway with a narrow door on one side and a narrower panel on the other. We cut holes in the panel for ventilation. We fixed the frame in the existing doorway with metal straps screwed into old hinge holes. So we left no trace when dismantling the darkroom.
 
-Similarly, we hung 7m of ducting that ran through three rooms; attached a silencer to it; made three window panels; and imperfectly covered five more windows with only one new screw hole in the entire rented house. And that hole was invisible behind a loose piece of trim. 
+Similarly, we hung 7m of ducting that ran through three rooms; attached a silencer to it; made three window blinds; and imperfectly covered five more windows with only one new screw hole in the entire rented house. And that hole was invisible behind a loose piece of trim. 
 
 Sewage pipes drain downward but are ventilated upward. Once, friends and I replaced a flush toilet with a composting toilet. The exposed drain pipe, being oversize and in a single-story house, wasn't subject to backflow. So it proved a perfect exhaust duct for a case fan at floor level. Imagination conquers all obstacles (and renews itself in darkness).
  
@@ -335,18 +335,26 @@ Read through instructions once while studying plans.
     2. glue 20mm wide flaps of outer wall to inner wall
 5. if not using immediately, store core inside shell, covering exposed part of core with scrap piece of cardboard to prevent crushing.
 6. installation
-    1. determine vent location in panel
-        - edge opening of vent should face window opening
-        - vent should not touch window handles, locks, and frame 
-    2. on panel, mark slot exactly the size of the vent's face opening, 40mm x 282mm 
-    3. cut out slot
-    4. from the back, position vent core over hole and fit vent flaps through it
-    5. lay panel on table, core down and panel up
-    6. pulling top flap up snugly, use back of table knife tip to crease the outside of it right where it passes through hole
-    7. fold flap at crease and glue or tape it to front of panel
-    8. repeat with bottom flap, then with side flaps
-    9. attach shell to back of panel over core with tape, glue, or screws going through panel into braces
-    10. cover shell with foil and/or white paper to minimize warping by sun
+    1. determine vent location in blind
+        - for convective ventilation in cold climates, put supply vents at bottom of one blind, return vents at top of another 
+        - orient vent openings vertically where possible
+        - mount vent behind blind whenever possible. It looks better, is less prone to damage, and its airflow is easier to control with a plug or sliding plate of cardboard
+        - edge opening of vent should face opening of window
+        - vent should not touch window handles, locks, or frame 
+        - for front mounting, try to place vent where it is least likely to get bumped or damaged
+    2. cut out slot
+        - slot is 40 x 282mm. Put it at least 50mm from edges of window opening, oriented vertically if possible.
+        - use the helix vent slot plan for this. Tape it to blind so its edges fall on or within edges of window opening.
+        - poke a straight pin through corners of slot into blind material
+	- cut between holes with straight edge and razor knife
+    3. attach vent
+        1. from the back, position vent over hole and slide vent flaps through it
+        2. lay blind on flat surface with vent underneath
+        3. pulling top flap up snugly, use back of table knife tip to crease the outside of it right where it passes through hole
+        4. fold flap down at crease and tape it to front of blind with black tape
+        5. repeat steps 3 & 4 with bottom flap, then with side flaps
+        6. attach shell to blind with tape or clamps of wood trim pieces and screws
+        7. when mounted behind, cover shell with foil and/or white paper to minimize warping by sun
                 
 ###### threshold vent
 
