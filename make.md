@@ -70,12 +70,11 @@ Making components require some or all of these tools:
 5. join
     1. masking tape
     2. wood glue, unthickened, any grade
-    3. glue syringe, 20-50mL for precise, efficient gluing
-        - available at:
+    3. glue dispenser:
+        - bottle with a very fine nozzle (2mm hole) OR 
+        - glue syringe, 20-50mL for precise, efficient gluing, available at:
             - woodworking shops, with needles
-            - as kitchenware along with 2-3mm stainless needles
-            - pharmacies. Also get a 2mm x 40--50mm needle. Perhaps cut off the tip. If unavailable, use a cartridge from ballpoint pen, the fat (4-5mm) tapering type. Clean it out and trim it down to point in taper that fits over nipple of syringe
-        - remove needle and plunger. Cover nipple with finger and fill from back, leaving 10mm unfilled. Replace plunger barely. Point nipple upward and uncover it. Wait for air bubble to rise to top. Then push plunger in till air is cleared from syringe. Replace needle and use.
+            - pharmacies. I have improvised needles with pen refills
 6. for roller blind:
     1. drill
     2. screwdriver
@@ -324,6 +323,7 @@ Read through instructions once while studying plans.
             - total: 390--600gsm
     2. cardboard, single layer, 3--4.2mm thick (for shell)
     3. fabric, polar fleece, black, medium weight (for gaskets; 10 layers of it in a stack should measure 30-35mm high) 
+    4. tape: black masking tape from film and TV tech supply houses is best. Otherwise, black electrician's tape.
 2. follow instructions in basics section above
 3. sub-assembly
     1. attach channels and gaskets to walls
