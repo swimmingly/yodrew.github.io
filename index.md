@@ -55,7 +55,7 @@ I hope you like the book and find it useful. Please send me any questions, comme
 
 See end of [introduction](/introduction) for many ways to participate in and support this work. 
 
-I would like to do a 20-day darkroom retreat in order to heal from exhaustion-depression. For this I need €2000 or a month’s use of a [fully functional house](/design) in a quiet location in Spain. If you can help me with this, then... thank you. 
+I would like to do a 20-day darkroom retreat in order to heal from exhaustion-depression. For this I need help in organizing the retreat in a [fully functional house](/design) in a quiet location in Spain. If you can help me with this somehow, then... thank you. 
 
 Donations: I appreciate them very much. I live extremely simply, so even small amounts help:
 
