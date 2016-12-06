@@ -296,6 +296,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 [![plan: helix vent, inner wall](/img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)  
 [![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
 [![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
+[![plan: helix vent, slot](/img/plan/image/helix-vent-slot.png)](/img/plan/helix-vent-slot.pdf)
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But the path of least resistance for air, a fluid like water, is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
