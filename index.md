@@ -68,7 +68,7 @@ PayPal (send either euros or your native currency)
 </form>
 
 Bitcoin:
-33jQs98MGqyrJo16H18nSfE18sJ2GCqqQN
+1PkjaCvr7yuMg2ptQvjaEJd2SYomS6hZXb
 
 Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
