@@ -3,11 +3,11 @@ title: &nbsp;
 layout: page
 ---
 
-<span style=float-right>![cover image](/img/book-cover.png)</span>
+<img style="float: right;" src="/img/book-cover.png" label="cover image">
 
-#### blurb
+# blurb
 
-##### a complete manual
+## a complete manual
 
 Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance by taking refuge from the sensory over-stimulation of civilized existence.
 
