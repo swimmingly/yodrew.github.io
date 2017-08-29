@@ -1,11 +1,9 @@
 ---
-title: a book
+title: &nbsp;
 layout: page
 ---
 
-<h5>by andrew durham <span style="color:purple">(2nd edition)</span></h5>
-
-![cover image](/img/book-cover.png)
+<span style=float-right>![cover image](/img/book-cover.png)</span>
 
 #### blurb
 
