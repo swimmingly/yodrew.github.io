@@ -1,17 +1,11 @@
 ---
-title: darkroom retreat
+title: a book
 layout: page
 ---
 
-##### deep rest for the self-healing psyche
-{:#subtitle}
+<h5>by andrew durham <span style="color:purple">(2nd edition)</span></h5>
 
-<h5>&nbsp; &nbsp; &nbsp; <em>a book</em> by andrew durham <span style="color:purple">(2nd edition)</span></h5>
-
-#### contents
-blurb &nbsp; [dedication](/dedication) &nbsp; [preface](/preface/) &nbsp; [foreword](/foreword/) &nbsp; [introduction](/introduction/)  
-[hygiene](/hygiene/) &nbsp; [format](/format/) &nbsp; [protocol](/protocol/) &nbsp; [prepare](/prepare/) &nbsp; [design](/design/) &nbsp; [make](/make/)  
-[faq](/faq/) &nbsp; [about](/about/)  
+![cover image](/img/images/book-cover.png)
 
 #### blurb
 
@@ -29,48 +23,37 @@ Neither disciplined, therapeutic, nor psychedelic, this is the first approach to
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
 
-[_continue reading online_ &gt;](/dedication/)
+[_continue reading online at leanpub_ &gt;](https://leanpub.com/darkoomretreat/read)
 {:#continue}
 
 <a name="ebook"></a>
 
 ##### ebook
 
-Download _darkroom retreat_ as an ebook at:  
-[Leanpub](https://leanpub.com/darkroomretreat)
+Download either:
 
-- download is free/pay what you like
-- filetypes available:
-    - pdf: computer and printing
-    - epub: iOS and Android
-    - mobi: Kindle
-- automatic notification of new versions, which are free forever
-- no spam and your contact info remains hidden, even from me
-
-If you dislike or have trouble with that method, click [here](/ebook/). 
-
-I hope you like the book and find it useful. Please send me any questions, comments, corrections, or suggestions you have about it.
+- at [leanpub](https://leanpub.com/darkroomretreat)
+    - it is free/pay what you like
+    - pdf, epub, mobi available
+    - automatic notification of new versions, which are free forever
+    - no spam and your contact info remains hidden, even from me
+- or directly [here](/ebook/). 
 
 ##### help out
 
 See end of [introduction](/introduction) for many ways to participate in and support this work. 
 
-I would like to do a 20-day darkroom retreat in order to heal from exhaustion-depression. For this I need help in organizing the retreat in a [fully functional house](/design) in a quiet location in Spain. If you can help me with this somehow, then... thank you. 
+I will soon attempt another 20-day retreat in order to heal from my [psychosis](/darkness-conjecture/psychosis) and accompanying exhaustion-depression. If you would like to help with this somehow, please write me.
 
-Donations: I appreciate them very much. I live extremely simply, so even small amounts help:
+Donations: I appreciate them very much. I live simply, so even small amounts help.
 
 PayPal (send either euros or your native currency)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input name="cmd" value="_s-xclick" type="hidden">
-<input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
-<input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
-<img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
-</form>
 
-Bitcoin:
-1PkjaCvr7yuMg2ptQvjaEJd2SYomS6hZXb
+Bitcoin: 1PkjaCvr7yuMg2ptQvjaEJd2SYomS6hZXb
 
-Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
+Ether: 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d
+
+Snailmail, bank transfer, or deposit: email me about how to use these methods. Include your country.
 
 <!-- 
 ![cover image](/img/book/adcf.jpg)
