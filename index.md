@@ -5,7 +5,7 @@ layout: page
 
 <h5>by andrew durham <span style="color:purple">(2nd edition)</span></h5>
 
-![cover image](/img/images/book-cover.png)
+![cover image](/img/book-cover.png)
 
 #### blurb
 
