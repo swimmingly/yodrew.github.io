@@ -1,9 +1,13 @@
 ---
-title: blurb
+title: a book
 layout: page
 ---
 
 <img style="float: right;" src="/img/book-cover.png" label="cover image">
+
+#### by andrew durham <span style="color:purple">(2nd edition)</span>
+
+## blurb
 
 ### a complete manual
 
