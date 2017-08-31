@@ -23,7 +23,7 @@ Neither spiritual, therapeutic, nor psychedelic, this is the first approach to d
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
 
-[_continue reading online at leanpub_ &gt;](https://leanpub.com/darkoomretreat/read)
+[_continue reading online at leanpub_ &gt;](https://leanpub.com/darkroomretreat/read)
 {:#continue}
 
 <a name="ebook"></a>
