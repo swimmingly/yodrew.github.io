@@ -1,9 +1,4 @@
----
-title: appendix---laws of life
-layout: page
----
-
-These are the logically interrelated biological laws that inform every move we make in hygiene. They cannot be broken anymore than the law of gravity can be broken. Also, they quickly convey the hygienic perspective.
+# appendix---laws of life {#appendix-laws-of-life}
 
 1. **Life's Great Law**: Every living cell of the organized body is endowed with an instinct of self-preservation, sustained by an inherent force in the organism called "vital force" or "life force." The success of each living organism whether it be simple or complex is directly proportional to the amount of its life force and inversely proportional to the degree of its activity.
 2. **The Law of Order**: The living organism is completely self-constructing, self-maintaining, self-directing, self-repairing, self-defending, and self-healing.
@@ -22,7 +17,5 @@ These are the logically interrelated biological laws that inform every move we m
 15. **The Law of the Minimum**: The development of living organisms is regulated by the supply of that element or factor which is least abundantly provided or utilized. The element or factor in shortest supply determines the amount of development.
 16. **The Law of Development**: The development of all or any parts of the living organism is measured in direct proportion to the amount of vital forces and nutritive materials which are directed to it and brought to bear upon it.
 
-Resume reading [hygiene](/hygiene#post-law)
+Resume reading [____hygiene____](http://darkroomretreat.com/hygiene#post-law)
 
-[&lt;](/faq/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/appendix-pathology/)
-{:.arrow}

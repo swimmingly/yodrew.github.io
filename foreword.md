@@ -1,29 +1,17 @@
----
-title: foreword
-layout: page
----
+# foreword {#foreword}
 
-When I first retreated in darkness , I just did it to rest. It worked. After 56 hours, I felt caught up on all the sleep I had ever lost, truly awake for the first time in decades. I was stunned.
+This book comes out of a long investigation into the cause of joy. 
 
-Two years later, the same thing happened. Except, unusually, I also felt humbled. Genuinely calm. _Well_ in my soul. 
+At 15, great joy spontaneously overcame me. It felt normal. It eclipsed my other concerns. When it disappeared after three heavenly months, I felt gripped by the need to solve its mystery.
 
-This sense of psychic health stayed with me for months. But how, after a lifetime of depression, alienation, and anxiety?
+After 21 years of investigation, I did. I discovered the way nature provides us to heal from major trauma, joy's destroyer. Four years of testing followed, then four more of refinement and documentation.
 
-From hygiene, I vaguely remembered the self-healing nature of life, and rest as the primary condition of healing. The onset of middle age was daily demonstrating the organic nature of the psyche to me. One morning in a dream, these clues fused in a conception of _the restful use of darkness in support of the self-healing psyche_. 
+Briefly, joy is a function of being alive, not effort. Lack of joy indicates a damaged system, not moral failure. Given conditions of profound rest, this damage heals by itself, and joy returns.
 
-I began testing this idea in more darkroom retreats. As predicted, lethal psychic issues that have tortured me for a lifetime began resolving themselves spontaneously. In eight years and 20 retreats, I have seen no sign of an end to this process---short of full recovery of psychic integrity.
+Effort, our lifeway's smug panacea, gives false and fleeting results. With the will, one can do nothing directly to restore joy. One can only support the organism in doing it autonomically.
 
-Now I feel confident about what I have learned: what happens in darkness and why; how to retreat and what for. And I can only go further in this by sharing this approach. It needs more participation, resources, and velocity. 
+For 10,000 years, we civilized people have been correct that something is terribly wrong with ourselves and that we must do something about it. But we've mistaken which part of ourselves must do it. At long last, this book puts the issue _to rest_.
 
-Hygienic darkroom retreating requires minimal effort and no faith. Darkness is not a void, but a sanctuary. It is not the absence of light, but the presence of the self. It is yours.
-
-&nbsp;
-
-ad  
-Spain, 2016
-
-[&lt;](/preface/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/introduction/)
-{:.arrow}
 
 
 
