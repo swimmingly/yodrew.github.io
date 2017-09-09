@@ -5,6 +5,7 @@
 // IMPORTS
 //
 
+@import "{{ site.theme }}";
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -287,4 +288,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "{{ site.theme }}";
