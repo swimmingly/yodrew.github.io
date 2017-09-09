@@ -3,4 +3,4 @@ title: acknowledgments
 layout: page
 ---
 
-Content moved to [leanpub](https://leanpub.com/darkroomretreat/read#acknowledgments)
+See this chapter at [leanpub](https://leanpub.com/darkroomretreat/read#acknowledgments).

@@ -3,4 +3,4 @@ title: protocol
 layout: page
 ---
 
-Content moved to [leanpub](https://leanpub.com/darkroomretreat/read#protocol)
+See this chapter at [leanpub](https://leanpub.com/darkroomretreat/read#protocol).

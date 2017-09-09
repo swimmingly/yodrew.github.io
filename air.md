@@ -3,4 +3,4 @@ title: air
 layout: page
 ---
 
-Content moved to [leanpub](https://leanpub.com/darkroomretreat/read#air)
+See this chapter at [leanpub](https://leanpub.com/darkroomretreat/read#air).

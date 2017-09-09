@@ -3,4 +3,4 @@ title: bibliography-influences
 layout: page
 ---
 
-Content moved to [leanpub](https://leanpub.com/darkroomretreat/read#bibliography-influences)
+See this chapter at [leanpub](https://leanpub.com/darkroomretreat/read#bibliography-influences).

@@ -3,4 +3,4 @@ title: darkness
 layout: page
 ---
 
-Content moved to [leanpub](https://leanpub.com/darkroomretreat/read#darkness)
+See this chapter at [leanpub](https://leanpub.com/darkroomretreat/read#darkness).
