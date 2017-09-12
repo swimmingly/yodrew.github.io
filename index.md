@@ -11,7 +11,7 @@ layout: page
 
 ### a complete manual
 
-Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To take refuge from the sensory over-stimulation of civilized existence and recover psychic balance.
+Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance by taking refuge from the sensory over-stimulation of civilized existence.
 
 This seemingly trivial contrast can lead to a remarkable and lasting restoration of your well-being, making the darkroom a powerful tool.
 
