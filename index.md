@@ -26,8 +26,6 @@ Hygiene has long excelled in caring for the self-healing body. With darkness, hy
 [_continue reading online at leanpub_ &gt;](https://leanpub.com/darkroomretreat/read)
 {:#continue}
 
-<a name="ebook"></a>
-
 ## ebook
 
 Download either:
