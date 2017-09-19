@@ -45,7 +45,7 @@ I will soon attempt another 20-day retreat in order to heal from my [psychosis](
 
 Donations: I appreciate them very much. I live simply, so even small amounts help.
 
-PayPal
+PayPal:
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input name="cmd" value="_s-xclick" type="hidden">
 <input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
