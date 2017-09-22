@@ -1,51 +1,65 @@
 ---
-title: a book
+title: darkroom retreat
 layout: page
 ---
 
-<img style="float: right;" src="/img/book-cover.png" label="cover image">
+##### deep rest for the self-healing psyche
+{:#subtitle}
 
-#### by andrew durham <span style="color:purple">(2nd edition)</span>
+<h5>&nbsp; &nbsp; &nbsp; <em>a book</em> by andrew durham <span style="color:purple">(2nd edition)</span></h5>
 
-## blurb
+#### contents
+blurb &nbsp; [dedication](/dedication) &nbsp; [preface](/preface/) &nbsp; [foreword](/foreword/) &nbsp; [introduction](/introduction/)  
+[hygiene](/hygiene/) &nbsp; [format](/format/) &nbsp; [protocol](/protocol/) &nbsp; [prepare](/prepare/) &nbsp; [design](/design/) &nbsp; [make](/make/)  
+[faq](/faq/) &nbsp; [about](/about/)  
 
-### a complete manual
+#### blurb
 
-Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance by taking refuge from the sensory over-stimulation of civilized existence.
+##### a complete manual
+
+Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance, taking refuge from the sensory over-stimulation of civilized existence.
 
 This seemingly trivial contrast can lead to a remarkable and lasting restoration of your well-being, making the darkroom a powerful tool.
 
 The book explains why a retreat works, how to do it, and how to make a darkroom, including detailed instructions to attain these effects in your own home.
 
-### toward a hygienic psychology
+##### toward a hygienic psychology
 
-Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness---and psychology---based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
+Neither disciplined, therapeutic, nor psychedelic, this is the first approach to darkness---and psychology---based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. Hygiene taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
 
-[_continue reading online at leanpub_ &gt;](https://leanpub.com/darkroomretreat/read)
+[_continue reading online_ &gt;](/dedication/)
 {:#continue}
 
-## ebook
+<a name="ebook"></a>
 
-Download either:
+##### ebook
 
-- at [leanpub](https://leanpub.com/darkroomretreat)
-    - it is free/pay what you like
-    - pdf, epub, mobi available
-    - automatic notification of new versions, which are free forever
-    - no spam and your contact info remains hidden, even from me
-- or directly [here](/ebook/). 
+Download _darkroom retreat_ as an ebook at:  
+[Leanpub](https://leanpub.com/darkroomretreat)
 
-## help out
+- download is free/pay what you like
+- filetypes available:
+    - pdf: computer and printing
+    - epub: iOS and Android
+    - mobi: Kindle
+- automatic notification of new versions, which are free forever
+- no spam and your contact info remains hidden, even from me
+
+If you dislike or have trouble with that method, click [here](/ebook/). 
+
+I hope you like the book and find it useful. Please send me any questions, comments, corrections, or suggestions you have about it.
+
+##### help out
 
 See end of [introduction](/introduction) for many ways to participate in and support this work. 
 
-I will soon attempt another 20-day retreat in order to heal from my [psychosis](/darkness-conjecture/psychosis) and accompanying exhaustion-depression. If you would like to help me organize this, please write me.
+I would like to do a 20-day darkroom retreat in order to heal from exhaustion-depression. For this I need help in organizing the retreat in a [fully functional house](/design) in a quiet location in Spain. If you can help me with this somehow, then... thank you. 
 
-Donations: I appreciate them very much. I live simply, so even small amounts help.
+Donations: I appreciate them very much. I live extremely simply, so even small amounts help:
 
-PayPal:
+PayPal (send either euros or your native currency)
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input name="cmd" value="_s-xclick" type="hidden">
 <input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
@@ -53,9 +67,10 @@ PayPal:
 <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
 </form>
 
-Bitcoin: 1PkjaCvr7yuMg2ptQvjaEJd2SYomS6hZXb  
-Ether: 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
-Snailmail, bank transfer, or deposit: email me about how to use these methods. Include your country.
+Bitcoin:
+33jQs98MGqyrJo16H18nSfE18sJ2GCqqQN
+
+Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
 <!-- 
 ![cover image](/img/book/adcf.jpg)
