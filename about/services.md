@@ -1,23 +1,26 @@
-# services {#services}
+---
+title: "services"
+layout: page
+---
 
 I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build. 
 
-## writing {#writing}
+#### writing
 
-- Get my ebook from [____leanpub____](http://leanpub.com/darkroomretreat)
+- Get my ebook from [leanpub](http://leanpub.com/darkroomretreat)
 - Quote and excerpt anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.  
-- Publish me, make money. See [____*license*____](#license)
+- Publish me, make money. See [*license*](/license)
 
 (Free or as you please)
 
-## speaking {#speaking}
+#### speaking
 
 Invite me to edify your audience.
 
 (My minimalist expenses + something that fits your budget.)
 
-## consulting {#consulting}
+#### consulting
 
 Get my advice on darkroom retreating, building darkrooms, and issues arising thereof.
 
@@ -37,15 +40,18 @@ My responses will be based on my experience. Over the past ten years, I have:
 - written 100,000 words about darkroom retreating for web, email, and print
 - given 14 public talks
 
-## design-build {#design-build}
+#### design-build
 
 Have me design and build your darkroom in an existing building or from scratch.
 
 (&euro;15/hr + materials, travel, & shelter)
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/acknowledgments/)&nbsp;&nbsp;&nbsp;[`^`](/about)&nbsp;&nbsp;&nbsp;[&gt;](/license/)
+
+
 <!--
-booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [____license____](http://darkroomretreat.com/about/license/) for an alternative.
+booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/about/license/) for an alternative.
 
 |_Quantity_|_1+_|_4+_|_12+_|_24+_|
 |Europe|&euro;8|&ndash;25%|&ndash;40%|&ndash;60%|
