@@ -47,11 +47,11 @@ Have me design and build your darkroom in an existing building or from scratch.
 (&euro;15/hr + materials, travel, & shelter)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../license/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../license)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](../)
 
 
 <!--
-booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/about/license/) for an alternative.
+booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/about/license) for an alternative.
 
 |_Quantity_|_1+_|_4+_|_12+_|_24+_|
 |Europe|&euro;8|&ndash;25%|&ndash;40%|&ndash;60%|

@@ -9,9 +9,9 @@ layout: page
     - _The Songlines_, Bruce Chatwin
     - _The Continuum Concept_, [Jean Liedloff](http://continuum-concept.org)
     - _Ishmael_, [Daniel Quinn](http://ishmael.org)
-    - _Where White Men Fear to Tread_, [Russel Means](http://www.russellmeansfreedom.com/)
-    - [Prosper Waukon](http://waukonassociates.com/), Winnebago entrepreneur
-    - _Running on Emptiness: The Failure of Civilization_, [John Zerzan](http://www.johnzerzan.net/)
+    - _Where White Men Fear to Tread_, [Russel Means](http://www.russellmeansfreedom.com)
+    - [Prosper Waukon](http://waukonassociates.com), Winnebago entrepreneur
+    - _Running on Emptiness: The Failure of Civilization_, [John Zerzan](http://www.johnzerzan.net)
 - philosophical and spiritual traditions 
     - my parents, John and LouAnn
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor
@@ -41,8 +41,8 @@ layout: page
     - one week at Rainbow National Gathering, Idaho, 2001
     - 60-hour darkroom retreat supported by elder, [Finn Po](http://www.efn.org/~finnpo/info.html), Oregon, 2006
     - 10 days in audience of Advaita grandmaster, [Arnaud Desjardins](http://arnauddesjardinsdvds.com), Montana, 2007
-    - eight seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe/), Oregon, 2008
+    - eight seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe), Oregon, 2008
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - two months of life-altering sex, Sweden, 2012
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../faq/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../faq)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments)
