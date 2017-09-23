@@ -6,9 +6,8 @@ layout: page
 #### by andrew durham <span style="color:purple">(2nd edition)</span>
 
 #### contents
-blurb &nbsp; [dedication](/dedication) &nbsp; [preface](/preface/) &nbsp; [foreword](/foreword/) &nbsp; [introduction](/introduction/)  
-[hygiene](/hygiene/) &nbsp; [format](/format/) &nbsp; [protocol](/protocol/) &nbsp; [prepare](/prepare/) &nbsp; [design](/design/) &nbsp; [make](/make/)  
-[faq](/faq/) &nbsp; [about](/about/)  
+blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword/) &nbsp; [preface](/preface/) &nbsp; [introduction](/introduction/)  
+[hygiene](/hygiene/) &nbsp; [format](/format/) &nbsp; [protocol](/protocol/) &nbsp; [prepare](/prepare/) &nbsp; [design](/design/) &nbsp; [make](/make/) [air](/air/) &nbsp; [darkness](/darkness/) &nbsp; [water](/water/) &nbsp; [appendix–laws of life](/appendix-laws-of-life/) &nbsp; [appendix–pathology](/appendix-pathology/) &nbsp; [faq](/faq/) &nbsp; [about](/about/)  
 
 #### blurb
 
