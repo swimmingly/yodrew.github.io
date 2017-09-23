@@ -58,7 +58,7 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 15. Quiz: Where is a good place to put your attention if you feel crazy or tormented?
 16. Would you like to maintain silence during your retreat?
 17. What fears or concerns do you have that might interfere with your retreat? (fear of the dark, claustrophobia, superstition, etc)? How will you handle them? What support might you need?
-18. Assuming I am correct that practically everyone is [psychotic](/darkness-conjecture/psychosis/) how do you feel darkness might significantly affect you, for better or worse?
+18. Assuming I am correct that practically everyone is [psychotic](/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
 19. Is there anything else you would like to add?
 
 #### menu
@@ -103,5 +103,5 @@ Here is the hygienic food plan:
     - special food (please tell supporter about it)
     - simple exercise equipment for body-weight exercise, eg, yoga mat or push-up handle bars. No free weights or elastic or bowed equipment.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/protocol/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/design/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/protocol)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/design)
 

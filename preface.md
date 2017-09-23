@@ -20,7 +20,7 @@ Hygienic darkroom retreating requires minimal effort and no faith. Darkness is n
 ad  
 Spain, 2017
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/foreword/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/introduction/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/foreword)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/introduction)
 
 
 

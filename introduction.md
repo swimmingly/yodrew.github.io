@@ -131,7 +131,7 @@ How did all this begin?
 
 At age 15, I felt morose and alienated. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this banal advice was like Luke Skywalker's photon torpedo.
 
-In a moment, I was spontaneously overcome by [rapture](/darkness-conjecture/rapture/): sublime joy in perceiving and being part of a perfect, beautiful universe. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. I wanted more than anything to understand the cause of rapture---in order to recover it. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+In a moment, I was spontaneously overcome by [rapture](/darkness-conjecture/rapture): sublime joy in perceiving and being part of a perfect, beautiful universe. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. I wanted more than anything to understand the cause of rapture---in order to recover it. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
@@ -192,17 +192,17 @@ Note: underlined words in paper book are clickable links in the [e-book](/ebook)
 
 Book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read) and my website, [darkroomretreat.com](/). There, you can also read: 
 
-- a series of my retreat [reports](/reports/)
-- [theoretical essays](/darkness-conjecture/) linked to in this booklet
-- elaborative [blog](/blog/) posts
-- related [myths](/other-writings/myths/) and
-- essays, designs, prose, poetry, and lyrics from the [past 25 years](/other-writings/).
+- a series of my retreat [reports](/reports)
+- [theoretical essays](/darkness-conjecture) linked to in this booklet
+- elaborative [blog](/blog) posts
+- related [myths](/other-writings/myths) and
+- essays, designs, prose, poetry, and lyrics from the [past 25 years](/other-writings).
 
 ##### open-source
 
 Thanks for reading. Please copy and give out this free book as much as you please. See [*license*](/license) for more options.
 
-If you have comments or corrections, email me or [open an issue](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [Learn](http://rogerdudler.github.io/git-guide/) distributed version control.
+If you have comments or corrections, email me or [open an issue](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [Learn](http://rogerdudler.github.io/git-guide) distributed version control.
 
 If you find a theoretical or practical error in the approach or a way to improve it, please let me know. I am happy to alter the book if your proposal:
 
@@ -240,4 +240,4 @@ Thanks for reading and best wishes.
 
 Now on to the life-restoring perspective of hygiene and how darkness completes it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/preface/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/hygiene/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/preface)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/hygiene)

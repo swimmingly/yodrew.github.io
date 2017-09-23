@@ -350,7 +350,7 @@ Denial is not a moral failure. It is unconscious success. Trauma of such devasta
 
 In darkness, denial begins to lift and traumatic events are remembered or acknowledged. Frozen feelings resurface, along with the general capacity for feeling. Insight comes. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
-Gaining confidence in this capacity can take time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [reports](/reports/), I have recorded my experiences in darkness of beginning to heal from deep trauma.
+Gaining confidence in this capacity can take time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [reports](/reports), I have recorded my experiences in darkness of beginning to heal from deep trauma.
 
 What trauma? I mean the routine brutality of our lifeway, which touches virtually everyone from before birth. I mean not just the bad things we condemn, but common atrocities we mistakenly accept. I mean offenses to nature, as if it hadn't already worked out every detail of a happy existence from the beginning of time. 
 
@@ -437,7 +437,7 @@ Yes, they suffered a similar trauma from their parents, rendering them incapable
 
 But each of us exists on many levels, not just such grand ones. On a simpler level, our parents remain responsible for what they have done and not done with us.
 
-So how did trauma begin? Sane people do not routinely hurt their children. Humanity was fine at some point. So the trauma had to originate externally. I don't know exactly what, but I guess a natural super-[catastrophe](/darkness-conjecture/catastrophe/) in our distant past did it. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. Maybe we are the butt of an accidental cosmic joke.
+So how did trauma begin? Sane people do not routinely hurt their children. Humanity was fine at some point. So the trauma had to originate externally. I don't know exactly what, but I guess a natural super-[catastrophe](/darkness-conjecture/catastrophe) in our distant past did it. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. Maybe we are the butt of an accidental cosmic joke.
 
 If so, then our wars, big and small, are pointless. No one started it. Everybody is innocent. So everybody is free to heal. 
 
@@ -470,7 +470,7 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its consequences. As with the rest of Natural Hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed.
 
-The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [hygiene notes](/darkness-conjecture/hygiene-notes/).
+The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [hygiene notes](/darkness-conjecture/hygiene-notes).
 
 I am only saying enough here to give you a theoretical basis for doing hygienic darkroom retreats. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*The Science and Fine Art of Natural Hygiene*](https://darkroomretreat.com/nhs.pdf).
 
@@ -487,4 +487,4 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
 [^10]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/introduction/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/format/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/format)

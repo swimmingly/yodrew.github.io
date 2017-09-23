@@ -75,4 +75,4 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
     
     Naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/bibliography-influences/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/appendix-pathology)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/about/bibliography-influences)

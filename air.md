@@ -190,7 +190,7 @@ The four principles of soundproofing are clear and widely understood:
 3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
 4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration from source to receiver
 
-[Soundproofing tutorials](http://www.soundproofingcompany.com/soundproofing101/) abound online. 
+[Soundproofing tutorials](http://www.soundproofingcompany.com/soundproofing101) abound online. 
 
 These principles apply to ventilation as well. Dampening and decoupling figure in fan mounting, and mass and absorption in silencer design. The silencer eliminates most noise, including from the fan.
 
@@ -310,4 +310,4 @@ It would be nice to have cheap, silent fans for this: a large, low RPM [homemade
 
 That's it for ventilation, silence, power, and heat. On to lightproofing doors and windows.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/make/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/darkness/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/make)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/darkness)

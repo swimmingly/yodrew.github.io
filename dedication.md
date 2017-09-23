@@ -15,6 +15,6 @@ are so heavily visited
 these decades of hard time.
 {:#dedication}
 
-&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/preface/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/foreword)
 {:.arrow}
 

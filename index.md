@@ -6,8 +6,8 @@ layout: page
 #### by andrew durham <span style="color:purple">(2nd edition)</span>
 
 #### contents
-blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword/) &nbsp; [preface](/preface/) &nbsp; [introduction](/introduction/)  
-[hygiene](/hygiene/) &nbsp; [format](/format/) &nbsp; [protocol](/protocol/) &nbsp; [prepare](/prepare/) &nbsp; [design](/design/) &nbsp; [make](/make/) [air](/air/) &nbsp; [darkness](/darkness/) &nbsp; [water](/water/) &nbsp; [appendix–laws of life](/appendix-laws-of-life/) &nbsp; [appendix–pathology](/appendix-pathology/) &nbsp; [faq](/faq/) &nbsp; [about](/about/)  
+blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [preface](/preface) &nbsp; [introduction](/introduction)  
+[hygiene](/hygiene) &nbsp; [format](/format) &nbsp; [protocol](/protocol) &nbsp; [prepare](/prepare) &nbsp; [design](/design) &nbsp; [make](/make) [air](/air) &nbsp; [darkness](/darkness) &nbsp; [water](/water) &nbsp; [appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)  
 
 #### blurb
 
@@ -25,7 +25,7 @@ Neither spiritual, therapeutic, nor psychedelic, this is the first approach to d
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
 {:#continue}
 
 <a name="ebook"></a>
@@ -67,16 +67,16 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 
 - **contents**
 - [dedication](/dedication)
-- [preface](/preface/)
-- [introduction](/introduction/)
-- [hygiene](/hygiene/)
-- [format](/format/)
-- [protocol](/protocol/)
-- [prepare](/prepare/)
-- [design](/design/)
-- [make](/make/)
-- [faq](/faq/)
-- [about](/about/)
+- [preface](/preface)
+- [introduction](/introduction)
+- [hygiene](/hygiene)
+- [format](/format)
+- [protocol](/protocol)
+- [prepare](/prepare)
+- [design](/design)
+- [make](/make)
+- [faq](/faq)
+- [about](/about)
 {:.submenu}
 -->
 
@@ -122,3 +122,4 @@ Quantity/price (postpaid)
 </form>
 
 Delivery in US - _Coming Soon_ --> 
+

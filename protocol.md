@@ -191,7 +191,7 @@ In a retreat, focus on darkness like this for just 5-10 minutes, concentrating o
 - if you usually talk to yourself, catch yourself and stop
 - at first, my clients and I felt like leaving the facility quickly upon exiting the darkroom and throwing ourselves back into ordinary life. This was due to an unaccustomed increase in energy level and well-being. We had a sharpened sense of anticipation about our lives, feeling more in our bodies and ready to conquer the world. But rather than immediately re-enter regular life and probably end up blowing off this extra energy, it is better to recirculate it, absorb it, stabilize it. 
 
-    So now the retreat continues after darkness with windows uncovered and doors opened during the day one day for every 2-3 darkened days. This gives time to re-orient to light and gravity. Take a walk, look at nature, and reflect on what has happened. See [*format*](/format) and, in my blog, [post-retreat protocol](/blog/2012/12/post-retreat-protocol/) for more about this.
+    So now the retreat continues after darkness with windows uncovered and doors opened during the day one day for every 2-3 darkened days. This gives time to re-orient to light and gravity. Take a walk, look at nature, and reflect on what has happened. See [*format*](/format) and, in my blog, [post-retreat protocol](/blog/2012/12/post-retreat-protocol) for more about this.
 
 ##### time
 
@@ -283,7 +283,7 @@ Regarding some aspects of our own lives, we all know better. I mean things we th
 
 Darkroom retreating provides the conditions in which the organism restore one's capacity for both self-care and its benefits. This is recapacitation. The intensity of a retreat mostly fades, but restored capacity remains. A broken leg, once healed, doesn't spontaneously become broken again.
 
-The full application of the [**idea**](/darkness-conjecture/) behind hygienic darkroom retreating consists of **doing retreats of increasing length alternated with periods of radical lifeway change until health is fully restored.** "Health through healthful living," as we hygienists like to say.
+The full application of the [**idea**](/darkness-conjecture) behind hygienic darkroom retreating consists of **doing retreats of increasing length alternated with periods of radical lifeway change until health is fully restored.** "Health through healthful living," as we hygienists like to say.
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 
@@ -297,4 +297,4 @@ Your non-expert, non-mind-reading, non-therapist supporter (if you have one) wil
 
 On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/format/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/prepare/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/format)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/prepare)

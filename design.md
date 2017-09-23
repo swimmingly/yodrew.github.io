@@ -137,7 +137,7 @@ Others inevitably make noise. Even if not, you will know someone is there, able 
 
 A clear exception is if you are a parent of a child who still needs your presence. The child can be with you in darkness as long as you both like. I have never facilitated such a retreat, but I definitely would. Nothing is more important to sanity, happiness, and avoidance of retraumatization of new generations than [filial attachment](http://continuum-concept.org). If you find your capacity for attachment wanting, you can now recover it.
 
-The weirdest thing that happened to me with regards to noise from other people was in an apartment building in [December 2011](/reports/5-day-retreat/). I kept waking up exhausted from hundreds of short, meaningless dreams. After days of this, I realized in a fury that I was dreaming the mind chatter of others in the building. I stopped the retreat. I'm rarely "psychic"; this never happened to me before. But I am a canary in a coalmine. When something goes wrong, I notice.
+The weirdest thing that happened to me with regards to noise from other people was in an apartment building in [December 2011](/reports/5-day-retreat). I kept waking up exhausted from hundreds of short, meaningless dreams. After days of this, I realized in a fury that I was dreaming the mind chatter of others in the building. I stopped the retreat. I'm rarely "psychic"; this never happened to me before. But I am a canary in a coalmine. When something goes wrong, I notice.
 
 Yet two years later, in December, 2013, I successfully retreated in another apartment building. I believe this was due to two factors: my being less fragile than before; and the strong, benevolent psychic presence of my sympathetic, wise older host, who stayed in the apartment like a guardian while I retreated. I was very lucky.
 
@@ -175,11 +175,11 @@ So rectilinear buildings are not just fine, but perfectly suitable for short ret
 
 A good building for the long-term is curved, round, or has five or more sides of equal length joined at equal angles. Rectangular walls are fine. So are right angles where floors meet walls. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 
-Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writings/links/) are available for new buildings. It turns out that orthogonal construction is not simpler or easier. It's merely a frame of mind.
+Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writings/links) are available for new buildings. It turns out that orthogonal construction is not simpler or easier. It's merely a frame of mind.
 
 ~~
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/prepare/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/make/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/prepare)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/make)
 
