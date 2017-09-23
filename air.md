@@ -87,14 +87,20 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### helix vent
 
-![photo: helix vent, complete](images/helix-vent-complete.jpg)  
-![photo: helix vent core, exploded](images/helix-vent-core-exploded.jpg)
+![photo: helix vent, complete](img/photo/helix-vent-complete.jpg)  
+![photo: helix vent, complete](img/photo/helix-vent-complete.jpg)  
+\(images([^jpg])jpg,\(img/photo$1
 
-[![plan: helix vent, assembly](images/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
-[![plan: helix vent, channels](images/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
-[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)  
-[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
-[![plan: helix vent, shell](images/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
+![photo: helix vent core, exploded](img/photo/helix-vent-core-exploded.jpg)
+
+[![plan: helix vent, assembly](img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
+[![plan: helix vent, assembly](img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
+
+
+[![plan: helix vent, channels](img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
+[![plan: helix vent, inner wall](img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)  
+[![plan: helix vent, outer wall](img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
+[![plan: helix vent, shell](img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -155,8 +161,8 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [removable partition](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](images/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)  
-[![plan: threshold vent](images/threshold-vent.png)](/img/plan/threshold-vent.pdf)
+[![plan: threshold vent perspective](img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)  
+[![plan: threshold vent](img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
 
 1. materials
     - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
@@ -214,7 +220,7 @@ In the past year, I built two box silencers into window openings. They were simp
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
-[![plan: silencer](images/silencer.png)](/img/plan/silencer.pdf)
+[![plan: silencer](img/plan/image/silencer.png)](/img/plan/silencer.pdf)
 
 The plan is straightforward. It is just a wooden box with two internal half walls. The resulting channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a rectangle for a doubled helix vent, or a slot in end for helix vent. The fan mount is adaptable to all 4 locations.
 
@@ -245,7 +251,7 @@ More about an ideal fan in [heat > fan-tasy](#fan-tasy), below.
 
 ###### fan mount
 
-[![plan: fan mount](images/fan-mount.png)](/img/plan/fan-mount.pdf)  
+[![plan: fan mount](img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)  
 
 This mount greatly dampens vibration from the fan. The silencer can then absorb the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
