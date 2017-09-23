@@ -7,7 +7,7 @@ layout: page
 
 [bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [license](./license/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [services](./services)
 
-Welcome. This website contains my book, <em>dhygienic arkroom retreat</em>, related writings, and a blog.
+Welcome. This website contains my book, <em>hygienic arkroom retreat</em>, related writings, and a blog.
 
 #### bio
 
@@ -63,7 +63,7 @@ Two years of work on new edition of book finally finished!
 #### site powered by [jekyll](https://jekyllrb.com) static site generator, free hosting at [github](https://github.com)
 
 
-[&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences/)
+&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences/)
 {:.arrow}
 
 <!--
