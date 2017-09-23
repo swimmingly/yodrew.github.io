@@ -7,7 +7,7 @@ layout: page
 
 [bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [license](./license/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [services](./services)
 
-Welcome. This website contains my book, <em>darkroom retreat</em>, related writings, and a blog.
+Welcome. This website contains my book, <em>dhygienic arkroom retreat</em>, related writings, and a blog.
 
 #### bio
 
@@ -22,9 +22,27 @@ email: info {at} andrewdurham.com
 voicemail: 541.210.8470 (in US)  
 Read [services](./services) beforehand
 
-#### site update log
+#### site update logs
 
+2017
+
+September 23
+
+- Site content updated to match book. 
+- Dozens of spelling and grammatical errors and typos corrected with help of editor and spell-checker.
+- book edited in minor ways througout, especially:
+    - hygiene: [false capacity](/hygiene#false-capacity) added
+    - format: 8-day retreat more strongly recommended, [warning](/format#warning) section aded
+    - design: reorganized
+    - make: split into four chapters: [make](/make), [air](/air), [darkness](/darkness), [water](/water)
+    - air: added critical designs for silencer and fan mount
+    - faq: demoted from chapterhood and placed after appendices 
+    
 2016 
+
+November
+
+Site moved to github and converted to jekyll static site generator (from nanoc after 3 years with it)
 
 April 17
 
@@ -42,7 +60,7 @@ Two years of work on new edition of book finally finished!
     - make: 19 new CADD-generated designs for vents, blinds, sleeping mask + color photos of some prototypes
     - new appendices of hygiene's pathology and laws of life
 
-#### site powered by [nanoc](http://nanoc.ws) static site generator
+#### site powered by [jekyll](https://jekyllrb.com) static site generator, free hosting at [github](https://github.com)
 
 
 [&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences/)
