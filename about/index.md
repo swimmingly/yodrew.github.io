@@ -7,7 +7,7 @@ layout: page
 
 [bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [license](./license/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [services](./services)
 
-Welcome. This website contains my book, <em>hygienic arkroom retreat</em>, related writings, and a blog.
+Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.
 
 #### bio
 
@@ -17,7 +17,7 @@ In 2008, my quest culminated in _the darkness conjecture_, a concept of the rest
 
 #### contact
 
-website: [andrewdurham.com](/) (for now, darkroomretreat.com redirects here)  
+website: [darkroomretreat.com](/) (for now, andrewdurham.com redirects here)  
 email: info {at} andrewdurham.com  
 voicemail: 541.210.8470 (in US)  
 Read [services](./services) beforehand
