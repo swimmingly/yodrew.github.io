@@ -6,5 +6,5 @@ layout: page
 
 This work is not intended as medical advice. The responsibility for the consequences of your taking any action described herein lies not with the author, publisher, or distributors. 
 
-[&lt;](../license/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../services)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../acknowledgments/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../license)
 {:.arrow}

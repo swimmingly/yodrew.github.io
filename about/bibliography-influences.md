@@ -1,8 +1,7 @@
 ---
-title: bibliography and influences
+title: "bibliography and influences"
 layout: page
 ---
-{:.entry}
 
 - indigeny vs industry 
     - Jim Woods at Herrett Museum, Twin Falls
@@ -23,7 +22,7 @@ layout: page
 - health
     - my parents
     - initiated into Natural Hygiene by [Frederic Patenaude](http://fredericpatenaude.com)
-    -  [_The Science and Fine Art of Natural Hygiene_](https://www.dropbox.com/sh/5asoextbr2sa7hv/tx-W0bDql7), Herbert Shelton
+    -  [The Science and Fine Art of Natural Hygiene](https://www.dropbox.com/sh/5asoextbr2sa7hv/tx-W0bDql7), Herbert Shelton
     - _The 80/10/10 Diet_, [Dr Douglas Graham](http://foodnsport.com)
     - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, A. Sterling Voss, for finding this rare work)
 - design and art 
@@ -46,8 +45,4 @@ layout: page
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - two months of life-altering sex, Sweden, 2012
 
-[&lt;](../)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments/)
-{:.arrow}
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../faq/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments/)

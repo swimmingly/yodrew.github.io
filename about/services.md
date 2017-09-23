@@ -1,5 +1,5 @@
 ---
-title: services
+title: "services"
 layout: page
 ---
 
@@ -7,10 +7,10 @@ I do everything related to hygienic darkroom retreating: study, experiment, writ
 
 #### writing
 
-- Get my ebook from [leanpub](http://leanpub.com/darkroom-retreat-hygiene)
+- Get my ebook from [leanpub](http://leanpub.com/darkroomretreat)
 - Quote and excerpt anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.  
-- Publish me, make money. See [license](/license)
+- Publish me, make money. See [*license*](/license)
 
 (Free or as you please)
 
@@ -24,7 +24,7 @@ Invite me to edify your audience.
 
 Get my advice on darkroom retreating, building darkrooms, and issues arising thereof.
 
-(<span class="euro">&euro;</span>15/hr. First couple emails are free if you have read my book.)
+(&euro;15/hr. First couple emails are free if you have read my book.)
 
 I will respond in detail, by email or skype, to all your questions and concerns about:
 
@@ -40,20 +40,21 @@ My responses will be based on my experience. Over the past ten years, I have:
 - written 100,000 words about darkroom retreating for web, email, and print
 - given 14 public talks
 
-#### design and build
+#### design-build
 
 Have me design and build your darkroom in an existing building or from scratch.
 
-(<span class="euro">&euro;</span>15/hr + materials, travel, & shelter)
+(&euro;15/hr + materials, travel, & shelter)
 
-[&lt;](../disclaimer/)&nbsp;&nbsp;&nbsp;[`^`](../)
-{:.arrow}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../license/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../)
+
 
 <!--
 booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/about/license/) for an alternative.
 
 |_Quantity_|_1+_|_4+_|_12+_|_24+_|
-|Europe|<span class="euro">&euro;</span>8|&ndash;25%|&ndash;40%|&ndash;60%|
+|Europe|&euro;8|&ndash;25%|&ndash;40%|&ndash;60%|
 |US|soon!|
 {:#tableprice}
 -->
