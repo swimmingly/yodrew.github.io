@@ -46,9 +46,9 @@ The book explains why a retreat works, how to do it, and how to make a darkroom,
 
 ##### toward a hygienic psychology
 
-Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness—and psychology—based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
+Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness—and psychology—based on hygiene. Not just cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
-Hygiene has long excelled other methods in caring for the self-healing body. With darkness, hygiene now does the same for the self-healing soul.
+Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now does the same for the self-healing soul.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
 {:#continue}
@@ -68,9 +68,9 @@ Download either:
 
 #### help out
 
-See end of [introduction](/introduction#help) for many ways to participate in and support hygienic darkroom retreating.
+See [introduction > help](/introduction#help) for many ways to participate in and support hygienic darkroom retreating.
 
-I will soon attempt another 20-day retreat in order to heal from my psychosis and accompanying exhaustion-depression. If you would like to help me organize this, please write me.
+I will soon attempt another 20-day retreat in order to heal from my psychosis and accompanying exhaustion-depression. If you would like to help me organize this, please [write me](/about).
 
 Donations: I appreciate them very much. I live simply, so even small amounts help.
 
