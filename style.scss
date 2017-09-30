@@ -24,7 +24,7 @@ body
 .container
   {
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 790px;
   padding: 0 10px;
   width: 100%;
   }
@@ -34,7 +34,10 @@ body
   float: right;
   margin: 10px;
   list-style-type: none;
-  color: $blue2;
+  a
+    {
+    color: $blue2;
+    }
   }
 
 h1, h2, h3, h4, h5, h6
@@ -86,7 +89,7 @@ a
   {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active
     {
     color: $blue;
@@ -321,4 +324,4 @@ footer
 
 // import of syntax highlighting, less bloat at top, easier to find start
 // @import "highlights";
-// @import "svg-icons";
+// @import "svg-icons"
