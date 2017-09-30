@@ -82,12 +82,12 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
 </form>
 - Bitcoin:  
-33jQs98MGqyrJo16H18nSfE18sJ2GCqqQN
+1CFdob7YqaF1wj6ForPpCzYF5JvakStdzx
 - Ether:  
 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
-<p style="text-align: center;padding-top: 60px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
+<p style="text-align: center;margin-top: 60px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
 
 <!-- 
 [![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
