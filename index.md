@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-- <span style="font-size: 20px;font-weight: bold">contents&nbsp; <span style="color: purple;font-style: italic">2nd edition</span>
+- <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">2nd edition</span>
 - [dedication](/dedication)
 - [foreword](/foreword)
 - [preface](/preface)
