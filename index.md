@@ -34,16 +34,16 @@ Hygiene has long excelled in caring for the self-healing body. With darkness, hy
 
 Download either:
 
-- at leanpub
-    - it is free/pay what you like
+- at [leanpub](https://leanpub.com/darkroomretreat)
+    - free/pay what you like
     - pdf, epub, mobi available
     - automatic notification of new versions, which are free forever
     - no spam and your contact info remains hidden, even from me
-- or directly here.
+- or directly [here](/ebook)
 
 #### help out
 
-See end of [introduction](/introduction#help) for many ways to participate in and support this work... stoppage.
+See end of [introduction](/introduction#help) for many ways to participate in and support hygienic darkroom retreating.
 
 I will soon attempt another 20-day retreat in order to heal from my psychosis and accompanying exhaustion-depression. If you would like to help me organize this, please write me.
 
