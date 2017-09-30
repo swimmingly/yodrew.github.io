@@ -48,7 +48,7 @@ The book explains why a retreat works, how to do it, and how to make a darkroom,
 
 Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness—and psychology—based on hygiene. Not just cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
-Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now does the same for the self-healing soul.
+Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene can care equally well for the self-healing soul.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
 {:#continue}
@@ -61,7 +61,7 @@ Download either:
 
 - at [leanpub](https://leanpub.com/darkroomretreat)
     - free/pay what you like
-    - pdf, epub, mobi available
+    - pdf, epub, mobi
     - automatic notification of new versions, which are free forever
     - no spam and your contact info remains hidden, even from me
 - or directly [here](/ebook)

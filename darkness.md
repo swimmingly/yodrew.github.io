@@ -4,7 +4,7 @@ layout: page
 permalink: /darkness
 ---
 
-There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. Because there is a thousand-percent difference between 99.99% and 100% dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
+There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million-percent difference between 99% and 100% dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
 
 Though often easier to deal with than ventilation, light is relentless. It sneaks sideways through a single layer of clear plastic tape; through heavy fabric; around multiple, darkened corners; and at joints and edges of everything. After suffering many defeats at its hands, I have developed equally formidable means of eliminating it. I will now bestow them upon you so that you, too, can become a Conan the Barbarian of lightproofing.
 
@@ -178,9 +178,12 @@ Now for a quick lesson on window types and anatomy.
 
 ##### roller blind
 
-![photo: roller blind, closed](img/photo/roller-blind-closed.jpg)  
-![photo: roller blind, panel and joint](img/photo/roller-blind-panel&joint.jpg)  
-![photo: roller blind, frame and parts](img/photo/roller-blind-frame&parts.jpg)  
+![photo: roller blind, closed](img/photo/roller-blind-closed.jpg)
+
+![photo: roller blind, panel and joint](img/photo/roller-blind-panel&joint.jpg)
+
+![photo: roller blind, frame and parts](img/photo/roller-blind-frame&parts.jpg)
+
 ![photo: roller blind, rail section](img/photo/roller-blind-rail-section.jpg)
 
 - the blind mounts on wall. The design can be adapted to mount on the ceiling or top-sill. If you need this, DIY or write me.
