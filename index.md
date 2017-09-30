@@ -3,7 +3,7 @@ title: a book
 layout: page
 ---
 
-<img style="float: right;" src="/img/book-cover.png" label="cover image" width="80%">
+<img style="float: right;" src="/img/book-cover.png" label="cover image" width="40%">
 
 #### by andrew durham <span style="color:purple">(2nd edition)</span>
 
