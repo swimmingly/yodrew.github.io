@@ -25,8 +25,8 @@ body
   {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 40px;
-  width: 95%;
+  padding: 0 20px;
+  width: 100%;
   }
 
 h1, h2, h3, h4, h5, h6
@@ -175,12 +175,11 @@ img
   {
 	float: right;
 	width: 220px;
-	padding: 10px 20px 0px 30px;
   }
 
 .masthead
   {
-  padding: 20px 0;
+  padding: 10px 0;
   @include mobile
     {
     text-align: center;
@@ -223,7 +222,7 @@ img
 
 nav
   {
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 20px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -237,9 +236,7 @@ nav
 
   a
     {
-    margin-left: 20px;
     color: $gray;
-    text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
     @include mobile
