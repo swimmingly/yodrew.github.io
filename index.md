@@ -61,6 +61,7 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
 <a href="https://leanpub.com/darkroomretreat"><img style="float: right;" src="/img/book-cover.png" label="cover image" width="35%" padding="10px" title="buy now"></a>
+
 <!-- 
 ![cover image](/img/book/adcf.jpg)
 

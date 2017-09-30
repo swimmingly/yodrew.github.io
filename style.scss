@@ -219,6 +219,17 @@ img
     }
   }
 
+.site-author
+  {
+  color: $gray;
+  font-size: 16px;
+  font-style: italic;
+  @include mobile
+    {
+    margin: 3px 0;
+    }
+  }
+
 nav
   {
   margin-top: 20px; // @TODO: Vertically middle align
