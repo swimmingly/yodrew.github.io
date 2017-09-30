@@ -92,9 +92,6 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 <!-- 
 [![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
 
--->
-
-<!-- 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -112,9 +109,9 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-- [Dwolla]() (US only) -->
+- [Dwolla]() (US only)
 
-<!-- <h4 id="booklet">buy book</h4>
+<h4 id="booklet">buy book</h4>
 
 108 pages, softcover
 Quantity/price (postpaid)
