@@ -1,5 +1,5 @@
 ---
-title: "8 - darkness"
+title: "8&nbsp; darkness"
 layout: page
 permalink: /darkness
 ---

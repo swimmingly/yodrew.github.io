@@ -1,5 +1,5 @@
 ---
-title: "6 - make"
+title: "6&nbsp; make"
 layout: page
 permalink: /make
 ---
@@ -15,13 +15,13 @@ A darkroom is normal, not exceptional. It a real thing you see and touch, make, 
 
 These are normal human activities everyone can do to some degree and get help with the rest. You can walk down stairs without falling, hit a plate when you aim food at it, cognize sentences, tell light from dark, and feel a breeze. So you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
-I suggest you read the prose introductions to each section now and save the lists of instructions for when it comes time to build. The instructions make dense reading. Eventually, I'd like to replace them with graphical assembly instructions like IKEA's. For now, slog through with me. It's worth it.
+I suggest you read the prose introductions to each section now and save the lists of instructions for when it comes time to build. The instructions make dense reading. Eventually, I'll replace them with graphical assembly instructions like IKEA's. For now, slog through with me.
 
 All components refer to the following basic instruction sections: the **metric system**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
-**7** - air  
-**8** - darkness  
-**9** - water  
+[7&nbsp; air](/air)  
+[8&nbsp; darkness](/darkness)  
+[9&nbsp; water](/water)  
 
 After improvising darkness to sleep in [*tonight*](/format#tonight), the [*instant sleeping mask*](/darkness#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
 

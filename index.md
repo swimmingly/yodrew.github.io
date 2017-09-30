@@ -3,7 +3,8 @@ title:
 layout: page
 ---
 
-- **book contents** <span style="color:purple" font-weight="bold">(2nd edition)</span>
+- **book contents** 
+- <span style="color:purple">(2nd edition)</span>
 - [dedication](/dedication)
 - [foreword](/foreword)
 - [preface](/preface)
@@ -17,8 +18,15 @@ layout: page
 - [7&nbsp; air](/air)
 - [8&nbsp; darkness](/darkness)
 - [9&nbsp; water](/water)
+- [appendix–laws of life](/appendix-laws-of-life)
+- [appendix–pathology](/appendix-pathology)
 - [faq](/faq)
-- [about](/about)
+- [bibliography-influences](/about/bibliography-influences)
+- [acknowledgments](/about/acknowledgments)
+- [license](/about/license)
+- [disclaimer](/about/disclaimer)
+- [services](/about/services)
+- [bio-contact]/about
 {:.submenu}
 
 <!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>

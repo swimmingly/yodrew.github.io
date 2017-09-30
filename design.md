@@ -1,5 +1,5 @@
 ---
-title: "5 - design"
+title: "5&nbsp; design"
 layout: page
 permalink: /design
 ---

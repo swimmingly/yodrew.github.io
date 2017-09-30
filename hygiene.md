@@ -1,5 +1,5 @@
 ---
-title: "1 - hygiene"
+title: "1&nbsp; hygiene"
 layout: page
 permalink: /hygiene
 ---
@@ -52,9 +52,9 @@ Profound rest means extended retreat lasting days, weeks, even months. It is for
 
 Hygiene originated in America a generation after the Revolution, in the Age of Enlightenment. With the lectures of Sylvester Graham, physiologist and namesake of Graham (whole) flour, hygiene became a mass movement in 1832. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. Mary Gove helped bring hygiene to women of the 19th century, whose increasing independence it matched. Florence Nightingale transmitted its rudiments internationally through nursing (before medicine co-opted nursing). John Tilden innovated and buoyed hygiene after the untimely death of Trall. Herbert Shelton revived and systematized it for the 20th century. He formalized it as "Natural Hygiene" to strike the imagination and distinguish it from narrow medical usage.
 
-Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for the huge improvements to public health it led to. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
+Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health of the 19th century. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
 
-Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
+Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that regular bathing, pure water, nutritious food, and regular. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
 
 ##### laws
 

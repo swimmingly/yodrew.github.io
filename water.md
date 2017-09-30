@@ -1,5 +1,5 @@
 ---
-title: "9 - water"
+title: "9&nbsp; water"
 layout: page
 permalink: /water
 ---
@@ -107,7 +107,7 @@ It's a simple shower which collapses for storage, requiring no pipes and little 
 - curtain rod (circular, 120cm diameter, made of 30mm OD, black poly pipe, dowel inside ends for smooth joint)
 - curtain (polyester, with 15cm sleeve for rod (as shown) or grommets and rings, 5cm bottom hem with small river rocks inside to weigh it down)
 - **x**=holes in curtain for cords to tie around curtain rod
-- large tub (90L+, from garden supply store, catches everything at the bottom). Could also be a large, deep tray or pan
+- large tub (90L+, from garden supply store, catches everything at the bottom. Could also be a large, deep tray or pan.)
 
 Solar water heating method: use clear 4-8L drinking water bottles with rectangles of black plastic sheeting inside to act as elements. Have supporter give it to you when hot. Or, with dark clothing and sleeping mask on tight, grab it from a sunny spot.
 
@@ -119,7 +119,7 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [*introduction > open-source*](/introduction#open-source).
 
-Thank you for reading my book. I hope it helps you feel joy.
+That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/darkness)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/appendix-laws-of-life)

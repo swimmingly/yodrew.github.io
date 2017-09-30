@@ -1,5 +1,5 @@
 ---
-title: "2 - format"
+title: "2&nbsp; format"
 layout: page
 permalink: /format
 ---
