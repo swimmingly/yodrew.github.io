@@ -7,13 +7,15 @@ permalink: /make
 > "The time for half-measures and talk is over."  
 --Maximus in _Gladiator_
 
-Whatever interest this book's ideas may have, 99% of its value lies in actually using a darkroom. Since darkrooms are uncommon, these last 4 chapters explain how to build them. This includes detailed plans and instructions for components: vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost and work off-grid.
+&nbsp;
 
-A darkroom is normal, not exceptional. It a real thing you see and touch, make, use, and show others, not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, construction, testing, and improvement. 
+The ideas in this book can bring relief and hope. But 99% of their value lies in applying them. This requires a darkroom. Since darkrooms are uncommon, these last 4 chapters explain how to build them inside existing buildings yourself. The chapters includes detailed plans and instructions for components: vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost and work off-grid.
+
+A darkroom is normal, not exceptional. It a real thing you see and touch, make, use, and show others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, construction, testing, and improvement. 
 
 These are normal human activities everyone can do to some degree and get help with the rest. You can walk down stairs without falling, hit a plate when you aim food at it, cognize sentences, tell light from dark, and feel a breeze. So you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
-I suggest you read the prose introductions to each section now and the lists of instructions when it comes time to build. Frankly, the instructions can make for tough reading. Eventually, I'd like to replace the verbal lists with graphical assembly instructions like IKEA's. For now, slog through with me. It's more than worth it.
+I suggest you read the prose introductions to each section now and save the lists of instructions for when it comes time to build. The instructions make dense reading. Eventually, I'd like to replace them with graphical assembly instructions like IKEA's. For now, slog through with me. It's worth it.
 
 All components refer to the following basic instruction sections: the **metric system**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
