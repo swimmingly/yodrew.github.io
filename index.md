@@ -1,29 +1,31 @@
 ---
-title: a book
+title: hygienic darkroom retreating
 layout: page
 ---
 
-#### by andrew durham <span style="color:purple">(2nd edition)</span>
+##### profound rest for the self-healing psyche
 
-#### contents
+<img style="float: right;" src="/img/book-cover.png" label="cover image" width="35%" padding="10px">
+
+##### a book by andrew durham
+
+#### contents &nbsp; <span style="color:purple">(2nd edition)</span>  
+
 blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [preface](/preface) &nbsp; [introduction](/introduction)  
 [1 hygiene](/hygiene) &nbsp; [2 format](/format) &nbsp; [3 protocol](/protocol) &nbsp; [4 prepare](/prepare) &nbsp; [5 design](/design) &nbsp; [6 make](/make) [7 air](/air) &nbsp; [8 darkness](/darkness) &nbsp; [9 water](/water)  
 [appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)
 
-<img style="float: right;" src="/img/book-cover.png" label="cover image" width="30%">
 
 #### blurb
 
-##### a complete manual
-
+**a complete manual**  
 Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance by taking refuge from the sensory over-stimulation of civilized existence.
 
 This seemingly trivial contrast can lead to a remarkable and lasting restoration of your well-being, making the darkroom a powerful tool.
 
 The book explains why a retreat works, how to do it, and how to make a darkroom, including detailed instructions to attain these effects in your own home.
 
-##### toward a hygienic psychology
-
+**toward a hygienic psychology**  
 Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness—and psychology—based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
 Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
