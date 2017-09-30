@@ -20,12 +20,12 @@ layout: page
 - [appendix–laws of life](/appendix-laws-of-life)
 - [appendix–pathology](/appendix-pathology)
 - [faq](/faq)
-- [bibliography-influences](/about/bibliography-influences)
+- [bibliography/influences](/about/bibliography-influences)
 - [acknowledgments](/about/acknowledgments)
 - [license](/about/license)
 - [disclaimer](/about/disclaimer)
 - [services](/about/services)
-- [bio, contact](/about)
+- [bio/contact](/about)
 {:.submenu}
 
 <!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
@@ -89,7 +89,7 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
-<p style="text-align: center"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" padding="40px" title="buy now"></a>
+<p style="text-align: center;padding:40px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
 
 <!-- 
 [![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
