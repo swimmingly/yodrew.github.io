@@ -5,10 +5,10 @@ layout: page
 
 <img style="float: right;" src="/img/book-cover.png" label="cover image" width="35%" padding="10px">
 
-#### contents &nbsp; <span style="color:purple">(2nd edition)</span>  
-
+<span style="color:purple" font-weight="bold">(2nd edition)</span>  
 blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [preface](/preface) &nbsp; [introduction](/introduction)  
-[1 hygiene](/hygiene) &nbsp; [2 format](/format) &nbsp; [3 protocol](/protocol) &nbsp; [4 prepare](/prepare) &nbsp; [5 design](/design) &nbsp; [6 make](/make) [7 air](/air) &nbsp; [8 darkness](/darkness) &nbsp; [9 water](/water)  
+[1 hygiene](/hygiene) &nbsp; [2 format](/format) &nbsp; [3 protocol](/protocol) &nbsp; [4 prepare](/prepare) &nbsp; [5 design](/design)  
+[6 make](/make) [7 air](/air) &nbsp; [8 darkness](/darkness) &nbsp; [9 water](/water)  
 [appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)
 
 #### blurb
