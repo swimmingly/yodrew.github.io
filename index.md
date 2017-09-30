@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-- **contents** <span style="color:purple">(2nd edition)</span>
+- **contents**&nbsp; <span style="color:purple;font-style:italic">2nd edition</span>
 - [dedication](/dedication)
 - [foreword](/foreword)
 - [preface](/preface)
@@ -89,7 +89,7 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
-<p style="text-align: center"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" padding="10px" title="buy now"></a>
+<p style="text-align: center"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" padding="40px" title="buy now"></a>
 
 <!-- 
 [![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
@@ -138,4 +138,3 @@ Quantity/price (postpaid)
 </form>
 
 Delivery in US - _Coming Soon_ --> 
-
