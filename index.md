@@ -26,7 +26,7 @@ layout: page
 - [license](/about/license)
 - [disclaimer](/about/disclaimer)
 - [services](/about/services)
-- [bio-contact]/about
+- [bio, contact](/about)
 {:.submenu}
 
 <!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
