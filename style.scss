@@ -24,8 +24,8 @@ body
 .container
   {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 20px;
+  max-width: 800px;
+  padding: 0 10px;
   width: 100%;
   }
 
@@ -174,12 +174,11 @@ img
 .wrapper-masthead
   {
 	float: right;
-	width: 220px;
+	width: 240px;
   }
 
 .masthead
   {
-  padding: 10px 0;
   @include mobile
     {
     text-align: center;
@@ -210,6 +209,7 @@ img
 
 .site-description
   {
+  margin: -1px 0 0 0;
   color: $gray;
   font-size: 16px;
 
