@@ -3,11 +3,31 @@ title:
 layout: page
 ---
 
-#### contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
+- **book contents** <span style="color:purple" font-weight="bold">(2nd edition)</span>
+- [dedication](/dedication)
+- [foreword](/foreword)
+- [preface](/preface)
+- [introduction](/introduction)
+- [1&nbsp; hygiene](/hygiene)
+- [2&nbsp; format](/format)
+- [3&nbsp; protocol](/protocol)
+- [4&nbsp; prepare](/prepare)
+- [5&nbsp; design](/design)
+- [6&nbsp; make](/make)
+- [7&nbsp; air](/air)
+- [8&nbsp; darkness](/darkness)
+- [9&nbsp; water](/water)
+- [faq](/faq)
+- [about](/about)
+{:.submenu}
+
+<!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
 
 blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [preface](/preface) &nbsp; [introduction](/introduction)  
 [1 hygiene](/hygiene) &nbsp; [2 format](/format) &nbsp; [3 protocol](/protocol) &nbsp; [4 prepare](/prepare) &nbsp; [5 design](/design) &nbsp; [6 make](/make) &nbsp; [7 air](/air) &nbsp; [8 darkness](/darkness) &nbsp; [9 water](/water)  
 [appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)
+
+-->
 
 #### blurb
 
@@ -62,24 +82,11 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
-<a href="https://leanpub.com/darkroomretreat"><img style="float: center;" src="/img/book-cover.png" label="cover image" width="35%" padding="10px" title="buy now"></a>
+<p style="text-align: center"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="30%" padding="10px" title="buy now"></a>
 
 <!-- 
-![cover image](/img/book/adcf.jpg)
+[![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
 
-- **contents**
-- [dedication](/dedication)
-- [preface](/preface)
-- [introduction](/introduction)
-- [hygiene](/hygiene)
-- [format](/format)
-- [protocol](/protocol)
-- [prepare](/prepare)
-- [design](/design)
-- [make](/make)
-- [faq](/faq)
-- [about](/about)
-{:.submenu}
 -->
 
 <!-- 
