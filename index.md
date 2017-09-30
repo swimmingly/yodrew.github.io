@@ -20,12 +20,12 @@ layout: page
 - [appendix–laws of life](/appendix-laws-of-life)
 - [appendix–pathology](/appendix-pathology)
 - [faq](/faq)
-- [bibliography/influences](/about/bibliography-influences)
+- [bibliography & influences](/about/bibliography-influences)
 - [acknowledgments](/about/acknowledgments)
 - [license](/about/license)
 - [disclaimer](/about/disclaimer)
 - [services](/about/services)
-- [bio/contact](/about)
+- [bio & contact](/about)
 {:.submenu}
 
 <!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
@@ -35,8 +35,6 @@ blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [pref
 [appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)
 
 -->
-
-#### blurb
 
 ##### a complete manual
 
@@ -50,7 +48,7 @@ The book explains why a retreat works, how to do it, and how to make a darkroom,
 
 Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness—and psychology—based on hygiene. More than mere cleanliness, hygiene remains history’s most influential approach to health. For 180 years, it has taught the modern world appreciation for the self-preserving nature of life and all its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
-Hygiene has long excelled in caring for the self-healing body. With darkness, hygiene now has an equally effective way of caring for the self-healing soul.
+Hygiene has long excelled other methods in caring for the self-healing body. With darkness, hygiene now does the same for the self-healing soul.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
 {:#continue}
@@ -89,7 +87,7 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
-<p style="text-align: center;padding:40px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
+<p style="text-align: center;padding:60px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
 
 <!-- 
 [![cover image](/img/book-cover.png)](https://leanpub.com/darkroomretreat){:}
