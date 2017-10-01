@@ -184,16 +184,19 @@ img
 
 .wrapper-masthead
   {
-	float: right;
-	width: 240px;
-    padding: 0 20px 0 0;
+  float: right;
+  width: 240px;
+  padding: 0 20px 0 0;
+  @include mobile
+    {
+    width: 35%;
+    }
   }
 
 .masthead
   {
   @include mobile
     {
-    width: 35%;
     }
   }
 
