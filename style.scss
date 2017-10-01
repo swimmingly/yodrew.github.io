@@ -38,6 +38,10 @@ body
     {
     color: $blue2;
     }
+    @include mobile
+    {
+    width: 40%;
+}
   }
 
 h1, h2, h3, h4, h5, h6
