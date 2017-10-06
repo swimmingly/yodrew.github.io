@@ -17,6 +17,7 @@ html
 body
   {
   background-color: $black;
+  margin-top: 40px;
   font: 18px/1.4 $helvetica;
   color: $gray;
   }
@@ -38,10 +39,6 @@ body
     {
     color: $blue2;
     }
-    @include mobile
-    {
-    width: 40%;
-}
   }
 
 h1, h2, h3, h4, h5, h6
@@ -188,19 +185,16 @@ img
 
 .wrapper-masthead
   {
-  float: right;
-  width: 240px;
-  padding: 0 20px 0 0;
-  @include mobile
-    {
-    width: 35%;
-    }
+	float: right;
+	width: 240px;
+    padding: 0 20px 0 0;
   }
 
 .masthead
   {
   @include mobile
     {
+    width: 35%;
     }
   }
 
