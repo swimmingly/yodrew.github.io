@@ -77,10 +77,11 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
 <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
 </form>
+
 - Bitcoin:  
-1CFdob7YqaF1wj6ForPpCzYF5JvakStdzx
-- Ether:  
-0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d  
+    1CFdob7YqaF1wj6ForPpCzYF5JvakStdzx
+- Ether & ERC-20 tokens:
+    0x93C1Bd3076B56bAB22cB54aC3007d6f3faEFb16e
 - Snailmail, bank transfer, or deposit: [email me](/about) about how to use these methods. Include your location.
 
 <p style="text-align: center;margin: 60px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now"></a>
