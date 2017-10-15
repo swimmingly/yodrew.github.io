@@ -11,8 +11,7 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     2. share suggestions for text or designs by [making pull requests, opening issues](https://github.com/yodrew/yodrew.github.io), or sending [*email*](/about)
     3. include this license in your partial reprints of my work and with instructions accompanying components
     4. include a printed or electronic copy of this book with components (a link is sufficient)
-3. That said, don't put words in my mouth by rewording my writings. I will publicly disavow misrepresentations of me or my work.
-4. Furthermore, I will also give you my [endorsement](http://questioncopyright.org/creator_endorsed), a visible mark to use in your marketing copy if you: 
+3. Furthermore, I will also give you my [endorsement](http://questioncopyright.org/creator_endorsed), a visible mark to use in your marketing copy if you: 
     - share with me part of your earnings from:
         - reprints of my writings (8% of retail price for print and 70-90% for e-books)
         - reproductions of darkroom components (1% of retail price)
@@ -22,7 +21,7 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
 
     Basically, this means you can instantly become my publisher or manufacturer! These deals roughly equal what you and I would make if I were published or self-published and you were simply selling the books, yet without your having to order from me in bulk, pay shipping, keep legally complicated records, or sign a contract. 
     
-    The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
+The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../disclaimer)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&n
 bsp;&nbsp;&nbsp;[&gt;](../services)
