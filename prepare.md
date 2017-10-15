@@ -1,5 +1,5 @@
 ---
-title: "4&nbsp; prepare"
+title: "4 - prepare"
 layout: page
 permalink: /prepare
 ---
@@ -94,14 +94,14 @@ Here is the hygienic food plan:
         - bamboo skewer
     - toiletries and personal items
     - prescription medication
+- Optional
+    - special food (please tell supporter about it)
+    - simple exercise equipment for body-weight exercise, eg, yoga mat or push-up handle bars. No free weights or elastic or bowed equipment.
 - No: 
     - cigarettes
     - electronic devices that make sound, light, vibration, or smell: computers, audio players, watches, clocks, vaporizers, oils, massage devices, etc
     - If you must bring any of these things, unless critical for your health, turn them off and store them during the retreat or ask to store them with your supporter.
     - contraband, psychedelics, alcohol: disallowed on the premises
-- Optional
-    - special food (please tell supporter about it)
-    - simple exercise equipment for body-weight exercise, eg, yoga mat or push-up handle bars. No free weights or elastic or bowed equipment.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/protocol)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/design)
 

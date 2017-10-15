@@ -135,8 +135,11 @@ strong, b
 
 img
   {
-  max-width: 100%;
+  max-width: 80%;
+  background-color: white;
+  padding: 20px;
   }
+
 
 // Fix images Google Translate popup boxes
 .gmnoprint img
@@ -222,7 +225,7 @@ img
 
 .site-description
   {
-  margin: -1px 0 0 0;
+  margin: -20px 0 0 0;
   color: $gray;
   font-size: 14px;
 

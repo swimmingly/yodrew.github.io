@@ -1,12 +1,12 @@
 ---
-title: "5&nbsp; design"
+title: "5 - design"
 layout: page
 permalink: /design
 ---
 
 An echo of the ancient cataclysm that caused our mass major trauma, civilization assaults human psychobiology. It makes war zones of our habitats. It triggers a constant state of emergency. Most succumb. Many conform. Some take up arms. 
 
-We design. This is our imperative now.
+We design.
 
 #### normal
 
@@ -24,7 +24,7 @@ Start in your own bedroom. You already know you can sleep there, what problems n
 
 In the meantime, if you wish to darken a room elsewhere, then sleep there three nights beforehand. See if anything about it might disturb you which you cannot practically change: noise, odors or poor ventilation, atmosphere. Mind your senses, feelings, and state of mind. Will you be comfortable there? Do you actually sleep? Will darkening and ventilating it be a reasonable effort? If so, great. If not, conserve your initiative and keep looking.
 
-#### 
+#### types
 
 There are private and public darkrooms. 
 
@@ -46,7 +46,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 
 #### facility
 
-- building
+- exterior
     - secure
         - safe location
         - keys only with retreatant and supporter
@@ -81,7 +81,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
         - candles and lighter for before the retreat and transition days.
         - _basic:_ perfectly dark bedroom, bathroom, and blindfold and mostly dark hallways and kitchen
     - well-ventilated
-        - in cold climates, a [Heat Recovery Ventilator](http://en.wikipedia.org/wiki/Heat-recovery-ventilation), either with  fiwihex core ([Fresh-R](http://vaventis.com)) or Mitsubishi Lossnay core ([Renewaire](http://www.renewaire.com)) (or other high-tech paper core)
+        - in cold climates, a [Heat Recovery Ventilator](http://en.wikipedia.org/wiki/Heat-recovery-ventilation), either with fiwihex core ([Fresh-R](http://vaventis.com)) or Mitsubishi Lossnay core ([Renewaire](http://www.renewaire.com)) (or other high-tech paper core)
         - airflow: passive or from silent fans with silencers
         - manually adjustable airflow (possibly with smart controls)
         - _basic:_ somehow, get plenty of fresh air into the room without cold drafts. See [air > warmth](#warmth).
@@ -133,7 +133,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
     
 #### quiet
 
-Others inevitably make noise. Even if not, you will know someone is there, able to hear you. Like me, you may need to scream and cry in darkness. For now, it's nobody else's business or problem. The process is strictly for oneself. A darkroom minimizes this ordinary influence of and consideration for others so the autonomic self has maximum leeway to perform its awesome task. Contact with people during a retreat should be brief and intentional, not incidental.
+Others inevitably make noise. Even if not, you will know someone is there, able to hear you. Like me, you may need to scream and cry in darkness. It's nobody's business. The process is strictly for oneself. A darkroom minimizes ordinary influence of others and consideration for them so the autonomic self has maximum leeway to perform its awesome task. Contact with people during a retreat should be brief and intentional, not incidental.
 
 A clear exception is if you are a parent of a child who still needs your presence. The child can be with you in darkness as long as you both like. I have never facilitated such a retreat, but I definitely would. Nothing is more important to sanity, happiness, and avoidance of retraumatization of new generations than [filial attachment](http://continuum-concept.org). If you find your capacity for attachment wanting, you can now recover it.
 
@@ -151,27 +151,27 @@ One can become so vulnerable in profound rest that the wrong setting can become 
 
 #### round
 
-_Note: consider this subject for the future, both for shelter and for medium and long retreats. It is not immediately important in practice._
+_Note: roundness is not important for short retreats. Plan a round darkroom for the future, both for shelter and for medium and long retreats._
 
 An experiment: go into a round building and observe how you feel. Compare it to how you feel in square ones.
 
-Born to designers and craftspeople, I've run this sort of experiment since childhood, myself as my instrument. Here are my conclusions.
+Born to designers and craftspeople, I've run this sort of experiment since childhood, using myself as my instrument. Here are my conclusions.
 
 Round buildings feel sheltering. They shield occupants from subtle energy, physical and psychical. Energy flows around or through them because their roundness does not resist or trap it. Small round spaces feel cozy, not suffocating. One can easily relax inside. One has just what one needs.
 
-Human consciousness expects roundness in its environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, cones, and spheres. Curvature arises from and gives rise to innumerable straight-edged shapes at visible and microscopic scales: mostly triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; and their stellations and combinations. As Buckminster Fuller demonstrated in his _Synergetics_ (see [A Fuller Explanation](http://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)), nature's coordinate system is tetrahedronal, not cubic (Cartesian). Four-dimensional, not three. 
+Human consciousness expects roundness in its environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, spirals, cones, and spheres. Curvature arises from and gives rise to innumerable straight-edged shapes at visible and microscopic scales: mostly triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; and their stellations and combinations. As Buckminster Fuller demonstrated in his _Synergetics_ (see [A Fuller Explanation](http://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)), nature's coordinate system is tetrahedronal, not cubic (Cartesian). Four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
 
-A square building feels imprisoning. By nature, the right angle stops movement: of energy, people, and things. This stagnation saps and poisons occupants over the long term. Even turning at right angles while walking is militaristic and jarring. We compensate by making square (also rectilinear or orthogonal) buildings larger than necessary to push corners away. We soften and round them out by filling them with stuff. Ever dissatisfied, we remodel. When that fails, we move, perhaps destroying a family or business in the process. Eventually, the only thing to do about such a toxic building is demolish it, or unconsciously arrange for it to burn down or even get bombed. 
+By contrast, a square building feels imprisoning. By nature, the right angle stops movement: of things, people, and energy. This stagnation saps and poisons occupants over the long term. Even turning at right angles while walking is militaristic and jarring. We compensate by making square (rectilinear or orthogonal) buildings larger than necessary to push corners away. We soften and round them out by filling their corners with stuff. Ever dissatisfied, we remodel. When that fails, we move, perhaps destroying a family or business in the process. Eventually, the only thing to do about such a toxic building is demolish it, or unconsciously arrange for it to burn down or even get bombed. Behind the apparent irrationality of war, crime, and carelessness lies a biological imperative to break free.
 
 Due to gravity, single right angles of linear structures, like trees and stalactites, abound in nature. But not squares and cubes. Squares are inherently weak and inefficient. They collapse without diagonal support (triangulation) and require more edge for the same amount of area as circles. They mate poorly with the curved universe. A few minerals have cubic crystals, like salt. Not much else.
 
-Orthogonal construction breeds decadence, disease, and violence. Rectilinearity is the geometry of slavery: Romans built on grids because they are easily policed. It is a military-economic strategy widely copied to the current day. Observing the demoralizing effect of log cabins on his people on reservations, the American Indian, Black Elk, said, "It is a bad way to live, for there can be no power in a square."
+Orthogonal construction breeds decadence, disease, and violence. Rectilinearity is the geometry of slavery: Romans built on grids because they are easily policed. It is a military-economic strategy widely copied to the current day. Black Elk, a Plains Indian accustomed to tipis, observed the demoralizing effect of log cabins on his people on reservations. He decided, "It is a bad way to live, for there can be no power in a square."
 
 How tiresome to find we live in voluntary prisons. What is to be done?
 
-The problem solves itself. We simply turn our prisons into escape vehicles. After all, we do need to stop. We are sick. We are slaves. We need to rest, to recover ourselves, to reset our relationship to the world. Conscious of the influence of these boxes, these cells, we can turn it to our advantage. We can use it to stop. But not halfway, like beasts pacing restlessly in a cage. But fully, more than anyone expected, without concession to the demand to constantly be busy. We can even say this is what our buildings were always for. We just never realized it.
+The problem solves itself. We simply turn our prisons into escape pods. After all, we do need to stop moving around. We are sick. We are slaves. We need to rest, to recover ourselves, to reset our relationship to the world. Conscious of the immobilizing influence of these boxes, these cells, we can turn it to our advantage. We use it to stop. But not halfway, like beasts pacing restlessly in a cage. We stop fully, more and faster than anyone expected, without the slightest concession to the demand to constantly be busy. We can even say this is what our buildings were always for.
 
-So rectilinear buildings are not just fine, but perfectly suitable for short retreats. For medium-length retreats, they should be remedied by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). Long-term (more than five years) and for long retreats, they should be replaced, vacated, and dismantled, their materials burned, buried, or purified through re-use in round buildings. 
+So rectilinear buildings are not just acceptable, but perfectly suitable for short retreats. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats and public darkrooms, we replace, vacate, and dismantle them. We burn or bury their materials or purify them through re-use in round buildings. 
 
 A good building for the long-term is curved, round, or has five or more sides of equal length joined at equal angles. Rectangular walls are fine. So are right angles where floors meet walls. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 

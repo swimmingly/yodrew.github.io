@@ -1,5 +1,5 @@
 ---
-title: "7&nbsp; air"
+title: "7 - air"
 layout: page
 permalink: /air
 ---
@@ -87,21 +87,20 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### helix vent
 
-![photo: helix vent, complete](img/photo/helix-vent-complete.jpg)
 
-![photo: helix vent, complete](img/photo/helix-vent-complete.jpg)
+![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)
 
-![photo: helix vent core, exploded](img/photo/helix-vent-core-exploded.jpg)
+![photo: helix vent core, exploded](/img/photo/helix-vent-core-exploded.jpg)
 
-[![plan: helix vent, assembly](img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
+[![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
 
-[![plan: helix vent, channels](img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)
+[![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)
 
-[![plan: helix vent, inner wall](img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)
+[![plan: helix vent, inner wall](/img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)
 
-[![plan: helix vent, outer wall](img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)
+[![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)
 
-[![plan: helix vent, shell](img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
+[![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -162,9 +161,9 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [removable partition](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
+[![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
 
-[![plan: threshold vent](img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
+[![plan: threshold vent](/img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
 
 1. materials
     - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
@@ -202,13 +201,13 @@ The four principles of soundproofing are clear and widely understood:
 
 These principles apply to ventilation as well. Dampening and decoupling figure in fan mounting, and mass and absorption in silencer design. The silencer eliminates most noise, including from the fan.
 
-Fans make noise directly and indirectly. Small fans have little hum to start with, but they run at high speed, so they develop a hum and harmonics. Bigger fans start with more of a hum but they run more slowly for the same air output, so they develop less noise overall. Avoid amplifying these vibrations with proper fan mounting below.
+Fans make noise directly and indirectly. Small fans have little hum to start with, but they run at high speed, so they develop a hum and harmonics. Bigger fans start with more of a hum but they run more slowly for the same air output, so they develop less noise overall. Avoid amplifying these vibrations by using the fan mount, below.
 
 Even the quietest fan makes noise because of the friction of air itself against the fan blades, housing, ducting, and vents. Because of air friction, fully silencing a ventilation system requires a silencer of some type. 
 
 ##### silencer
 
-The silencer principle: an expanded duct section depressurizes the airstream. Low-frequency sounds transform into high ones. These vibrate the fine fibers lining the silencer, which transform the sound into heat. Genius!
+A silencer is an expanded duct section lined with insulation. Its greater volume depressurizes the airstream. This transforms low-frequency sound into into high-frequency sound. High-frequencies vibrate the fine fibers lining the silencer, transforming the sound into heat. Genius!
 
 You can make or buy duct silencers. 
 
@@ -222,7 +221,7 @@ In the past year, I built two box silencers into window openings. They were simp
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
-[![plan: silencer](img/plan/image/silencer.png)](/img/plan/silencer.pdf)
+[![plan: silencer](/img/plan/image/silencer.png)](/img/plan/silencer.pdf)
 
 The plan is straightforward. It is just a wooden box with two internal half walls. The resulting channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a rectangle for a doubled helix vent, or a slot in end for helix vent. The fan mount is adaptable to all 4 locations.
 
@@ -249,11 +248,11 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 
 Power it from the grid with an AC/DC universal adapter with pole switching and variable voltage for speed control ($5 at variety stores). Off grid, use car or household batteries or a solar power system. To control speed, use a 12V DC/DC car adapter from eBay. Attach one fan wire at each end of the pack. No fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-More about an ideal fan in [heat > fan-tasy](#fan-tasy), below.
+More about an ideal fan in [heat > fan idea](#fan-idea), below.
 
 ###### fan mount
 
-[![plan: fan mount](img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)  
+[![plan: fan mount](/img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)  
 
 This mount greatly dampens vibration from the fan. The silencer can then absorb the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
@@ -297,7 +296,7 @@ I was isolated and just learning. This simple discovery encouraged me after week
 
 Once built, maintain by wiping dust off panel once a week. What a luxury! Of course, if you have reliable wind or hydro power, that's great.
 
-##### heat
+##### warmth
 
 For heat, I often use a portable oil-filled heater. It is silent and can be positioned by a window or vent to warm incoming cold fresh air. Before buying, check that its indicator lights are easy to cover (not glowing from the interior through multiple cracks) and that it doesn't rattle or hum. Old or cheap ones often do.
 
@@ -308,11 +307,11 @@ Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more effi
 
 The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found in Energy Recovery Ventilators such as [Renewaire's](http://www.renewaire.com). Made of high-tech paper, the Lossnay recovers heated water vapor as well as heat from air. Lossnay's principle has DIY-potential, using 25m<sup>2</sup> of non-siliconized parchment paper ("sandwich paper" in supermarkets). I have conceived a design for it. Please write me for details.
 
-###### fan-tasy
+###### fan idea
 
-A recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
+A heat recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
 
-It would be nice to have cheap, silent fans for this: a large, low RPM [homemade centrifugal fan](http://gingerybookstore.com/product36.html) with a DC motor _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 48cm diameter fan from wood, cardboard, paper, steel. The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it, but the fan itself was amazingly quiet. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
+It would be nice to have cheap, quiet fans for this: large, low RPM [homemade centrifugal fans](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. Air friction in the fan caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
 
 ~~
 

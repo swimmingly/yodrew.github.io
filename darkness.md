@@ -1,5 +1,5 @@
 ---
-title: "8&nbsp; darkness"
+title: "8 - darkness"
 layout: page
 permalink: /darkness
 ---
@@ -30,7 +30,7 @@ We will start with the simplest and most portable design, which darkens the smal
 
 #### sleeping mask
 
-[![plan: sleeping mask](img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)  
+[![plan: sleeping mask](/img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)  
 
 The quickest way to obtain a large measure of darkness wherever you are is to cover your eyes with a good sleeping mask. No mask is comfortable for long periods while blocking all light and staying in place. And our skin has enough light-receptors for it to wake us up. So it doesn't replace a darkroom. But it is cheap, quick, accessible, discreet, and very effective for immediately improving sleep. It is a good first step into the profound rest darkness makes possible.
 
@@ -95,7 +95,7 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 
 Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95% of light and lets me nap. Here's a photo:
 
-![photo: sleeping mask, instant](img/photo/sleeping-mask-instant.jpg)
+![photo: sleeping mask, instant](/img/photo/sleeping-mask-instant.jpg)
 
 The black fabric is 100% cotton jersey from a T-shirt, 250mm x 440. Fold it in 4 layers. Staple it along its length. The 4 strap anchors have 2 staples each. Knot where comfortable, endknots on one end, two half-hitches or slip knots on the other.
 
@@ -103,7 +103,7 @@ Next, I'm going to try stapling the seals on then bind them as in step 5 of the 
 
 #### door seal
 
-[![plan: door seal section](img/plan/image/door-seal.png)](/img/plan/door-seal.pdf)
+[![plan: door seal section](/img/plan/image/door-seal.png)](/img/plan/door-seal.pdf)
 
 Black polar fleece makes darkening a door easy and quick. Use tape at first. Tack edge of fleece in position with 10mm pieces of masking tape every 400mm. Then put a continuous strip of tape over the edge. Once you get the hang of it and know where you want the fleece to stay, use glue where possible (glue removal described below).
 
@@ -178,13 +178,13 @@ Now for a quick lesson on window types and anatomy.
 
 ##### roller blind
 
-![photo: roller blind, closed](img/photo/roller-blind-closed.jpg)
+![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)
 
-![photo: roller blind, panel and joint](img/photo/roller-blind-panel&joint.jpg)
+![photo: roller blind, panel and joint](/img/photo/roller-blind-panel&joint.jpg)
 
-![photo: roller blind, frame and parts](img/photo/roller-blind-frame&parts.jpg)
+![photo: roller blind, frame and parts](/img/photo/roller-blind-frame&parts.jpg)
 
-![photo: roller blind, rail section](img/photo/roller-blind-rail-section.jpg)
+![photo: roller blind, rail section](/img/photo/roller-blind-rail-section.jpg)
 
 - the blind mounts on wall. The design can be adapted to mount on the ceiling or top-sill. If you need this, DIY or write me.
 - use key to decipher plans
@@ -192,10 +192,10 @@ Now for a quick lesson on window types and anatomy.
 - _h_ (italicized): height of recess, measured between T and B sills. Measure both sides.
 - _w_ (italicized): width of window recess, measured between the side sills. _w_ changes slightly top to bottom. Measure top for cassette, bottom for rail B or footer, and 170mm up from bottom sill for joint. w of blind itself should be narrowest of 3 measurements.
 
-[![plan: roller blind, layout](img/plan/image/roller-blind-layout.png)](/img/plan/roller-blind-layout.pdf)  
-[![plan: roller blind, frame](img/plan/image/roller-blind-frame.png)](/img/plan/roller-blind-frame.pdf)  
-[![plan: roller blind, panel](img/plan/image/roller-blind-panel.png)](/img/plan/roller-blind-panel.pdf)  
-[![plan: roller blind, parts](img/plan/image/roller-blind-parts.png)](/img/plan/roller-blind-parts.pdf)
+[![plan: roller blind, layout](/img/plan/image/roller-blind-layout.png)](/img/plan/roller-blind-layout.pdf)  
+[![plan: roller blind, frame](/img/plan/image/roller-blind-frame.png)](/img/plan/roller-blind-frame.pdf)  
+[![plan: roller blind, panel](/img/plan/image/roller-blind-panel.png)](/img/plan/roller-blind-panel.pdf)  
+[![plan: roller blind, parts](/img/plan/image/roller-blind-parts.png)](/img/plan/roller-blind-parts.pdf)
 
 - materials
     - white IKEA Tupplur blackout blind, enough for double layers (don't get black; the coating seems to be thinner and actually leaks more light)
@@ -257,7 +257,7 @@ Now for a quick lesson on window types and anatomy.
 ##### velcro
 
 Note: the plan view in this drawing shows just the bottom right corner of the blind. The light grey is the window frame.  
-[![plan: velcro blind](img/plan/image/velcro-blind.png)](/img/plan/velcro-blind.pdf)
+[![plan: velcro blind](/img/plan/image/velcro-blind.png)](/img/plan/velcro-blind.pdf)
 
 I am still testing this design. At first, I cut the fabric from an IKEA Tupplar blackout blind and attached it to a window frame with adhesive velcro (hook&loop). This was the prototype. It only took an hour and it almost worked! Problems:
 

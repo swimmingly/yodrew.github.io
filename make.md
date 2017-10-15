@@ -1,5 +1,5 @@
 ---
-title: "6&nbsp; make"
+title: "6 - make"
 layout: page
 permalink: /make
 ---
@@ -124,7 +124,7 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
 1. download all plans at once with the [darkroom retreat zip file](/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
     - a complete set of PDF plans
     - all photos below plus extras from website
-    - SVG source files of plans for modifying them (originally drawn in [Inkscape](http://inkscape.org)
+    - SVG source files of plans for modifying them, originally drawn in [Inkscape](http://inkscape.org)
     - I would love it if someone made 
         - 3D versions of these drawings with Sketchup
         - assembly instructions for the components like IKEA

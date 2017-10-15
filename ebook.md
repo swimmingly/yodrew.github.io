@@ -11,7 +11,7 @@ Download this ebook directly now:
 
 Other ideas for minimizing the contact info you share:
 
-- get a copy of the book by email. Just [write me](/about/). I will send a pdf unless you specify another format. 
+- get a copy of the book by email. Just [write me](/about). I will send a pdf unless you specify another format. 
 - get news of significant book updates by subscribing to my newsletter (see right sidebar)
 
 <!--
