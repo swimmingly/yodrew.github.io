@@ -1,5 +1,5 @@
 ---
-title: darkrooms worldwide
+title: "darkrooms worldwide"
 layout: page
 ---
 
@@ -19,4 +19,4 @@ layout: page
 [Sweden](http://www.lyfjabergt.es/welcome/home): Lyfjabergt. Seems ok. Friendly guy. Medium-high price.
 
 -->
-My new friend, Marion Abbott, is keeping better track of this, amassing a [long list of centers](http://darknessretreats.wordpress.com) at her new blog about darkroom retreating.
+My new friend, Marion Abbott, is keeping good track of this, amassing a [long list of centers](http://darknessretreats.wordpress.com) at her new blog about darkroom retreating.

@@ -1,5 +1,5 @@
 ---
-title: dedication
+title: "dedication"
 layout: page
 ---
 

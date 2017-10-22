@@ -1,5 +1,5 @@
 ---
-title: "appendix–laws of life"
+title: "appendix - laws of life"
 layout: page
 ---
 

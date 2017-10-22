@@ -29,6 +29,8 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
 
 - _Is it like meditation?_
 
+    It seems that way, but no.
+
     On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself.
 
     But what goes on inside oneself radically differs. Meditation is active, ie, the will drives the process. Its purpose is to make the unconscious conscious. It is a quiet internal war. Darkroom retreating is passive, ie, the unconscious drives it, with the will secondary, as a servant. Its purpose is to rest so the being can restore itself to wholeness. It is peacemaking. These subtly different drivers and purposes have massive effects on one's experience and results.

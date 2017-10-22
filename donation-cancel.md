@@ -1,5 +1,5 @@
 ---
-title: cancel donation
+title: "cancel donation"
 layout: page
 ---
 

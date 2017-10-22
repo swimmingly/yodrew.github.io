@@ -248,7 +248,7 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 
 Power it from the grid with an AC/DC universal adapter with pole switching and variable voltage for speed control ($5 at variety stores). Off grid, use car or household batteries or a solar power system. To control speed, use a 12V DC/DC car adapter from eBay. Attach one fan wire at each end of the pack. No fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-More about an ideal fan in [heat > fan idea](#fan-idea), below.
+More about an [ideal fan](#fan-idea), below.
 
 ###### fan mount
 

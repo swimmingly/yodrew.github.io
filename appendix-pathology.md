@@ -1,5 +1,5 @@
 ---
-title: "appendix–pathology"
+title: "appendix - pathology"
 layout: page
 ---
 

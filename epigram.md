@@ -1,5 +1,5 @@
 ---
-title: epigram
+title: "epigram"
 layout: page
 ---
 
@@ -27,6 +27,9 @@ _He that believeth on me, the works that I do shall he do also; and greater work
 
 _To him who has much, more and more is given. But from him who has little, even that which he has is taken away._
  
+_If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea._
+ -- Antoine de Saint-Exupéry
+
 _It is useless to try to willfully change ourselves. We are much too entrenched in our own habitual patterns and in maintaining physical and psychological survival. In fact, sometimes the more we focus on trying to change ourselves, the more our patterns strengthen. But there is a way out._
  -- Purna Steinitz
 
