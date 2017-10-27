@@ -4,7 +4,7 @@ layout: page
 permalink: /reports/lindsey-vona-darkness-retreat/
 ---
 
-\[Her vivid account, republished in toto with my comments in \[brackets\] . Background follows.\]
+\[Her vivid account, republished in toto with my comments in \[brackets\]. Background follows.\]
 
 ~~
 
