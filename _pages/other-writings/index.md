@@ -1,6 +1,6 @@
 ---
 title: other writings
-layout: default
+layout: index
 permalink: /other-writings/
 ---
 

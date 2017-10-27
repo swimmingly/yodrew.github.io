@@ -15,6 +15,6 @@ This series of Hygienic darkroom retreat reports documents my improbable recover
 
 These are reports by others:
 
-- [lindsay vona's 14-day retreat](./lindsey-vona-darkness-retreat/)
+- [lindsey vona's 14-day retreat](./lindsey-vona-darkness-retreat/)
 - [365-day retreat of 150 year-old yogi](./365-day-retreat-of-150-year-old-yogi/)
 - [dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust](./3-day-sith-bathchamber/)
