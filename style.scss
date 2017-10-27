@@ -33,8 +33,9 @@ body
 .submenu
   {
   float: right;
-  margin: 0 10px;
+  margin: 40px 10px;
   list-style-type: none;
+  font-size:90%;
   a
     {
     color: $blue2;
@@ -202,7 +203,7 @@ img
 .wrapper-masthead
   {
 	float: right;
-    margin: -10px 0 0 0;
+    margin: -20px 0 0 0;
 	width: 240px;
     padding: -40px 20px 0 0;
   }
@@ -328,8 +329,7 @@ nav
   }
 
 .wrapper-footer
-  {
-  margin-top: 50px;
+  { 
   background-color: $black;
   }
 

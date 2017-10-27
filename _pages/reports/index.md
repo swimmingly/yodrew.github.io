@@ -1,6 +1,6 @@
 ---
 title: reports
-layout: page
+layout: index
 permalink: /reports/
 ---
 
