@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6
 
 h1
   {
-  font-size: 30px;
+  font-size: 36px;
   line-height: 1em;
   a
     {
@@ -67,15 +67,27 @@ h1
 
 h2
   {
-  font-size: 24px;
+  font-size: 32px;
   }
 
 h3
   {
-  font-size: 20px;
+  font-size: 28px;
   }
 
 h4
+  {
+  font-size: 24px;
+  color: $gray;
+  }
+
+h5
+  {
+  font-size: 21px;
+  color: $gray;
+  }
+
+h6
   {
   font-size: 18px;
   color: $gray;
@@ -135,7 +147,8 @@ strong, b
 
 img
   {
-  max-width: 80%;
+  max-width: 600px;
+  max-height: 600px;
   background-color: white;
   padding: 20px;
   }
@@ -189,8 +202,9 @@ img
 .wrapper-masthead
   {
 	float: right;
+    margin: -10px 0 0 0;
 	width: 240px;
-    padding: 0 20px 0 0;
+    padding: -40px 20px 0 0;
   }
 
 .masthead
@@ -214,12 +228,12 @@ img
 
 .site-name
   {
-  margin: 0;
+  margin: -20px 0 0 0;
   color: $lightGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 36px;
   letter-spacing: 1px;
   }
 
