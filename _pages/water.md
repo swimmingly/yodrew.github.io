@@ -29,7 +29,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ##### basic
 
-It's a 20L bucket with a toilet seat on top. No kidding!
+It's a 20L bucket with a toilet seat on top. No kidding.
     
 - put 2 liters of sawdust in the bottom
 - put 15 liters more sawdust in another bucket by the toilet
@@ -124,5 +124,4 @@ That's the state of my art of low-cost DIY darkroom design and construction. Che
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/darkness)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/appendix-laws-of-life)
 

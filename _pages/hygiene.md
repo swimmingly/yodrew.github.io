@@ -54,7 +54,7 @@ Hygiene originated in America a generation after the Revolution, in the Age of E
 
 Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health of the 19th century. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
 
-Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that regular bathing, pure water, nutritious food, and regular. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
+Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
 
 ##### laws
 
@@ -491,4 +491,3 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
 [^10]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/format)

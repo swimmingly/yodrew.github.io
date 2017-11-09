@@ -242,4 +242,3 @@ Thanks for reading and best wishes.
 
 Now on to the life-restoring perspective of hygiene and how darkness completes it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/preface)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/hygiene)

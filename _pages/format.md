@@ -186,5 +186,4 @@ It may take a few generations of healthy living to fully restore our health and 
 
 Now that we have examined different formats of the restful use of darkness for different circumstances and purposes, let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/hygiene)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/protocol)
 

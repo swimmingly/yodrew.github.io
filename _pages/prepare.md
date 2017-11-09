@@ -14,7 +14,7 @@ Register for your retreat here. Follow instructions carefully.
 
 1. Read this book. Quiz later.
 2. Select dates for your retreat from the calendar below. Retreats begin at 18:00 and end at 12:00 four or eight mornings later. For example, a 4-day retreat that begins on Monday evening would end on Friday morning.
-3. Respond by [*email*](/about) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
+3. Respond by [*email*](/bio) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
 4. Send deposit by Bitcoin, PayPal, credit card
 5. Bring things listed below
 
@@ -103,5 +103,4 @@ Here is the hygienic food plan:
     - If you must bring any of these things, unless critical for your health, turn them off and store them during the retreat or ask to store them with your supporter.
     - contraband, psychedelics, alcohol: disallowed on the premises
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/protocol)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/design)
 

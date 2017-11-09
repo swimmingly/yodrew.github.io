@@ -99,9 +99,7 @@ Each of you gave me the world.
 
 ##### end
 
-I called some people here guides, but anyone who hosted me also guided me. I've needed a lot of help for a long time. Everyone on this list put a lot of time and energy into me and my work. There was never any messing around.
-
-Ok, maybe a little.
+I called some people here guides, but anyone who hosted me also guided me. I've needed a lot of help for a long time. Everyone on this list put a lot of time and energy into me and my work.
 
 I also made enemies and hurt some people along the way. I'm sorry it didn't go the way we thought at first. Here's hoping it was not in vain.
 

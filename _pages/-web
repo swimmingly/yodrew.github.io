@@ -1,0 +1,54 @@
+#!/bin/bash
+# from Dropbox/darkroomretreat
+
+# cd manuscript
+# cp blurb.md foreword.md preface.md introduction.md hygiene.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md appendix-laws-of-life.md appendix-pathology.md faq.md bibliography-influences.md acknowledgments.md services.md license.md bio.md ../web
+# cd ../web
+# remove anchors {#xxx}
+# perl -p -i -e 's/ \{#[^\}]+\}//g' *.md
+# change YAML
+# perl -p -i -e 's,^# ([1-9] - )(\w+),---\ntitle: "\1\2"\nlayout: page\npermalink: \/\2\n---,g' *.md
+# perl -p -i -e 's,^# ([\w– ]+),---\ntitle: "\1"\nlayout: page\n---,g' *.md
+# header hashmarks
+sed -i 's/^#### /###### /g' *.md
+sed -i 's/^### /##### /g' *.md
+sed -i 's/^## /#### /g' *.md
+# links
+  # remove underlines
+sed -i 's/____//g' *.md
+  # cross
+    # replace #page with /page
+perl -p -i -e 's,\(#(foreword|preface|introduction|hygiene|format|protocol|prepare|design|make|air|darkness|water|appendix-laws-of-life|appendix-pathology|faq|bibliography-influences|acknowledgments|services|license|bio),\(\/$1,g' *.md
+perl -p -i -e 's,http://darkroomretreat.com/,/,g' *.md
+  # add /page to #section
+perl -p -i -e 's,#food,\/hygiene#food,g' *.md
+perl -p -i -e 's,#attention,\/protocol#attention,g' *.md
+perl -p -i -e 's,#discomfort,\/protocol#discomfort,g' *.md
+perl -p -i -e 's,#menu,\/prepare#menu,g' *.md
+perl -p -i -e 's,#bring,\/prepare#bring,g' *.md
+perl -p -i -e 's,#tools,\/make#tools,g' *.md
+perl -p -i -e 's,#instant,\/darkness#instant,g' *.md
+perl -p -i -e 's,#tonight,\/format#tonight,g' *.md
+perl -p -i -e 's,#capacity,\/hygiene#capacity,g' *.md
+perl -p -i -e 's,#deluxe,\/water#deluxe,g' *.md
+perl -p -i -e 's,#false-capacity,\/hygiene#false-capacity,g' *.md
+perl -p -i -e 's,#blinds,\/darkness#blinds,g' *.md
+perl -p -i -e 's,#lightproof,\/darkness#lightproof,g' *.md
+perl -p -i -e 's,#post-retreat,\/protocol#post-retreat,g' *.md
+perl -p -i -e 's,#examples,\/hygiene#examples,g' *.md
+perl -p -i -e 's,#open-source,\/introduction#open-source,g' *.md
+perl -p -i -e 's,#4-day-retreat,\/format#4-day-retreat,g' *.md
+perl -p -i -e 's,#silencer,\/air#silencer,g' *.md
+perl -p -i -e 's,#hard-panel,\/darkness#hard-panel,g' *.md
+# images
+perl -p -i -e 's,\(images([^\.]+)\.j,\(/img/photo$1\.j,g' *.md
+perl -p -i -e 's,\(images([^\.]+)\.p,\(/img/plan/image$1\.p,g' *.md
+# superscript in design and make chapters
+perl -p -i -e 's,\^([0-9]+)\^,<sup>$1</sup>,g' *.md
+# navigation arrows
+perl -i -ne '/^\[&lt;].*\n$|^&nbsp;&nbsp;&nbsp;&nbsp;.*\n$/ or print' *.md
+perl -i -ne '/^\{\:\.arrow}/ or print' *.md
+# miscellaneous
+sed -i 's/@/ {at} /g' bio.md license.md
+# end message
+echo -web done

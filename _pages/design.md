@@ -84,7 +84,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
         - in cold climates, a [Heat Recovery Ventilator](http://en.wikipedia.org/wiki/Heat-recovery-ventilation), either with fiwihex core ([Fresh-R](http://vaventis.com)) or Mitsubishi Lossnay core ([Renewaire](http://www.renewaire.com)) (or other high-tech paper core)
         - airflow: passive or from silent fans with silencers
         - manually adjustable airflow (possibly with smart controls)
-        - _basic:_ somehow, get plenty of fresh air into the room without cold drafts. See [air > warmth](/air#warmth).
+        - _basic:_ somehow, get plenty of fresh air into the room without cold drafts. See [air > warmth](#warmth).
     - warm
         - super-insulated to Passive House standards to eliminate heating if possible
         - otherwise:
@@ -181,5 +181,4 @@ Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writ
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/prepare)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/make)
 

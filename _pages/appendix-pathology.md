@@ -30,4 +30,3 @@ Also, most hygienic physicians start as allopaths. Their fascination with and aw
 
 In short, we seem caught in a strange dream, half-waking and prolonged. But rather than force ourselves awake with discipline, hygienic darkroom retreating allows us to fully sleep it out. Hygiene has always been a kind of physiological judo: calm, understanding, effective. Rather than wait for trauma to replay its disastrous drama in our lives, we can take hygiene's peaceful, reassured approach to resolving it once and for all.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/appendix-laws-of-life)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/faq)

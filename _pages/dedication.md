@@ -15,7 +15,3 @@ on whom the sins of our fathers
 are so heavily visited  
 these decades of hard time.
 {:#dedication}
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/foreword)
-{:.arrow}
-

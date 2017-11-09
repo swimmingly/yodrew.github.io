@@ -87,7 +87,6 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ###### helix vent
 
-
 ![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)
 
 ![photo: helix vent core, exploded](/img/photo/helix-vent-core-exploded.jpg)
@@ -317,4 +316,3 @@ It would be nice to have cheap, quiet fans for this: large, low RPM [homemade ce
 
 That's it for ventilation, silence, power, and heat. On to lightproofing doors and windows.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/make)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](/darkness)
