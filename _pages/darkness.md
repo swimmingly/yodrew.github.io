@@ -34,7 +34,7 @@ We will start with the simplest and most portable design, which darkens the smal
 
 The quickest way to obtain a large measure of darkness wherever you are is to cover your eyes with a good sleeping mask. No mask is comfortable for long periods while blocking all light and staying in place. And our skin has enough light-receptors for it to wake us up. So it doesn't replace a darkroom. But it is cheap, quick, accessible, discreet, and very effective for immediately improving sleep. It is a good first step into the profound rest darkness makes possible.
 
-I have not tried every mask on the market. But none has satisfied my requirements. So I designed one. Standard and instant versions.
+I have not tried every mask on the market. But so far, none has satisfied my requirements. So I designed one. Standard and instant versions described below.
 
 ##### constraints
 
