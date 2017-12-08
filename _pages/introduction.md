@@ -9,11 +9,10 @@ Imagine:
 - better sleep
 - relief from over-stimulation and distress
 - recovery from fatigue and exhaustion
-- healing from psychic trauma and illness
-- an end to metaphysical suffering itself 
+- healing from major psychic trauma and illness
+- ending metaphysical suffering itself 
 
-
-How? By _hygienic darkroom retreating:_ deep psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, allowing it to heal itself by itself. This book is a complete manual for understanding and doing it.
+How? By _hygienic darkroom retreating:_ profound psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
 #### basics
 
@@ -24,7 +23,6 @@ How? By _hygienic darkroom retreating:_ deep psychic rest in total physical dark
 3. Profound psychic rest occurs in extended total darkness _as a physiological response_
 
 This is fully developed in chapter one, _hygiene_. Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. This includes designs for darkroom components precise to the millimeter.
-
 
 ##### terminology
 
@@ -70,7 +68,7 @@ Indigenous traditions do likewise: Amazonian shamanism uses darkness in ayahuasc
 
 Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [reports](/reports/365-day-retreat-of-150-year-old-yogi), it is nothing less than the fountain of youth.
 
-Unfortunately, the active nature of these approaches to darkroom retreating compromises them. They depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
+Unfortunately, the active nature of these approaches to darkroom retreating compromises them. This means they depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
 
 ##### hygiene
 

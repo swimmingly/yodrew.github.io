@@ -1,7 +1,11 @@
-____Underlined____ words are links in printed book and ebook to external resources. When ____*italicized*____ they link internally to other parts of the book and usually say where. Click links in the ebook. Get it at [darkroomretreat.com/ebook](darkroomretreat.com/ebook) or [leanpub.com/darkroomretreat](leanpub.com/darkroomretreat). 
+# notes
 
-Hygiene is rational. You can validate this work yourself by reason and simple tests. No faith or priests required, not even degrees or laboratories.
+____Underlined____ words are links to external resources. When ____*italicized*____ they link internally to other parts of the book, usually indicating where. Click them in the ebook! 
 
-I present my idea in layers: immediately in simple form, then in detail and in different aspects. The more you read, the deeper your understanding.
+Get ebook at [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat) or [darkroomretreat.com/ebook](/ebook)
 
-Every word of this book contributes to this. Read the blurb and appendices in addition to the numbered chapters. Possible exceptions are lists of verbal instructions in the _make_ chapters (IKEA-like assembly instructions to come) and sections following the _faq_.
+I present my idea in layers: immediately in brief, then again in detail, at length, and in different aspects.
+
+Every word of this book contributes to this. Read the blurb and appendices in addition to the numbered chapters. Possible exceptions are lists of verbal instructions in the four _make_ chapters (IKEA-like assembly instructions to come) and pages following the _faq_.
+
+Hygiene is rational. It is pure science. You can validate it yourself by observation, reason, and simple tests. No faith or priests required, nor a degree. Life is our laboratory.
