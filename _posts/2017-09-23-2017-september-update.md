@@ -27,7 +27,7 @@ Though I have more money (on paper) than I ever had at once in my life, my capac
 
 Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by eliminating footnotes and underlining words that are links in the PDF or online. The new version is up at [leanpub](https://leanpub.com/darkroomretreat)
 
-It also includes three crucial new designs: a [silencer][/air#silencer], [fan mount](/air#fan-mount), and [instant sleeping mask](/darkness#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
+It also includes three crucial new designs: a [silencer](/air#silencer), [fan mount](/air#fan-mount), and [instant sleeping mask](/darkness#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
 
 Ok, till next time.
 
