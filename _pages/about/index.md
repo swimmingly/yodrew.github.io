@@ -63,7 +63,6 @@ Two years of work on new edition of book finally finished!
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](/services)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences)
-{:.arrow}
 
 <!--
 - [bibliography-influences](./bibliography-influences)

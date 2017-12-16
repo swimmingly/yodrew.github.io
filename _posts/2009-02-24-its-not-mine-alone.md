@@ -1,5 +1,5 @@
 ---
-title: it's not mine alone
+title: it is not mine alone
 layout: post
 permalink: /blog/2009/02/its-not-mine-alone/
 ---

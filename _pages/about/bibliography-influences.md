@@ -12,7 +12,7 @@ permalink: /about/bibliography-influences/
     - _Ishmael_, [Daniel Quinn](http://ishmael.org)
     - _Where White Men Fear to Tread_, [Russel Means](http://www.russellmeansfreedom.com)
     - [Prosper Waukon](http://waukonassociates.com), Winnebago entrepreneur
-    - _Running on Emptiness: The Failure of Civilization_, [John Zerzan](http://www.johnzerzan.net)
+    - _Running on Emptiness: The Pathology of Civilization_, [John Zerzan](http://www.johnzerzan.net)
 - philosophical and spiritual traditions 
     - my parents, John and LouAnn
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor

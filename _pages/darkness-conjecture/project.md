@@ -77,4 +77,3 @@ Sometimes I think of the group as a family, a research family. We would be a ban
 Thus I offer these writings to attract interest, support, and participation in a strifeless approach to recovering rapture and the development of a sane lifestyle for those in recovery from suffering. This involves testing dark retreating as a simple, cheap, quick, pleasant, and replicable way of permanently healing from psychic trauma and restoring the basic functions of human consciousness, including waking awareness of the dreamworld. If effective, this would rapidly lead to solutions to every excruciating problem suffered by humanity since the rise of civilization, as well as the reemergence of a humane and regenerative lifeway.
 
 [&lt;](..//)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](..//)
-{:.arrow}

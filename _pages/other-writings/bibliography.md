@@ -49,18 +49,22 @@ These are the most important books and authors I have ever read. Each has blown 
 </tbody>
 </table>
 
-<p>I read and liked nearly everything else by Rand, Liedloff, and Quinn. Ouspensky's other books don't attract me. I have just started to study Graham, whose crystalline book on diet I have sought for over 20 years.</p>
-<p>An honorable mention as a highly catalytic book that came at a critical moment in late 2006 is <em>Introduction to Human Technology</em> by <a href="/blog/2009/08/william-arthur-evans/">William Arthur Evans</a>.</p>
-<p>The book that concretely sums up for me the diabolical process of this culture, while enabling me to finally wash my hands of trying to remediate it, is John Perkins' <a href="http://www.amazon.com/dp/0452287081?tag=thedarknessco-20&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=0452287081&amp;adid=1CKF7AZ7XHPKT5B97ZD5&amp;">Confessions of an Economic Hit Man</a>.</p>
-<p>There are also few other books that really affected me when I was first reading things on my own, starting at age 15. They prepared me for the books above. They are so close to me, it is hard to assess their monumentality, their greatness. Also, they are so central to my thinking, it is hard to objectify them, to separate them from my perspective as I have done in the above list. They are:</p>
-<p><a href="http://www.amazon.com/gp/product/0312141378?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0312141378">Summerhill</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0312141378" border="0" alt="" width="1" height="1" /> -A S Neill<br />
+I read and liked nearly everything else by Rand, Liedloff, and Quinn. Ouspensky's other books don't attract me. I have just started to study Graham, whose crystalline book on diet I have sought for over 20 years.
+
+An honorable mention as a highly catalytic book that came at a critical moment in late 2006 is _Introduction to Human Technology_ by <a href="/blog/2009/08/william-arthur-evans/">William Arthur Evans</a>.
+
+The book that concretely sums up for me the diabolical process of this culture, while enabling me to finally wash my hands of trying to remediate it, is John Perkins' <a href="http://www.amazon.com/dp/0452287081?tag=thedarknessco-20&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=0452287081&amp;adid=1CKF7AZ7XHPKT5B97ZD5&amp;">Confessions of an Economic Hit Man</a>.
+
+There are also few other books that really affected me when I was first reading things on my own, starting at age 15. They prepared me for the books above. They are so close to me, it is hard to assess their monumentality, their greatness. Also, they are so central to my thinking, it is hard to objectify them, to separate them from my perspective as I have done in the above list. They are:
+
+<a href="http://www.amazon.com/gp/product/0312141378?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0312141378">Summerhill</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0312141378" border="0" alt="" width="1" height="1" /> -A S Neill<br />
 <a href="http://www.amazon.com/gp/product/0525243291?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0525243291">Magical Child Matures</a> -Joseph Chilton Pearce<br />
-<a href="http://www.amazon.com/gp/product/0140094296?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0140094296">The Songlines</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0140094296" border="0" alt="" width="1" height="1" /> -Bruce Chatwin</p>
-<p>Even earlier books, which came to me through my family, were:<br />
+<a href="http://www.amazon.com/gp/product/0140094296?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0140094296">The Songlines</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0140094296" border="0" alt="" width="1" height="1" /> -Bruce Chatwin
+
+Even earlier books, which came to me through my family, were:<br />
 <a href="http://www.amazon.com/gp/product/0818000074?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0818000074">The Natural House.</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0818000074" border="0" alt="" width="1" height="1" /> -Frank Lloyd Wright<br />
 <a href="http://www.amazon.com/gp/product/0099427869?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0099427869">Illusions: The Adventures of a Reluctant Messiah</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0099427869" border="0" alt="" width="1" height="1" /> -Richard Bach<br />
-<a href="http://www.amazon.com/gp/product/0394404289?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0394404289">The Prophet</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0394404289" border="0" alt="" width="1" height="1" /> -Khalil Gibran</p>
+<a href="http://www.amazon.com/gp/product/0394404289?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0394404289">The Prophet</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0394404289" border="0" alt="" width="1" height="1" /> -Khalil Gibran
+
    
 [&lt;](../ashers/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../links/)
-{:.arrow}
-

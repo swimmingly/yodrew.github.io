@@ -96,4 +96,3 @@ When dreamtime is naturally reaccessed, the flow of creative energy surges back 
 In repose, the spongy tissues of consciousness absorb this dreamy, creative, vital energy. Thus refueled, the healing of consciousness from its injuries accelerates and its impairment and psychosis fade. Sanity and health of the entire organism naturally result, and the exuberantly creative participation in life resumes as if nothing ever happened.
 
 [&lt;](../dreamtime/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../catastrophe/)
-{:.arrow}

@@ -24,7 +24,7 @@ Darkness, like light, is a normal condition of life. As tropical creatures, we s
 
 ##### background
 
-Hygiene is from the Greek, <em>hygieia</em> meaning health. Hygieia is also the Greek goddess of health, who cared for the well-being of the body and the soul.
+Hygiene is from the Greek, _hygieia_, meaning health. Hygieia is also the Greek goddess of health, who cared for the well-being of the body and the soul.
 
 In English, hygiene means a condition or practice conducive to the preservation of health. In common usage, hygiene means vigilant cleanliness and the use of safety equipment in protection against from a hostile world. By contrast, Natural Hygiene full expresses hygiene's meaning in harmony with a benevolent world.
 
@@ -146,7 +146,7 @@ When we absorb a minimum of the wisdom of the body, we may become qualified to e
 
 #### therapy
 
-The other thing that a Hygienic darkroom retreat is not is therapy. Therapy is something that is done to the organism&mdash;a treatment&mdash;with the idea that the therapy is going to effect some change, that the actors in the situation are the therapist, therapy, and therapeutic substances or practices. The body is viewed as a passive reactor, helpless to varying degrees (depending on the therapeutic philosophy applied.)
+The other thing that a Hygienic darkroom retreat is not is therapy. Therapy is something that is done to the organism---a treatment---with the idea that the therapy is going to effect some change, that the actors in the situation are the therapist, therapy, and therapeutic substances or practices. The body is viewed as a passive reactor, helpless to varying degrees (depending on the therapeutic philosophy applied.)
 
 This totally defies the Hygienic approach. In hygiene, the will, the very thing that is damaged and needs a break, is passive, and the autonomic system is active. It is true that something must be done. Just not directly by _me_, the conscious part of myself. Only the organism has the power to act directly to repair its damage and correct its malfunction. Rather than taking over, the will becomes the servant of the autonomic, of life itself. Which is actually how it is supposed to be all the time. In darkness, one has a chance for this fundamental orientation to be restored.
 
@@ -161,4 +161,3 @@ In the hygienic use of darkness, rest, and the other requirements of the automat
 Freedom is only a light switch away.
 
 [&lt;](../rapture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../dreamtime/)
-{:.arrow}

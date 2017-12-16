@@ -34,6 +34,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Links](./links/) others' good designs &etc to learn and sing
     - [Origins of Agriculture](./origins-of-agriculture/) a stunning _What if…?_
     - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
+    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri, French hygienic master
 <!--    - [QWERTY to Dvorak](./d/) typing translator -->
     
     

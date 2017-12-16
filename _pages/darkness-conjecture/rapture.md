@@ -36,4 +36,3 @@ When the explanation of remission arrived, I had already retreated in darkness. 
 In that instant, I knew my search was over. One burning question pursued obsessively had finally yielded something worth trying. The theoretical phase of my work was finished, and the practical phase had begun.
 
 [&lt;](../basics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../hygiene-notes/)
-{:.arrow}

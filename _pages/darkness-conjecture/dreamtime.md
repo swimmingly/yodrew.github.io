@@ -66,7 +66,7 @@ While chatting online with a friend, Brian Sullivan, I described to him my brief
 >
 > With the recovery of feeling comes the real possibility for health, since disease is rooted in emotion&mdash;frozen feelings from the past that repeat mechanically in the present.
 
-#### Afterword:
+#### Afterword
 
 These emotions start to clear out when feeling returns. The compulsions, habits, and addictions one has that erode health are rooted in emotion, so they would begin to dissolve, too. One could begin acting on things about which she already knows better. Learning about something good could actually help the learner rather than inform the ego as to what _not_ to do.
 
@@ -75,4 +75,3 @@ In supporting consciousness to dislodge itself from its fixation on the gross ph
 In short, we would no longer depend for our liberation on the rarities of sufficient will, luck, power, or advanced spiritual realization, but on an ordinary state of consciousness immediately available to all.
 
 [&lt;](../hygiene-notes/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../psychosis/)
-{:.arrow}

@@ -1,4 +1,7 @@
-# notes
+---
+title: notes
+layout: page
+---
 
 ____Underlined____ words are links to external resources. When ____*italicized*____ they link internally to other parts of the book. Their text usually indicates where. In the ebook or online, just click them.
 

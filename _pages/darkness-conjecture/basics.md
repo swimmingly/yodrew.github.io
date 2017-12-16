@@ -46,11 +46,11 @@ I increasingly found this version convoluted. When I finally read _The Science a
 
 #### further notes
 
-The <em>application</em> of the darkness conjecture lies in doing darkness retreats of increasing length, alternated with periods of radical change in lifeway until vitality is completely restored. Retreating alone will not solve all our problems. As we say in Natural Hygiene, "Health comes from healthful living." 
+The _application_ of the darkness conjecture lies in doing darkness retreats of increasing length, alternated with periods of radical change in lifeway until vitality is completely restored. Retreating alone will not solve all our problems. As we say in Natural Hygiene, "Health comes from healthful living." 
 
 I believe the darkness conjecture is true because, in my dark retreats and those of 20 clients, I have repeatedly witnessed: relief from existential suffering; healing of psychic dysfunction; habit-changing insights; long- lasting periods of well-being; and occasional rapture.
 
-Dark retreating satisfies my ultra-snobbish_design constraints_ for any such process: that it be simple, quick, cheap, pleasant, reasonable, scalable, and radical. The truth is free (as in speech and beer). Plain and direct like nature, it makes sense immediately. All else is humbug. It gives results in geometrical proportion to efforts. It is fun, easy, and adaptable. It enables people to get to the very bottom of things individually and collectively.
+Dark retreating satisfies my ultra-snobbish _design constraints_ for any such process: that it be simple, quick, cheap, pleasant, reasonable, scalable, and radical. The truth is free (as in speech and beer). Plain and direct like nature, it makes sense immediately. All else is humbug. It gives results in geometrical proportion to efforts. It is fun, easy, and adaptable. It enables people to get to the very bottom of things individually and collectively.
 
 Regarding lifeway change: if the insanity and unworkability of our way of life are not yet obvious to you, dark retreating will change that. Consider yourself warned. In the meantime, note that when I talk about denial, I do not mean it moralistically, as if you're doing something wrong. Denial is simply a result of trauma, a symptom of psychosis. As you heal, you will become able to face the horror of our situation.
 
@@ -61,4 +61,3 @@ If our lifeway's insanity is obvious to you, yet you find yourself strangely una
 &nbsp;
 
 [&lt;](../conjecture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../rapture/)
-{:.arrow}

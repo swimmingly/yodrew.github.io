@@ -49,4 +49,3 @@ I lived among Mayan Indians for 18 months. I tried using their calendar, which i
 I believe this is our destiny. Darkness is simply a way to participate in what is happening anyway. It is way to run out and meet it.
 
 [&lt;](../psychosis/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../strifeless/)
-{:.arrow}
