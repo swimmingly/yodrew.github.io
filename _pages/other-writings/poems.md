@@ -572,4 +572,5 @@ Godspeed.
 Eugene 2006 Jan
 
 [&lt;](../myths/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lyrics/)  
+{:.arrow}
 

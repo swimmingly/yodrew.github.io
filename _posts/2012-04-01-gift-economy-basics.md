@@ -5,7 +5,8 @@ permalink: /blog/2012/04/gift-economy-basics/
 ---
 
 Here's a letter I just wrote an associate about the gift economy.
-~~~
+
+~/~
 
 Dear…,
 

@@ -10,7 +10,7 @@ I was talking with someone about my undying quest for typable e-paper. He conclu
 
 I replied:
 
-> I say it in my [plea][1], but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
+> I say it in my [plea](/blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)), but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
 >
 > The advantage of e-paper is something much greater, much more fundamental, much more affecting than its lack of glare. A matte finish can be put on any display, or even achieved after the fact with plastic screen protectors.
 >
@@ -33,7 +33,5 @@ I replied:
 >
 > I wish I knew how to help this happen in even the smallest way. I want one of these things in my hands as soon as corporately possible.
 
-[**NOTE** I learned that it is strictly backlighting that causes the eyestrain I feel with LCD screens, whether the backlight is fluorescent or LED (due to Pulse Width Modulation). See my topic on mobileread about this, [Project: E-Paper Tablet (typable!)][2].
+[**NOTE** I learned that it is strictly backlighting that causes the eyestrain I feel with LCD screens, whether the backlight is fluorescent or LED (due to Pulse Width Modulation). See my topic on mobileread about this, [Project: E-Paper Tablet (typable!)](http://www.mobileread.com/forums/showthread.php?t=159007).
 
-   [1]: /blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)
-   [2]: http://www.mobileread.com/forums/showthread.php?t=159007

@@ -32,7 +32,7 @@ A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conve
 >
 > **A:** Why does something that only took a moment to break need a lifetime to learn to repair? Biologically, it makes no sense. Extended total darkness allows for rest that could be deep enough and long enough for consciousness to unhook itself from gross matter and heal itself automatically. This is the conjecture.
 
-#### Afterword:
+#### Afterword
 
 This process will not make a person enlightened or give him back all that he could have had in an untraumatized life. It is a very limited thing that darkness might enable the organism to accomplish. Plenty of wreckage would remain, inside and out, to clean up and repair over generations. This is just a possible way to deal with the knotted core of the illness, yet without the strife that characterizes and perpetuates it. The means is the end. Strife cannot produce ease at ones core.
 

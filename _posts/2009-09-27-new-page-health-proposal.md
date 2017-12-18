@@ -4,7 +4,7 @@ layout: post
 permalink: /blog/2009/09/new-page-health-proposal/
 ---
 
-I just added a new page, [health proposal][1], to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.
+I just added a new page, [health proposal](/darkness-conjecture/proposals/health-proposal), to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.
 
 The dome proposal was a good step because it offered value rather than just asking for donations (my earlier, futile plan). But it had three major problems.
 
@@ -18,4 +18,3 @@ I would like to be able to support a family in a stable home; grow and eat good 
 
 The conjecture has given me something tangible and coherent to work with. My two broken feet have given me the opportunity to stop my normal frenetic design activity and properly review my situation. I believe this proposal is more straightforward, and I look forward to your response.
 
-   [1]: /darkness-conjecture/proposals/health-proposal

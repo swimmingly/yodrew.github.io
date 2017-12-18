@@ -66,3 +66,6 @@ As soon as we switch to the half-fast, rekindling elimination, we must examine t
 
 It does not matter if, in the meantime, hunger comes back or not, because this Instinct is usually defective amongst civilized people."
 
+[&lt;](/fukuoka/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/d/)
+{:.arrow}
+

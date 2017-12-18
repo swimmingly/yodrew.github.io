@@ -6,9 +6,9 @@ permalink: /blog/2011/11/conspiracy/
 
 Here is something I wrote a friend about conspiracy theory following a conversation we had recently on the subject.
 
-~~~
+~/~
 
-…I had a thought during our conversation about 9/11 that there wasn't time to voice, but which I think you would like to hear. So I am writing you with it.
+I had a thought during our conversation about 9/11 that there wasn't time to voice, but which I think you would like to hear. So I am writing you with it.
 
 I think the reason that the idea of a conspiracy can be hard to entertain is that it seems to mean that the people involved are evil and consciously do evil things.
 
@@ -36,11 +36,10 @@ Everyone experiences what I am talking about, but as part of a whole lifetime of
 
 And then there is the successful propaganda campaign about our masters' being too stupid and incompetent to pull off something like 9/11. It is an impressive conceit that we are smarter and more capable than people who coordinate transnational corporations, global wars, and mass media. Those who deny conspiracy have underwhelmed me with their snide ignorance of basic facts of the case. In my few brushes with the ruling class, even average members impressed me as sophisticated and whipsmart. Now they have accomplished the additional feat of convincing most of us they are otherwise.
 
-For the benefit of both us and our tortured masters, I hope that my [work][1] can help bring an end to the madness I describe. Like most people, I believe that each of us, underneath the exhaustion, resignation, and damage, is still innocent at the core. I cannot believe that anyone really likes or is satisfied with what is happening. Surely we can find another way to be here together. But surely we cannot find it without first seeing things as they are, both in our souls and in our society.
+For the benefit of both us and our tortured masters, I hope that my [work](/darkness-conjecture/project/) can help bring an end to the madness I describe. Like most people, I believe that each of us, underneath the exhaustion, resignation, and damage, is still innocent at the core. I cannot believe that anyone really likes or is satisfied with what is happening. Surely we can find another way to be here together. But surely we cannot find it without first seeing things as they are, both in our souls and in our society.
 
 Well, it was nice seeing you, again. Thanks for dinner.
 
 Best regards,
 Andrew
 
-   [1]: /darkness-conjecture/project/

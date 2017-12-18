@@ -63,6 +63,6 @@ _revised 19 Jan 2008_
 
    [1]: http://www.objectivistliving.com
    
-&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sociality-undenied/)
+&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sociality-undenied/)
 {:.arrow}
 

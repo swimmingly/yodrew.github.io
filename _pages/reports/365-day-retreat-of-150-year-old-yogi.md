@@ -27,3 +27,7 @@ The following excerpt is from _Maharaj, A Biography of Shriman Tapasviji Maharaj
 In the description of the Saint's first kaya kalpa treatment, the "medicine" was described as various herbs, but no name was given to them. I had to cut down the previous paragraphs a little, but from what is missing above, it is clear that the "Saint" as he was called, believed that the herbs and other kalpa conditions were secondary - and he attributed the rejuvenation, for the most part, to Shri Krishna. He seemed to want to be rejuvenated only to be able to continue his spiritual practices.
 
 One thing I note is how similar the "cell" where he spent his time is to a womb. It was dark. It was quiet and secluded with minimum disturbance. He seems to only have consumed raw milk and herbs. He seems to have slept a lot with the balance of time spent in meditation and repeating mantras.
+
+[&lt;](/lindsey-vona-darkness-retreat/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/3-day-sith-bathchamber/)
+{:.arrow}
+

@@ -22,6 +22,5 @@ Wheelbarrows and handtrucks are a luxury here. Very young men two feet shorter t
 
 The mountains and lake continue to radiate their world-class beauty. I feel like the lake is where everything gathers, like I'm in the center of the world. The locals know they are a lucky and blessed people to live by this sacred lake, Atitlan. The volcanoes rise like three reticent and omnipotent gods from the south side of the lake, extending their protection to all who can see them. Really, they are the small children of a super-volcano whose crater now holds the lake. Seen this way, it is a little intimidating. It is the Mayan version of the fear of God, I suppose.
 
-Well, Merry Christmas to you all there. Bundle up and sip an egg nog for me. When I get more settled here (still looking for a place to stay longer than a couple weeks), I hope you will come visit me. Tickets are very reasonable, as low as $124 fees one way, depending on departure city and date. For fun, check [spiritair.com][1].
+Well, Merry Christmas to you all there. Bundle up and sip an egg nog for me. When I get more settled here (still looking for a place to stay longer than a couple weeks), I hope you will come visit me. Tickets are very reasonable, as low as $124 fees one way, depending on departure city and date. For fun, check [spiritair.com](http://www.spiritair.com).
 
-   [1]: http://www.spiritair.com

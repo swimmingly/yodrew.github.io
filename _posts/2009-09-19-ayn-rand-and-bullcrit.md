@@ -10,8 +10,7 @@ Anyway, here is a quote from an unusually honest piece in the establishment pres
 
 > Over dinner at a French restaurant in Manhattan—there were four of us—the subject of Ayn Rand came up, and the air was soon full of thoughtful remarks about "enlightened self-interest" and "the way Fascism and libertarianism meet each other halfway in her books." Under subsequent mutual interrogation, we all confessed that Rand was among the authors we had always meant to read. One guilty diner tried to win the court's sympathy by saying, "Well, my best friend in high school read everything Ayn Rand wrote."
 
-[New York Magazine, 1989 Feb 6, "Bullcrit", p44][1]
+[New York Magazine, 1989 Feb 6, "Bullcrit", p44](http://books.google.com/books?id=qugCAAAAMBAJ&pg=PA44&dq=)
 
 (Of course, students of Ayn Rand's work have known of this phenomenon in the media for a long time. If only she had just gone away like she was supposed to, it would have all worked out.)
 
-   [1]: http://books.google.com/books?id=qugCAAAAMBAJ&pg=PA44&dq=

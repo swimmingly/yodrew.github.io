@@ -4,7 +4,7 @@ layout: page
 permalink: /faq/
 ---
 
-#### mechanics
+## mechanics
 
 - _Where can I go to retreat?_
  
@@ -36,7 +36,7 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
 
     But what goes on inside oneself radically differs. Meditation is active, ie, the will drives the process. Its purpose is to make the unconscious conscious. It is a quiet internal war. Darkroom retreating is passive, ie, the unconscious drives it, with the will secondary, as a servant. Its purpose is to rest so the being can restore itself to wholeness. It is peacemaking. These subtly different drivers and purposes have massive effects on one's experience and results.
 
-#### concerns
+## concerns
 
 - _Wouldn't you go crazy staying in darkness that long?_
 
@@ -52,7 +52,7 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
     
     If you mean it sounds pointless or dreadful, in fact a retreat usually begins with a sense of relief. Discomfort may come. But then you make contact with your autonomic self again, and this is extremely meaningful and enjoyable. Generally, people find that four days of sinking deeply into themselves is way too short. It sounds like you would be surprised to discover how interesting you are.
 
-#### objections
+## objections
 
 - _I could never do a darkroom retreat._
 
@@ -77,4 +77,7 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
     - the human organism has no specific needs for healing from psychic trauma, despite its specific---and universal---need of rest for healing in all other cases. As well as its specific needs of air for breathing, light for seeing, food for eating, etc.
     
     Naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
+
+[&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/bibliography-and-influences/)
+{:.arrow}
 

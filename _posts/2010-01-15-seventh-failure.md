@@ -14,6 +14,5 @@ My new idea was that I will simply spend longer finding and preparing a place so
 
 In the meantime, I would find a decent place to live (done! great housesitting job), decent work (done!), spend more time with the people here (doing it), and see to my immigration status in Guatemala, which I consider my home now.
 
-Now cool developments have emerged since then. See my new post, [serious darkness][1].
+Now cool developments have emerged since then. See my new post, [serious darkness](/blog/2010/01/serious-darkness/).
 
-   [1]: /blog/2010/01/serious-darkness/

@@ -28,7 +28,7 @@ Edges are tricky. Black polar fleece is the best thing I have found for sealing 
 
 We will start with the simplest and most portable design, which darkens the small space immediately around the eyes: the sleeping mask.
 
-#### sleeping mask
+## sleeping mask
 
 [![plan: sleeping mask](/img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)  
 
@@ -36,7 +36,7 @@ The quickest way to obtain a large measure of darkness wherever you are is to co
 
 I have not tried every mask on the market. But so far, none has satisfied my requirements. So I designed one. Standard and instant versions described below.
 
-##### constraints
+### constraints
 
 - blocks all light 
     - through the mask
@@ -47,7 +47,7 @@ I have not tried every mask on the market. But so far, none has satisfied my req
 
 Some measurements in the drawing are marked with a tilde (~). This means they are adjustable. I have not developed a fitting system yet. So make one mask according to drawing. Then adapt it according to its comfortability and light-blocking ability on your face. The drawing is of the mask that fits me. I have a not-unusual face for a thin man of mostly Northern European heritage.
 
-##### standard
+### standard
 
 1. materials
     - soft black knit fabric: polar fleece, cotton jersey, or other natural smooth fiber. Cotton is cooler than fleece, which can feel scratchy, too. Use a knit if possible, but a soft, loose weave could work. Then add a 40mm to width and length as a seam allowance to fold underneath when sewing it to other cover pieces. A colored piece of cloth on the outside makes finding the mask in the light a lot easier. 
@@ -91,7 +91,7 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
     5. tie 250mm piece to 500mm pieces at points **z** with slip knots
     6. the taut line hitch, when tight, slides on the part of the strap it is tied to, then locks in place, creating a strap of adjustable length. Adjust straps for comfort. Bottom strap should go around neck, top strap should go high around back of head.
 
-##### instant
+### instant
 
 Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95% of light and lets me sleep in and nap. Ch-ch-ch-check it out:
 
@@ -101,7 +101,7 @@ The black fabric is 100% cotton jersey from a T-shirt, 250mm x 440. Fold it in 4
 
 Next, I'm going to try stapling the seals on then bind them as in step 5 of the standard sleeping mask.
 
-#### door seal
+## door seal
 
 [![plan: door seal section](/img/plan/image/door-seal.png)](/img/plan/door-seal.pdf)
 
@@ -115,11 +115,11 @@ Black polar fleece makes darkening a door easy and quick. Use tape at first. Tac
 
 If door has a window, use one of the methods below to cover it.
 
-#### blinds
+## blinds
 
 To darken windows, use one of the five methods I have come up with---rollerblind, velcro, panel, plastic, and foil---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something else.
 
-##### constraints
+### constraints
 
 - perfectly darkening
 - quickly and easily operated so it actually gets used
@@ -134,7 +134,7 @@ To darken windows, use one of the five methods I have come up with---rollerblind
 - easily uninstalled
 - leaves few marks or holes
 
-##### intro
+### intro
 
 Blackout blind fabric is plastic-coated to seal tiny holes in the weave. Like anything, fabric quality varies greatly. Light still leaks through the surface of some fabric. Here is how to test it.
 
@@ -156,7 +156,7 @@ Some casement windows leave no space for a blind or vent because they are flush 
 2. sew a velcro blind into the shape of a box so it attaches to the wall but then sticks out enough to allow the window to open behind it and maybe contain the vent.
 3. remove window temporarily and replace it with a solid panel of wood of the same size with a slot cut in it for vent. See hard panel section below.
 
-##### lesson
+### lesson
 
 Now for a quick lesson on window types and anatomy.
 
@@ -176,7 +176,7 @@ Now for a quick lesson on window types and anatomy.
     6. trim: sometimes surrounds recess. It's on wall where it meets sill. If trim has a gently curved surface, bend roller blind rails to fit it. But do not attach blind to convoluted trim.
     7. wall
 
-##### roller blind
+### roller blind
 
 ![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)
 
@@ -254,7 +254,7 @@ Now for a quick lesson on window types and anatomy.
 
     Uncovered edge of vertical frame member holds rails for roller blind that covers remaining part of window. To keep blind in place when wind blows too strong, stick pushpins through rails and blind every 200-300mm. Always use same holes. 
 
-##### velcro
+### velcro
 
 Note: the plan view in this drawing shows just the bottom right corner of the blind. The light grey is the window frame.  
 [![plan: velcro blind](/img/plan/image/velcro-blind.png)](/img/plan/velcro-blind.pdf)
@@ -334,7 +334,7 @@ Thus, these (untested) improvements should make it work.
         4. put fabric back on wall
     8. Voila!
 
-##### hard panel
+### hard panel
 
 I mentioned this at the end of the intro above regarding casement windows. I have been making these more and more because of their soundproofing and lightproofing qualities and the wide availability of discarded furniture for free material. Unlike glass, it allows you to cut a hole to easily attach a duct or vent. Use it just for retreats or make it permanent if you have extra opening windows.
 
@@ -348,7 +348,7 @@ Measure and mark a hole in the panel for the vent or silencer. Cut it out with a
 
 Attach a handle to the panel so you can lift it in and out. Just a 30 x 30 x 30 block of wood screwed to the board is enough.
 
-##### plastic
+### plastic
 
 This method consists of taping thick black plastic over windows.
 
@@ -367,9 +367,9 @@ This method consists of taping thick black plastic over windows.
     5. if the room gets too hot from direct sun, then before taping up the black plastic, cut a piece of cardboard the same size as the recess. Tape or glue aluminum foil to one side of it. Leave 15mm spaces between the strips of foil to allow moisture to pass through. Set the cardboard in recess, foil facing outward. In really hot areas, cover windows with foil from the outside or get exterior blinds, shutters, or awnings.
     6. if it is a cold room, face the foil inwardly to reflect heat back in.
 
-##### foil
+### foil
 
-###### disposable
+## disposable
 
 This consists of foil taped over windows.
 
@@ -399,7 +399,7 @@ Also, apply foil directly to the glass. If you tape it to the frame, suspended i
     10. tape foil to frame
     11. tack dark blankets over window to catch any leaks
 
-###### reusable
+## reusable
 
 Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, an unsealed bedroom door is almost dark enough for nightly sleep, except morning sun comes through a small curtainless hallway window. Or during travel. 
 
@@ -408,4 +408,7 @@ Using white school glue (PVA), attach foil to cardboard or black posterboard. On
 ~~
 
 That's darkness. Now for managing water and waste in a darkroom.
+
+[&lt;](/air/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/water/)
+{:.arrow}
 

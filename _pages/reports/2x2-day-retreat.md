@@ -76,6 +76,6 @@ Boy, to think of all the years endured without myself, in denial, in pain, think
 
 All my retreats have culminated in this one. It is a milestone. Now I can function well enough to begin supporting myself and then get a 14-day retreat organized. What is next?!
 
-[&lt;](../7x1-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[&lt;](../7x1-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lindsey-vona-darkness-retreat)
 {:.arrow}
 

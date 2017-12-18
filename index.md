@@ -5,6 +5,7 @@ layout: index
 
 - <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">2nd ed</span>
 - [dedication](/dedication)
+- [notes](/notes/)
 - [foreword](/foreword)
 - [preface](/preface)
 - [introduction](/introduction)
@@ -36,7 +37,7 @@ blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [pref
 
 -->
 
-#### a complete manual
+## a complete manual
 
 Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? To recover psychic balance by taking refuge from the sensory over-stimulation of civilized existence.
 
@@ -44,7 +45,7 @@ This seemingly trivial contrast can lead to a remarkable and lasting restoration
 
 The book explains why a retreat works, how to do it, and how to make a darkroom, including detailed plans and instructions to attain these effects in your own home.
 
-#### toward a hygienic psychology
+## toward a hygienic psychology
 
 Spiritual traditions have used darkness for millennia. This is the first approach to darkness---and psychology---based on hygiene. Not just cleanliness, hygiene is an entire philosophy of health. It is based on life's self-preserving nature, and its normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc.
 
@@ -54,10 +55,10 @@ As with fasting, a hygienic darkroom retreat is a set of normal conditions, temp
 
 Hygiene has long excelled in caring for the self-healing body. With darkroom retreating, hygiene now has an equally effective way of caring for the self-healing soul. This completes hygiene and holds staggering implications for individuals, society, and the world.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
-{:#continue}
+&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
+{:.arrow}
 
-#### ebook
+## ebook
 
 - get it at [leanpub](https://leanpub.com/darkroomretreat)
     - free/pay what you like
@@ -66,7 +67,7 @@ Hygiene has long excelled in caring for the self-healing body. With darkroom ret
     - no spam and your contact info remains hidden, even from me
 - or [here](/ebook)
 
-#### help out
+## help out
 
 See [introduction > help](/introduction#help) for many ways to participate in and support hygienic darkroom retreating.
 

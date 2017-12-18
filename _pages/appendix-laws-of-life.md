@@ -23,3 +23,6 @@ permalink: /appendix-laws-of-life/
 
 Resume reading [hygiene](/hygiene#examples)
 
+[&lt;](/water/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/appendix-pathology/)
+{:.arrow}
+

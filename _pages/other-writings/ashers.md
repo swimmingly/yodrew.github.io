@@ -23,6 +23,6 @@ Back to the river: it churned brown. It snaked through a long valley near Jackpo
 
 revised 3 Jan 2003
 
-#### &nbsp;&nbsp;&nbsp;[&lt;](../lyrics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../bibliography/)
+[&lt;](../lyrics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../bibliography/)
 {:.arrow}
 

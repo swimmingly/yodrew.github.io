@@ -46,4 +46,4 @@ permalink: /about/bibliography-influences/
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - two months of life-altering sex, Sweden, 2012
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../faq)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments)
+&nbsp;&nbsp;&nbsp;[&lt;](../faq)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../acknowledgments)

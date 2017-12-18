@@ -105,4 +105,4 @@ I also made enemies and hurt some people along the way. I'm sorry it didn't go t
 
 Acknowledgments in books usually bore me. This one I cannot reread without weeping. Onward, then, till the task is complete.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&lt;](../bibliography-influences)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;](../disclaimer)
+&nbsp;&nbsp;&nbsp;[&lt;](../bibliography-influences)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../disclaimer)

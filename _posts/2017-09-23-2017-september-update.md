@@ -1,7 +1,7 @@
 ---
 title: 2017 september update
 layout: post
-published: true
+
 permalink: /blog/2017/09/2017-september-update
 ---
 
@@ -13,9 +13,9 @@ In four months, with $2800, I only arranged a rushed 5-day retreat. My incapacit
 
 I continued trying to arrange a retreat while struggling to keep a roof over my head as usual. I found a workshop to prefabricate a new portable building in. I met several people interested in participating and supporting it somehow. But my living situation constantly interfered with my efforts.
 
-Finally I realized what everyone who knows me must know: my biggest and most immediate problem is my homelessness. I shifted my focus from arranging a retreat to making a home for myself. Everything started fall into place. With a home, I could do the retreat and the hundred other things I need to do and which constantly plague my efforts to retreat. My darkroom building project became my home building project. For several hours one day, I felt [rapture](/darkness-conjecture/rapture) for the first time since it overcame me as a teenager.
+Finally I realized what everyone who knows me must know: my biggest and most immediate problem is my homelessness. I shifted my focus from arranging a retreat to making a home for myself. With a home, I could do the retreat and the hundred other things I need to do and which constantly plague my efforts to retreat. My darkroom building project became my home building project. Everything started falling into place. For several hours one day, I felt [rapture](/darkness-conjecture/rapture) for the first time since it overcame me as a teenager.
 
-The hexayurt will be a full-size hexayurt (4.8m inside diameter, corner to corner) of massive materials for warmth and sound insulation yet still portable. As a darkroom is just a proper shelter that is easily darkenable, the whole building will meet my specifications in [design](/design). I have built one-third of the floor. Photos soon.
+The house will be a hexayurt of massive materials for warmth and sound insulation, yet still portable. It will be full-size: 4.8m inside diameter, corner to corner, and 1.8m high walls and a 3m peak. Since a darkroom is just a proper shelter, and so easily darkenable, the whole building will meet my specifications in [design](/design). I have built one-third of the floor. Photos soon.
 
 About the same time (June), my meager cryptocurrency investments of the previous 18 months matured. Suddenly I had enough to build and feed myself.
 
@@ -25,12 +25,8 @@ I got away from him in time. I was offered a two-month housesitting job in a run
 
 Though I have more money (on paper) than I ever had at once in my life, my capacity for money and for the power it represents remain quite limited by ordinary standards. I pray it is enough to get me into darkness for 20 days. We will see.
 
-Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by eliminating footnotes and underlining words that are links in the PDF or online. The new version is up at [leanpub](https://leanpub.com/darkroomretreat)
+Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by replacing footnotes with underlined words that are links in the PDF or online. The new version is up at [leanpub](https://leanpub.com/darkroomretreat).
 
 It also includes three crucial new designs: a [silencer](/air#silencer), [fan mount](/air#fan-mount), and [instant sleeping mask](/darkness#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
 
 Ok, till next time.
-
-
-
-

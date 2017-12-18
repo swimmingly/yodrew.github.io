@@ -68,6 +68,6 @@ Inspired by my breakthrough on Christmas, this was going to be my first long ret
 
 It helped me realize, in yet another way, how I have habitually kept people out of my life. This led me to ignore several warnings that an occupied house might be too noisy for a retreat. Also, I ignored a request from a couple friends to give a talk about the conjecture, which likely would have opened up the project to others participation. Heartbreaking. But somehow I will open up.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../6-day-retreat/)
+&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../6-day-retreat/)
 {:.arrow}
 

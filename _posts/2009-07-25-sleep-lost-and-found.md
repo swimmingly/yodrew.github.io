@@ -4,6 +4,5 @@ layout: post
 permalink: /blog/2009/07/sleep-lost-and-found/
 ---
 
-This post now is a page, [make][1].
+This post now is a page, [make](/make/).
 
-   [1]: /make/

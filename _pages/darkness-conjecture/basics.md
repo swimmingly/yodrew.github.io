@@ -31,7 +31,7 @@ The conjecture is essentially a logical argument, each point of which everyone k
 8. Therefore, dark retreating is a way to restore rapture.
 
 
-#### the darkness conjecture, original
+#### the darkness conjecture - original
 
 The conjecture's wording used to be different. The original wording influences most of the essays that follow, so I am including it here:
 
@@ -58,6 +58,5 @@ Similarly, you may feel that I exaggerate the potential of the self-healing psyc
 
 If our lifeway's insanity is obvious to you, yet you find yourself strangely unable to break free of it, take heart. The chains that bind you are wholly internal, and you will gradually discover them in darkness. The restoration of psychic integrity is the master key to a new way of life. We will still have to open the door and walk through, but we can stop trying to pick the lock.
 
-&nbsp;
 
 [&lt;](../conjecture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../rapture/)

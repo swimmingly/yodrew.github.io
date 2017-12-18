@@ -27,7 +27,7 @@ After improvising darkness to sleep in [*tonight*](/format#tonight), the [*insta
 
 If you need more specific advice for darkening your space, I provide [*design consultation*](/services). Likewise, feel free to use these [*open-source*](/introduction#open-source) designs and my consultation to darken other people's spaces as a service for money. See [*license*](/license).
 
-#### metric
+## metric
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
@@ -59,7 +59,7 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
 		- 28g = 1 oz
 		- *1kg = 2 lb
 
-#### tools
+## tools
 
 Making components requires some or all of these tools:
 
@@ -105,7 +105,7 @@ Making components requires some or all of these tools:
         - every 300mm, 8mm holes, an 8x80mm bolt, 2 washers, and a wingnut holding boards together
     4. hack saw (for roller blind), even just a hack saw blade is enough. Cover teeth at one end with tape as a handle so you can cut on the pull stroke
 
-#### plans
+## plans
 
 I have drawn the plans on a computer for precision, clarity, and ease of modification. They can be baffling to look at first. Use the **key** to understand the symbols and marks. Compare drawings to photos. Then simply _follow the instructions_, one step at a time, and you ought to end up with the intended component. If this does not work, write me and I'll try to sort out the confusion I've caused you and maybe improve the instructions and drawings for others, too.
 
@@ -160,7 +160,7 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
 
 [![plan key](/img/plan/image/key.png)](/img/plan/key.pdf)
 
-#### fabricate
+## fabricate
 
 These instructions apply to all components, or as indicated. Read special instructions for each component in its respective section afterward.
 
@@ -240,4 +240,7 @@ These instructions apply to all components, or as indicated. Read special instru
 ~~
 
 Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.
+
+[&lt;](/design/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/air/)
+{:.arrow}
 

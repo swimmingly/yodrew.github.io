@@ -222,3 +222,7 @@ All Rights Reserved.  No Part Of This Document May Be Reproduced For Commercial 
 [See "The Seed Ball Story" Video Tape](/web/20051224120427/http://www.seedballs.com/sbvt10pa.html)
 
 _<font color="#FF0000">*[(BACK)](/web/20051224120427/http://www.seedballs.com/2seedpa.html) -- (GO [![](world9.gif)](/web/20051224120427/http://www.seedballs.com/3seedpa.html) ON) -- [(EXIT)](/web/20051224120427/http://www.seedballs.com/)*</font>_
+
+[&lt;](/origins-of-agriculture/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/mosseri/)
+{:.arrow}
+

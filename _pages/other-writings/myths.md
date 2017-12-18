@@ -84,21 +84,6 @@ One night, a child spotted a new star in the sky. Over generations it grew brigh
 
 The Great Hoop rolled on, round and round, again and again, forever and ever. Behold: Earth, where life burns bright and fast but never goes out, one generation to the next.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### long return
 
 The people were dying. We had tried everything. Welcoming, guiding, trading, sharing, talking, debating, running, sabotage, hiding, fighting, alliances, dividing, enduring. Nothing worked. The smelly soldiers were never satisfied. Fire and blood did not stop them, and when they had finished us, they would seek more.
@@ -116,5 +101,5 @@ The world is our home. We will not abandon it in its time of need, after the man
 [&lt;](../tribal-housing)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../poems/)
 {:.arrow}
 
-#### [Gallery](http://andrewdurham.shutterfly.com)
+#### [Gallery](http://andrewdurham.shutterfly.com) (off-site)
 

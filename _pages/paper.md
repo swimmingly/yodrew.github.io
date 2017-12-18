@@ -1,25 +1,1747 @@
+---
+title: darkroomretreat.com extras
+layout: page
+permalink: /paper/
+---
+
+This is the secondary content from [darkroomretreat.com](http://darkroomretreat.com) in one printable document. The main content is in the book, hygienic darkroom retreat, available on the site and at [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat). 
 
 
-### the darkness conjecture {#the-darkness-conjecture}
+## blog  {#blog}
+
+
+### welcome {#welcome}
+
+2009/02
+
+I think I've theoretically solved all the problems in the world with this idea. Sorry it took so long, and thanks for coming.
+
+### it's not mine alone {#its-not-mine-alone}
+
+2009/02
+
+I have long felt like I could not impose the demands of my [quest](#darkness-conjecture/rapture/) on others, could not trouble them with it. But today, it occurred to me that my quest is not really just mine. There are plenty of people who are in the same boat as I, having declined/rejected/imploded the roles we were offered in this cancerous culture.
+
+As I began to nod my head, I thought, like me, they look for a viable alternative. They would be glad to participate in it if they thought it might work. Just like me, they feel they have nothing to lose. Maybe they have nothing better to do, either.
+
+It is not for me to decide whether you participate in this. It is not mine alone.
+
+Besides, the darkness conjecture is just a sketch of a hypothesis. It needs fleshing out and further testing. I make no promises, only a reasonable case for it. I am not bringing a revelation from the mountain, just a sketch of it from the plain. I would like to go there one day. Maybe you are headed that way, too.
+
+I think of the group as a family, a research family. We would be a band of refugees from the death-culture, explorers of the future, looking together for a bridge to a human way of life. Each of us has different aptitudes and sensibilities, all of which are necessary to arrive at a genuine solution to the problem we all face: inordinate suffering.
+
+Here is something about the money part of it that some friends, [Ethan and Sarah Hughes](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), have demonstrated: that the group immediately begin freely serving other people. It is not about making money. If I still worry about making money, it is because my material expectations are too high. If the conjecture is a good idea and if we approach it well enough, it will be supported. This has been the Hughes' experience, which they saw modeled in Peace Pilgrim's life and many others. I have seen it, too. Who hasn't, really? Generosity is infectious.
+
+So rather than soliciting funds, we solicit opportunities to serve. One idea I had is to darken people's bedrooms with free reusable materials. Or to set up free darkrooms, portable or permanent, for neighborhoods or groups. Perhaps our own experiences in darkness would eventually inspire us as a radical theatre troupe or guerrilla gardeners. Or we could walk down streets banging pots and calling out to people for their sick. I do not know. Like everyone, I have a mostly untapped genius that could flow in many different directions.
+
+My only possible conflict is I also wish I lived in a warmer place with yummy fruit and saner people, but maybe I'm not special in this regard, either.
+
+To begin, I guess I will give a free talk somewhere soon. And there is more to say than what I have put up so far. Let me know if you would like to be there.
+
+
+
+
+### news {#news}
+
+2009/02
+
+I'm collecting myself after my first failed attempt at a long darkness retreat. It only lasted two days, not two weeks as planned. I underestimated the need for quiet and chose a room that proved too noisy.
+
+Thus I now seek a separate, finished building, preferably with a bathroom. I would need as much as a week to prepare it before heading in for 14 days.
+
+If anyone has or knows of a such a finished building; or has any other thoughts, please [let me know](#about/). I can travel.
+
+
+### new page - psychosis {#new-page-psychosis}
+
+2009/03
+
+I just wrote a new page, [psychosis](#darkness-conjecture/psychosis/). It describes the insight I had on Christmas, 2008 which led to the darkness conjecture.
+
+
+
+### new page - four darkness experiences {#new-page-four-darkness-experiences}
+
+2009/03
+
+I made a new page about my [four darkness experiences](#reports/four-darkness-experiences/).
+
+
+
+### midwest-bound {#midwest-bound}
+
+2009/04
+
+I have decided that the darkness retreat must be embedded in a life that already works well in other ways. So I am going to the midwest next week to stay at the [Possibility Alliance](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), which I have [mentioned before](#blog/2009/02/its-not-mine-alone/). After languishing in Eugene for six weeks following my first failed attempt at a long darkness retreat, and exploring options here in Seattle for a month, it is clear my own happiness must become a priority. I cannot wait until the completion of a darkness retreat. And I cannot hope that anyone will really understand this before I complete one.
+
+I really appreciate the comments and support various people have given me since I stumbled out of the darkness in February. Boy, what a strange couple of months it has been!
+
+I have been printing up a booklet of this site's contents in order to send it to people who have supported me in the past. If anyone would like one, let me know.
+
+In other news (ha), I just finished reading a long strange mushroom trip of a book by [Daniel Pinchbeck](http://en.wikipedia.org/wiki/Daniel_Pinchbeck) called _2012: The Return of Quetzalcoatl_. Here is an applicable quote: "It may be that the only way to survive the Apocalypse is to undergo it, first, within your own being."
+
+
+
+
+### kansas city {#kansas-city}
+
+2009/05
+
+I'm in Kansas City, Missouri now, pursuing an unexpected opportunity to build a spherical geodesic plydome and retreat into darkness. Should take a month or two to prepare. We'll see!
+
+The Possibility Alliance was relaxing and useful, but ultimately the folks there were not open to my doing a darkness retreat there anytime soon. Best wishes to the Hughes and everyone there. Worth the trip, for sure.
+
+In KC, I have been helping around the home of some groovy peeps who needed some plumbing and a bike rack. Next, 6′ [hexayurts](http://hexayurt.com) for myself and a couple other guys because they're so cheap, elegant, and quick to build. Then the plysphere and darkness!
+
+
+
+### dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep-rejuvenation-and-lust}
+
+2009/06
+
+Now a report. See [dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust](#reports/3-day-sith-bathchamber).
+
+
+
+### design bonanza {#design-bonanza}
+
+2009/07
+
+Still here in Kansas City, MO. It is design bonanza day due to my friend's computer's webcam, which is an absurd but effective way of taking pictures. (edit: I retook 3 photos with a real camera. More photos soon.)
+
+Anyway, the hexayurt's up! I'm moved in and basically, it is beautiful.
+
+hexayurt front, with screen door (blue tape is screen repair, and yes, that's an impala). 6' hexayurt ( 1' extra height), plywood walls, OSB roof under salvaged asphalt roofing
+
+hexayurt from back
+
+Between my obsessiveness about details, the non-uniform, dirty, salvaged materials, and my funny toolset, it has taken way longer than expected. These things can be built in a few days if you just [follow instructions](http://openfarmtech.org/weblog/?p=340). C'est la vie. The hexayurt now has provisional solid and screen doors. It still needs shelving.
+
+I racked my brains for three days over the design of the hexayurt's experimental "flat octet truss" floor:
+
+It was worth it, though. I'd been imagining it for a few years and finally had a chance to build it. It is much lighter than a conventional 2×4 or 2×6 joist floor. It is springy and will work nicely in the dome.
+
+Now that I'm sleeping in it, I'm keeping electricity out of it. This is due partly to the influence of the [Hughes](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), who make such excellent candles. I am using an oil lamp:
+
+uses any vegetable oil or biodiesel
+
+I developed it in April in Seattle for Marcus' Martini Heaven, the Pioneer Square bar of my hard rocking high school friend, Steve Alexander.
+
+Recently I built a solar shower out of a 5-gallon bucket.
+
+solar shower bucket
+
+A black planting bucket fits perfectly inside and heats up the water in the sun. A salvaged piece of tempered glass (framed in blue masking tape) traps the heat. A 3/8″ OD polyethylene tube comes out a 5/16″ hole toward the bottom to give a 12-minute warm shower. In use, the bucket rests on a chest-high platform I built above the tub in the bathroom. An upside-down bucket in the tub provides a seat. Our water runs cold and only to the sinks, so this baby has much improved our quality of life for the price of the tubing ($2).
+
+Also I built a compost tumbler for humanure out of a plastic 55-gallon barrel. It uses my first toggle latch.
+
+1/8
+
+These latches totally fascinate me. However, I'm not sure the tumbler is going to work for _all_ the humanure collected over the last six months (!), so we'll build a three-bin shed in the backyard that will also act as a fence. Maybe the tumbler can go in front for food scraps. It will rest on a frame with four skateboard wheels to spin on.
+
+The ever-snapping clothesline stays up finally and folks are keeping the house a lot cleaner. Three guests left, two disgruntled roommates moved out, and a smart, funny guy moved in, so things are running smoothly right now. I hope his somewhat resembles a "life that already works well in other ways" (see [midwest bound](#blog/2009/04/midwest-bound/) post). I'm super grateful for the welcome, friendship, and shelter of the young KC crew. What is youth? The absence of resignation.
+
+Oh, look. It is the 4th of July.
+
+
+
+### spheres for darkness retreats {#spheres-for-darkness-retreats}
+
+2009/07
+
+Where should one do a darkness retreat?
+
+For a few years, I have thought: a dome. Sphere-based structures, such as geodesics, [conics](http://www.conicshelter.com), [hexayurts](http://hexayurt.com), [superadobe domes](http://www.calearth.org/EmergencyShelter/eshelter.html), allow lifeforce to flow. Thus they are very conducive to rest. They also provide an energetic shield against the psychic influence of this culture. In my [architectural experiments](http://andrewdurham.shutterfly.com), I have experienced this first hand. These kinds of building feel different because they _are_ different.
+
+I mean different from square buildings, of course. Having observed the effects of square shapes on myself and others for many years, I have concluded that rectilinear geometry does not serve resting and healing well. This is because we rest to allow an inflow of vital energy and squares do not let subtle energy flow. Squares halt, concentrate, and focus lifeforce. The square is a manifesting shape. Thus it can be good for productive activity such as work and spiritual practice (and then only if you know what the hell you are doing and are committed against becoming a black magician). In any case, the square disrupts and deforms passive activities. Thus resting and recreating in them is—how shall I put it?—significantly less than excellent.
+
+Should the darkness conjecture prove true, then the energetic field generated by small groups of healed and sympathetic people can mitigate the effects and vulnerabilities of square buildings. Initially, however, a round shape is critical.
+
+I found especially interesting [David Wilcock](http://divinecosmos.com)‘s comments in [2012 Enigma](http://video.google.com/videoplay?docid=-4951448613711060908) on an organic geometrical transformation that occurs when traversing the dreamworld. Apparently the conscious shift from spacetime to timespace is accompanied by a change from an icosahedral to a dodecahedral shape in the water molecules inside the pineal gland.
+
+This kind of thing naturally appeals to my geeky designer-brain, with which I have been toying with Platonic solids and spherical trigonometry for the past few years. So, for the retreat, I'm going to build a pure icosahedral Self-Strutting Geodesic Plydome.
+
+![18 ft geodesic plydome, shows construction method](http://web.archive.org/web/20050403170016im_/http://www.sover.net/~triorbtl/tn/S18f-95-31.jpg (18 ft plydome))
+
+18 ft geodesic plydome, shows construction method
+
+Except I will make a whole sphere rather than just a dome. We may even hang it by ropes from the large surrounding trees in the backyard. It will be 12 feet in diameter and cost roughly $600 (exact breakdown to come) in materials and be extremely interesting to build.
+
+![12 geodesic plydome, size I intend to build, except without conical cap](http://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg (12 plydome))
+
+12 ft
+
+My roommates, who are grateful for the copious work I have done around the house, have expressed interest in keeping the sphere as guest quarters. One roommate might abscond with it to land he intends to buy in the fall. So they have offered to cover the cost of materials. What is not covered in the meantime are my other expenses: food, bike parts, laundry, etc, at about $200/month.
+
+I also feel dubious about being subjected during the retreat to the noises in this neighborhood, which is the local hunting grounds for KCMO's well-funded, racist police. This is not necessarily a problem because the sphere can be moved fairly easily if an idyllic countryside location opens up. Then again, this neighborhood might be the ideal location, given the radical nature of the retreat. We'll see.
+
+The dome, food, and continuing to serve my household: so far these constitute my plan and wishlist. So various opportunities for participation in the project exist for interested parties. I would very much appreciate help if you feel moved to give it. Somehow, somewhere, and for the sake of all beings everywhere, especially on Earth, and especially _this_ being, I will lie down in darkness for two weeks.
+
+“If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.”  
+--Richard Buckminster Fuller
+
+
+
+### sphere bid {#sphere-bid}
+
+2009/07
+
+Here is my quick bid for the direct costs of building the sphere.
+
+body and awning:
+1/4″ BCX plywood, 15 sheets @ 18.50 = 277.50
+130 machine screws, nuts, fender washers, = 5.00
+linseed oil, 1 gal = 20.00
+turpentine = 15.00
+
+stand:
+2x4x8′, 8 boards @ 2.50 = 20.00
+metal stakes, 5 @ 2.00 = 10.00
+
+floor:
+1/2″ CDX plywood, 3 sheets @ 13 = 39.00
+2x4x10′, 8 boards @ 3 = 24.00
+deck screws = 5.00
+
+door:
+1/2″ CDX plywood, 1 sheet @ 13 = 13.00
+2x4x8′, 1 board @2.50 = 2.50
+deck screws = 2.00
+
+tools:
+circular plywood blade = 10.00
+bits = 15.00
+misc tools & supplies = 20.00
+
+total: $478.00
+time to completion: 3 weeks
+
+~
+
+other necessary components:
+humanure composting toilet
+convection ventilation system
+food cooler
+water dispenser
+bed
+inversion swing
+chin-up bar
+
+If you feel moved to contribute in any way to the purchase of materials, the fabrication, assembly, outfitting, and occupation of the sphere, please [write me](#about/).
+
+### 'sleep: lost and found' {#sleep-lost-and-found}
+
+2009/07
+
+This post now is a page, [make](#make/).
+
+
+
+### psychosagenesis {#psychosagenesis}
+
+2009/08
+
+I came up with a new word for the process of inducing psychosis: psychosagenesis. This concept, I realized shortly afterward, is _identical_ to the process of civilization. To civilize someone _is_ to induce psychosis in her.
+
+To induce psychosis in someone, just traumatize her thoroughly. Violently injure her. Do it physically and psychologically, repeatedly, relentlessly, in diverse circumstances  and by various methods until something deep inside her _gives way_. Her will? Her wholeness of awareness? Her spirit, joy, and values? All these things. Now she is left with the peculiar sort of psychosis that makes it possible to function inside the machine that hurt her so badly. Civilization is thus both the process of causing psychosis and the collective embodiment of that psychosis.
+
+Other words for or related to this include: zombification, mass hypnosis, walking wounded, living dead, coffee-drinking nation, got milk, beef: it's what's for dinner, idiocracy, sleeping world, matrix, "they". I will add more as they occur to me. Send your suggestions.
+
+This is the most damning description of civilization I can come up with. All it takes to make the meaning of it palpable is to go into a darkroom for a couple of days and experience the contrast between being _rested_ and living as a functional psychotic in the uncomfortable and vague dream that is modern life.
+
+Note the light pollution nearly everywhere that prevents normal sleep. I read a little bit today about about delta brain waves. An EEG machine will record mostly delta waves during deep sleep, when the healing quality of sleep is most active. Modern life systematically prevents this kind of sleep through ambient urban light, light leakage around doors, LED indicators on machines, LCD alarm clocks, and night lights. The reason we are metaphorically asleep as people and as a society is that we are sleep-deprived.
+
+Edison's invention was the logical consequence of 10,000 years of violence against humanity.
+
+Now, is everyone in civilization psychotic? Yes, everyone. Even the realized masters of various spiritual traditions. Why?
+
+"God" is the civilized concept for the subtle and conscious aspect of Universe. This concept is a way to expose civilized people to the subtle dimensions of reality through an avenue effectively controlled by hierarchical traditions. It is as if we have been imprisoned in a cell where we are constantly tortured. Then someone---a realized person---drills a small hole through the wall of the cell and says, "Look, there is god." But he stands there controlling access to it. He will be happy to teach you to drill your own hole through the wall, too. Sometimes, in heightened states, he can make the walls disappear. He is psychotic because he has accepted the necessity of the cell walls, just as he has acquired, by immense force of effort, the ability to dissolve them at will.
+
+The truth, of course, is that the subtle dimension pervades Universe just as the gross one does. It is accessible at every point, every moment, even inside a cell. The blinders are inside consciousness, in the psychosis of everyone of us. They will remain there until we inside the cells appreciate the opportunity to relax into its darkness and we finally heal from them. The torture will continue whether this relaxation takes place or not. One has lasted this long. One can last a bit longer.
+
+
+
+
+### situation report 090811 {#situation-report-090811}
+
+2009/08
+
+If you've seen nothing, if the crimes of this culture remain unknown to you, then I would suggest you allow this post to pass unmarked. But if you see what I see, if you feel as I feel, and if you would seek as I seek, then I ask you to avail yourself of the vivifying veracity of these volumes:
+
+[Confessions of an Economic Hit Man](http://www.amazon.com/gp/product/0452287081?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0452287081)![](http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=0452287081) by John Perkins
+A former perpetrator explains the precise mechanism of American imperial activity abroad. Not the [greatest](#other-writings/bibliography), but the most important book I have read in years.
+
+[The New Pearl Harbor Revisited](http://www.amazon.com/gp/product/1566567297?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1566567297)![](http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=1566567297) by David Ray Griffin, PhD
+A relentless, unanswerable, comprehensive exposé of Cheney"s bombing of the World Trade Center on September 11, 2001 and the ensuing cover-up.
+
+more by Dr Griffin:
+video [9/11 and the American Empire](www.youtube.com/watch?v=5x0vPXGYzqQ)
+interview What Really Happened on September 11?
+
+EDIT: an even more radical description of events is by engineer, [Dr Judy Wood](http://drjudywood.com), who has interesting criticisms of Dr Griffin's analysis. She says that energy (particle-beam) weapons were used on the World Trade Center and gives a mountain of evidence for it. Happy rabbit-hole spelunking!
+
+
+
+### soundproof dome {#soundproof-dome}
+
+2009/08
+
+The dome must be soundproof, not just sound-dampened. Enough bad experiences with noise and enough reflections by other people have finally gotten it across to me. Sound, to a lesser but still significant degree than light, will sufficiently stimulate consciousness's fixation on the gross dimension. How much? Maybe enough to ruin a test of the conjecture. I'm not going to take that chance.
+
+As much as I'd like to build it, the [plysphere](#blog/2009/07/spheres-for-darkness-retreats/) mentioned before will not meet this new qualification. Furthermore, attempting the retreat in or near the city is also now out of the question.
+
+Soundproofness, like other standards the conditions of this first test will meet, may prove non-essential. I hope so. But I will not know till I go through the test first.
+
+Another project I heard about in the spring got me thinking of a corbeled straw bale dome with cob plaster and, like [i did with a friend in 2007](http://andrewdurham.shutterfly.com/172), a [conic](http://conicshelter.com) roof of canvas. The design is very simple, fast, and cheap, and would work well for the retreat. I'm working on a model right now. Pics soon.
+
+This also means I need a new source of funding for the dome, and a new, quiet location in the country. Maybe they'd like this at the [Possibility Alliance](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/) and I should try again there.
+
+We'll see. I'm glad to have finally seen the need for soundproofness before building something.
+
+What else am I missing?
+
+
+
+### darkness, take 6 {#darkness-take-6}
+
+2009/08
+
+My 5th attempt to arrange for a darkness retreat has failed. So tonight I start my 6th attempt.
+
+I began putting the word out that I need a location and a provider of funds for materials. The new retreat building will be made of straw bales, so unlike the plysphere design, I cannot build it first and find a location afterward. Also, I do not know if I will stay wherever I build the thing, so I need someone who wants it afterward, someone who would pay for the materials beforehand.
+
+The cost should roughly equal the plydome estimate: $600. This is for straw bales, twine, 15 sheets of 3/8 CDX plywood for a roof and gas to haul urbanite (for a foundation) and sand (for the cob plaster).
+
+I aim to either succeed or fail thrice more by year's end. Plus leave the states for warmer climes because I prefer warmth, yummy fruit and Latin-Indigenous culture. Central/South America, anyone?
+
+### william arthur evans {#william-arthur-evans}
+
+2009/08
+
+I would like to share a bit of the background of the darkness conjecture by discussing the work of an early psychobiologist, William Arthur Evans. Evans wrote about the emotional origin of all illness. He had a practice in Dallas, Texas, and eventually, a school.
+
+Due to his astonishing success with patients, he received a subpoena from the US Food and Drug Administration (funny how that works). He knew of and sympathized with Wilhelm Reich, the great somatic psychotherapist and researcher. Reich had recently died in federal prison while being persecuted by the FDA for similar reasons. Evans, lacking a victim complex to fulfill, left for England within a week, never to return. Thus we do not know who Evans was.
+
+We do, however, know of his student, L Ron Hubbard, who lifted Evans' achievement wholesale; fabricated some new vocabulary; emphasized the religious side of his teacher's project; and, apparently, went around acquiring and burning copies of Evans' books to hide the source of Scientology and Dianetics. (I learned all this from an old friend, a diligent researcher.)
+
+Nonetheless, Evans cogently describes in his books the existence of intelligence and feeling in each cell of the body. As the unit of life, it is a micro-scale embodiment of everything experienced on the conscious level. Cells are commonly observed to respond intelligently to their environment. What we experience as our intelligence and feeling is the integrated sum of the intelligences and feelings of our trillions of cells.
+
+Like whole human beings, cells are conditioned by experience to feel a certain way. In this lifeway, that generally means a depressed way which only varies within a narrow range, depending on the circumstances. This persistent, pathological emotional state leads eventually to all disease.
+
+He illustrates the idea like this: A man complains of a nausea in the morning and explains it by saying he ate too much the night before. Evans' singular question is: But why did the man eat too much?
+
+Only the persistence of emotional habit explains the man's acting against what he already knew to be his best interest. Thus, the material habits of eating, sleeping, exercising, bathing, breathing, etc, all become the handmaidens of emotions. It is true, for example, that more than a very small amount of fatty food toxifies the body and thus should not be eaten. But as long as a given set of habituated emotions is running its course in response to habitual circumstances, the person involved will end up eating too much fatty food over and over, no matter what he learns or tries.
+
+Can improved material habits lead to clarity of emotion? Temporarily, yes. But without further discipline and guidance, the process of purification and reconditioning will eventually break down. By force of will, the man can cut back on fat. But then he becomes absent-minded, or an asshole, or especially nervous, etc, any one of which can lead to other kinds of illness or injury of the same _intensity_ and playing the same role in his unconscious drama. In other words, the being will make an internal compensation and remain fundamentally unchanged.
+
+Before reading Evans, I had thought that material factors of health and disease were the main causes of disease. This is the superheroic emphasis of contemporary culture and of Natural Hygiene alike. Through my spiritual teacher, I had also discovered Gurdjieff's methods of self-study. In using these methods, I would sometimes experience profound physical and psychological relief. So the experience of health deriving from _clarity of consciousness_ began to repeat itself in me in small ways. But I found it difficult to reconcile these two ideas about the causation of suffering.
+
+Evans' work provided the missing link in what I had begun to imagine as a cycle of illness. While material causes of health or disease cannot be ignored if ones health is to be fully restored, the basic effect of these factors on health are determined by emotion. For Evans, this insight was enough. He was a master at helping ordinary people rapidly untangle the associations of their emotions and memories. Thus he was able to help people effect spontaneous healings on a regular basis. This likely killed local medical business, drawing the ire of the FDA, probably through the American Medical Association.
+
+Having studied Ayn Rand and Gurdjieff (and a little E J Gold), I knew that emotions themselves are artifacts of _feelings_ reanimated by thought. Evans well understood this. But in my growing view, thought was, in turn, a function of the spiritual dimension of the human organism. "Neti, neti," as the Hindus say: Not this, not that.
+
+Presently, I intuited a long chain of causation of illness that also connected to my observations of widespread social breakdown and ecological destruction. Yet I was puzzled by the sense that all these causes seemed to exist on the same level. I had thought for a long time that the spiritual determines everything else, but this idea was also getting old to me. The work involved to make it true seemed too much. Being a designer, ie, a lazy person, I could not believe it. Maybe all these causes were co-arising, or reciprocal, quasi- causes. A single _deeper_ cause must be at work.
+
+This idea of a deeper cause of health, catalyzed by Evans, mixed into my experiences with darkness, spiritual practice, design, and diet. It led, a year later, to the darkness conjecture*. In the conjecture, the six main kinds of human suffering are viewed as co-arising. That is, they appear to cause each other, but actually derive from impaired consciousness and its immediate effect, psychosis. The spirit becomes dim, the mind bored, the heart numb, the body fatigued, society brittle, and the ecosystem stressed, because so many peoples' consciousnesses are actually broken. Damaged. Wounded. The _majority_ of available data is missed, suppressed, or misinterpreted automatically long before will (ie, volition, reason, choice) comes into play. Failures, deficiencies, and distortions result in the rest of the human system, individually and collectively. These dysfunctions renew existing cultural problems until it exhausts itself in total collapse. Survivors, more damaged than ever, begin the long, slow, "glorious" work of rebuilding toward the same end.
+
+But the organism in darkness can break this cycle before it reaches its inevitable external end.
+
+&nbsp;
+
+*I read _Human Technology_ and _Introduction to Human Technology_, which are out of print and very rare. However, a couple of Evans' other books have recently returned to print. See [abebooks.com](http://abebooks.com). Also, I mentioned Evans and Gurdjieff before in a [sketch of a piece](../../other-writings/sanity-and-health/) I never finished.
+
+
+
+### darkness proposal {#darkness-proposal}
+
+2009/09
+
+Having just written a big hairy proposal to build a straw bale dome, it occurred to me that there may be a suitable building out there I could use. The main thing, after all, is the darkness retreat itself. So, if you have or happen to know of a small, round, building in a quiet place that I could use for about a month, then I would pay rent or work in exchange for its use rather than build a whole building from scratch. Please let me know.
+
+### marketing {#marketing}
+
+2009/09
+
+I wonder if it is earlier in the process of realizing this idea than I thought. Maybe it needs more development. Usually, when I have an idea, I rush it into production. And it has not really mattered before because everything was part of a massive survey of information. I only needed a rough test of something to catalog it and move on.
+
+But this is different. Of course I have ideas about the best way to apply this, but I do not actually know. The idea is so big it could be applied in any of a million ways. Maybe the thing to do is solicit help from people I know to develop the idea rather than apply it directly with them right away. Maybe I'm in an early stage of marketing.
+
+Part of what has driven me before is not knowing where I was going to sleep or what I was going to eat in the meantime. It drives me still. Not having the ability, with my feet broken, to fall back on some form of craftsmanship to support myself steps up my level of necessity to break through. It makes me think I need to develop/produce the darkness idea _faster_, that there must be some way right now to apply it profitably for all concerned. It is very confusing.
+
+The next few days will tell, I guess. Boy.
+
+### conjecture's sixth point {#conjectures-sixth-point}
+
+2009/09
+
+I just added a sixth point to the darkness conjecture (see original version in [basics](http://andrewdurham.com/basics)).
+
+Until now, I have left it out because it is implied by the first five. But I cannot stop wondering if it is really all that clear to folks, so here it is:
+
+6. Healed consciousness clears the way back to a full life, dispelling our inordinate suffering and absurd problems.
+
+The suffering I am speaking of is not just the suffering we acknowledge, but also the suffering we have so deeply resigned ourselves to that it no longer counts among us as suffering. For us, it's just how life is; get used to it.
+
+For example, degenerative disease, such as cancer, high blood pressure, diabetes, AIDS, heart disease, Crohn's. Every kind of psychic illness: depression, schizophrenia, paranoia. Disease is not inevitable. Though at some point in every illness, death becomes certain, it is usually much farther along than medicine tells us. I do not care what you suffer from, you can heal, more rapidly and thoroughly than you can believe.
+
+Frailty in old age. Perennial family conflict. The struggle just to make a living. Taxes. Wars of conquest sold as self-defense. Lying politicians. The boredom, hatred, and dread of schoolchildren, prisoners, soldiers, and employees. Homelessness. Famine, poverty, crime. Addiction and self-destructiveness of every kind. Basically, the noise all of us learn to turn down because it seems impossible to deal with. Yes, _that_ is the suffering I'm talking about.
+
+Every one of us has had moments of rapture, when the world appeared as paradise. In the conjecture, I am saying that these were moments of lucidity: clear awareness of the world as it truly is; that this awareness can be restored; that it will wipe out the suffering we have resigned ourselves to. Despite everything that has been drilled into us by school and church, by doctors and the state, by television and jobs, this is the world that can be lived in day in a day out, not just in rare moments.
+
+
+
+### first incoming link {#first-incoming-link}
+
+2009/09
+
+Well, I got [my first incoming link](http://entitledtoanopinion.wordpress.com/2008/03/20/digestion-selected-for-docility/) today* from [entitled to an opinion](http://entitledtoanopinion.wordpress.com/), a droll, well-written blog on contemporary social and political issues. The author just wanted an ad-free copy of [Origins of Agriculture](#other-writings/origins-of-agriculture/) by Greg Wadley and Angus Martin and found one here. Random, but strangely exciting.
+
+\[*edit: in fact, this link occurred 1 1/2 years ago; I only just _noticed_ it now that I'm using wordpress. Before, I just had a static html website and zero awareness of things like incoming links. Now, with WordPress, I'm starting to learn to manage this site properly. Thanks, TGGP.\]
+
+
+### darkness made simple {#darkness-made-simple}
+
+2009/09
+
+I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [original conjecture](http://andrewdurham.com/basics).
+
+#### simple {#simple}
+
+1. We civilized people hurt in our spirits, minds, hearts, bodies, society, and world.
+2. This is because we are brain-damaged. This damage makes us crazy about the material world and blind to the also-real world of dreams.
+3. We are locked into acting like this because, when we were young, civilized people hurt us very badly and so we are always afraid of getting hurt again.
+4. With a lot of very deep sleep, our brains, like any part of the living body, can heal from this hurt.
+5. Staying in a totally dark room for a couple weeks straight makes this kind of sleep possible.
+6. Once our brains heal, then our lives fill up again, our [hurting](../2009/09/conjectures-sixth-point) stops, and we can let go of our [problems](http://andrewdurham.com/2009/09/darkness-made-simple).
+
+Writing it was fun. And a couple interesting things came up.
+
+One, there is something I should clarify. My use of the word, _brain_, should not be taken to mean I believe consciousness can be reduced to the physical brain or the intellect. I'm using it is a very general way to refer to consciousness.
+
+Two, something unexpected came out of the last point: "Once our brains heal, then our lives fill up again, our hurting stops, and we can let go of our problems."
+
+This undermines the conventional view of the relationship between our suffering and our problems. Normally, we think that we suffer because of our problems. While paraphrasing. I realized that both our problems and our suffering result equally from our impaired consciousness. They co-arise, so they are reciprocal. Which is why our problems sometimes seem to result from our suffering. In fact, we just notice one first.
+
+This does help explain the absurd and needless character of most of the problems we face in civilization. Like [Tracy Chapman](http://tracychapman.com) sang back in '88:
+
+> Why do the babies starve  
+When there's enough food to feed the world?  
+Why when there are so many of us  
+Are there people still alone?  
+Why are all the missiles called Peacekeepers  
+When they're aimed to kill?  
+Why is a woman still not safe  
+When she's in her home?
+
+What if we work as hard as we do everyday in order to maintain the illusion of our problems' stubbornness? I mean, come on. On some level we all know the nonsense we face everyday is unnecessary.
+
+Sometimes people have frozen in response to my criticisms of civilization, especially after I have demolished their cardboard defenses of it. Sometimes all they can do is ask perfectly insane questions like, "But if we stop, how will we clean up the messes we have made?" Or, "What will we do with all the people who make their livings by doing things they hate?"
+
+It is irrelevant that nearly every individual and every small group of people I have ever met or even heard about expressed strong willingness to deal with their parts of our situation. It is irrelevant that for decades, countless alternative engineers, designers, economists, saints, mothers, indigenous elders, farmers, politicians, etc, have demonstrated the viability of alternatives to this lifeway's ubiquitous violence and stupidity. It is irrelevant that together we have the money and resources to pay for the necessary changes thousands of times over. We do not need to know the answers to the above questions before we stop doing obviously senseless and destructive things. "First, do no harm," Hippocrates advised us. This means that if we find ourselves doing harm, we are to stop.
+
+With the conjecture, I am saying, let us not just stop. Let's put down the impossible burden we bear, too. In our current state, we can _only_ do harm our daily lives. We're not qualified for anything else. Our psychology will drive us to it again and again. In perpetual fear, we will only recreate fearful circumstances.
+
+Rather than more fear, let us allow love, in the form of the organic processes of self-healing, to take over for awhile. Spiritual adepts for millennia have told us that the pursuit of pleasure is futile because as we are, we suffer. Immeasurably. Momentary pleasures cannot change that. Furthermore, sages say we cannot, for the time being, change how we are. And so suffer _consciously_, they say. The only way out is through.
+
+Similarly, they have said that we suffer because we are asleep to the splendorous reality of life. Or blind to it. Suffering are all we are capable of as long as we sleep. So let us sleep! But sleep _consciously_, literally, and fully, until finally, we wake up again.
+
+
+
+
+### ayn rand and bullcrit {#ayn-rand-and-bullcrit}
+
+2009/09
+
+People commonly act knowledgeable about things they have never read, let alone studied. I think this habit arises from the amazing idea that all the data necessary to life is in and now it is just a matter of sorting it out and making a decision. This, of course, is opposite the darkness conjecture, which is based on the idea that we are always short of most of the data we need to live because consciousness, the faculty which collects this data, is damaged.
+
+Anyway, here is a quote from an unusually honest piece in the establishment press about the ubiquity of this practice among _media professionals_. I noticed it because of its reference to one of my favorite writers.
+
+> Over dinner at a French restaurant in Manhattan—there were four of us—the subject of Ayn Rand came up, and the air was soon full of thoughtful remarks about "enlightened self-interest" and "the way Fascism and libertarianism meet each other halfway in her books." Under subsequent mutual interrogation, we all confessed that Rand was among the authors we had always meant to read. One guilty diner tried to win the court's sympathy by saying, "Well, my best friend in high school read everything Ayn Rand wrote."
+
+[New York Magazine, 1989 Feb 6, "Bullcrit", p44](http://books.google.com/books?id=qugCAAAAMBAJ&pg=PA44&dq=)
+
+(Of course, students of Ayn Rand's work have known of this phenomenon in the media for a long time. If only she had just gone away like she was supposed to, it would have all worked out.)
+
+
+
+### new page - health proposal {#new-page-health-proposal}
+
+2009/09
+
+I just added a new page, [health proposal](#darkness-conjecture/proposals/health-proposal), to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.
+
+The dome proposal was a good step because it offered value rather than just asking for donations (my earlier, futile plan). But it had three major problems.
+
+One, I do not actually enjoy design and construction. It is an overly fascinating compulsion I'm weary of.
+
+Two, putting up domes, though very cool, is secondary to my overall purpose of giving direct support to people's well being.
+
+Three, the proposal does not help put my research on a solid footing. What if the darkness retreat does not work as expected? Then I will have lost three _more_ months, and be back at square one with maybe a couple hundred bucks with which to nurse my reopened wounds. I have never been able to make a living at design. Enough, already.
+
+I would like to be able to support a family in a stable home; grow and eat good food; and have the time and support to actually help people with what I have discovered. I can easily do this for $10,000/yr, but not $1,500.
+
+The conjecture has given me something tangible and coherent to work with. My two broken feet have given me the opportunity to stop my normal frenetic design activity and properly review my situation. I believe this proposal is more straightforward, and I look forward to your response.
+
+
+
+### health proposal live {#health-proposal-live}
+
+2009/10
+
+I'm now promoting my [health proposal](#darkness-conjecture/proposals/health-proposal), starting on facebook. Though published, I was still editing it and working out some logistics. There is a lot more to do, but the basics are in place now.
+
+
+
+### new pages - poems, ashers {#new-pages-poems-ashers}
+
+2009/10
+
+I have made two new pages of some older writings: my [poems](#other-writings/poems) from 1992 to the present and a short memoir, [The Ashers, a River, and I](#other-writings/ashers) of a canoe trip I took as a boy with the Boy Scouts, my Scoutmaster, Jack Asher, and his wife, LaVerne, which I wrote for their 50th Wedding Anniversary.
+
+
+
+### natural hygiene 2.0 {#natural-hygiene-2.0}
+
+2009/10
+
+So far, Natural Hygienists have said that toxemia is the cause of illness \[NOTE: actually only some say this. See CORRECTION below\], and that toxemia itself results from misinformed behavior. But how did this cycle get started? I do not think it just started out of the blue, as if otherwise healthy people started eating incorrectly and then lost their way. Something else had to have happened inbetween.
+
+My first clue was how crazy illness is. Consider the lung cancer patient who keeps smoking or the overweight person who keeps eating junk food. What causes this craziness?
+
+I think something hurt us very, very badly—worse than we typically imagine being hurt—and we never had a chance to recover. This makes us crazy. In my view, all our suffering and all the problems that attend it stem from this unhealed injury. In my approach, which I view as fundamentally Hygienic, we provide for the healing of this injury so that, with our newly recovered sanity, we can freely apply the more common Hygienic practices.
+
+CORRECTION (2010.10.13): I was mistaken about the hygienic position on toxemia._ _Fully informed hygienists actually hold that the basic cause of illness is _enervation_, in this sense, the chronic over-expenditure or lack of energy). Toxemia is simply closely related.
+
+I finally finished reading the super rad central text of Natural Hygiene, _The Science and Fine Art of Natural Hygiene_ by Herbert Shelton. His clearest statement of this in the book is in the chapter on Rest and Sleep. The nine Laws of Life on which Hygiene is based are, in fact, largely about vital energy and the supreme and unsubstitutable intelligence with which the organism manages this energy. I had heard a little about the hygienic idea of enervation before, and it made sense to me. But later, a student of Hygiene whose views I overly regarded said that, according to Natural Hygiene, toxemia is the cause of all illness.
+
+Enervation as the cause of all disease is an idea much more compatible with the darkness conjecture than mere toxemia. Enervation would naturally result from catastrophic, unhealed psychic injury. Enervation would, in turn, lead to toxemia and deficiency. Without energy, the body cannot clean itself out or deliver nutrients, whether the food is appropriate or not. The psychic injury would also explain the strange persistence of our obviously unhealthy lifestyles. Taking this persistence as "just how things are" instead of being part of the pathology itself, Hygienists have so far enjoined people to exert effort to overcome this persistence with willpower. Thus dependent on effort, a very unreliable foundation, success is correspondingly rare. (This position is useful, however, for maintaining the puritanical, self-righteous elitism that characterizes some Hygienists.)
+
+Anyway, I knew there was some reason I liked Natural Hygiene. There is nothing like finding out things for oneself.
+
+
+### wish {#wish}
+
+2009/10
+
+On the [wish](#darkness-conjecture/proposals/health-proposal) to recover:
+
+
+> There are two kinds of doing—automatic; and doing what you "wish". Take a small thing which you "wish" to do and cannot do and make this your God. Let nothing interfere. If you "wish", you can. Without wishing, you never "can". "Wish" is the most powerful thing in the world.
+—G I Gurdjieff
+
+
+
+### last failure {#last-failure}
+
+2009/10
+
+Tonight, I report my sixth and last failure to arrange for a long darkness retreat. I made two business propositions to people, the dome and health proposals. But my heart was not really in them. The effort was putting too much pressure on me and the project. It needs no pushing. And so unconsciously, I made these proposals randomly so they would not get enough response.
+
+The benefit of all this has been to become able detach from the retreat in a way new to me. In other words, I no longer feel the need to make it happen right away or as a direct function of my livelihood.
+
+Now I will find some simple work and do the retreat on my own time. If it works, then other opportunities will arise naturally.
+
+Above all, one must be some place. Cold weather has not made sense to me for a long time. Nor has the American way of life. So I traded in my expensive winter coat for a flight to Guatemala on November 9. I will find a group to volunteer with, then go from there.
+
+### site back online! {#site-back-online!}
+
+2009/10
+
+8.17 – Ok, I got most of the content back up. It is still pretty rough around the edges. The look is temporary. Some links do not work. Pictures are missing. Some pages have funny bits of code visible. But at least the content is up. Will fix the rest soon.
+
+(two previous posts:) 8.17 – I will have the site back up soon. Fortunately, before it crashed, I got a backup of everything. Watch for most important pages and blog posts to start going up tonight. I should finish with the details (photos) by Monday night at the latest. Thanks for your patience.
+
+8.16 – My site was hacked. Please check back soon.
+
+### vertigo {#vertigo}
+
+2009/10
+
+The strangest thing happened last night. I woke up with a strong sense of vertigo. I was having dreams of being way, way up high, of trying to cling to the flat surface I was spread-eagled on. When I woke up, the feeling persisted for a long time, with various high-up imagery to accompany it.
+
+It is all coming from finally doing something I want to do: going to the tropics. I do not have money. I do not know anyone there. I do not even speak the language yet (started studying yesterday, though). But aside from all my grand ideas, my default vision for myself has, for a long time, included going there. It is like I have been huddled on the ground all this time, and now I'm climbing this crazy tower of my own desire. It has overwhelmed me in the past. It is still often scary lately, but sometimes now it feels exciting, like when I'm making arrangements for it, one after another.
+
+I read in _The Continuum Concept_ years ago that children who are held a lot when babies, like native people generally are, grow up without a fear of heights or agoraphobia. It is so odd now to feel it in connection with doing what I would like to do. It is as if people in this society, without necessarily knowing it, automatically stopped carrying around babies, especially with Victoria's popularization of the stroller, in order to condition children to a future of not doing what they want to do, not daring, not being free. And should we begin to act from the heart again, a tidal wave of fear rises to discourage us.
+
+A friend just said we should take this fear as a sign we are doing something right, but also to prepare.
+
+### guatemala {#guatemala}
+
+2009/10
+
+For a long time, I have wanted to move to the tropics. It is warm, the people are not insane in the same way that they are insane here, and the food I would rather eat grows there. In short, the grass in Guatemala is not greener than it is here, but it _is_ green year-round. I leave Nov 9.
+
+### so long, secret design {#so-long-secret-design}
+
+2009/10
+
+secret design, the site I made in late 2001 to present my design for Tribal Housing and a bunch of writings that followed, closed Monday with the rest of GeoCities.
+
+GeoCities was cool. I learned basic HTML by tweaking the code on my templated home page. I published a lot of my ideas. It helped me see the coherence in my thought and helped me communicate it to what seemed like a lot of people: tens, maybe hundreds.
+
+Of course, WordPress and Blogger and posterous and so on are much better because they simplify things and make websites more powerful and cohesive. I would not go back to GeoCities. But it was cool. It hosted lots of sites with tons of rad information from the early days of the web boom. I hope the site owners migrated the data in time. I still have everything I wrote from then. If you do not see it on my "other writings" page, let me know and I will send it to you.
+
+### meta-ethics of darkness {#meta-ethics-of-darkness}
+
+2009/11
+
+On the metaphysics of self-preservation: "Consciousness, for those organisms which possess it, is the basic means of survival." –Ayn Rand
+
+This idea is one of the roots of _the darkness conjecture_. Our lives are so thoroughly screwed up because our consciousnesses is comprehensively impaired.
+
+Generally, we try to use will---the most delicate part of the very faculty that is so damaged---to fix our problems. How is it working out for us? As a designer of the Los Angeles freeway system would later put it, "Each and every problem we face today is the direct and inevitable result of yesterday's brilliant solutions." If I were the left hand, I'd say the right hand's bluffing.
+
+Which is why I think it would be better to use will to provide the organism, including consciousness, the conditions it needs to heal _itself_ autonomically, to do with ourselves as Rockefeller did with his company: "All I did was hire people who were smarter than me."
+
+
+### atitlan report {#atitlan-report}
+
+2009/12
+
+I'm sitting in San Pedro La Laguna, Guatemala, on the shore of Lake Atitlan in an internet "store". It is just a painted cinder block room with a bare light bulb and four desks with computers. For 60 cents I can use the computer for an hour.
+
+It _is_ warm here. Everyone is out on the streets as Christmas Eve is a big deal here. Apparently the best way to celebrate it is with firecrackers. Very large ones. As often as possible. Small bombs, really. And the big show is tonight at midnight. Then I will sleep.
+
+Speaking of the weather, the temperature here is the easiest thing to get used to. It hovers in the mid-seventies (21°C) all day. Last night it got really cold: 58 (14°C). Last week we had three cool days of rain. Very rare in December I hear.
+
+The noise pollution is the hardest. It is like they were all born with earplugs in. It is hard for me to convey the intensity of the situation. My new house design fantasies involve caves dug deep into the side of the mountain behind several, thick, airtight doors. Maybe I can buy compressed air and just keep the valve open a little.
+
+I have a job at the moment translating Spanish into English. Which is a joke, because I still speak Spanish only in infinitives in the present tense. However, there are automatic translation services online now that spit out very rough English versions of Spanish text. So I go through and make it intelligible. I know enough Spanish now to check it against the original. I get a whopping $1.80 for an hour of work. This is also how much a cheap hotel room costs here for a night. Truly, it is a foreign country here.
+
+The people are wonderful. Period. Despite 500 years of various levels of European and American terrorism and extremely vigilant evangelism that continues to this very moment, the people still have the sense to carry, nurse, sleep with, and always be deeply connected emotionally to their babies. This is my only explanation for their near universal good natures (even the drunks lying face down in the street). Calm, relaxed, with a ready smile and time to ask your name and where you are from. It is an enormous blessing to be surrounded by a people who are like this.
+
+When Mayans play basketball, they can hover over the court while shooting backwards. The crowd laughs as off-balance players dogpile into the children sitting at the boundary. The instant a period ends, tens of children dash onto the court with every kind of ball for 60 seconds of hoops and tag. Vendors ply parents with water and candy. And oranges, with whose peels mischief-makers hook me into a friendly food fight.
+
+Wheelbarrows and handtrucks are a luxury here. Very young men two feet shorter than I carry twice their weight on their backs. It never fails to drop my jaw. A bag of cement is 90 pounds. I saw a man carry TWO on his back. I did a triple take then followed him to make sure I was seeing things correctly. The "cargadors" use a simple strap that goes over the forehead, then behind the back and under the load, which they secure against their bent-over backs with their arms. I think they must have the strongest necks in the world.
+
+The mountains and lake continue to radiate their world-class beauty. I feel like the lake is where everything gathers, like I'm in the center of the world. The locals know they are a lucky and blessed people to live by this sacred lake, Atitlan. The volcanoes rise like three reticent and omnipotent gods from the south side of the lake, extending their protection to all who can see them. Really, they are the small children of a super-volcano whose crater now holds the lake. Seen this way, it is a little intimidating. It is the Mayan version of the fear of God, I suppose.
+
+Well, Merry Christmas to you all there. Bundle up and sip an egg nog for me. When I get more settled here (still looking for a place to stay longer than a couple weeks), I hope you will come visit me. Tickets are very reasonable, as low as $124 fees one way, depending on departure city and date. For fun, check [spiritair.com](http://www.spiritair.com).
+
+
+
+### remission {#remission}
+
+2010/01
+
+As I [wrote before](#introduction/), I was overwhelmed by [rapture](http://andrewdurham.com/darkness-conjecture/rapture) when I was 15 for three months. When it began to fade, I wanted to know what had happened. What caused this feeling? Why did it fade away?
+
+The short answer to this question just came to me: I went into _remission_. I had been suffering from complications arising from an earlier injury. As a result of the developmental surge during adolescence, the complications temporarily and partially cleared up. But the underlying injury remained unchanged. So when the surge abated, the complications returned and the feeling faded.
+
+While I had answered these questions at length, I have not, until now, been able to put it in a single sentence. Recently an acquaintance asked me what was the answer to my original question. When I launched into my longer explanation, she lost interest, and I realized I needed to have a simpler answer. It occurred to me a bit later that the idea of remission would enable me to respond succinctly.
+
+Wikipedia defines remission as "the state of absence of diseased activity in patients with a chronic illness, with the possibility of return of disease activity." In my case, it was like an infected broken bone. If the injury is cleaned often enough, or if circulation is improved sufficiently, the infection can disappear. But if the bone is not set and immobilized correctly, healing of the basic malady will not occur and infection will return.
+
+In this case, the infection is my inordinate suffering and problems. The break is the injury to my psyche that preceded the suffering and problems. The increased throughput of vital energy in my whole being during adolescence is the increase in circulation which temporarily and partially cleared up the infection.
+
+
+### serious darkness {#serious-darkness}
+
+2010/01
+
+Shortly after returning to San Marcos La Laguna from my seventh attempt at a long retreat in San Pedro La Laguna, several doors opened for me.
+
+I was given a lovely house to sit for an indefinite time period. A friendly elder took stong interest in doing a darkness retreat, and then in the darkness project itself. Many people he talked to about it expressed interest in doing it. Then a suitable room for short retreats emerged. I have begun the minimal work necessary to prepare the room for retreats.
+
+So basically, I almost have a going concern here. Amazing. Now it is much clearer what I can offer people related to darkness besides this free website: free talks, an affordable booklet made of the main content of this site, and short darkness retreats.
+
+For years since my first retreat, I have had in mind to design and offer a proper eye mask for sleeping and resting in darkness. So this could come come next.
+
+I think that with the intensified interest in the darkness conjecture that all of these services will generate, the opportunity for a long retreat for me will finally emerge.
+
+### seventh failure! {#seventh-failure!}
+
+2010/01
+
+In mid-December, I made another serious attempt at a long darkness retreat. I thought I would try something different and keep it under wraps till it was over.
+
+Across the lake, outside more populous San Pedro La Laguna, I rented what I thought was an appropriate house and bought supplies to darken it. The whole nine yards. Then the place turned out to be too noisy, cold, moldy, etc.
+
+I spent all my money and a lot of energy. One of the first things I did afterward was write a long list of criteria any new space must meet before I spend a dime or minute on it. Then I returned to San Marcos to work and collect myself.
+
+My new idea was that I will simply spend longer finding and preparing a place so that when it is finally time to begin, all I have to do is walk in, shut the door and turn of the light and everything will just work.
+
+In the meantime, I would find a decent place to live (done! great housesitting job), decent work (done!), spend more time with the people here (doing it), and see to my immigration status in Guatemala, which I consider my home now.
+
+Now cool developments have emerged since then. See my new post, [serious darkness](#blog/2010/01/serious-darkness/).
+
+
+
+### superlight hypothesis {#superlight-hypothesis}
+
+2010/01
+
+For the record: when I finally succeed in spending two weeks in darkness, here is one thing I predict will happen.
+
+I will access the dreamworld and see the light that pervades it. This light is called [superlight](http://web.archive.org/web/20130121174630/http://customers.hbci.com/~wenonah/new/milewski.htm). I believe it may be the subtle kind of light perceived directly by the pineal gland.
+
+If so, then, superlight is food for the soul, just as the gross light of this dimension (sun, fire, star, northern, electric, etc) is food for the mind. Superlight is what floods consciousness from the inside out in moments of rapture and realization.
+
+It is the light most of us are starved for and seek to replicate with technology, movies, computer screens, light shows at concerts, etc. That we do not see much of it is not a spiritual or moral shortcoming, but a physiological malfunction resulting from psychic injury.
+
+(I believe this injury, by the way, resulted from the shock of incarnation on this planet after leaving the dimension and place in which many of people here were proficient. Earth is a crash-and-burn/trial-and-error planet. This makes more sense if you read the [myth of three cultures](#other-writings/myths/).)
+
+
+
+### avatar {#avatar}
+
+2010/02
+
+"My daughter will teach you our ways. Learn well, Jake Sully. Then we will see if your insanity can be cured.”
+
+-Mo'At the shamaness in _Avatar_
+
+Sometimes a Maya asked me what I did and why. I began my explanation with, "Do you know how all gringos are crazy?" He always laughed and nodded. 
+
+
+
+### love vs civilization {#love-vs-civilization}
+
+2010/10
+
+Mayan youth, a quietly defiant demographic, have been playing "Love the Way You Lie" by Eminem and Rihanna over and over. So I read the [lyrics](http://www.directlyrics.com/eminem-love-the-way-you-lie-lyrics.html).
+
+OMG.
+
+I hear a torturous description of true love colliding with a singularly unworkable culture, internally and externally. Perforce, most of us give up on, fail at, or get ruined forever by true love because we are already too shattered, and the social context necessary to maintain love is cynically absent. Only manageable and "sensible" relationships remain, being better than nothing. This song represents to me a blistering indictment of civilization, its inherent bankruptcy, and the thoroughgoing resignation and selling out that it demands and gets from all but a few, whose autonomy is not a theat. Like Sinead sang years ago, "They only laugh 'cause they know they're untouchable, not because what I said was wrong."
+
+
+
+### 2010 summary {#2010-summary}
+
+2010/10
+
+Long time, no news. Let me catch you up.
+
+All spring I built a darkroom. I opened it in late May and 10 people got their first taste of darkness. All gave positive reviews. Common comments: 
+
+- “I feel more myself." 
+- "I feel more in my body." 
+- "I feel more rested. 
+- "I did not know how tired I was.” 
+
+Some saw light of varying durations and intensities. Many had intense dreams. All went through some version of the nice/rough/nice cycle I describe in [four darkness experiences](http://andrewdurham.com/darkness-conjecture/four-darkness-experiences). I had an interesting time keeping the room going for them, bringing them food, not making too much noise upstairs.
+
+The better rested a retreatant was in the beginning, the less affected by retreating he was. Several said they were just starting to get somewhere when their retreat ended. Those who felt major benefits did not really have time for the changes to become established. My conclusion was that people would benefit much more from longer retreats. About the same time, some noisy construction occurred at the house, so I closed the darkroom for improvements to make it suitable for longer retreats.
+
+I also made a reasonable amount of money for my efforts and with an unusual degree of satisfaction. Businesswise, darkness retreating is very promising. The entire town knows about the darkroom and many are interested in going in. Word is getting out beyond the lake, even. Once I finish the room and do my own long retreat, there are 5-10 more people ready to do both short (3 day) and medium-length retreats (5-10 day). Wicked Rest Retreats (or whatever I'm going to end up calling it) has been a going concern from even before the room opened. Most of the first 10 retreatants made deposits on their retreats. And some of the depositors have not done their retreats yet. The proceeds allowed me to keep working on the room this spring until completion.
+
+At first, I offered the retreats on a donation basis thinking it would be a cool way to do it. But I found myself thinking about money a lot more than necessary and expecting donations from people—very uncool. The donation model must be based on a genuine spirit of giving. I could not hack it. After one retreatant with lots of money donated very little, I got really annoyed and decided that simply setting a price would be better for me and everyone else, too. After that, I have had no dire problems with money. My scarcity habit will likely die hard, but something, at least, began to shift for me money-wise.
+
+Recently, I have become very burned out from building, from being alone in the project (a bunch of friends left suddenly this summer). I have felt kind of shell-shocked from it all, weeping almost everyday for weeks. Living at the lake is very intense, especially near San Marcos, which is traditionally the spiritual/ceremonial center of the lake. In other words, even native people never lived here before. I'm across the lake at the moment, on one of my recent mini-vacations in San Pedro and Panajachel. I'm going back tomorrow to finish the new ventilation system. If I finish, and if beginning to sleep in the room helps me rapidly recover from my burn-out, I will continue working. Otherwise, I'm going to take a week vacation away from the lake.
+
+Since closing the room, I have been living on some unexpected donations from my father, with whom I had a massive falling out three years ago about what the hell I'm doing with my life. Pretty ironic. But I'm glad he found a way to help me for awhile.
+
+It has been a rigorous year. Not bad at all till the last few weeks. Let's see what the next few days bring.
+
+**UPDATE:** the 6-day retreats proved just as safe and more effective than the short retreats. In the first three days, the body rests from its exhaustion and relaxes from its tension. The next three days, these effects become more established while the organism delves into a pressing psychic issue.
+
+One man said he used a certain method of introspection in darkness to clear out negative emotions. This worked for the first few days. Then he encountered something more than he could handle with the method, so he let go of it. When he woke up the next day, the issue was solved. That day he went home and got together with the woman he had desired for months.
+
+It can happen.
+
+
+
+### wicked rest {#wicked-rest}
+
+2010/10
+
+I have been playing with new names for this project. One that really strikes me is Wicked Rest. And here is a potential intro to the site with this name:
+
+> Wicked rest is what you get in a totally dark room. It is, finally, rest for the wicked, the tormented, the restless. It is automatic and foolproof as long as the room is set up properly. A couple weeks straight of wicked rest may also be sufficient to recover from the functional psychosis that characterizes the people of our culture, which may be what causes _all_ our suffering—spiritual, mental, emotional, physical, social, and ecological. Below are three more formulations of this idea. The rest of the site provides elaborations upon and background for this proposition… (segue to three versions of the darkness conjecture).
+
+Another word I like for a name is trapdoor. I think this gets closer to what I am trying to provide: a hidden door out of the otherwise seamless box of life in this culture.
+
+(Update, 2011 Jan 30: What am I really offering here? What is the value of wicked rest or a trapdoor? These questions started bugging me after I wrote this post. So far the answer to the first question is, sanctuary. Asylum, refuge. Maybe one of these should be the name.)
+
+I guess it does not really matter till I do the long retreat. Surely the correct name would come then. Vamos a ver (Let's see).
+
+### e-ink writing device - a plea {#e-ink-writing-device---a-plea}
+
+2011/01
+
+EDIT: Success! Type on e-ink now using [hacked B&N Nook Simple Touch](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode), the open-source project I started at xda-developers.com.
+
+Here is a letter I sent an e-ink reading device manufacturer.
+
+———- Forwarded message ———-
+
+From: Andrew Durham  
+Date: Sun, Oct 10, 2010 at 18:49  
+Subject: a plea for an e-writer  
+To: sales@pocketbook-usa.com
+
+Dear Ms Sergiyenko, Mr Bondarenko, and Mr Sheiman and everyone at Pocketbook around the world:
+
+I have heard your devices will have typewriting functionality soon, and I want to express my bottomless support for your efforts to complete this task as soon as possible.
+
+As a philosopher, health practitioner, designer–and a human canary in a coalmine–I cannot overstate how much I would like to type on a non-irritating machine. So: if your device can host a USB external keyboard so that I can use it as a typewriter, not just a reader, then I will buy it. Otherwise, not.
+
+That's a little blunt. But frankly, I am baffled that no e-ink device maker has figured out yet that their e-ink device will only go viral when it becomes writable out of the box–and I mean serious typing with a proper external keyboard for touch-typing. Why?
+
+Because then the e-ink device can produce its own content, just like computers and cellphones, the other big viral devices of our time. With one program and a USB host, you could double the usefulness–and the thus value–of your device, yet sell it for the same price as other devices.
+
+I like USB because it eliminates the complication of recharging the keyboard, problems with bluetooth reception, and the alarming irritation of wireless radiation. For all the same reasons, you would much improve the device with an ethernet port or a third USB port for use with a USB-ethernet adaptor. WiFi burns and numbs my hands when I have to use it. I know other people who experience this, too, some of them without necessarily realizing what causes it.
+
+Why else would you make your reader typable? Because writers, whose numbers have exploded since the beginning of the web, have not had a psychically neutral medium for writing–one that holds perfectly still to the eye–since the typewriter. To take advantage of the wonderful tool of word-processing, we have had to look at screens that exhaust the eyes, alter the mind, and disrupt the emotions.
+
+This is not just a bad combination for us writers. Too much of what is done in this culture is harmful. Nearly everything done today is first written about. If the machine we wrote with did not hurt us, it stands to reason that we writers would cause less harm to the world as well. More people would participate in the process of cultural creation with less difficulty and more psychic integrity. This is a radical proposition. For every writer there are a thousand readers. Every device you sell would support the freedom, self-determination and harmony of a thousand people.
+
+In short, all the reasons for reading on an e-ink device apply a thousand times more to writing on one.
+
+Please help us writers with what, in a subtle way, may be the most important invention since the personal computer. Give us a modern (word-processing) typewriter: sleek, humane. Do so, and I believe that, in the e-ink device competition, you will take a leading position. Do it well, and you might keep it.
+
+With sincere hopes for your success, I am,
+
+Yours,  
+Andrew Durham
+
+UPDATE:  
+No reply as yet from Pocketbook, a company which has left multiple promises unfulfilled and many deadlines pass unremarked. FAIL.
+
+However, another company, as yet unnamed, has responded positively to my idea. We'll see how that goes. \[2012 Jan 23 EDIT: this was with ctaindia.com. The effort failed in 2011 July due to my impatience with the guy's lack of vision. Bad combo. No matter how much I explained it and how much he agreed it was a good idea, he'd always start in again with questions that began, "But what about..."\]
+
+http://noteslate.com is the advance marketing effort for an unproduced but extremely interesting e-ink device design which is "pencil" based and hyperconnected. Here is an unequivocal picture of their plans for typeability: http://noteslate.com/img/photo/gal/NoteSlate09.jpg (note the noteslate logo on the keyboard.) There is a small sketch of a keyboard with the noteslate in this photo: http://noteslate.com/img/photo/gal/NoteSlate11.jpg These are actually not photos, but photorealistic renderings of the design.
+
+UPDATE (2012 Jan 23)  
+Success! See [typable e-paper breakthrough](#blog/2012/01/typable-e-paper-breakthrough/), today's blog post, above.
+
+Now that we have proved the concept, I felt like unloading a little:
+
+Other failures for the record: Jinke makes the Hanlin reader. We emailed for a few weeks in 2011 June about making a custom device for typing. The representative, Liumin, probably realizing I wasn't some deep-pocketed entrepreneur, but just a homeless slob, sarcastically estimated development at $500,000. It was kind of disgusting. Today I was able to I let him know that my team proved the concept for $119. That was satisfying.
+
+Then there was Edo-Tech. Apparently no one reads their email, but I finally I got a message through to them by guessing the management's addresses. Got a hasty reply from the president. A couple emails later with the vice-president, the homeless slob was dead in the water again. They only work with market leaders in a given region. But they also could not even tell me where I could get one of their devices. Business is so strange.
+
+
+
+
+
+### darkness science {#darkness-science}
+
+2011/01
+
+Just came across these three entries in Wikipedia about the strange light that people often experience in darkness retreats:
+
+
+[Ganzfeld Effect](http://en.wikipedia.org/wiki/Ganzfeld_effect), [Phosphene](http://en.wikipedia.org/wiki/Phosphene), [Prisoner's Cinema](http://en.wikipedia.org/wiki/Prisoner's_cinema)
+
+"Cinema" certainly coincides with my idea of the entertainment value of the light show in the dark. It is just the "hallucinations" that the Ganzfeld Effect entry describes.
+
+But maybe hallucinations are not fabrications of consciousness after all. With enough time inside, I think it will become evident either way.
+
+
+
+### atlas shrugged. the movie. is. coming. {#atlas-shrugged.-the-movie.-is.-coming.}
+
+2011/02
+
+Visit the Official [Atlas Shrugged Movie](http://www.AtlasShruggedPart1.com) Web Site!
+
+Hey: Dagny Taggart has blackout blinds @1:45 of the trailer.
+
+
+
+### typable e-paper {#typable-e-paper}
+
+2011/02
+
+I was talking with someone about my undying quest for typable e-paper. He concluded his comments with this suggestion:
+
+"You can get an ipad and compose a book on that. The ipad has more glare to look at than e-paper that is e-paper's advantage."
+
+I replied:
+
+> I say it in my [plea](#blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)), but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
+>
+> The advantage of e-paper is something much greater, much more fundamental, much more affecting than its lack of glare. A matte finish can be put on any display, or even achieved after the fact with plastic screen protectors.
+>
+> What is different about all e-paper devices, regardless of their finish–is the absolutely still nature of the image. Once the page changes and the new words and images appear, the screen holds perfectly still. [**EDIT** The rest of this paragraph is erroneous. See NOTE below {It does not continue to refresh. The tiny pixels are not quivering with reinstatement 60 times per second. The eyes, which normally make 80 movements per _minute_ are not constantly exhausting themselves in adjusting to the movement of the image. As with the static nature of ink on paper, the eyes do not get irritated. Thought and emotion thus remain undisrupted.}
+>
+> This is why:
+>
+>   * people love reading on e-paper devices, even if they do not understand exactly why.
+>   * e-paper would matter even more to a writer
+>   * I think this would be the most important invention since the personal computer, if not the typewriter or even the printing press.
+>
+> The written word is the motive power of this culture, the fulcrum at its center. E-paper device makers are thus sitting unawares on a revolutionary opportunity to do something super cool, serve the world–and make a pile of well-deserved money in the process.
+>
+> Who will be the one to stand up at a company meeting and help connect the last dots by pointing out the simple, obvious application of an existing product? For the sake of everyone who has ever suffered from:
+>
+>   * an aching hand from handwriting
+>   * injuries from typing on a manual typewriter
+>   * the strained eyes, headaches, and insomnia of the hundreds of millions who write on computers
+>   * and far more importantly, the consequences of ideas that had to be dragged through all this torment.
+>
+> I wish I knew how to help this happen in even the smallest way. I want one of these things in my hands as soon as corporately possible.
+
+[**NOTE** I learned that it is strictly backlighting that causes the eyestrain I feel with LCD screens, whether the backlight is fluorescent or LED (due to Pulse Width Modulation). See my topic on mobileread about this, [Project: E-Paper Tablet (typable!)](http://www.mobileread.com/forums/showthread.php?t=159007).
+
+
+
+### new articles - make darkness & retreat manual {#new-articles-make-darkness--retreat-manual}
+
+2011/03
+
+EDIT: these articles were renamed "make" and "protocol"
+
+I wrote instructions for retreating in my darkroom here in Guatemala in [protocol](#protocol/) and for creating a darkroom in your home in [make][/make/]. These are now included in the paper booklet about darkness that I offer.
+
+
+
+### cool site - photoperiodeffect.com {#cool-site-photoperiodeffect.com}
+
+2011/03
+
+[photoperiodeffect.com](http://web.archive.org/web/20110715083725/http://www.photoperiodeffect.com/)
+
+This site talks about the effects of light on health and the use of darkness to reverse many illnesses. The author, Russell Johnston, who has used darkness to significantly heal from a serious malady, Ehlers-Danlos Syndrome, is a dogged researcher and a very clear writer.
+
+
+
+
+
+### line in the sand {#line-in-the-sand}
+
+2011/03
+If the Problem results from error, then the solution is virtue. If the Problem results from injury, then the solution is convalescence. Either I am sound but mistaken, or unsound and malfunctioning. Let us stop equivocating.
+
+
+### syllogism {#syllogism}
+
+2011/03
+
+\[EDIT: I learned this is not a syllogism, just a regular old argument. Syllogisms have only three propositions. Sigh.\]
+
+Here is my clearest articulation yet of the conjecture's chain of causation, in the form of a seven-line syllogism:
+
+Suffering comes from a catastrophic injury to the psyche;
+the psyche is a system of an organism;
+organisms are self-healing;
+healing requires vital energy;
+vital energy accumulates during rest;
+psychic rest is most profound in absolute darkness;
+therefore, darkness is the solution to inordinate suffering.
+
+\[EDIT: See end of [hygiene](#hygiene/)/psychology and [basics](#darkness-conjecture/basics/) for updated versions of this.\]
+
+
+
+
+
+### new page - register {#new-page-register}
+
+2011/04
+
+Now you can [register](#prepare/) for your retreat online.
+
+
+
+### limitless {#limitless}
+
+2011/05
+
+Just saw this movie. Awesome. It gives a good idea of the surge in creativity, clarity, synchronization, and motivation that sometimes occurs in darkness (without the side effects, of course). But just for the record, darkness will ultimately make NZT-48 look like potty training.
+
+
+
+### greece {#greece}
+
+2011/06
+
+I moved to Greece, partly as a result of my darkness retreat in March (more on that soon). My new friend and final client in Guatemala, Ajna of [Yoga of Beauty](http://www.yogaofbeauty.net) in San Marcos La Laguna, Solola, Guatemala, is taking over the darkroom. Contact her through her website. I will be building a business here in Greece to open more darkrooms around the world.
+
+Note: Ajna sold the darkroom to Arjuna. See his website, [dark-retreats.com](http://dark-retreats.com).
+
+
+
+### bodhisattva math {#bodhisattva-math}
+
+2011/06
+
+Let us say Bodhisattvas are both sincere and realistic in their vow that, after their own personal enlightenment (which will free them from the necessity of reincarnating on this planet) they will keep reincarnating here anyway in order to help liberate all sentient creatures.
+
+Let us further say that they, combined with those of equal realization and commitment in other traditions, manage to liberate a million people a year until the job is done. At that rate, it will still take them 7,000 years to finish. That's if population remains constant from now on.
+
+Keep in mind this is a 2,500 year old tradition. And that all spiritual traditions combined are not pulling off more than a hundred genuine liberations a year. Which, according to some wise men I once knew, is an extremely generous figure. How are we to make sense of the Bodhisattva's project? What are they counting on?
+
+Maybe they are banking on an exponential effect of their efforts. Maybe we are only a few years or generations away. The results come faster as time goes on and the task gets easier, because its enormity nonetheless is shrinking, while their collective power grows.
+
+Maybe they, like the Mayans, are merely holding out till a cosmic event completes the task in one fell swoop.
+
+So they're not worried. Maybe I should not worry so much, either. Many people have said as much, and lately, I have begun to notice what they're talking about.
+
+_And_, maybe it is time to review the effectiveness of the method of liberation. Or maybe we could just _eliminate the need for it_.
+
+### swedish darkroom news {#swedish-darkroom-news}
+
+2011/09
+
+Location secured for world's second hygienic darkness retreat: newly remodeled small cabin in quiet neighborhood of Swedish resort town. Modifications commence tomorrow; first retreat within two weeks.
+
+EDIT: the above attempt failed. Taking a bare cabin with only electricity and heat and trying to make even a simple bathroom, kitchenette, and ventilation proved overwhelming. No, the thing is to start with a fully functional building, darken it and start retreating, already. This will require taking the message to the people again.
+
+### conspiracy {#conspiracy}
+
+2011/11
+
+Here is something I wrote a friend about conspiracy theory following a conversation we had recently on the subject.
+
+~/~
+
+I had a thought during our conversation about 9/11 that there wasn't time to voice, but which I think you would like to hear. So I am writing you with it.
+
+I think the reason that the idea of a conspiracy can be hard to entertain is that it seems to mean that the people involved are evil and consciously do evil things.
+
+This, of course, is nonsense, and people are correct to reject it. The nature of human consciousness is such that it is impossible to do what one considers evil. But it is a simple matter to do evil that one considers good.
+
+Any honest observer of history and current events can see that it is possible to justify anything (including the justification itself). For example, listen to professional political commentators of any persuasion. What is obviously evil to ordinary people can be seen as good and even obligatory by someone in power. Hitler and his helpers thought they were doing the right thing. Even on the stand in Jerusalem, Eichmann never really got what all the fuss was about. Some National Socialists (NAZIs) actually disliked the program, but they believed in it. It is only people's basic innocence combined with their great naivete that enables them fail to make this distinction.
+
+All this is aside from the fact that the ultrarich and powerful are psychologically damaged to a degree almost impossible to believe. I hesitated to mention the other night—and it is horrible to think about—but in many established families, children are subjected to ritual sexual abuse from a young age. If you imagine a boy who is sexually molested in group Satanic rituals from the time he is less than a year old, with the knowledge and even participation of his own parents, then maybe you can see that his view of right and wrong might be a little bit distorted by the time he is forty years old and running a bank, a corporation, or a country (or these days, all three).
+
+If so, then you can also see how it is possible that if the interests of enough organizations require, for example, the events of 9/11, then as surely as the sun will rise tomorrow morning, those events will take place. Obviously the people in power are deadly serious about making omelets, and it matters to them not one whit that you and I happen to be the eggs.
+
+That was the thought. As I write, it leads to a few similar ones.
+
+Exactly why any organization would require such events as 9/11 has a lot to do with the debt-based monopoly money system I tried to describe to you. Since money as we know it comes into existence as interest-bearing debt, the money available to pay back the debt is always less than the amount owed. So as some pay their debts, the economy must expand to provide others more money to pay the mounting debt. This is why there is never enough money and why we are destroying the earth.
+
+Imbalances in the system grow. People begin to borrow just to stay afloat. This inflates the money supply beyond the wealth that backs it and thus devalues cash holdings. Just to stay even, individuals and groups must always be climbing upward financially, stepping on others as they go. We know how desperate the situation is at our level. Imagine the wicked cut-throat tactics necessary to stay at the top of the game, where there truly is never enough.
+
+Poetically, the naive resistance to the idea of an inside job on 9/11 rests on the same benevolent metaphysics as conspiracism. To the conspiracist, the universe is a friendly, life-supportive place and people are basically peaceful and just. Therefore, the horrors we witness in our culture must be _engineered_. So to those we consider denialists, we conspiracists issue this challenge: prove how the material beneficiaries of 9/11 did _not_ perpetrate it.
+
+Lastly remains the simple fact that government has ever been a tool of the elite to control the (admittedly infantile) peasantry (including the managerial "professional" class). That government could one day benefit the peasantry is merely popular propaganda. Since the job of the state consists of subjugating us—since that is what we pay it to do and as quietly as it can—9/11 is precisely what was required of it at this critical juncture in history. So, again: prove that it failed to perform its function.
+
+With convention stood on its head like this, you can see the difficulty that conspiracists and denialists have in communicating. It is not just about the facts. It is about what a person considers humanly possible. Philosophically, it is a metaphysical difference. This is usually unbridgeable.
+
+Everyone experiences what I am talking about, but as part of a whole lifetime of conditioning in resignation (hospitals, TV, industrial food, school, the legal system) and at a low level where the causes are invisible. This is especially true due to the common preoccupation with survival. Few have the time, stomach, or resources to even consider events in these lights, let alone understand or do anything about them. We issue bitter little complaints as we accept it incrementally.
+
+And then there is the successful propaganda campaign about our masters' being too stupid and incompetent to pull off something like 9/11. It is an impressive conceit that we are smarter and more capable than people who coordinate transnational corporations, global wars, and mass media. Those who deny conspiracy have underwhelmed me with their snide ignorance of basic facts of the case. In my few brushes with the ruling class, even average members impressed me as sophisticated and whipsmart. Now they have accomplished the additional feat of convincing most of us they are otherwise.
+
+For the benefit of both us and our tortured masters, I hope that my [work](#darkness-conjecture/project/) can help bring an end to the madness I describe. Like most people, I believe that each of us, underneath the exhaustion, resignation, and damage, is still innocent at the core. I cannot believe that anyone really likes or is satisfied with what is happening. Surely we can find another way to be here together. But surely we cannot find it without first seeing things as they are, both in our souls and in our society.
+
+Well, it was nice seeing you, again. Thanks for dinner.
+
+Best regards,
+Andrew
+
+
+
+### facebook page up {#facebook-page-up}
+
+2011/11
+
+I made a facebook page called [Darkness Conjecture](http://www.facebook.com/pages/Darkness-Conjecture/282926488408253). There you can read about the latest goings on, including current public talks in southern Sweden.
+
+
+
+### illuminati it may concern {#illuminati-it-may-concern}
+
+2011/11
+
+Dear Illuminati,
+
+My understanding is that there are two factions of your organization: both people who try to use their power and wealth to free humanity, and those who use it to enslave us.
+
+To both groups within your vast network, I wish to say that I understand and accept that you are each sincerely trying to handle our collective mess the best way you know how. For a long time, I thought that you were my enemy, and hatred and sadness about your activities consumed me. But now, as a result of my long search for understanding, I am extending both forgiveness and the offer of a way to handle our situation differently.
+
+Since this subject is your main interest, please read my [darkness conjecture](#darkness-conjecture/conjecture/). Then write me if you would like to help make this deep way of healing possible for yourselves. I could use your help, you could probably use a break, and working together would be a nice change from our previous isolation.
+
+I have tried to see a way through our conflict that makes a place for **everyone** at the end, especially those of you that many in my position would wish to exclude (if not summarily execute). In my opinion, you are hurt by all this worst of all, and I believe the way I have found would serve you in an acceptable manner. I really believe there is place for all of us, even you.
+
+Welcome.
+
+Sincerely,  
+Andrew Durham
+
+
+
+### breakdown {#breakdown}
+
+2011/12
+
+Something important started to change for me last week. I have been hiding my own need for darkness by trying to make it happen for others. I wrote these posts about it on my facebook page this week:
+
+**Thursday:** Dear Family and Friends: I am very sick. For the first time, I feel that I am slipping, that I might not make it. Please help me realize the solution I found. Not because it could be a solution for you, too. But simply because you care about me. This is what I have been trying to say for three years. –Andrew.
+
+**Friday:** \[In response to 20 people:\] I am relieved to hear from each one of you. I also got supportive emails.
+
+What I need is help in arranging and paying for a long darkness retreat. It needs an empty, functional house and people to bring food and say hello to me each day. And I need to not return to the US, where I feel very unsafe, to do it. There are places to rent here and new friends who could help.
+
+The thing is, my 25 years of studying the absolute depths of both my condition and the world's made me good at solving extremely complex problems, but not good at making money or simple arrangements like this. I cannot overstate how much shame and embarrassment I have felt about this. But I can state the truth about it.
+
+Please do not let my articulateness fool you into thinking that I am ok. No matter what, it seems, I am able to talk.
+
+**Sunday:** Thanks to everyone who wrote. My immediate problem is solved. Nearly undetectable poor air quality where I have been staying wore me down over the last month. I am making arrangements to move into a proper apartment tonight.
+
+The wider issue of why I ended up in that situation in the first place is also getting addressed by rekindled support for the darkroom and other unforeseen means.
+
+**Wednesday:** \[in response to a local friend:\] I'm basically okay now. Still edgy, but not as bad as yesterday. It was nice to be able to walk with you the other day. I had been slowly suffocating, and then I suddenly crashed. It felt like I'd been run over by a train.
+
+**Thursday** (today): By the way, I never identified my sickness here.
+
+Essentially, I view it as functional psychosis manifesting as a rigid dependence on my mind. This has numerous ill effects on my life, some of which some of you know all too well. For example, unconsciously setting myself up for periodic breakdowns like the one this weekend.
+
+At 16, I had only a vague sense of my sickness. But it was strong, and it motivated my long search for the root cause of rapture: sanity. My discovery of darkness as an irreplaceable condition of psychological health ensued. This is why I have confidence only in darkness retreats as a means of healing from my sickness and why my wish to do one has finally found its way to the top of my priorities.
+
+
+### typable e-paper breakthrough {#typable-e-paper-breakthrough}
+
+2012/01
+
+At my request, xda developer, verygreen, with support from ros87, has done in 24 hours for $10 and a $109 donated device what tens of companies could/would not do in four years with all their resources (like the $500,000 one company told me it would cost).
+
+Watch him type on the Nook Simple Touch on youtube:
+[Nook Simple Touch usb host support](http://www.youtube.com/watch?v=qU3RpK4LEuk)
+
+EDIT: for outline of installation instructions, see:[Installation Wiki](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode)
+These are at noob-hacker level.
+
+There are still some bugs, and the instructions are over my head at this point \[EDIT: not anymore--see wiki link above\]. But the basics are there now for people who know how to use them. Once the bugs are worked out, I plan to simplify the instructions for everyone's use. Maybe even offer microSD cards with everything pre-installed. \[EDIT: this plan is off my agenda for the time being.\]
+
+Here we go.
+
+
+### money without debt {#money-without-debt}
+
+2012/02
+
+Hey, I just came across this excellent web-based credit clearing system:
+[Community Exchange System](http://www.ces.org.za/) \[EDIT: I no longer dig this system. It's popular but messy.\] CES* is international, free, simple, compatible with paper systems, thorough, and cool.  It's just about what the godfather of new money, Thomas Greco, calls for in [_The End of Money and the Future of Civilization_, chapter 17](http://beyondmoney.net/excerpts/chapter-17-complete-web-based-trading-platform/).
+
+Other worthy systems I've come across in the last couple days:
+
+- [payswarm.com](http://payswarm.com/) web technology-based, multiple-scenario payment system. Big vision.
+- [ opentransact.org](http://opentransact.org) similar goals as payswarm, different architecture
+- [picomoney.com](http://picomoney.com/) clever, based on opentransact
+- [cyclos.org](http://cyclos.org/) open source software to run your own bank, complete with free hosting; soul boggling!
+- [villages.cc](http://villages.cc)**is the best implementation of 
+- [ripplepay.com](http://ripplepay.com/), a compelling solution to LETS accountability concerns.
+- [e-flux.com/timebank](http://e-flux.com/timebank) hip and simple
+- friendly [favors.org](http://favors.org/) 2nd largest after CES, social, clever, but aging and a bit complicated
+- [johnturmel.com/uniset.htm](http://johnturmel.com/uniset.htm) very simple, start alone now. Improved by showing account as a ledger using a [web-based spreadsheet](http://bit.ly/uletsad)
+- [JEU/GAME](http://www.personocratia.com/en/documents/game-full-document.pdf) paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.
+
+CES is (NOT*) the most accessible, practical, and mature, though some of these systems, especially payswarm, have much greater potential. Open source money has finally gotten legs, wings… and teeth.
+
+*EDIT: I gave up on CES because of issues with its design and management. So I am exploring two other systems now: [Community Forge](http://communityforge.net), based on Drupal Community Accounting/mutual credit module, and [Villages][7]. It's Ripple base is better, but CF is much more developed. The insides of it look great so far.  Open source, delegated authority and responsibility. Kind of a weak social network, but it is there.
+
+Greco says a proper system needs:
+
+  1. a marketplace
+  2. a social network
+  3. a means of payment
+  4. a measure of value or pricing unit
+
+Both have all four criteria. So it's a toss up for me. I hope Villages works out.
+
+- [complementaire-economie.startpagina.nl](http://complementaire-economie.startpagina.nl/) huge list of currencies, systems, and software, some defunct
+- [ Open Transactions](https://github.com/FellowTraveler/Open-Transactions/wiki) open source digital cash, transmittable through tons of media, needing no third-party record keeper.
+
+Two cool sites about money ideas:
+
+- [MetaCurrency](http://metacurrency.org)
+- [Webisteme](http://webisteme.com) inventor of [#PunkMoney](http://www.punkmoney.org), a twitter-based currency. fricking brilliant.
+
+
+
+### dominant assurance with a twist {#dominant-assurance-with-a-twist}
+
+2012/02
+
+I came up with a twist on [Dominant Assurance Contracts](http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html). Which is economist [Alex Tabarrok](http://mason.gmu.edu/~atabarro/)‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [Kickstarter](http://www.kickstarter.com). In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
+
+My idea takes off from there.
+
+~/~
+
+Dear Mr Tabarrok,
+
+Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.
+
+I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:
+
+- help fund the bonus pot
+- adjust their positions throughout the game.
+
+Here are the rules:
+
+1. The proposer:
+    - sets the monetary goal and deadline
+    - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
+    - sets the maximum bonus rate between 0% and infinity in case of failure
+    - sets the maximum profit rate in case of success
+    - and can increase both these rates until the campaign's deadline
+2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
+3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
+4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
+5. Supporters can make multiple contributions with different bonus rates.
+
+Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [webisteme](http://webisteme.com)‘s [#PunkMoney](http://punkmoney.org), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
+
+Examples
+
+- Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
+    - A second such supporter of $99 would take away 99% of the pot.
+    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
+- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
+- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
+
+What do you think?
+
+The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.
+
+Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It's relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,
+
+Cheers,
+Andrew Durham
+
+~/~
+
+EDIT: I removed this sentence from the third to last paragraph: "And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?" I decided on "Cooperative". If you think of a better name, please let me know.
+
+EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.
+
+EDIT: added bit about [#PunkMoney][5]
+
+
+
+### tech communication {#tech-communication}
+
+2012/02
+
+Very off-topic note about how I have come to think of long periods of silence and repeated non-responses in text communication with computer technicians. When it happens I assume one of the following:
+
+  * the issue:
+    * was addressed before
+    * is so basic I should already know about it
+    * is easy enough in their minds for me to work out on my own
+  * they don't know
+  * they would like to but can't
+  * they aren't interested
+  * the answer is no
+
+As long as my message contained no interesting requests or instructions, why would they respond? It's like a logic circuit. Or, at least, my idea of one.
+
+I have read forums. There is simply too much data to respond to. One must not suffer fools or welcome the cloying "friendship" of a zillion strangers.
+
+It took me awhile, but I'd like to think I get it. Here's to the techs. I'm on your side. Thank you for making computers happen.
+
+### poetry of rapture {#poetry-of-rapture}
+
+2012/03
+
+Here is a poem I read at age 17. It prefaces one of my favorite books, _Magical Child Matures_ by Joseph Chilton Pearce. It took all this time to start seeing the meaning. If ever there were a poem of rapture, this is it.
+
+~/~
+
+#### If I Could Only Live at the Pitch That is Near Madness {#If-I-Could-Only-Live-at-the-Pitch-That-is-Near-Madness}
+
+Richard Eberhart
+
+If I could only live at the pitch that is near madness  
+When everything is as it was in my childhood  
+Violent, vivid, and of infinite possibility:  
+That the sun and the moon broke over my head.
+
+Then I cast time out of the trees and fields.  
+Then I stood immaculate in the Ego;  
+Then I eyed the world with all delight,  
+Reality was the perfection of my sight.
+
+And time has big handles on the hands,  
+Fields and trees a way of being themselves.  
+I saw battalions of the race of mankind  
+Standing solid, demanding a moral answer.
+
+I gave the moral answer and I died  
+And into a realm of complexity came  
+Where nothing is possible but necessity  
+And the truth wailing there like a red babe.
+
+
+### gift economy basics {#gift-economy-basics}
+
+2012/04
+
+Here's a letter I just wrote an associate about the gift economy.
+
+~/~
+
+Dear…,
+
+I have news about the gift economy that could blow your mind. It has blown mine, anyway. I'm hoping you've heard of David Graeber by now, the author of _Debt: The First 5000 Years_. If not, it is an amazing anthropological study of money. I haven't read it, just the basics online.
+
+Here's the gist: the gift economy is **not** made up of people just giving things to each other without expectation of return. This is a completely mistaken notion spread by a few lucky people who somehow pull that nonsense off (or pretend to). The gift economy is simply letting people you know and trust have things of yours when they need them, with the mutual understanding that when you call on them, they'll do the same. You say, "You like it? Take it!" and understand, "You owe me one."
+
+It is because this understanding among traditional people is unstated, deeply engrained, even _obscene_ to verbalize that modern civilized observers didn't notice it and assumed theirs was the same as our system of unconditional gifts. Which, you'll notice, often has a strange charge of propriety around it, a stale remnant of our past decency.
+
+So the gift economy consists of an endless series of:
+
+  1. delayed exchanges of
+  2. unequal values
+  3. according to customs of evolving complexity.
+
+Some cultures actively discouraged equal exchanges to help people stay on good terms with each other. (Thanks to [Eli Gothill](http://twitter.com/webisteme), aka [webisteme](http://webisteme.org), creator of [#PunkMoney](https://punkmoney.org) for points 2 & 3.)
+
+Graeber also exposes the barter system as a myth. There are no examples of it among established people. Spot trades of equal values are only found between:
+
+  1. strangers
+  2. people who have temporarily lost their currency system (and haven't developed a gift economy yet due to conditioning)
+
+Graeber's more general discovery about money is that before there was gold or clams or whatever people are said to have used as money, people had mutual credit systems. For example, tally sticks. Money was a *unit of account*, not a commodity-based *medium of exchange*. These credit systems were just formalizations of the old gift economies. Commodity-based money like gold or wheat came much later. And it came by force, too, like our current central bank-issued monopoly monies.
+
+I think what the mutual credit systems I have found are really good for is reorienting people to this way of seeing a local economy while maintaining the familiarity of accounting and limited debt exposure. Once a basic reorientation occurs, the system can become informal. In other words, not written down with arithmetic.
+
+When I was learning a new diet that had me counting calories (to make sure I got *enough* of the right kinds), I got into it for a couple weeks, then I just knew. It was like a skill. Once acquired, there was no need to keep exact record anymore.
+
+Here is the interview that finally got it through to me:
+[An Interview with Economic Anthropologist David Graeber](http://www.nakedcapitalism.com/2011/08/what-is-debt-%E2%80%93-an-interview-with-economic-anthropologist-david-graeber.html)
+
+I'm telling you because you and I have both struggled with money and with the gifting idea for a long time, and we ought to have a solution to it finally. I think we were basically right. We have been broke because we didn't really want to have anything to do with regular money. It's got blood all over it. It's a tool of enslavement. To hell with it. Better to eat out of dumpsters.
+
+But in 24/7 unconditional gifting, we were offered a false alternative. Historically, it is bizarre. It is a purely civilized invention. We wage-slaves evolved it to get a break from the cold, even exchanges we have to make most of the time. The real gift economies kept people obliged to each other, preserving relationships and work—peace and prosperity at a reasonable level.
+
+Like I said, the exemplars of the unconditional gifting lifestyle whom we have met are just lucky. It's not learnable. It's unnatural and unnecessary. It's a sham.
+
+Hope this helps.
+
+Best regards…
+
+
+### new stuff {#new-stuff}
+
+2012/04
+
+A handful of new and changed things have appeared in the last months without announcement:
+
+  * Three new retreat reports under "four darkness retreats"
+  * Updates to "make darkness" and "retreat manual" based on my latest findings
+  * Categories for both posts and pages
+
+More to come.
+
+### brainsdamaged {#brainsdamaged}
+
+2012/04
+
+Psychology is the study of the psyche, not just the mind. Thus mainstream psychology will continue failing to seriously help people as long as it considers health and illness "mental" rather than "psychic" in nature. The psyche---consciousness---is not just mental, but emotional and physical as well. Feeling and movement are not mere products of the intellect, but their own forms of intelligence.
+
+Various spiritual traditions have posited this for ages. Gurdjieff, a Sufi, said, "Man is a three-brained being." He called these brains, "centers of intelligence." In addition to the thinking center of intelligence, there are the feeling and moving centers of intelligence. Some psychological schools recognize this triune intelligence as well.
+
+A very useful and easy to learn typology* is based on the three ways that psychically traumatized people unconsciously armor themselves. Some people live into their heads. Others retreat deep in their hearts. Others go with their guts. It's right here in our language!
+
+Robotic intellectuals. Sensitive, helpless artists. Dumb athletes/fighters/laborers. We are entertained by the limitations of each stereotype. Nonetheless, all are able to do amazing things with their minds, hearts, and bodies respectively. All excel differently with different forms of intelligence.
+
+Large amounts of neural tissue have been found in the [heart](http://wiki.answers.com/Q/Can_you_find_nervous_tissue_in_the_heart) and the [alimentary canal](http://www.scientificamerican.com/article/gut-second-brain/). There is a physical basis for intuition and hunches.
+
+Psychic trauma and illness must be seen not just in the mind, to be worked out in only an intellectual way. We must also find the illness in the heart and gut and the rest of the being these are only centers for. Trauma must be worked out in a whole way, by organic processes also involving feeling and movement, conditions and time. We have more than one brain, and they are damaged. We are brainsdamaged.
+
+&nbsp;
+
+*Da Free John (Adi Da Samraj) explains this typology in detail in _The Eating Gorilla Comes in Peace_. Gurdjieff makes many observations about tendencies of the three different types in Ouspensky's _In Search of the Miraculous_.
+
+
+### koloni {#koloni}
+
+2012/04
+
+The koloni is my great discovery about Sweden this year. There is nothing like it in the States, really. That you can legally live somewhere that costs as little as one month's salary to OWN is beyond belief. It can be had for as little as 9000:KR
+(See [blocket.se](http://blocket.se). Here is a [recent one](http://www.blocket.se/eslov/Kolonilott_med_hus_pa_Prastkragen_39503878.htm?ca=11&w=123). The whole rent thing is such a ridiculous drag.
+
+It is maybe the greatest thing I have heard of in an industrialized country in my whole life. While kolonis are often near loud roads, trains, and electrical stations, there are nice places, too. It's actually how people should live: in small houses surrounded by gardens, other people who are basically there to relax, no cars, minimal fencing, compost toilets, little or no electricity.
+
+Of course, as a way of life, it is a big secret, because Swedes seem conditioned to see kolonis as vacation/summer/second homes, not primary residences. Some places are fairly closed down in the winter, and some places are not legal to live in in the winter due to insufficient insulation. But there are others where no one cares if people stay all the time. Houses can be properly insulated. Rainwater can be harvested. Power can be had from the sun and wind. Composting toilets are practically free to build.
+
+Again, I can't believe this is right under peoples' noses, and the government allows it. You pay 500-1500 yearly fees for basic services, keep your garden nice, your noise level down, and you're in. One could grow a tall hedge over time, I think, for pleasant privacy. It is instant freedom from the slavery of school/work/rent/distraction.
+
+There are deals like this everywhere in the third world, of course. But, boy. What a miracle to find it in the first. It makes me think of developing a whole koloni with curved paths, round stugas, permaculture, etc. It would be a real village over time, with its own economy, etc.
+
+Hmm. Except when the children are 6, they are all confiscated by the state for brainwashing and family destruction. Bummer.
+
+
+
+### tao versus moralism {#tao-versus-moralism}
+
+2012/05
+
+#### tao te ching, chapter 38 {#tao-te-ching-chapter-38}
+
+The Master doesn't try to be powerful;  
+thus he is truly powerful.  
+The ordinary man keeps reaching for power;  
+thus he never has enough.
+
+The Master does nothing,  
+yet he leaves nothing undone.  
+The ordinary man is always doing things,  
+yet many more are left to be done.
+
+The kind man does something,  
+yet something remains undone.  
+The just man does something,  
+and leaves many things to be done.  
+The moral man does something,  
+and when no one responds  
+he rolls up his sleeves and uses force.
+
+_When the Tao is lost, there is goodness._  
+_When goodness is lost, there is morality._  
+_When morality is lost, there is ritual._  
+Ritual is the husk of true faith,  
+the beginning of chaos.
+
+Therefore the Master concerns himself  
+with the depths and not the surface,  
+with the fruit and not the flower.  
+He has no will of his own.  
+He dwells in reality,  
+and lets all illusions go.
+
+\[_emphasis added_\]
+
+
+### genius and the stupidity problem {#genius-and-the-stupidity-problem}
+
+2012/07
+
+One of my purposes with a solution to inordinate suffering is to solve "The Stupidity Problem". Stupidity results from psychic malfunction due to major psychic trauma. Healing from this will automatically restore natural human genius. Everyone has genius. It is yet another casualty of the stupidity-inducing process of becoming civilized through routine brutality and casual violence. But I have occasionally glimpsed genius in myself and others. It is yet another of the gems to be recovered upon recovering full health, full sanity, full consciousness.
+
+I am going to be a genius again. I am clearing the way for billions of people be geniuses again. We are going to live forever do the same for the people of a billion other planets suffering the same psychotic stupidity as we do here. We will extinguish this age of darkness... with darkness.
+
+“Everyone is born a genius, but the process of living de-geniuses them.”  
+ --Richard Buckminster Fuller
+
+
+### john zerzan {#john-zerzan}
+
+2012/07
+
+John Zerzan was my neighbor in Eugene, Oregon. I got to know him through a long-lost friend who happened to help edit _Green Anarchy Magazine _with John. It was a great honor to meet him. John even critiqued one of my earlier writings, [Sociality Undenied](#other-writings/sociality-undenied/ (Sociality Undenied)). But until now, I had not absorbed his basic ideas from books, only gotten a shallow grasp of his thesis from his articles and conversation.
+
+_[Running on Emptiness: The Pathology of Civilization_](http://theanarchistlibrary.org/library/john-zerzan-running-on-emptiness-the-failure-of-symbolic-thought) is the most intellectually exciting thing I have read in a long time. I knew that suffering, technology, hierarchy were the inventions of civilization. But I did not know time, language, art, and culture itself were, too.
+
+This goes beyond Daniel Quinn's critique of civilization. Quinn's and Zerzan's prescriptions overlap in some ways, differ in others.
+
+Also I find it amazing to read a 60 year-old's crying out against the inhumanity of our society with such vehemence as John's. It's such a relief from feeling alone in my own protestations. Highly recommended.
+
+
+
+### new retreat center in works {#new-retreat-center-in-works}
+
+2012/10
+
+My new business partner and I are building a new darkroom in Central Sweden. Will be open to the public when it is ready. Lots of cool things in the works. More news when we have it!
+
+### guatemalan darkroom under new ownership {#guatemalan-darkroom-under-new-ownership}
+
+2012/10
+
+Arjuna Thilo has taken over the darkroom I built in Guatemala. Ajna, the woman I sold it to, passed it on to him a few months ago. I never met Arjuna in person, but our communication has been good and he has built a serious website in support of the darkroom. Check it out!
+
+[Dark-Retreats.com](http://dark-retreats.com)
+
+
+
+### post-retreat protocol {#post-retreat-protocol}
+
+2012/12
+
+I've learned something really important this year about retreats, which is that for every 2-3 days spent inside, one day of identical conditions (except for being in light during the daytime) is necessary afterward to readjust to light and regular consciousness and to absorb the value of the retreat.
+
+This takes a serious plan. The natural impulse is to blow off all the energy gained in the retreat. This can cause as much harm as the retreat did you good. The organism simply needs time to adjust. The parallel with an old saying about fasting is exact: "Any fool can fast. It takes a wise person to break a fast properly."
+
+So if you are going to do a six-day retreat, then schedule two more days at the darkroom so you can continue resting in darkness while spending more and more time in daylight. If it is too late or too expensive to schedule this time at the darkroom, then arrange a private, quiet place to go directly afterward where distractions and stimulation can be minimized. Maintain the same diet of fruits and green leaf vegies. No electronics, no visitors or media.
+
+Time in darkness greatly enriches one's inner life. Relishing it when it is so ripe is one of the points of setting this time aside. After this transition period, move as slowly back into your regular life as possible. Avoid annoyance. Take care to sleep. Take care of yourself.
+
+
+### swedish darkroom nearly ready {#swedish-darkroom-nearly-ready}
+
+2012/12
+
+The darkroom we have been building in Skattungbyn, Sweden is nearly ready. We are putting the finishing touches on the nifty [fiwihex](http://viking-house.ie/fine-wire-hrv.html) ventilation system today and will test it before the weekend is out. We will test and refine it with local supporters in January and open it to the public in February. You can see a calendar for it on the [register](#prepare/) page.
+
+
+
+### human exceptionalism {#human-exceptionalism}
+
+2013/02
+
+This meme is the essence of the Dilemma. It is the idea to be exposed, invalidated, replaced, buried.
+
+### darkness talk 2011 {#darkness-talk-2011}
+
+2013/03
+
+[Using Darkness to Heal from Civilized Psychosis](http://www.youtube.com/watch?v=P8dMuf4KtUM), talk I gave in 2011 in Helsingborg. I liked how it went.
+
+
+
+### books {#books}
+
+2013/04
+
+I am working on a book now. It will contain all the articles about darkness here, all my retreat reports, and several blog posts that elaborate on theory and history of the conjecture. Once the book is published, I will start giving more talks.
+
+### first client {#first-client}
+
+2013/04
+
+Our first client had a good retreat last week and our second client will exit the darkroom tomorrow. Sign up for your retreat now on the [register](#prepare/) page.
+
+
+
+### laws of life {#laws-of-life}
+
+2013/04
+
+Check out Herbert Shelton's cogent discussion of the [Laws of Life](http://www.naturalhygienesociety.org/members/general/e/files/lawsoflife.pdf) as formulated in Natural Hygiene.
+
+
+
+### the darkness hypothesis {#the-darkness-hypothesis}
+
+2013/04
+
+For four years, I have been trying to do a 14-day retreat. I thought short retreats were of little value, that a long retreat was the only action that mattered. But a room good for 14-day retreats is harder to set up than one for 4- or 8-day retreats. In my dysfunction, it was too big a leap for me, like trying to jump across a wide river. In my [last retreat](http://andrewdurham.com/2x2), I discovered my first stepping stone.
+
+With this retreat, the conjecture has become a hypothesis for me. The principal obstacle to human function and happiness is obviously psychic trauma, and dark retreating really works in healing from it. I'm not out of the woods yet, but this is definitely a clearing.
+
+This book closes the first phase of practical effort that began four years ago Christmas morning. Once it is published, I will tour with it to generate more interest in dark retreating as well as more income and stability for myself. Then a longer retreat will become possible.
+
+For the second phase, we will make a documentary about my investigation, focusing on my discovery of darkness. It will climax with the 14-day retreat and show the aftermath.
+
+In its theme of reckless uncompromise, it will echo the story of another extreme seeker, Christopher McCandless (of _Into the Wild_). He also wanted to find a way to break out of our sick conditioning and live a real human life. I want to show what becomes of such a person who lives to share his findings.
+
+
+### static site generator {#static-site-generator}
+
+2013/05
+
+Soon I will migrate this site to a new content management system based on a static site generator. Generators are clients (like [jekyll](http://jekyllrb.com)), hosted, or self-hosted (like [blosxom](http://blosxom.sourceforge.net) and [stacey](http://staceyapp.com)). I'm most interested in hosted generators that use [dropbox](http://dropbox.com) and [github](http://github.com) and usually [markdown](http://daringfireball.net/projects/markdown). Here are the ones I have found so far:
+
+calepin.com (closed)
+[droppages.com](http://droppages.com)
+[scriptogr.am](http://scriptogr.am)
+[site44.com](http://site44.com)
+[paperplane.io][10]
+[telegr.am][11]
+[markbox.io][12]
+[dropplets.com][13]
+[kissr.com][14]
+
+I'll add to this list as I find more.
+
+   [10]: http://paperplane.io
+   [11]: http://telegr.am
+   [12]: http://markbox.io
+   [13]: http://dropplets.com
+   [14]: http://kissr.com
+
+
+### retreat reports moved {#retreat-reports-moved}
+
+2013/05
+
+All my retreat reports are now blog posts, arranged chronologically in their own category, report.
+
+EDIT: this has changed again. [Reports](#reports/) are now a main menu item.
+
+
+### how not to retreat {#how-not-to-retreat}
+
+2013/05
+
+Retreating for less than 56 hours seems to be a really bad idea. \[EDIT: glad to be wrong about this! See UPDATE below\]
+
+Three times in the last half-year, I have done mini dark retreats: once for 36 hours, twice for 16 hours. It just meant going to bed as usual then sleeping *way* in: waking up and going back to sleep several times, maybe all day and another night.
+
+Rather than being lifted over a chasm, enabling further forward motion (as in 56 hours of darkness), a mini-retreat is like being lifted out of the dumps to a great height (nice), then dropped (not nice). I did not do this on purpose. It just happened in moments of crisis and extreme exhaustion. I needed rest but I was unprepared for a proper retreat. Unfortunately, this almost killed me.
+
+A mini-retreat does not give enough time for the organism to adjust to being so re-energized, deal with underlying issues, or reset ones internal clock. Its like darkness turned into a drug.
+
+At first it seemed promising. I went in super depressed and came out feeling like superman. So energized, I would lose track of time more easily than usual, stay up all night, go to bed feeling like crap and wake up feeling like supercrap. My poor sleeping habits were not neutralized in 16 hours, as in a regular retreat. They were accentuated. This excited my suicidal tendencies. I would not be surprised if people with good sleeping habits got thrown off them by this surge of energy.
+
+For me, the point of a retreat is that it requires virtually no effort, and at the end, some things are made right in a permanent way, or at least fade out slowly. To do a retreat in a way that requires extra discipline afterward is stupid.
+
+The only way it might work is if a person can go to bed on time despite having so recently awakened and with so much energy. But I still suspect something bad could happen. Ego-inflation at least. Like when people fast for psychological or spiritual reasons.
+
+Myself, I have enough difficulty getting to bed without the promise of disaster if I dont. Normally, if I stay up late, I just get more exhaustion. Staying up after a mini-retreat led to serious vital and emotional crashes all three times I did it.
+
+The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldnt figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
+
+My shocking break-up in the fall from a girlfriend, set me up for all this. But the two mini-retreats I did afterward crystallized this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
+
+I was thinking of offering this kind of retreat as an introduction to darkness. It proved a _failure point test_: finessing a design to the point of collapse to find its absolute minimum requirements. A mini-retreat simply does not meet them.
+
+**UPDATE:** I found a way to do a mini-retreat safely. The above dire description should just be taken as a warning against starting and ending a mini-retreat _late_. Starting and ending early is the key.
+
+Go to bed in total darkness early: by 20:00 at the absolute latest. You might sleep the whole night if you are really tired. But if you wake up in the middle of the night as I usually do, don't turn the light on. As in a longer retreat, you can hang out, meditate, exercise, eat a bit of fruit, or take a shower. But stay in darkness. Return to bed after an hour or two and sleep. In the morning, uncover the windows by 10:00 (set an alarm) and have a regular day.
+
+A mini-retreat is not as impressive as regular ones. But it is safe, it feels really good, and it accustoms one to total darkness without disrupting one's schedule.
+
+It is actually just a slight modification of a normal night's rest, in which one goes to bed early, wakes up in the wee hours for a bit, then sleeps again. That was common until artificial light came a hundred years ago. We haven't adapted to sleeping the night through. We have just accommodated with chronic exhaustion.
+
+
+
+### revisions, book {#revisions-book}
+
+2013/08
+
+I am working with professional writers to edit the darkness conjecture in preparation for publishing a proper book based on it. Several of the articles have changed significantly. Rapture and hygiene are extended. The retreat manual is now divided into design and protocol, and make was divided into format and design. All of these are better organized. More changes to come. These will include a re-organization of the articles into sections and a migration away from WordPress.
+
+### peep {#peep}
+
+
+2015/03
+
+I haven't made a peep here in almost two years. But not for lack of activity on my part. I released a new version of my book in early 2014. I discovered a flaw in my vent and started working on it, never dreaming it would take this long to fix, going through two versions and 20 iterations. I built several private darkrooms in the process and just released a new edition of my book that reflects some of my new designs and thinking about retreating. The main change, small but important, is reflected in the format chapter, summarized in the first paragraphs there.
+
+
+### 2016 overhaul {#2016-overhaul}
+
+
+2016/05
+
+After two years of work, the new edition of my book, _darkroom retreat: deep rest for the self-healing psyche_, is finally done, fancy computer drawings, theoretical breakthroughs, and all. Get it now at [leanpub](https://leanpub.com/darkroomretreat) for free or pay what you like. Or just read it [here as webpages](/). Leanpub keeps your name and contact info private, even from me, while enabling me to automatically send you free updates to the book.
+
+This edition started when Simen Kirkerød, a friend and supporter in Norway, sent me a shocking message that the lightproof vent I'd just made for him leaked light like crazy. It turned out he was right, and that my design was rather stupid. I was appalled. The simple hand-drawings in my book were possibly misleading billions of people all over the world trying to darken their rooms! The situation would not stand.
+
+I had added the drawings to my book almost as an afterthought. I sketched them in an hour or two, and it seemed so simple that idyllic night in Karlstad, Sweden. Dozens of prototypes and a year later, I actually came up with a functional vent that is as small as possible while being relatively easy to make.
+
+About the same time, I got new ideas for other components. I learned to draw everything on a computer and things got out of hand. Now you can see all 19(!) drawings and several photos in the [make](#make/) chapter.
+
+I also made a couple theoretical breakthroughs regarding hygiene:
+
+- formulation of the Law of Vital Capacity, which explains the beneficial mechanism lurking behind self-sabotage (and virtually everything else in life that goes sideways). See [hygiene](#hygiene/)/capacity
+- darkroom retreating's greater importance than fasting. This includes how darkroom retreating will make long, self-managed (unsupervised) fasts possible for the masses. This fulfills hygiene's radical promise of perfect health for the people and, along with my previous discovery of trauma at the heart of all disease, helps prepare hygiene to finally overcome medicine's strangehold on healthcare. See [hygiene](#hygiene/)/psychology.
+
+So much happened in the last two years, it will be difficult to catch up. But in the coming weeks and months, I will renew my [blog](#blog) and share some of my thoughts from this period. Some of them I already posted on facebook (where I tend to restrain myself more than I like sometimes). Many of them are still text files on my computer.
+
+Many thanks (again!) to Daniel Reed and Heidi Sheryl Ewen in Sweden; Ketil Berg, Terje Tjensvoll, Bård Anders Lien, Benjamin Astrit Wold, Erlend Hårstad, Curare Austad, Magnus Vanebo, Bertrand Besigye in Norway; and Ségolène Lefébure, Marie Richter, and Virginie Bournaud in Paris for indispensable help since 2014 in completing this task. Special thanks to Sasha Day for heroic help with relevant personal matters, Nancy Gayle for cheerleading, and Mercedes Amapola Vlachou and Marion Abbott for recent enthusiastic help in preparing the text. Please forgive me if I left your name out of this list.
+
+Everyone, please let me know what you think of this new edition and what you need. Cheers!
+
+### new title {#new-title}
+
+
+2017/09
+
+I changed the name of the site and book. As darkroom retreating is growing a lot, I find it increasingly necessary to differentiate the hygienic from the usual spiritual, therapeutic, and psychedelic approaches. "Deep rest" unfortunately sounds like depressed, and other hygienists use the phrase, "profound rest", so I changed that, too. The essence of the book remains the same, or more so. I have new sections planned and will write them as soon as I am capable. Cheers.
+
+
+### 2017 september update {#2017-september-update}
+
+
+2017/09
+
+In 2016 June, I gave up on overwork as the means to arrange the conditions of profound rest for myself. With the help of Marion Abbott, a great new friend and fellow darkness seeker, I made a successful crowdfunding campaign to raise the money I needed to finally retreat for 20 days. 
+
+For the first days, I was euphoric. Finally, the way was cleared for me to retreat. Or so I thought.
+
+In four months, with $2800, I only arranged a rushed 5-day retreat. My incapacity was heartbreaking and unbelievably strange. The ability I had counted on to accomplish the retreat vanished upon acquiring the means to do so. The incapacity persists and intensifies to this day. In February, I arrived at an explanation: the automatic loss of [false capacity](#false-capacity) upon recovery of original capacity. This has helped me remain calm about my hastening debilitation.
+
+I continued trying to arrange a retreat while struggling to keep a roof over my head as usual. I found a workshop to prefabricate a new portable building in. I met several people interested in participating and supporting it somehow. But my living situation constantly interfered with my efforts.
+
+Finally I realized what everyone who knows me must know: my biggest and most immediate problem is my homelessness. I shifted my focus from arranging a retreat to making a home for myself. With a home, I could do the retreat and the hundred other things I need to do and which constantly plague my efforts to retreat. My darkroom building project became my home building project. Everything started falling into place. For several hours one day, I felt [rapture](#darkness-conjecture/rapture) for the first time since it overcame me as a teenager.
+
+The house will be a hexayurt of massive materials for warmth and sound insulation, yet still portable. It will be full-size: 4.8m inside diameter, corner to corner, and 1.8m high walls and a 3m peak. Since a darkroom is just a proper shelter, and so easily darkenable, the whole building will meet my specifications in [design](#design). I have built one-third of the floor. Photos soon.
+
+About the same time (June), my meager cryptocurrency investments of the previous 18 months matured. Suddenly I had enough to build and feed myself.
+
+The whole time I wondered what the hell had happened to me this year. Besides my strange incapacity, I felt like I had a target painted on me. I encountered several personality-disordered people in the past 18 months and one genuine psychopath this spring, perhaps the most evil person I have ever met. It nearly did me in.
+
+I got away from him in time. I was offered a two-month housesitting job in a run-down yurt I didn't have to do much for. I had it to myself and began to recover. One day, I felt a primal power begin to stir in myself. It is the power to live, to survive, to run or fight, to maintain one's place in the world in the face of challenges, to take care of oneself, to be satisfied in oneself. Money represents it. It is fundamental to sexual power, which I had explored and [reported](#reports/) on in recent years. The power to live had been largely decimated in me as a child, as much or more than my sexuality. But here it was. It felt clear though very faint.
+
+Though I have more money (on paper) than I ever had at once in my life, my capacity for money and for the power it represents remain quite limited by ordinary standards. I pray it is enough to get me into darkness for 20 days. We will see.
+
+Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by replacing footnotes with underlined words that are links in the PDF or online. The new version is up at [leanpub](https://leanpub.com/darkroomretreat).
+
+It also includes three crucial new designs: a [silencer](#silencer), [fan mount](#fan-mount), and [instant sleeping mask](#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
+
+Ok, till next time.
+
+
+### dominant assurance with a twist {#dominant-assurance-with-a-twist}
+
+2012/02
+
+I came up with a twist on [Dominant Assurance Contracts](http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html). Which is economist [Alex Tabarrok](http://mason.gmu.edu/~atabarro/)‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [Kickstarter](http://www.kickstarter.com). In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
+
+My idea takes off from there.
+
+~/~
+
+Dear Mr Tabarrok,
+
+Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.
+
+I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:
+
+- help fund the bonus pot
+- adjust their positions throughout the game.
+
+Here are the rules:
+
+1. The proposer:
+    - sets the monetary goal and deadline
+    - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
+    - sets the maximum bonus rate between 0% and infinity in case of failure
+    - sets the maximum profit rate in case of success
+    - and can increase both these rates until the campaign's deadline
+2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
+3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
+4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
+5. Supporters can make multiple contributions with different bonus rates.
+
+Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [webisteme](http://webisteme.com)‘s [#PunkMoney](http://punkmoney.org), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
+
+Examples
+
+- Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
+    - A second such supporter of $99 would take away 99% of the pot.
+    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
+- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
+- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
+
+What do you think?
+
+The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.
+
+Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It's relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,
+
+Cheers,
+Andrew Durham
+
+~/~
+
+EDIT: I removed this sentence from the third to last paragraph: "And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?" I decided on "Cooperative". If you think of a better name, please let me know.
+
+EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.
+
+EDIT: added bit about [#PunkMoney][5]
+
+
+
+## the darkness conjecture {#the-darkness-conjecture}
 
 #### a strifeless recovery of rapture {#a-strifeless-recovery-of-rapture}
 
 Experiences, ideas, and implications of hygienic darkroom retreating. 
 
 - Intro
-    - [____conjecture____](./conjecture/)
-    - [____basics____](./basics/)
+    - [conjecture](./conjecture/)
+    - [basics](./basics/)
 - Health
-    - [____rapture____](./rapture/)
-    - [____hygiene notes____](./hygiene-notes/)
-    - [____dreamtime____](./dreamtime/)
+    - [rapture](./rapture/)
+    - [hygiene notes](./hygiene-notes/)
+    - [dreamtime](./dreamtime/)
 - Disease
-    - [____psychosis____](./psychosis/)
-    - [____catastrophe____](./catastrophe/)
-    - [____strifeless____](./strifeless/)
+    - [psychosis](./psychosis/)
+    - [catastrophe](./catastrophe/)
+    - [strifeless](./strifeless/)
 - Healing
-    - see [____darkroom retreat____](/)
-    - [____project____](./project/)
+    - see [darkroom retreat](/)
+    - [project](./project/)
 
 
 
@@ -27,11 +1749,12 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
 
 Rapture, the natural human condition, turns to suffering in a catastrophically injured psyche, which, as an organic system, will heal itself with vital energy accumulated in the profound rest available in an absolutely dark environment.
 
+&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../basics/)
 
 
 ### basics {#basics}
 
-I will briefly explain the title, subtitle, and thesis of this part of the book in terms of theory. This site's [____primary content____](/) is the practical part. Further notes introduce the rest of the essays.
+I will briefly explain the title, subtitle, and thesis of this part of the book in terms of theory. This site's [primary content](/) is the practical part. Further notes introduce the rest of the essays.
 
 #### terminology {#terminology}
 
@@ -58,7 +1781,7 @@ The conjecture is essentially a logical argument, each point of which everyone k
 8. Therefore, dark retreating is a way to restore rapture.
 
 
-#### the darkness conjecture {#the-darkness-conjecture}, original
+#### the darkness conjecture - original {#the-darkness-conjecture-original}
 
 The conjecture's wording used to be different. The original wording influences most of the essays that follow, so I am including it here:
 
@@ -67,7 +1790,7 @@ The conjecture's wording used to be different. The original wording influences m
 3. This pathological fixation is a defensive posture against further gross injuries which civilization routinely inflicts on its members.
 4. Consciousness, as a biological faculty, will heal from these injuries given the proper conditions, primarily _rest_.
 5. Sustained total darkness leads to radically altered brain chemistry, inducing deep rest long enough to enable consciousness to permanently heal.
-6. Healed consciousness clears the way back to a full life, dispelling our [____suffering____](#blog/2009/09/conjectures-sixth-point/) and [____absurd problems____](#blog/2009/09/darkness-made-simple/).
+6. Healed consciousness clears the way back to a full life, dispelling our [suffering](#blog/2009/09/conjectures-sixth-point/) and [absurd problems](#blog/2009/09/darkness-made-simple/).
 
 I increasingly found this version convoluted. When I finally read _The Science and Fine Art of Natural Hygiene_ by Herbert Shelton, I grasped the crucial role in health of vital energy. It integrated the points of the conjecture and is central to its present formulation.
 
@@ -85,9 +1808,8 @@ Similarly, you may feel that I exaggerate the potential of the self-healing psyc
 
 If our lifeway's insanity is obvious to you, yet you find yourself strangely unable to break free of it, take heart. The chains that bind you are wholly internal, and you will gradually discover them in darkness. The restoration of psychic integrity is the master key to a new way of life. We will still have to open the door and walk through, but we can stop trying to pick the lock.
 
-&nbsp;
 
-[____&lt;____](../conjecture/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../rapture/)
+[&lt;](../conjecture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../rapture/)
 
 
 ### rapture {#rapture}
@@ -114,7 +1836,7 @@ However, once I had a biological foothold in adulthood, I _relapsed_. Vital ener
 
 The experience flattened everything else I was involved in. I had a future in music. I couldn't care less. I wanted to be enraptured again. I made a resolution: "There is a way; I will find it." I started looking closely at other people. I was not the only one with whom this had happened. I became very interested in philosophy.
 
-Until now, I could never explain what had happened to alter my course so drastically. So most of my family remain bewildered about me and all I gave up on. It saddens me. But I needed an answer, and few had more than a piece of it. Like the popular psychologist who named my feeling, [____Leo Buscaglia____](http://www.youtube.com/watch?v=j4WSWcYSOIM).
+Until now, I could never explain what had happened to alter my course so drastically. So most of my family remain bewildered about me and all I gave up on. It saddens me. But I needed an answer, and few had more than a piece of it. Like the popular psychologist who named my feeling, [Leo Buscaglia](http://www.youtube.com/watch?v=j4WSWcYSOIM).
 
 When the explanation of remission arrived, I had already retreated in darkness. And I had been trained from birth in the design perspective. This means seeking universal solutions to particular problems based on close observation of ordinary constraints. So my solution came full blown with these corollaries:
 
@@ -123,12 +1845,12 @@ When the explanation of remission arrived, I had already retreated in darkness. 
 
 In that instant, I knew my search was over. One burning question pursued obsessively had finally yielded something worth trying. The theoretical phase of my work was finished, and the practical phase had begun.
 
-[____&lt;____](../basics/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../hygiene-notes/)
+[&lt;](../basics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../hygiene-notes/)
 
 
 ### hygiene notes {#hygiene-notes}
 
-_Note: this is a early version of [____hygiene____](#hygiene/) from the book. So some of the text is the same. But there is much more here about Natural Hygiene and other approaches._
+_Note: this is a early version of [hygiene](#hygiene/) from the book. So some of the text is the same. But there is much more here about Natural Hygiene and other approaches._
 
 Natural Hygiene's principles enable us to understand how a darkroom retreat works, what part we play in it, and how it relates to our health in general. Natural Hygiene also provides an approach to darkness distinct from the spiritual and conventional scientific approaches often associated with it. 
 
@@ -210,9 +1932,9 @@ As Lao Tzu said, "The Tao that can be spoken is not the eternal Tao." So much fo
 
 Though I had been exposed to its basic ideas, hygiene was only vaguely in my mind when the self-healing psyche dawned on me. It took a couple months to solidify the connection between the two. An exchange with a friend, Brian, brought it out. 
 
-In our exchange, he talked about Family Constellations. This is an intense weekend training in self-discovery whose methods he said might be useful to darkroom retreating. He wrote me in response to my idea of the civilized "management" of human suffering in [____strifeless____](../strifeless/). (Some of this may not be clear, but I think Brian's general idea comes across): 
+In our exchange, he talked about Family Constellations. This is an intense weekend training in self-discovery whose methods he said might be useful to darkroom retreating. He wrote me in response to my idea of the civilized "management" of human suffering in [strifeless](../strifeless/). (Some of this may not be clear, but I think Brian's general idea comes across): 
 
-> About "management" and weekend workshops, I cannot help but think of Family Constellations. I think Constellations, when done by less-skilled facilitators might fall, to some degree, into the "life is suffering/strife: learn to live with it" category. But the facilitator I like best to work with seems not to suffer from such a blindness to subtle reality (see [____dreamtime____](../dreamtime/)) as the rest of us, which&mdash;along with some other skills&mdash;allows him to offer that awareness to the rest of us in powerfully serving our healing. Such awareness can lead to strifeless modalities of healing and restoration, I submit.
+> About "management" and weekend workshops, I cannot help but think of Family Constellations. I think Constellations, when done by less-skilled facilitators might fall, to some degree, into the "life is suffering/strife: learn to live with it" category. But the facilitator I like best to work with seems not to suffer from such a blindness to subtle reality (see [dreamtime](../dreamtime/)) as the rest of us, which&mdash;along with some other skills&mdash;allows him to offer that awareness to the rest of us in powerfully serving our healing. Such awareness can lead to strifeless modalities of healing and restoration, I submit.
 
 I replied that, unfortunately, Family Constellations is probably only minimally useful in darkness. Like various other forms of transpersonal psychology, it lies somewhere between management and discipline, two of civilization's three standard approaches to inordinate suffering. The degree of knowledge and skill it requires makes it full of strife.
 
@@ -240,7 +1962,7 @@ It will anyway. Darkness ensures it. A nervous system flooded with melatonin, th
 
 To me, it felt like falling through a trapdoor. I felt five or six more such trapdoors awaited me before I would see the other side of my personal struggle, my lifelong dilemma. In the meantime, there were times I felt I was crawling in my skin. So the whole thing was alternately very pleasant and very unpleasant. It is certainly unpleasant to discover the concrete form of one's slavery in all its reticulated techno-horror. But it is no worse than what we go through anyway. It is just that it is accelerated and concentrated, and there are no distractions. And there is a chance of never reliving the horror again.
 
-How do you prepare for darkness? It is mostly logistics: making and furnishing the room, scheduling with a supporter, stocking the food. If the room works, the retreat probably will, too. Instructions are given for all this in the rest of these pages. The attitude I try to convey here and in the article, [____protocol____](#protocol/) is natural and for most people will come over time in darkness. I'm just trying to provide the words for it. 
+How do you prepare for darkness? It is mostly logistics: making and furnishing the room, scheduling with a supporter, stocking the food. If the room works, the retreat probably will, too. Instructions are given for all this in the rest of these pages. The attitude I try to convey here and in the article, [protocol](#protocol/) is natural and for most people will come over time in darkness. I'm just trying to provide the words for it. 
 
 Otherwise, you prepare the same way you prepare for weeks in a hospital bed in traction. Ie, I am sorry. It is too late. You are already prepared.
 
@@ -284,12 +2006,12 @@ In the hygienic use of darkness, rest, and the other requirements of the automat
 
 Freedom is only a light switch away.
 
-[____&lt;____](../rapture/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../dreamtime/)
+[&lt;](../rapture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../dreamtime/)
 
 
 ### dreamtime {#dreamtime}
 
-While chatting online with a friend, Brian Sullivan, I described to him my brief waking experience of dreamtime and wrote a bit about the pineal gland. I had learned about it from Mantak Chia in [_____Dark Room Enlightenment_____](http://www.scribd.com/doc/7109388/Mantak-Chia-Dark-Room-Enlightenment) and [____David Wilcock____](http://www.divinecosmos.com/videos/free-videos-online/374-the-2012-enigma-free-full-length-documentary-film) in [_____2012 Enigma_____](http://youtu.be/o1Hw8DVLw-A). Here is the edited chat:
+While chatting online with a friend, Brian Sullivan, I described to him my brief waking experience of dreamtime and wrote a bit about the pineal gland. I had learned about it from Mantak Chia in [_Dark Room Enlightenment_](http://www.scribd.com/doc/7109388/Mantak-Chia-Dark-Room-Enlightenment) and [David Wilcock](http://www.divinecosmos.com/videos/free-videos-online/374-the-2012-enigma-free-full-length-documentary-film) in [_2012 Enigma_](http://youtu.be/o1Hw8DVLw-A). Here is the edited chat:
 
 > **Andrew:** Darkness signals the pineal gland to secrete melatonin. Melatonin causes us to sleep.
 >
@@ -359,12 +2081,12 @@ In supporting consciousness to dislodge itself from its fixation on the gross ph
 
 In short, we would no longer depend for our liberation on the rarities of sufficient will, luck, power, or advanced spiritual realization, but on an ordinary state of consciousness immediately available to all.
 
-[____&lt;____](../hygiene-notes/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../psychosis/)
+[&lt;](../hygiene-notes/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../psychosis/)
 
 
 ### psychosis {#psychosis}
 
-_This essay is the heart of my work. It describes the insight that instantly precipitated the solution described earlier in [____rapture____](#darkness-conjecture/rapture/)._
+_This essay is the heart of my work. It describes the insight that instantly precipitated the solution described earlier in [rapture](#darkness-conjecture/rapture/)._
 
 On Christmas morning, 2008, I finally saw that I see the world:
 
@@ -382,7 +2104,7 @@ Psychosis is the inability to distinguish reality from fantasy. We really believ
 
 Curiously, I felt elation about this. In realizing my own utter helplessness to do anything directly about my "cramp" (an unconscious, habitual contraction from life), I felt an enormous relief. The relief came from not having to try to do anything about it anymore, because it is impossible. It is not a moral issue. It is disease---an organic condition arising from psychic injury. I could quit all the internal tricks I thought were keeping the chaos in check. The pretensions. The disciplines. The slogans. They would never fully work. They could never get under the psychosis or overturn it. Practicing them could only buy me a temporary or partial improvement while reinforcing the underlying impairment.
 
-I had thought the problem was amenable to will, something I could address by effort in spiritual, mental, emotional, physical, social, and ecological terms. But these are merely the ways I experience the problem. The problem itself precedes and causes all of these kinds of suffering. My consciousness itself is _impaired_ due to damage. And this condition, in the words of spiritual teacher, [____Arnaud Desjardins____](http://www.arnauddesjardinsvideos.com/), is "permanent for the time being." Intractability is its name.
+I had thought the problem was amenable to will, something I could address by effort in spiritual, mental, emotional, physical, social, and ecological terms. But these are merely the ways I experience the problem. The problem itself precedes and causes all of these kinds of suffering. My consciousness itself is _impaired_ due to damage. And this condition, in the words of spiritual teacher, [Arnaud Desjardins](http://www.arnauddesjardinsvideos.com/), is "permanent for the time being." Intractability is its name.
 
 The impairment is a systemic malfunction in my basic awareness. Sitting in this house, I may be aware of the walls, the desk, the music in the background. But my awareness of entire categories of related facts, both subtle and gross, is repressed. Omission, hyperbole, and disproportion characterize my awareness.
 
@@ -441,7 +2163,7 @@ This also means there is no such person as a healer. Only the body has the power
 
 It is just that, in Natural Hygiene, this principle has never been fully applied to the recovery of the psyche itself. Even though, as Ayn Rand said, "Consciousness—for those living organisms which possess it—is the basic means of survival," consciousness has never been fully appreciated as both the seat of our woe and as an organic function capable of self-healing. Consequently, repose in darkness has, until now, remained unknown as the condition the psyche can best use to heal itself.
 
-The explanation of impaired consciousness gets at why discipline is already so lacking in most of us, why the will flags and attention fizzles far short of any real attainment. It explains why we feel something is wrong with ourselves and try to fix it (discipline), get it fixed (management), or avoid it (sedation. See [____strifeless____](#strifeless/). But volitional functions _depend_ on unimpaired consciousness. They do not generate it. Any success is partial. The solution is to use the sliver of available will, not to strengthen the will in order to later break into latent energy reserves in the subtle bodies in order to effect transformation (the strategy of esoteric spiritual traditions), but to provide the being the conditions it requires to reenergize itself immediately and so restore its own psychic integrity. This puts the horse before the cart, automatically restoring the will to full function.
+The explanation of impaired consciousness gets at why discipline is already so lacking in most of us, why the will flags and attention fizzles far short of any real attainment. It explains why we feel something is wrong with ourselves and try to fix it (discipline), get it fixed (management), or avoid it (sedation. See [strifeless](#strifeless/). But volitional functions _depend_ on unimpaired consciousness. They do not generate it. Any success is partial. The solution is to use the sliver of available will, not to strengthen the will in order to later break into latent energy reserves in the subtle bodies in order to effect transformation (the strategy of esoteric spiritual traditions), but to provide the being the conditions it requires to reenergize itself immediately and so restore its own psychic integrity. This puts the horse before the cart, automatically restoring the will to full function.
 
 Rest is the primary condition of all healing. Darkness provides consciousness the opportunity to rest long and deeply enough to heal. It minimizes both the stimulation of and flow of energy to the "mind"—the habitual state of attention—which otherwise would continue to run all the time, night and day, waking and sleeping. The mind winds down.
 
@@ -455,7 +2177,7 @@ When dreamtime is naturally reaccessed, the flow of creative energy surges back 
 
 In repose, the spongy tissues of consciousness absorb this dreamy, creative, vital energy. Thus refueled, the healing of consciousness from its injuries accelerates and its impairment and psychosis fade. Sanity and health of the entire organism naturally result, and the exuberantly creative participation in life resumes as if nothing ever happened.
 
-[____&lt;____](../dreamtime/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../catastrophe/)
+[&lt;](../dreamtime/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../catastrophe/)
 
 
 ### catastrophe {#catastrophe}
@@ -464,11 +2186,11 @@ The catastrophic injury to the psyche I mention in the conjecture deserves some 
 
 Humanity is incredibly resilient and adaptable. So the first cause of this injury would have to be mythic in scale to wreck consciousness. It would have to be something that almost made us extinct. In effect, those who sustained this injury are like the survivors of an airplane crash, wandering bewildered, catatonic, completely disoriented. I believe it was some disastrous event in our distant past that shocked us so badly that we nearly lost touch with reality. Each generation simply passed the mass psychosis on to the next, brutalizing one child at a time. Our society passed it to others through the horrors of conquest. The process metamorphosed into our current, institutionalized catastrophe.
 
-Maybe a comet hit Earth or planets changed position, causing a pole shift and massive geological changes. Not like the pissant tsunamis we have seen lately, but continent-drowning waves (like in the movie _2012_). Maybe the Flood. Maybe not a single event, but a series of events overwhelmed our people's capacity to cope. Maybe surviving grown-ups recovered but _children didn't_. I happen to imagine it as the shock of a mass transmigration of souls from the second dimension (see [____myth of three peoples____](#other-writings/myths) for the whole story).
+Maybe a comet hit Earth or planets changed position, causing a pole shift and massive geological changes. Not like the pissant tsunamis we have seen lately, but continent-drowning waves (like in the movie _2012_). Maybe the Flood. Maybe not a single event, but a series of events overwhelmed our people's capacity to cope. Maybe surviving grown-ups recovered but _children didn't_. I happen to imagine it as the shock of a mass transmigration of souls from the second dimension (see [myth of three peoples](#other-writings/myths) for the whole story).
 
 In my search for joy, I have seen the same suffering all over. It didn't matter if my host was a multi-millionaire or a burger-flipper, the basic pain was the same.
 
-Whatever the scenario, the basic idea is one of trauma: something from the outside causing damage so massive it overwhelmed the ability of everyone's psyche's to register it. It is thus blocked from memory. But it has not disappeared. We re-enact it without knowing or knowing why. I got this idea from [____Immanuel Velikovsky____](http://www.knowledge.co.uk/velikovsky/index.htm). He was a psychoanalyst who saw nuclear holocaust as the avoidable fulfilment of our unfathomable collective trauma.
+Whatever the scenario, the basic idea is one of trauma: something from the outside causing damage so massive it overwhelmed the ability of everyone's psyche's to register it. It is thus blocked from memory. But it has not disappeared. We re-enact it without knowing or knowing why. I got this idea from [Immanuel Velikovsky](http://www.knowledge.co.uk/velikovsky/index.htm). He was a psychoanalyst who saw nuclear holocaust as the avoidable fulfilment of our unfathomable collective trauma.
 
 A healthy organism always acts in its own best interest. Therefore, it could not be the source of its own inordinate, chronic suffering. Only an outside force could cause such suffering. Likewise, a healthy organism will never maliciously harm another organism. Since everyone was healthy at one point, this outside force could not have originated with others.
 
@@ -492,7 +2214,7 @@ The catastrophe from our past keeps repeating itself in our daily lives. We expe
 * chronic illness
 * natural disasters we are strangely unprepared for.
 
-Generally, we attribute our troubles to error, evil, ignorance, or a flaw in human nature: ie, some version of the doctrine of original sin, which every civilized religion has. Their solution is always some kind of disciplined effort at which only a few can succeed [____for now____](#blog/2011/06/bodhisattva-math/).
+Generally, we attribute our troubles to error, evil, ignorance, or a flaw in human nature: ie, some version of the doctrine of original sin, which every civilized religion has. Their solution is always some kind of disciplined effort at which only a few can succeed [for now](#blog/2011/06/bodhisattva-math/).
 
 Because of my experience of rapture, I do not think what we live with today is just how things or people are. I think it is the result of some kind of disaster. Who knows what, exactly. But it was big. It was impersonal&mdash;nobodys fault. And now we seem to have a chance to finally move on.
 
@@ -504,14 +2226,14 @@ I lived among Mayan Indians for 18 months. I tried using their calendar, which i
 
 I believe this is our destiny. Darkness is simply a way to participate in what is happening anyway. It is way to run out and meet it.
 
-[____&lt;____](../psychosis/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../strifeless/)
+[&lt;](../psychosis/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../strifeless/)
 
 
 ### strifeless {#strifeless}
 
 A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conversation brought out the meaning and an important implication of the word _strifeless_ (from the subtitle).
 
-> **Andrew:** We in civilization endure a terrible internal conflict. You know when you feel like you are going to explode? Or be torn apart? This conflict is caused by an unconscious denial of a subtle, but large part of reality called [____dreamtime____](#dreamtime). It is a dimension different than the usual, gross spacetime. Humans are normally aware of it but we are not. Civilization offers us three ways to deal with this conflict:
+> **Andrew:** We in civilization endure a terrible internal conflict. You know when you feel like you are going to explode? Or be torn apart? This conflict is caused by an unconscious denial of a subtle, but large part of reality called [dreamtime](#dreamtime). It is a dimension different than the usual, gross spacetime. Humans are normally aware of it but we are not. Civilization offers us three ways to deal with this conflict:
 >
 > 1. Sedation (through addiction)
 > 2. Management (popular religion, psychotherapy, self-improvement, coaching, success seminars, spiritual materialism, weekend workshops, etc)
@@ -527,7 +2249,7 @@ A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conve
 >
 > **A:** What the rest of us need is an easier way to cease denying our awareness of it. What these three ways have in common is the idea that strife is just how life is. Life sucks. Get used to it.
 >
-> But I am way too lazy and narcissistic to believe this. Always have been. Anyway, I have seen [____otherwise____](#rapture). Life is not inherently painful, just living like this. There is another way. Something is broken; lets fix it already!
+> But I am way too lazy and narcissistic to believe this. Always have been. Anyway, I have seen [otherwise](#rapture). Life is not inherently painful, just living like this. There is another way. Something is broken; lets fix it already!
 >
 > **B:** Very nice.
 >
@@ -537,26 +2259,26 @@ A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conve
 >
 > **A:** Why does something that only took a moment to break need a lifetime to learn to repair? Biologically, it makes no sense. Extended total darkness allows for rest that could be deep enough and long enough for consciousness to unhook itself from gross matter and heal itself automatically. This is the conjecture.
 
-#### Afterword {#Afterword}:
+#### Afterword {#Afterword}
 
 This process will not make a person enlightened or give him back all that he could have had in an untraumatized life. It is a very limited thing that darkness might enable the organism to accomplish. Plenty of wreckage would remain, inside and out, to clean up and repair over generations. This is just a possible way to deal with the knotted core of the illness, yet without the strife that characterizes and perpetuates it. The means is the end. Strife cannot produce ease at ones core.
 
 Moreover, even if the conjecture fails, in its strifelessness, it indicates an entirely new _kind_ of solution to the problem of how bad we feel and how rotten things are for everyone in this lifeway. Again, the standard solutions accept conflict as an essential quality of life and then require strife to overcome it. A strifeless solution, a&mdash;dare I say it&mdash;_pleasant and easy_ solution*, relies completely on the unfailingly benevolent forces of life and the universe, rather than will, to undo what was done. Swiftly, quietly, and permanently, in one shot, like a broken bone properly set and braced.
 
-Darkness is but one such force. It is a normal condition of life. In the retreat, one temporarily extends darkness while convalescing from the long infirmity. It is just as one tends, when ill, to eat less, stay in bed longer and drink more water. I know no more promising a condition for the recovery of rapture and the dissolution of inordinate suffering than darkness. But if it proves insufficient or fails, then we, the [____research family____](#blog/2009/02/its-not-mine-alone/) I just wrote about, would set about amending or replacing it. I wouldn't mind so much if darkness in particular works or not. But I believe it or something strifeless like it will, and that together we could have an excellent time working that out. (More about this later in the "project" essay.)
+Darkness is but one such force. It is a normal condition of life. In the retreat, one temporarily extends darkness while convalescing from the long infirmity. It is just as one tends, when ill, to eat less, stay in bed longer and drink more water. I know no more promising a condition for the recovery of rapture and the dissolution of inordinate suffering than darkness. But if it proves insufficient or fails, then we, the [research family](#blog/2009/02/its-not-mine-alone/) I just wrote about, would set about amending or replacing it. I wouldn't mind so much if darkness in particular works or not. But I believe it or something strifeless like it will, and that together we could have an excellent time working that out. (More about this later in the "project" essay.)
 
 &nbsp;
 
 *by this I mean _predominantly_ easy and pleasant. There can be difficult, painful moments in darkness, some of which require focused attention to overcome. But these are exceptions, not the rule. The principal actor in the situation, like ones champion in a duel, remains the autonomic organism. This feeling of a great force come to ones aid in a crisis is indescribably encouraging.
 
-[____&lt;____](../catastrophe/)&nbsp;&nbsp;&nbsp;[____`____^`](../)
+[&lt;](../catastrophe/)&nbsp;&nbsp;&nbsp;[`^`](../)
 
 
 ### project {#project}
 
 Here I would like to relate the history and future of this project.
 
-Since 2006, I have attempted seven retreats, two successful, two semi- successful, three failures \[____plus seven more retreats since writing this essay\____]. These results depended entirely on how well the room worked mechanically (not, thank god, my morale or effort during the retreat). I do not think it necessarily tricky to achieve the conditions of a retreat, but it has been for me.
+Since 2006, I have attempted seven retreats, two successful, two semi- successful, three failures \[plus seven more retreats since writing this essay\]. These results depended entirely on how well the room worked mechanically (not, thank god, my morale or effort during the retreat). I do not think it necessarily tricky to achieve the conditions of a retreat, but it has been for me.
 
 In late 2008, the point of dark retreating became really clear to me and I began focusing on it full-time. My goal has been to do a long (14-day) retreat. Following my first failure at this in March, 2009, I drafted most of the content of this booklet and posted it online.
 
@@ -566,12 +2288,12 @@ All of this was instructive and encouraging. But failure has also given me pause
 
 I believe my failure has largely resulted from my exaggerated fear of interacting with other people. In true Catch-22 fashion, this fear has arisen from that which I have been trying to recover from. The cycle has to end somewhere, so the next phase of the project involves republishing a booklet of these writings, discussing the project with close supporters, and giving free public talks. The purpose of all this is to gauge interest, gather support, and invite wider participation. Rather than just invite people to help me do my thing as I have done in the past, I would like to open up the project to others equal participation.
 
-The first thing I am doing in this regard is releasing the content of this booklet so that anyone may [____freely____](http://copyheart.org/) copy, distribute, and sell (yes, _sell_) this content in any media. Suggest changes by submitting [____pull requests____](https://github.com/yodrew/hod). Include this license in your reprints, and I will similarly recognize and link to you on andrewdurham.com. Share 8% of your street price with me or somehow astound me and I will also give you my [____endorsement____](http://questioncopyright.org/creator_endorsed), a visible mark to use on products and ads. This deal roughly equals what you and I would make if I were published or self-published, without your having to order in bulk. PayPal, Dwolla, and write me at info {at} andrewdurham.com.
+The first thing I am doing in this regard is releasing the content of this booklet so that anyone may [freely](http://copyheart.org/) copy, distribute, and sell (yes, _sell_) this content in any media. Suggest changes by submitting [pull requests](https://github.com/yodrew/hod). Include this license in your reprints, and I will similarly recognize and link to you on andrewdurham.com. Share 8% of your street price with me or somehow astound me and I will also give you my [endorsement](http://questioncopyright.org/creator_endorsed), a visible mark to use on products and ads. This deal roughly equals what you and I would make if I were published or self-published, without your having to order in bulk. PayPal, Dwolla, and write me at info {at} andrewdurham.com.
 
 
 Next, I will make a visit to my close supporters in Scandinavia where we can seriously talk about this project. Thank god for friends. My personal goal remains the completion of a 14-day dark retreat. This promises to entail more than I am used to handling.
 
-Which may be why I have so many other ideas for the application of the principle, it makes my head spin. Especially since my last [____retreat____](#blog/2011/03/14-day-darkness-retreat-cut-short/). The strifeless principle says that a fundamental state of integrity, ease, and joy are natural to human beings, and are restored by a basically easy, graceful approach. This contrasts with the pervasive idea that conflict, struggle and suffering are natural to us and can only be overcome by a great and painful effort.
+Which may be why I have so many other ideas for the application of the principle, it makes my head spin. Especially since my last [retreat](#blog/2011/03/14-day-darkness-retreat-cut-short/). The strifeless principle says that a fundamental state of integrity, ease, and joy are natural to human beings, and are restored by a basically easy, graceful approach. This contrasts with the pervasive idea that conflict, struggle and suffering are natural to us and can only be overcome by a great and painful effort.
 
 For me, strifelessness is like a software platform. It is an open source design perspective which anybody can use to solve any problem arising from our mass functional psychosis. The strifeless platform is a serious yet relaxed way of approaching, shall we say, exceedingly conflicted situations. The platform itself can emerge within or take many forms: social movement, business, extended family, non-profit clearinghouse, R&amp;D lab, thinktank. Thus any group---existing, new, or ad hoc---can use it to focus on a given situation in an appropriate way.
 
@@ -626,25 +2348,25 @@ Sometimes I think of the group as a family, a research family. We would be a ban
 
 Thus I offer these writings to attract interest, support, and participation in a strifeless approach to recovering rapture and the development of a sane lifestyle for those in recovery from suffering. This involves testing dark retreating as a simple, cheap, quick, pleasant, and replicable way of permanently healing from psychic trauma and restoring the basic functions of human consciousness, including waking awareness of the dreamworld. If effective, this would rapidly lead to solutions to every excruciating problem suffered by humanity since the rise of civilization, as well as the reemergence of a humane and regenerative lifeway.
 
-[____&lt;____](..//)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](..//)
+[&lt;](..//)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](..//)
 
 
-### reports {#reports}
+## reports {#reports}
 
-This series of Hygienic darkroom retreat reports documents my improbable recovery from an ancestral suicide program and the resulting qualification of the [____darkness-conjecture____](#darkness-conjecture/) as a hypothesis.
+This series of Hygienic darkroom retreat reports documents my improbable recovery from an ancestral suicide program and the resulting qualification of the [darkness-conjecture](#darkness-conjecture/) as a hypothesis.
 
-- [____four darkness experiences____](./four-darkness-experiences/)
-- [____6-day retreat____](./6-day-retreat/)
-- [____5-day retreat____](./5-day-retreat/)
-- [____2-day retreat____](./2-day-retreat/)
-- [____7x1-day retreat____](./7x1-day-retreat/)
-- [____2x2-day retreat____](./2x2-day-retreat/)
+- [four darkness experiences](./four-darkness-experiences/)
+- [6-day retreat](./6-day-retreat/)
+- [5-day retreat](./5-day-retreat/)
+- [2-day retreat](./2-day-retreat/)
+- [7x1-day retreat](./7x1-day-retreat/)
+- [2x2-day retreat](./2x2-day-retreat/)
 
 These are reports by others:
 
-- [____lindsey vona's 14-day retreat____](./lindsey-vona-darkness-retreat/)
-- [____365-day retreat of 150 year-old yogi____](./365-day-retreat-of-150-year-old-yogi/)
-- [____dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust____](./3-day-sith-bathchamber/)
+- [lindsey vona's 14-day retreat](./lindsey-vona-darkness-retreat/)
+- [365-day retreat of 150 year-old yogi](./365-day-retreat-of-150-year-old-yogi/)
+- [dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust](./3-day-sith-bathchamber/)
 
 
 ### four darkness experiences {#four-darkness-experiences}
@@ -713,6 +2435,7 @@ Inspired by my breakthrough on Christmas, this was going to be my first long ret
 
 It helped me realize, in yet another way, how I have habitually kept people out of my life. This led me to ignore several warnings that an occupied house might be too noisy for a retreat. Also, I ignored a request from a couple friends to give a talk about the conjecture, which likely would have opened up the project to others participation. Heartbreaking. But somehow I will open up.
 
+&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../6-day-retreat/)
 {:.arrow}
 
 
@@ -727,7 +2450,7 @@ I had planned to get in on Monday, February 28, but as usual, I ran late, then l
 
 The first few days, I slept just so-so due to discomfort with my new foam padding. But I did wake up Tuesday and Wednesday feeling pretty refreshed. Some loud construction noise started coming from outside. I also noticed the drone of my fan off and on. This was disheartening because I'd spent a bunch of time supposedly making a quiet system. So it would be back to the drawing board with that. My assistant, Josh, and I had to plug three light leaks. I read afterward these were enough to disrupt the melatonin secretion and set me back days. This would help explain the disjointed feeling of the retreat. The problem is that the adobe and earthen mortar constantly expanded and shrank with humidity, opening holes and cracks to the outside.
 
-Internally, the noise was mirrored by various nagging questions, torments, and fears, described below. The retreat was not going to plan and I was getting concerned about it. I wrote in my notes, “We could say it \[____the retreat\____] is working very well because my fear and apprehension have come right to the surface.” Also, “Fear comes from having my primary means of survival \[____consciousness\____] disabled/damaged.” I felt very afraid about the success of the conjecture, at times obsessed. Telling so many people about it had generated inside myself a lot of pressure to succeed. This was almost unbearable.
+Internally, the noise was mirrored by various nagging questions, torments, and fears, described below. The retreat was not going to plan and I was getting concerned about it. I wrote in my notes, “We could say it \[the retreat\] is working very well because my fear and apprehension have come right to the surface.” Also, “Fear comes from having my primary means of survival \[consciousness\] disabled/damaged.” I felt very afraid about the success of the conjecture, at times obsessed. Telling so many people about it had generated inside myself a lot of pressure to succeed. This was almost unbearable.
 
 There was some relief from a lot of beautiful moving fractal imagery. Millions of vividly colored stellations resembling sea plants continuously exploded out of the blackness, silently penetrating my own space. This seems, in retrospect, to be a function of the nature of the eye itself being projected onto the screen of darkness, absent any ordinary visual stimulation. It got tiresome after a while, and less abstract, more realistic images began emerging. Over a few days, the stellations became breasts, which expanded to whole naked bodies of women. Millions of them. This opened upon a pornographic hell realm of galaxy-sized orgies. This was very unpleasant. I simply cannot recommend it.
 
@@ -767,7 +2490,7 @@ I think all these technical failures point to my chronic, rigid dependence on my
 
 Especially including its aftermath, this retreat counts as a semi-success. I have not written about it much, but I view the re-emergence of love in a person as a criterion of success of the conjecture. At some point I will dare to call this a hypothesis, not merely a conjecture. But put to the test, much evidence in support of it continues to be generated, and little to the contrary.
 
-[____&lt;____](../four-darkness-experiences/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../5-day-retreat/)
+[&lt;](../four-darkness-experiences/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../5-day-retreat/)
 {:.arrow}
 
 
@@ -799,7 +2522,7 @@ Along with with this major lesson, I learned some useful minor things to be care
 
 Will soon commence 12th attempt at a long dark retreat, somehow, somewhere.
 
-[____&lt;____](../6-day-retreat/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../2-day-retreat/)
+[&lt;](../6-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../2-day-retreat/)
 {:.arrow} 
 
 
@@ -834,7 +2557,7 @@ I had some random "deep thoughts":
 * In Adele's lyrics, "Someone like you," refers to one's lost self.
 * What passes for bananas at this latitude is a travesty.
 
-Like my last retreat in this room, I constantly dreamt meaningless, fast-paced dreams. Wretched. God have mercy on anyone who does this in an apartment building---with all its steel, wiring, wireless electromagnetic interference, and psychic chaos of other occupants---and imagines he has actually done a Hygienic dark retreat. This requires an empty, small, grounded, natural, quietly located, and preferably round building. One can get relief, obviously. I regained some ground lost last summer and after my [____last retreat____](#blog/2011/12/5-day-retreat/). But even as I hungered for sleep last night, I felt irritated by the interference. I felt tired and irritated upon upon waking, too. So I threw in the towel and slowly opened up the room. It was just before dawn. Maybe I'll have the sense to nap later.
+Like my last retreat in this room, I constantly dreamt meaningless, fast-paced dreams. Wretched. God have mercy on anyone who does this in an apartment building---with all its steel, wiring, wireless electromagnetic interference, and psychic chaos of other occupants---and imagines he has actually done a Hygienic dark retreat. This requires an empty, small, grounded, natural, quietly located, and preferably round building. One can get relief, obviously. I regained some ground lost last summer and after my [last retreat](#blog/2011/12/5-day-retreat/). But even as I hungered for sleep last night, I felt irritated by the interference. I felt tired and irritated upon upon waking, too. So I threw in the towel and slowly opened up the room. It was just before dawn. Maybe I'll have the sense to nap later.
 
 Interesting. Wretched comes from the Old English _wrecca_, 'banished person', related to the German _recke_, 'warrior, hero'. That would explain a lot.
 
@@ -844,7 +2567,7 @@ Woke up feeling just fine. Clear and motivated. To go from suicidally depressed 
 
 In two days, I have talked to three other people serious about doing long retreats. Maybe we can fund the whole thing ourselves. Somehow it will happen this summer in Europe. Game on.
 
-[____&lt;____](../5-day-retreat/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../7x1-day-retreat/)
+[&lt;](../5-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../7x1-day-retreat/)
 {:.arrow}
 
 
@@ -889,13 +2612,13 @@ So, “imagery takes form of whatever is resisted: sex, money, food, etc.” Whi
 
 #### Day 4 {#Day-4}
 
-“No need to get rid of it \[____suffering\____] now. There is still sorrow here. Maybe feeling itself is to be reintegrated now. The tingling on the skin is still present.” For 25 years, my skin has tingled in meaningful moments. I have always wondered what it is. I realized it is constricted feeling of the lost part of myself, a sign it is still alive.
+“No need to get rid of it \[suffering\] now. There is still sorrow here. Maybe feeling itself is to be reintegrated now. The tingling on the skin is still present.” For 25 years, my skin has tingled in meaningful moments. I have always wondered what it is. I realized it is constricted feeling of the lost part of myself, a sign it is still alive.
 
 Laughter dissipates feeling. Must observe laughter habit.
 
 #### Day 5 {#Day-5}
 
-“Received support from Jack \[____Nuckols, my primary elder, who recently died\____] and many others. The plan for this incarnation was to put myself in this isolated position in order to feel all this horror and find a solution. My own need for this kind of suffering is very small. I came as a designer to solve the general problem as well as my own. It was difficult for all those elders to turn their backs on me, but that is what I asked and they agreed to this purpose before we all incarnated.”
+“Received support from Jack \[Nuckols, my primary elder, who recently died\] and many others. The plan for this incarnation was to put myself in this isolated position in order to feel all this horror and find a solution. My own need for this kind of suffering is very small. I came as a designer to solve the general problem as well as my own. It was difficult for all those elders to turn their backs on me, but that is what I asked and they agreed to this purpose before we all incarnated.”
 
 #### Day 6 {#Day-6}
 
@@ -905,13 +2628,13 @@ Laughter dissipates feeling. Must observe laughter habit.
 
 The aftermath of this retreat went on for several weeks. Due to reconnecting with my sexuality, I became open to PUA (pickup art), which I had always avoided due its sleaze factor. But I saw another side to it when I came across an article about shit tests. My failure at these had figured largely into my break-up. Reading about them, suddenly the pain of my break-up was gone. I guess because I could see there was nothing special about my loss. She and I had been playing the same games as all other couples. She was awesome. I'll never forget her. But I remain and she is replaceable.
 
-I learned the shocking principle of _masculinity as respectful dominance_ (see _Tao of Badass_ by Joshua Pellicer and _Book of Pook_ by Pook). This enabled me to recover from the dark side of feminism: its gender warfare. I laughed harder than I ever have at hundreds of pick-up stories in _The Game_ by Neil Strauss and _Get Laid or Die Trying_ by Jeff Allen. PUA is super liberating. I am trying this new way of being toward women, alternately succeeding slightly then bombing. Still an [____AFC____](http://www.pualingo.com/pua-definitions/average-frustrated-chump-afc/), but the ducks are slowly lining up.
+I learned the shocking principle of _masculinity as respectful dominance_ (see _Tao of Badass_ by Joshua Pellicer and _Book of Pook_ by Pook). This enabled me to recover from the dark side of feminism: its gender warfare. I laughed harder than I ever have at hundreds of pick-up stories in _The Game_ by Neil Strauss and _Get Laid or Die Trying_ by Jeff Allen. PUA is super liberating. I am trying this new way of being toward women, alternately succeeding slightly then bombing. Still an [AFC](http://www.pualingo.com/pua-definitions/average-frustrated-chump-afc/), but the ducks are slowly lining up.
 
 UPDATE: The pickup I studied made my "game" more awkward than ever. After eight months of this, I came across the _direct_ approach to pickup: telling a woman right away why one noticed her and the romantic purpose one is talking to her for. This is a consistent application of the alpha/dominant idea to pickup. A dominant man needn't hide his intentions behind memorized techniques and lines (the _indirect_ approach I had learned).
 
-I got a lot of good ideas from indirect pickup. Some basics still apply. But a lot can be tossed out. For this distinction and its content, thanks to [____Sasha Daygame____](http://sashapua.com) and other teachers he recommends: David X, Alan Roger Currie, Johnny Soporno, Bad Boy, James Marshall. And Pook's focus on the self, on being a sexual man---not because that is what women like, but because that is what one is and deeply wants himself---remains helpful.
+I got a lot of good ideas from indirect pickup. Some basics still apply. But a lot can be tossed out. For this distinction and its content, thanks to [Sasha Daygame](http://sashapua.com) and other teachers he recommends: David X, Alan Roger Currie, Johnny Soporno, Bad Boy, James Marshall. And Pook's focus on the self, on being a sexual man---not because that is what women like, but because that is what one is and deeply wants himself---remains helpful.
 
-[____&lt;____](../2-day-retreat/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../2x2-day-retreat/)
+[&lt;](../2-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../2x2-day-retreat/)
 {:.arrow}
 
 
@@ -938,13 +2661,13 @@ How exactly, did this program enter me? From his spiritual teacher, my father go
 
 In the past, a mother in such a situation might have left her child to die in the wilderness (something I would simulate at 19 with a 23-day fast). But in our society, it is "just not done". And on a conscious level, my mother loved me intensely. So rather than kill me herself, she unconsciously set me up to later kill myself over a woman---her replacement. How? I believe this part was done wordlessly, by feeling. By her deep coldness, distance, and unavailability toward me. Sometimes, even a murderous hostility.
 
-She had no choice in this. It was instinctive. It also expressed an incapacity of feeling she had learned from her own parents, who had learned it from theirs, etc. This goes all the way back, I suppose, to our [____catastrophe____](#darkness-conjecture/catastrophe/).
+She had no choice in this. It was instinctive. It also expressed an incapacity of feeling she had learned from her own parents, who had learned it from theirs, etc. This goes all the way back, I suppose, to our [catastrophe](#darkness-conjecture/catastrophe/).
 
 But Mother also loved me. Fiercely. Desperately. So like Rhea's saving of her child, Zeus, she subconsciously found a terrible way to protect me against the time bomb she had planted in me. She teased, shamed, and discouraged me my whole life about my sexuality and relationship with girls. She was merciless. And she never copped to it when I confronted her.
 
 Consequently, I have rarely felt confident about romance. Love has almost always made me feel like I was dying. I developed myriad ways of avoiding women I liked and destroying things with those who somehow got close. I have watched myself in horror laugh after successfully avoiding or sabotaging a woman's interest in me. Afterward I would pay with anguish when it was too late to get her back and I realized my mistake. But the main goal was accomplished: I was safe. And I could continue racing to find a way to recover from the program.
 
-Why race? Because such programs are powerful things. As I aged, thoughts of death increasingly plagued me. The weight of 25 years of romantic failure was becoming a sufficient motive to suicide. Sixteen months before, I had finally gotten a clear idea of how I would accomplish it. This was part of a serious [____breakdown____](http://andrewdurham.com/blog/2011/12/breakdown/). Only knowing I had found, in darkness, a possible way to live saved me.
+Why race? Because such programs are powerful things. As I aged, thoughts of death increasingly plagued me. The weight of 25 years of romantic failure was becoming a sufficient motive to suicide. Sixteen months before, I had finally gotten a clear idea of how I would accomplish it. This was part of a serious [breakdown](http://andrewdurham.com/blog/2011/12/breakdown/). Only knowing I had found, in darkness, a possible way to live saved me.
 
 For years I resented my mother's treatment of me. Mommie Dearest. Why would she admit her errors in only general terms? Because what I resented her for was precisely what had saved me from an even more terrible fate.
 
@@ -966,7 +2689,7 @@ Projects, projects. Sigh.
 
 I used the mask to go to the bathroom and kitchen. I even made a smoothie while blindfolded. Sight can be a crutch. The pee bottle worked like a charm.
 
-![pee bottle](images/pee-bottle.jpg) 
+![pee bottle](#img/photo/pee-bottle.jpg) 
 
 Today, a guy told me about a WWII bunker in his hometown that he explored. It is big, with offices, bedrooms, equipment rooms, gunning rooms, etc. It is perfectly silent two floors down, about 5m underground. The whole room became like a big seashell to his ears. He started freaking out from it and had to snap his fingers to make his hearing work normally.
 
@@ -974,7 +2697,7 @@ Now _that_ would be a darkroom: a fricking King's Chamber-Sarcophagus set-up wit
 
 #### aftermath {#aftermath}
 
-Since the retreat, I have been functioning close to normal levels without the tremendous conflict I always felt before. Within a day of exiting, I made money for the first time in six months. Enough to pay the dreaded rent. It was easy. I even exercised for several days. For the first time in my life, I feel like an adult \[____UPDATE: in six months, this feeling has not left me\____]. Beginning to heal from my suicide program seems to be why. It was, after all, the thing that moved me to avoid being responsible or achieving much success in anything (except, thank god, discovering a means of healing from the suicide program).
+Since the retreat, I have been functioning close to normal levels without the tremendous conflict I always felt before. Within a day of exiting, I made money for the first time in six months. Enough to pay the dreaded rent. It was easy. I even exercised for several days. For the first time in my life, I feel like an adult \[UPDATE: in six months, this feeling has not left me\]. Beginning to heal from my suicide program seems to be why. It was, after all, the thing that moved me to avoid being responsible or achieving much success in anything (except, thank god, discovering a means of healing from the suicide program).
 
 On the 16th day since my retreat ended, I was making lunch for our second client in the darkroom and felt love for what I was doing. A first? Work has mattered more to me in general. I have constantly felt like working on my book.
 
@@ -984,32 +2707,32 @@ My still small instinct of self-preservation protected me from my suicide progra
 
 It is very strange to feel myself as the object of my own longing, that I am the one for whom I have been so desperate. I can't believe it, really. I knew it intellectually since studying Ayn Rand 22 years ago. But it is quite another thing to feel it.
 
-I am avoiding it even now, staying up late to write this. But it doesn't seem to be going away, so I'll get used to it. Maybe even start sleeping properly. \[____UPDATE: this feeling has mostly faded but sometimes returns.\____]
+I am avoiding it even now, staying up late to write this. But it doesn't seem to be going away, so I'll get used to it. Maybe even start sleeping properly. \[UPDATE: this feeling has mostly faded but sometimes returns.\]
 
 Boy, to think of all the years endured without myself, in denial, in pain, thinking it was a woman I was missing. I crashed myself into one after another in order to find someone to kill myself over. Romeo a hundred times over without relief of a blade. In my retreat, I begged god for mercy one way or the other. It has come.
 
 All my retreats have culminated in this one. It is a milestone. Now I can function well enough to begin supporting myself and then get a 14-day retreat organized. What is next?!
 
-[____&lt;____](../7x1-day-retreat/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[&lt;](../7x1-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lindsey-vona-darkness-retreat)
 {:.arrow}
 
 
 
-### lindsey vona {#lindsey-vona}&#8217;s 14-day darkness retreat
+### lindsey vona&#8217;s 14-day darkness retreat {#lindsey-vona#8217;s-14-day-darkness-retreat}
 
-\[____Her vivid account, republished in toto with my comments in \[brackets\____]. Background follows.\]
+\[Her vivid account, republished in toto with my comments in \[brackets\]. Background follows.\]
 
 ~~
 
 Dear Family,
 
-This is a detailed description of my retreat in total darkness for 14 days at Sierra Obscura Darkness Center \[____now defunct\____].
+This is a detailed description of my retreat in total darkness for 14 days at Sierra Obscura Darkness Center \[now defunct\].
 
 Recently I’ve been getting quite a few requests from friends in the community to share my experience so I decided to go all out and offer a candid portrait of my journey through the abyss into self-realization. I don’t speak much about the physical environment or daily diet type elements as I feel that they are secondary to the actual evolution of one’s inner world while inside of a retreat of this nature. It was very intense and wonderful, and I am looking forward to doing an even longer one possibly at the end of 2010.
 
 Here goes…
 
-In early September \[____2009\____], my good friend Danielle Dao hired me to help her develop her dream, Sierra Obscura Darkness Retreats. It all happened so fast. Having a darkness retreat center has been Danielle’s dream for several years, after her retreat in Mexico completely changed her life. Danielle hired me to do much of the initial development for the center, and offered me my first darkness retreat as a gift, as well as an opportunity for me to discover whether I would want to continue participating with Sierra Obscura after it’s opening, which happened two days before I entered the dark on November 20th.
+In early September \[2009\], my good friend Danielle Dao hired me to help her develop her dream, Sierra Obscura Darkness Retreats. It all happened so fast. Having a darkness retreat center has been Danielle’s dream for several years, after her retreat in Mexico completely changed her life. Danielle hired me to do much of the initial development for the center, and offered me my first darkness retreat as a gift, as well as an opportunity for me to discover whether I would want to continue participating with Sierra Obscura after it’s opening, which happened two days before I entered the dark on November 20th.
 
 Although I’ve been very committed to my own awakening process, consciously for the past seven years, and have had some amazing glimpses of unconditioned reality, beautiful breakthroughs into the heart of compassion and gratitude, and have investigated and plunged through the depth of my own psyche to its core, something still felt incomplete inside of me. After layer upon layer of insights and openings with teachers on the physical plane as well as plant medicine teachers, I have still felt bound by conditioning and fear on a very deep level. My heart was full of questions about the nature of this reality, and I was especially wanting true insight into the nature and causes of suffering and oppression within and without this brief lifespan. My life, despite my efforts, has still felt limited and unsatisfying in so many ways. I have longed for a much deeper liberation and satisfaction than anything this world of desire could satiate, and ached for total freedom from any lingering fear of death or the unknown. This incompletion in my process of self-realization has haunted me and, on some level, held me back from even fully having you, my world. That is why I did this retreat. I was exhausted from not being able to fully unveil from this illusion on my own terms, outside of any conceptual model, spiritual paradigm, or belief system, especially the ones I have taken on on behalf of my awakening process.
 
@@ -1076,22 +2799,18 @@ Lindsey
 
 ~~
 
-[____Lindsey Vona____](http://lindseyvona.com) is a [____graphic artist____](http://poeticwonderproductions.com) and [____musician____](http://lindseyvona.bandcamp.com/).
-Her full account has become difficult to find, so I’m republishing it here from the [____archived website of Sierra Obscura Darkness Retreats____](http://web.archive.org/web/20100110094324/http://sierraobscura.wordpress.com/). County inspectors closed the center after six months due to civilization’s sheer insanity a harmless zoning violation. Its founder, Danielle Dao, started an art studio and is studying permaculture abroad and plans to build another retreat.
+[Lindsey Vona](http://lindseyvona.com) is a [graphic artist](http://poeticwonderproductions.com) and [musician](http://lindseyvona.bandcamp.com/).
+Her full account has become difficult to find, so I’m republishing it here from the [archived website of Sierra Obscura Darkness Retreats](http://web.archive.org/web/20100110094324/http://sierraobscura.wordpress.com/). County inspectors closed the center after six months due to civilization’s sheer insanity a harmless zoning violation. Its founder, Danielle Dao, started an art studio and is studying permaculture abroad and plans to build another retreat.
 
-James Fadiman excerpted the dazzling parts of this account in [_____The Psychedelic Explorers_____](http://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [____an engaging interview____](http://www.hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).
+James Fadiman excerpted the dazzling parts of this account in [_The Psychedelic Explorers_](http://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [an engaging interview](http://www.hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).
 
-
-
-
-
-
-
+[&lt;](#2x2-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#365-day-retreat-of-150-year-old-yogi/)
+{:.arrow}
 
 
 ### 365-day retreat of 150 year-old yogi {#365-day-retreat-of-150-year-old-yogi}
 
-_This story was sent me by [____Finn Po____](http://members.efn.org/~finnpo/info.html) and seems to have come from [____Rhio's website____](http://www.rawfoodinfo.com/hotline/Rejuvenation2.html)_
+_This story was sent me by [Finn Po](http://members.efn.org/~finnpo/info.html) and seems to have come from [Rhio's website](http://www.rawfoodinfo.com/hotline/Rejuvenation2.html)_
 
 Remember I had told you about the Indian Mahatma who had lived for 185 years and rejuvenated his body three times, growing new teeth, and regaining a youthful, flexible and wrinkle-free body. The book has a picture of him when he was 168. I wish I could put it through this email.
 
@@ -1115,12 +2834,16 @@ In the description of the Saint's first kaya kalpa treatment, the "medicine" was
 
 One thing I note is how similar the "cell" where he spent his time is to a womb. It was dark. It was quiet and secluded with minimum disturbance. He seems to only have consumed raw milk and herbs. He seems to have slept a lot with the balance of time spent in meditation and repeating mantras.
 
+[&lt;](#lindsey-vona-darkness-retreat/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#3-day-sith-bathchamber/)
+{:.arrow}
 
-### dark vader in the 3-day sith bathchamber of sleep {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep}, rejuvenation, and lust
 
-\[____Brian Riggs Sullivan, a close friend*, just did a short darkness retreat and wrote this entertaining report about his experience.\____]
 
-Last weekend, I engaged in a 3-day (approx. 64-hour) [____darkness retreat____][(1] in a bathroom in my parents' house. The bathroom has no windows and enough length for me to comfortably lie down on the floor (on top of several layers of wool blankets with a sleeping bag). I found a way to easily create complete and total darkness in the room by wrapping a large wool blanket around and over the door, pinning it to itself in a few strategic places and once to the wall, and stuffing a hand towel under the door to keep it closed: this all prevented any light from coming in around the edges. I turned on the bathroom fan and let it run continuously, which let fresh air in (counter-intuitive as that may seem) and provided white noise to muffle any sounds from the rest of the house. I packed a bag and cooler full of raw food (as I follow [____Primal Diet____][(2]), set an alarm to go off about 64 hours later on my turned-off cell phone, and shut myself in there, vowing not to come back out until then.
+### dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep-rejuvenation-and-lust}
+
+\[Brian Riggs Sullivan, a close friend*, just did a short darkness retreat and wrote this entertaining report about his experience.\]
+
+Last weekend, I engaged in a 3-day (approx. 64-hour) [darkness retreat][1] in a bathroom in my parents' house. The bathroom has no windows and enough length for me to comfortably lie down on the floor (on top of several layers of wool blankets with a sleeping bag). I found a way to easily create complete and total darkness in the room by wrapping a large wool blanket around and over the door, pinning it to itself in a few strategic places and once to the wall, and stuffing a hand towel under the door to keep it closed: this all prevented any light from coming in around the edges. I turned on the bathroom fan and let it run continuously, which let fresh air in (counter-intuitive as that may seem) and provided white noise to muffle any sounds from the rest of the house. I packed a bag and cooler full of raw food (as I follow [Primal Diet][2]), set an alarm to go off about 64 hours later on my turned-off cell phone, and shut myself in there, vowing not to come back out until then.
 
 I had been spending most of the nights there for the preceding 2 weeks, trying it out and getting used to it a bit before deciding to embark on a longer continuous period of time, and felt confident and excited about the whole thing. During 2 weeks, upon seeing the hallway bathroom door closed and hearing the fan on often (until late into the morning or beyond, sometimes, as I like to sleep A LOT), my Dad had taken to lovingly calling me "Dark Vader," or just "Dark" (imitating fond memories of me mispronouncing "Darth Vader" as "Dark Vader" as a kid who had seen some Star Wars movies).
 
@@ -1132,7 +2855,7 @@ Mostly, the time flew, and I spent it almost exclusively lying down, experiencin
 
 By the second full day, though, during some of that sparse waking time, besides other fairly normal random thoughts and some empty-mindedness that we might describe as boredom, I started to experience rampant relationship and sexual fantasies and memories. I vividly relived experiences and emotions from relationships with several different women, and eventually developed a tendency towards mild obsessiveness (a pattern for me in the past). Because I had taken on the totally irrational idea that one woman in particular might have called me, I turned my cell phone on two or three times (while keeping it in a drawer and closing my eyes to minimize light pollution) to see if it would vibrate to indicate a new voicemail. I have the impression that patterns like these can appear as a side-effect of a sort of rebirthing of the mind in the womb of darkness which might eventually allow us to embrace the "dark side" of ourselves.
 
-Eventually, during the last day or two, as these thoughts and patterns crescendoed and I wondered what to do about their tiresomeness, I felt inspired to practice "self-observation" (a straightforward but challenging spiritual practice involving – at least in the Gurdjieffian tradition – classifying your body-mind's events, with maximum attention, detail, and precision, into the categories: thinking, feeling, moving, instinctual, and/or sexual activity or impulses, without necessarily involving yourself in the contents of the thoughts) with a clarity and depth that I had never experienced before. Also, by the last 3 or 4 hours of the retreat, though I hadn't practiced them yet so far, I felt inspired to practice my [____Daoist movement form____][(3] and [____simple meditation____][(4] and had one of my best practices ever (except for finding it difficult to keep my balance in the dark during some of the movement form's contortions – how well can you stand on one leg with your eyes closed?). My body had a relaxation and limberness and my mind had a stillness and patience that I had also seldom ever experienced before.
+Eventually, during the last day or two, as these thoughts and patterns crescendoed and I wondered what to do about their tiresomeness, I felt inspired to practice "self-observation" (a straightforward but challenging spiritual practice involving – at least in the Gurdjieffian tradition – classifying your body-mind's events, with maximum attention, detail, and precision, into the categories: thinking, feeling, moving, instinctual, and/or sexual activity or impulses, without necessarily involving yourself in the contents of the thoughts) with a clarity and depth that I had never experienced before. Also, by the last 3 or 4 hours of the retreat, though I hadn't practiced them yet so far, I felt inspired to practice my [Daoist movement form][3] and [simple meditation][4] and had one of my best practices ever (except for finding it difficult to keep my balance in the dark during some of the movement form's contortions – how well can you stand on one leg with your eyes closed?). My body had a relaxation and limberness and my mind had a stillness and patience that I had also seldom ever experienced before.
 
 I was meditating in peace when the alarm went off signifying the end of the time I had allotted. I had had what felt like exactly the right amount of time in darkness. It was 9:30 PM on a Sunday night: normally, I might've let the retreat continue until the next morning—and I probably should've—but I had thought that I wanted to check the markets and my forex trades, as 24-hour trading for the coming week had already started several hours before and I had an open trade (I overlooked the fact that only light trading would occur due to the Memorial Day holiday). Bad idea: next time I will end a darkness retreat in the morning, because in my super-charged vitality and excitement upon re-entering the (artificial) light, I proceeded to stay up all night as I caught up on things on the internet that would've occupied some of my time that weekend (and also engaged in some time-wasting). In that "2 steps forward, 1 3/4 steps back" kind of way, a lot of the sleep I had caught up on got lost again as my sleep schedule got fouled up for the workweek ahead (which started for me on Tuesday).
 
@@ -1146,21 +2869,25 @@ All in all, I had what I consider an extraordinarily valuable experience with th
 – I don't exactly know how the Jedi supposedly deal with their so-called "negative" emotions – not very well, perhaps – but the Sith embrace and harness them, which fits my experience here
 – I don't mean to especially affiliate myself with "evil" (if I even truly believe in such a thing – one of the points of the whole Star Wars story, I submit) or the kind of deception practiced by the Sith, but I do consider them cooler than the Jedi. :)
 
-*Brian read my design for [____Tribal Housing____][(6] in 2001 and wrote me. We have been friends ever since. Got to meet him for the first time in 2002. That year, he started Seattle Tribal Housing, which closed after nine months. We also built a [____dome____][(7] together 2007 and his chats with me about darkness led to a few pages here ([____dreamtime____][(8], [____strifeless____][(9], [____hygiene notes____][____10____]). Totally rad guy into Daoism and trading precious metals whom some lucky woman will [____snap up soon____][____11____].
+*Brian read my design for [Tribal Housing][6] in 2001 and wrote me. We have been friends ever since. Got to meet him for the first time in 2002. That year, he started Seattle Tribal Housing, which closed after nine months. We also built a [dome][7] together 2007 and his chats with me about darkness led to a few pages here ([dreamtime][8], [strifeless][9], [hygiene notes][10]). Totally rad guy into Daoism and trading precious metals whom some lucky woman will [snap up soon][11].
 
-   [(1]: /darkness-conjecture/conjecture/
-   [(2]: http://dropout50394.yuku.com/topic/1102?page=1
-   [(3]: http://www.traditionaltao.com/index.html/html/site-subsection/ID/9
-   [(4]: http://www.traditionaltao.com/index.html/html/site-subsection/ID/11
-   [(6]: /other-writings/tribal-housing/
-   [(7]: http://andrewdurham.shutterfly.com/73
-   [(8]: /darkness-conjecture/dreamtime/
-   [(9]: /darkness-conjecture/strifeless/
-   [____10____]: /darkness-conjecture/hygiene-notes/
-   [____11____]: http://www.okcupid.com/profile/brisully
+   [1]: /darkness-conjecture/conjecture/
+   [2]: http://dropout50394.yuku.com/topic/1102?page=1
+   [3]: http://www.traditionaltao.com/index.html/html/site-subsection/ID/9
+   [4]: http://www.traditionaltao.com/index.html/html/site-subsection/ID/11
+   [6]: /other-writings/tribal-housing/
+   [7]: http://andrewdurham.shutterfly.com/73
+   [8]: /darkness-conjecture/dreamtime/
+   [9]: /darkness-conjecture/strifeless/
+   [10]: /darkness-conjecture/hygiene-notes/
+   [11]: http://www.okcupid.com/profile/brisully
+
+[&lt;](../365-day-retreat-of-150-year-old-yogi/)&nbsp;&nbsp;&nbsp;[`^`](/)
+{:.arrow}
 
 
-### other writings {#other-writings}
+
+## the darkness conjecture {#other-writings}
 
 _This is a collection of my earlier writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities._
 
@@ -1169,41 +2896,41 @@ _This is a collection of my earlier writings. They began appearing in 2001 on my
 For 21 years, I have combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
 
 - Philosophy
-    - [____Existence Isn't Everything____](./existence-isnt-everything/) rethinking Objectivism's first axiom
-    - [____Sociality Undenied____](./sociality-undenied/) the operative principle of band society
-    - [____From Where?____](./from-where/) understanding Daniel Quinn
-    - [____Nothing to Fear, Even Fear Itself____](./nothing-to-fear) big brother's achilles' heel
+    - [Existence Isn't Everything](./existence-isnt-everything/) rethinking Objectivism's first axiom
+    - [Sociality Undenied](./sociality-undenied/) the operative principle of band society
+    - [From Where?](./from-where/) understanding Daniel Quinn
+    - [Nothing to Fear, Even Fear Itself](./nothing-to-fear) big brother's achilles' heel
 - Health
-    - [____Sanity and Health____](./sanity-and-health/) intro  
-(this led to [____the darkness conjecture____](../darkness-conjecture/) and [____darkroom retreat____](/))
+    - [Sanity and Health](./sanity-and-health/) intro  
+(this led to [the darkness conjecture](../darkness-conjecture/) and [darkroom retreat](/))
 - Design
-    - [____Just Living____](./just-living) a meditation on design
-    - [____Mechanics of Mass Slavery____](./mechanics-of-mass-slavery/) a drive-by analysis
-    - [____ORDO____](./ordo/) an American art of placement
-    - [____Tribal Housing____](./tribal-housing/) a design for a full life on $250 a month
-    - [____Gallery____](http://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)
+    - [Just Living](./just-living) a meditation on design
+    - [Mechanics of Mass Slavery](./mechanics-of-mass-slavery/) a drive-by analysis
+    - [ORDO](./ordo/) an American art of placement
+    - [Tribal Housing](./tribal-housing/) a design for a full life on $250 a month
+    - [Gallery](http://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)
 - Misc
-    - [____Myths____](./myths)
-    - [____Poems____](./poems)
-    - [____Lyrics____](./lyrics)
-    - [____The Ashers, a River, and I____](./ashers)
+    - [Myths](./myths)
+    - [Poems](./poems)
+    - [Lyrics](./lyrics)
+    - [The Ashers, a River, and I](./ashers)
 - By Others
-    - [____Bibliography____](./bibliography) five cranial supernovas
-    - [____Links____](./links/) others' good designs &etc to learn and sing
-    - [____Origins of Agriculture____](./origins-of-agriculture/) a stunning _What if…?_
-    - [____On a Green Mountain with Masanobu Fukuoka____](./fukuoka/) the genius of natural farming
-    - [____Fasting: Nature's Best Remedy____](./mosseri) by Albert Mosseri, French hygienic master
-<!--    - [____QWERTY to Dvorak____](./d/) typing translator -->
+    - [Bibliography](./bibliography) five cranial supernovas
+    - [Links](./links/) others' good designs &etc to learn and sing
+    - [Origins of Agriculture](./origins-of-agriculture/) a stunning _What if…?_
+    - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
+    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri, French hygienic master
+    - [QWERTY to Dvorak](./d/) typing translator
     
     
 
 
-### Existence Isn {#Existence-Isn}'t Everything
+### Existence Isn't Everything {#Existence-Isnt-Everything}
 
-#### rethinking Objectivism {#rethinking-Objectivism}'s first axiom
+#### rethinking Objectivism's first axiom {#rethinking-Objectivisms-first-axiom}
 
 _for my friend, Sterling,
-and for Michael Stuart Kelly and the generous crew at [____www.objectivistliving.com____][(1]_
+and for Michael Stuart Kelly and the generous crew at [www.objectivistliving.com][1]_
 
 > "Do you want to assess the rationality of a person, a theory or a philosophical system? Do not inquire about his or its stand on the validity of reason. Look for the stand on axiomatic concepts. It will tell the whole story."
 &ndash;Ayn Rand, _Introduction to Objectivist Epistemology _
@@ -1257,8 +2984,9 @@ It is. I am. At the base of philosophy, at the beginning of metaphysics, I need 
 _revised 19 Jan 2008_
 
 
-   [(1]: http://www.objectivistliving.com
+   [1]: http://www.objectivistliving.com
    
+&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sociality-undenied/)
 {:.arrow}
 
 
@@ -1416,22 +3144,22 @@ Close-knit family is our past, our future, and our secret present. When alone, a
   2. Laird Schaub, former editor of _Communities_magazine, once wrote there something like, "Community is a group of people living together on the basis of shared values." (circa 1997) This idea is echoed by others on the Intentional Communities website, especially here: http://www.ic.org/pnp/cdir/1995/05quest.php
   3. Daniel Quinn wrote the _Ishmael_ trilogy and _Beyond Civilization_, about "another story to be in."
   4. Contrary to a common philosophical conceit, a metaphysics (a view of the nature of woman and world) originates rarely from objective contemplation, but from one's _sense of life_: an inexplicable and apparently irreducible feeling about life itself. The feeling is somehow so close to a thought as to be nearly indistinguishable. When someone says, "That's life," or "Life's not like that," you are hearing her verbalize her sense of life, what Ayn Rand (like Gurdjieff, a great Russian Objectivist) defined as "an implicit metaphysics". An explicit metaphysics rarely does more than verbalize, establish, and _perpetuate_ the sense of life of those who accept it. Ultimately, however, one's actual (not merely professed) ideas derive from experience. Thus no change in one's conscious metaphysics is complete until one feels it throughout the body, in the muscles, movements, and cells. And while immersion in the study of rational philosophy (dharma, the Teaching, the Way, etc) is a condition for a change of mind, special conditions must also be provided the body and heart to support the restoration of health in them. It is Aristotle meets Reich and Shelton meets Rumi.
-  5. Much of Georges Ivanovich Gurdjieff's teaching is faithfully reproduced in _In Search of the Miraculous_ by his student, Peter Demianovich Ouspensky. Gurdjieff speaks in depth about attention, especially in the forms of self-observation, self-remembering, and self-unification. In this [____cranial supernova____][(1]of a book, pages 17-22 and 104-115 especially struck me. As you read, feel free to stay with the main, completely understandable narrative, skimming past the sections of esoteric astrophysics and chemistry.
-  6. The cause of this reciprocal dynamic is another issue. One interesting hypothesis, completely in line with, for example, Quinn's critique of totalitarian agriculture, population growth and the rise of civilization, lies in [____The Origins of Agriculture____][(2] by Greg Wadley and Angus Martin. The authors propose that our malaise began with the adoption of a grain-based diet, by far the most malnourishing, addictive, and labor intensive diet ever adopted by humans. (It contrasts in every way with the frugivorous diet, masterfully taught by Doug Graham in his recent book, _The 80/10/10 Diet_)
+  5. Much of Georges Ivanovich Gurdjieff's teaching is faithfully reproduced in _In Search of the Miraculous_ by his student, Peter Demianovich Ouspensky. Gurdjieff speaks in depth about attention, especially in the forms of self-observation, self-remembering, and self-unification. In this [cranial supernova][1]of a book, pages 17-22 and 104-115 especially struck me. As you read, feel free to stay with the main, completely understandable narrative, skimming past the sections of esoteric astrophysics and chemistry.
+  6. The cause of this reciprocal dynamic is another issue. One interesting hypothesis, completely in line with, for example, Quinn's critique of totalitarian agriculture, population growth and the rise of civilization, lies in [The Origins of Agriculture][2] by Greg Wadley and Angus Martin. The authors propose that our malaise began with the adoption of a grain-based diet, by far the most malnourishing, addictive, and labor intensive diet ever adopted by humans. (It contrasts in every way with the frugivorous diet, masterfully taught by Doug Graham in his recent book, _The 80/10/10 Diet_)
 
 _revised 5 July 2008_
 
-   [(1]: /other-writings/bibliography/
-   [(2]: /other-writings/origins-of-agriculture/
+   [1]: /other-writings/bibliography/
+   [2]: /other-writings/origins-of-agriculture/
    
-[____&lt;____](../existence-isnt-everything/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../from-where/)
+[&lt;](../existence-isnt-everything/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../from-where/)
 {:.arrow}
 
 
 
-### From Where {#From-Where}?
+### From Where? {#From-Where?}
 
-#### understanding Quinn {#understanding-Quinn}, part 2
+#### understanding Quinn, part 2 {#understanding-Quinn-part-2}
 
 A year ago, I wrote an essay called, "Understanding Quinn" to help an acquaintance grasp something about Daniel Quinn's writings. Then, in an online discussion a few months ago, I offered it to Mr Quinn himself as a possible aid to his explaining his own thinking process, which he was pondering out loud. He politely thanked me and said I had not gotten it.*
 
@@ -1441,7 +3169,7 @@ I think that Mr Quinn consistently surprises with his ideas, not so much because
 
 This holds a deeper key. Mr Quinn sees that we live in an inhabitable, knowable world. A benevolent universe. In his reports to us from his worldview of it, he waves us in, like a friendly grandfather making us comfortable in our own home. A master metaphysician, he demonstrates that what is—life on earth—is itself what ought to be. To me, he speaks in a voice of the planet itself, seducing us back to our place in it.
 
-In his essay, [____"Technology and the Other War,"____][(1] he illustrates the strange rule he follows in his thinking: "If they give you lined paper, write sideways." In logic, this means checking the premises of a proposition. But you cannot see a proposition's premises if you are so enmeshed in a culture that assumes them that you feel threatened by their exposure. This sort of examination does not threaten Quinn. He declares the imminent doom of the system with all the charm and ease of a neighbor leaning over the back fence, commenting on approaching rain toward the end of a dry spell. He simply sees it from a place other than the one that will, by its own machinations, get washed away in the rain.
+In his essay, ["Technology and the Other War,"][1] he illustrates the strange rule he follows in his thinking: "If they give you lined paper, write sideways." In logic, this means checking the premises of a proposition. But you cannot see a proposition's premises if you are so enmeshed in a culture that assumes them that you feel threatened by their exposure. This sort of examination does not threaten Quinn. He declares the imminent doom of the system with all the charm and ease of a neighbor leaning over the back fence, commenting on approaching rain toward the end of a dry spell. He simply sees it from a place other than the one that will, by its own machinations, get washed away in the rain.
 
 A horned, mottled beast of a god, somehow friendly and exciting, not scary, peered through Daniel Quinn's childhood bedroom window. In a dream about the same time, a giant beetle led him into the woods to learn about the world before human domination. In his youth, he saw for an hour the world consumed in a sacred fire. He has felt the heat ever since. Warm and secure, he rests in this ageless view of the world and, thankfully, has the tongue to speak of it, to transmit clue after surprising clue to we who would find our way back to it. Sir, thank you.
 
@@ -1449,16 +3177,16 @@ _revised 2 Dec 03_
 
 *I got a chance to ask Mr Quinn to read this essay; I am glad to report he likes it.
 
-   [(1]: http://www.ishmael.com/Education/Writings/technology_and_other_war.shtml
+   [1]: http://www.ishmael.com/Education/Writings/technology_and_other_war.shtml
 
-[____&lt;____](../sociality-undenied/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../nothing-to-fear/)
+[&lt;](../sociality-undenied/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../nothing-to-fear/)
 {:.arrow}
 
 
 
-### Nothing to Fear {#Nothing-to-Fear}, Even Fear Itself
+### Nothing to Fear, Even Fear Itself {#Nothing-to-Fear-Even-Fear-Itself}
 
-#### big brother {#big-brother}'s achilles's heel
+#### big brother's achilles's heel {#big-brothers-achilless-heel}
 
 **16 Oct 2008**  
 Recently, after a year of reading bad news online, I reached the end of my rope. I needed hope. I'd like to share with you how I restored mine.
@@ -1498,7 +3226,7 @@ Combined with the already embedded meme of over-population, these new myths not 
 
 This is good news because it means we are not facing unstoppable forces, such as strangely intransigent Muslims, empty oil wells, rising temperatures and ocean levels locked into positive feedback loops. We are facing a tiny cabal of highly disciplined masterminds whose fragile chance of success depends on a stable and near universal state of fear among Earth's people. This is so delicate a condition that even one person who merely begins to see through her fears disrupts the cabal's apple cart.
 
-How is fear seen through? By the only means any culture has found to address any persistent, debilitating emotion at its root and unearth a real foundation for living: spiritual practice, namely, self-observation and self-remembrance (ie, contemplation and meditation, fasting and prayer, etc). Thus, in addition to being the vehicle of spiritual liberation, spiritual practice is the most powerful activity of political liberation one can engage in. \[____edit: I now have [a more developed opinion____](/) since writing this piece.\]
+How is fear seen through? By the only means any culture has found to address any persistent, debilitating emotion at its root and unearth a real foundation for living: spiritual practice, namely, self-observation and self-remembrance (ie, contemplation and meditation, fasting and prayer, etc). Thus, in addition to being the vehicle of spiritual liberation, spiritual practice is the most powerful activity of political liberation one can engage in. \[edit: I now have [a more developed opinion](/) since writing this piece.\]
 
 One may learn this for herself by applying the following propositions as hypotheses:
 
@@ -1516,16 +3244,16 @@ I hope this helps you take heart, as it has helped me. I believe that we live in
 
 *A friend recently pointed out that even though he disagrees with this description of the current state of affairs, he finds the analysis of fear in the second half of the essay useful.
 
-**I just read a [____comically blatant report____](http://www.aol.com.au/news/story/Europe-fast-tracking-swine-flu-vaccine/2350992/index.html) about the latest trial balloon, swine flu (which looks like a keeper in the escalating war on the credulous peasantry). Naturally, all the right people, to cover their asses apparently, come out and impotently say that distributing insufficiently tested vaccines should not happen.
+**I just read a [comically blatant report](http://www.aol.com.au/news/story/Europe-fast-tracking-swine-flu-vaccine/2350992/index.html) about the latest trial balloon, swine flu (which looks like a keeper in the escalating war on the credulous peasantry). Naturally, all the right people, to cover their asses apparently, come out and impotently say that distributing insufficiently tested vaccines should not happen.
 
    
-[____&lt;____](../from-where/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../sanity-and-health/)
+[&lt;](../from-where/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sanity-and-health/)
 {:.arrow}
 
 
 ### Sanity and Health {#Sanity-and-Health}
 
-\[____EDIT: This is a chaotic piece written in the chaotic year preceding the emergence of the conjecture. I was desperately grasping at spiritual straws at the time, even more so than in [sociality-undenied____](#other-writings/sociality-undenied), which also addresses self-observation, but from a social perspective. Of course it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is well-known in the spiritual world self-observation comes from, and I was on the verge of learning it the hard way. Anyway, here you go.\]
+\[EDIT: This is a chaotic piece written in the chaotic year preceding the emergence of the conjecture. I was desperately grasping at spiritual straws at the time, even more so than in [sociality-undenied](#other-writings/sociality-undenied), which also addresses self-observation, but from a social perspective. Of course it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is well-known in the spiritual world self-observation comes from, and I was on the verge of learning it the hard way. Anyway, here you go.\]
 
 #### in brief {#in-brief}
 
@@ -1558,7 +3286,7 @@ _Introduction to Human Technology_ by William Arthur Evans, impressed me with th
 
 _revised 18 Mar 2008_
 
-[____&lt;____](../nothing-to-fear/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../just-living/)
+[&lt;](../nothing-to-fear/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../just-living/)
 {:.arrow}
 
 
@@ -1567,7 +3295,7 @@ _revised 18 Mar 2008_
 
 #### a meditation on design {#a-meditation-on-design}
 
-Having been staying with accomplished designer, [____John Cruikshank____][(1]; having been engaged as a designer by his community during my visit; and facing a crossroads in my life around design, it is very much on my mind. So this is a meditation on design.
+Having been staying with accomplished designer, [John Cruikshank][1]; having been engaged as a designer by his community during my visit; and facing a crossroads in my life around design, it is very much on my mind. So this is a meditation on design.
 
 I am blessed with the ability to design things. I am also cursed with an accompanying awareness of how badly most things in our culture are designed, as well as a (thankfully waning) compulsion to correct them. In our culture, we have set it up so that our whole existence is dependent on design. Yet it is so fragile a process, so needful of time and listening, that in our rush, we usually do it poorly.
 
@@ -1597,9 +3325,9 @@ Now, I'm just a brushdweller from Idaho, and I admit to starting campfires with 
 
 _revised 2 Dec 2003_
 
-   [(1]: http://www.sunnyjohn.com/
+   [1]: http://www.sunnyjohn.com/
 
-[____&lt;____](../sanity-and-health/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../mechanics-of-mass-slavery/)
+[&lt;](../sanity-and-health/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../mechanics-of-mass-slavery/)
 {:.arrow}
 
 
@@ -1655,16 +3383,16 @@ Though every item he mentions serves a necessary function of life, its form is c
 | selling out | selfhood |
 | partisanship | common sense |
 
-Throughout my writings, I have tried in various ways to expose the articifial forms and present the natural ones, eg, [____Tribal Housing____](#other-writings/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
+Throughout my writings, I have tried in various ways to expose the articifial forms and present the natural ones, eg, [Tribal Housing](#other-writings/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
 
 The trap is set. The house becomes nothing more than a personalized prison cell entailing 30 years of indentured servitude. Observe that "mortgage" means _death pledge_. Servitude, in the form of a job, leads to time-scarity and parental neglect. The car is the gateway drug of consumer financing and global devastation (as well as a portable Russian Roulette game for the whole family).
 
 Social isolation erodes security. Fear leads to credit card shopping sprees. Debt engenders dreams of freedom, at least for one's children. Ironically, parents force these dreams on their offspring. Thus, we arrive at education and selling out. One ends the fiasco at the polls, where one tries to compensate for this lifestyle with a indignantly righteous opinion about who should be left holding the bag.
 
-Inasmuch as these are all more or less corollary factors arising from pandemic [____psychosis____](#darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is the pursuit of a career that leads to everything else, due to the college debt a career entails these days. I was raised by an architect, and I'm cheap, so I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but these pieces come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
+Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](#darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is the pursuit of a career that leads to everything else, due to the college debt a career entails these days. I was raised by an architect, and I'm cheap, so I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but these pieces come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
 
    
-[____&lt;____](../just-living/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../ordo/)
+[&lt;](../just-living/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../ordo/)
 {:.arrow}
 
 
@@ -1693,16 +3421,16 @@ ORDO will move your furniture and belongings—and your psyche with them—to a 
 
 _revised 7 Dec 2007_
 
-[____&lt;____](../mechanics-of-mass-slavery/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../tribal-housing/)
+[&lt;](../mechanics-of-mass-slavery/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../tribal-housing/)
 {:.arrow}
 
 
 
 ### Tribal Housing {#Tribal-Housing}
 
-#### a design for a full life on  {#a-design-for-a-full-life-on-}$250 a month
+#### a design for a full life on $250 a month {#a-design-for-a-full-life-on-$250-a-month}
 
-\[____**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about the social context of TH has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied____](#other-writings/sociality-undenied/) for a full presentation of my new view of social organization (subsequently obsoleted by the ideas in [____psychosis____](#darkness-conjecture/psychosis/) and [____hygiene____](#hygiene/)/capacity\]
+\[**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about the social context of TH has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](#other-writings/sociality-undenied/) for a full presentation of my new view of social organization (subsequently obsoleted by the ideas in [psychosis](#darkness-conjecture/psychosis/) and [hygiene](#hygiene/)/capacity\]
 
 #### Introduction {#Introduction}
 
@@ -1722,7 +3450,7 @@ Beyond that lay exotic, Seussian, and Hundertwasserian realms filled with a mind
 
 _Dense residence_ may be the most available form of Tribal Housing. Yet it is usually provisional, so I will talk about it later, along with a little-known fact about Tribal Housing. The sustainable form of it within reach of most of us is the _urban micro-village_, so let's take the grand tour of an imaginary one.
 
-\[____**NOTE:** I have changed my mind about this. I now believe a _rural microvillage_, set either in the country or suburban backyards, has the highest chances of success. I have worked on structures for it in the last couple years. See my [photo gallery____](http://andrewdurham.shutterfly.com/) and [____links____](#other-writings/links/)for more about this.\]
+\[**NOTE:** I have changed my mind about this. I now believe a _rural microvillage_, set either in the country or suburban backyards, has the highest chances of success. I have worked on structures for it in the last couple years. See my [photo gallery](http://andrewdurham.shutterfly.com/) and [links](#other-writings/links/)for more about this.\]
 
 It is late spring. We are walking in the old industrial district of a mid-sized city, 10 minutes by bike from its civic, cultural, and commercial centers. We stop before a single-story building that could have been a small shoe factory or a printing shop. We knock and are shown in by a soft-spoken six year-old who then disappears to the right. The space is rectangular and long from front to back. Light streams in through the many, tall, side windows, and a few skylights, over fabric and wood huts in the back. The wood-floored, brick building is clean and in good repair. Interior walls are wood, fabric, and paper. Ornament is eclectic and cheery. Sounds come from every corner of the building: muffled ones from the back and clearer, occasionally loud ones from the front. Through the open windows passes a draft. Somewhere ahead, people of all ages play and talk, and others are enjoying their work in a hushed buzz to the right. Two grandmothers pass by us in silence on their way out. A youth catches up to them with a library book to be returned, which they accept with a smile. The place gives the overwhelming impression of being lived in.
 
@@ -1771,7 +3499,7 @@ The old factories and warehouses are beautiful and neglected, cheap and centrall
 
 Just the costs of the repairs and simple improvements to the building and the investment in the interior structures remain. We can both salvage and purchase materials. Builders discard wood by the grove at construction sites; billions of small-diameter conifers in the National "Forests" need thinning; and civilized people abandon tons of useful stuff weekly (just stroll through nice neighborhoods the evening before their garbage day). We'll recover money for materials from both the savings on and proceeds from the expensive stuff in our lives, including cars. For permanent and structural improvements to their buildings, landlords sometimes deduct the costs of materials and labor from rent.
 
-Techniques of [____ORDO____](#other-writings/ordo), an American art of placement, are useful in arranging a space: put its entrance in a corner (multiple entrances in adjacent corners); inwardly swinging doors latch toward the corner (and vice-versa); walkways lead around, not through, rooms, and furniture settings, which are toward a room's center; a setting faces the room's most attractive feature directly and its main entrance obliquely; settings are square internally and off-square with the room; clutter is revealed and eliminated. As in nature, still entities are thus neatly toward the center of space and motion.
+Techniques of [ORDO](#other-writings/ordo), an American art of placement, are useful in arranging a space: put its entrance in a corner (multiple entrances in adjacent corners); inwardly swinging doors latch toward the corner (and vice-versa); walkways lead around, not through, rooms, and furniture settings, which are toward a room's center; a setting faces the room's most attractive feature directly and its main entrance obliquely; settings are square internally and off-square with the room; clutter is revealed and eliminated. As in nature, still entities are thus neatly toward the center of space and motion.
 
 #### Summary {#Summary}
 
@@ -1785,18 +3513,18 @@ Now for the little known fact. Tribal Housing is already happening, quietly and 
 
 That's Tribal Housing. So much for loneliness, inclement weather, and the grind. By working together, as tribes have done for eons, we are immediately able to have what we need. Without selling out. While interacting with the system. Without looking for it to crash. Without waiting for the entire world to get it. There is nothing to it. Get with three or four of your people, keep reading this article and website, and act immediately on what parts of it you now see clearly.
 
-Find the latest version of this secret-dense article and other New Tribal writings online at [____andrewdurham.com____](#darkness-conjecture/conjecture/). It is in the public domain; please pass it on. Properly formatted and printed, it photocopies onto the front and back of a ledger-size piece of paper. Below, I have listed books that have informed the design. They are also guaranteed to clean your clock. To request help with design for your group or your inclusion on a Tribal Housing mailing list, write me at info@andrewdurham.com. To individuals with questions: before asking me, please reread the article a few times, sleep on it, use your own good sense, and talk with friends about it. Please let me in on what you come up with.
+Find the latest version of this secret-dense article and other New Tribal writings online at [andrewdurham.com](#darkness-conjecture/conjecture/). It is in the public domain; please pass it on. Properly formatted and printed, it photocopies onto the front and back of a ledger-size piece of paper. Below, I have listed books that have informed the design. They are also guaranteed to clean your clock. To request help with design for your group or your inclusion on a Tribal Housing mailing list, write me at info@andrewdurham.com. To individuals with questions: before asking me, please reread the article a few times, sleep on it, use your own good sense, and talk with friends about it. Please let me in on what you come up with.
 
 There is no, one, right way to create Tribal Housing. We can take minutes or months. We can do it bankrolled or broke, quick and dirty, or slow and precise. We can be few or many, rude or courteous, learned or just plain gung ho. However it happens, this house is a place for us, as we are.
 
-#### Bibliography {#Bibliography}, Influences, Acknowledgements and Dedication
+#### Bibliography, Influences, Acknowledgements and Dedication {#Bibliography-Influences-Acknowledgements-and-Dedication}
 
 _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least Resistance for Managers_, Robert Fritz (organizational structure and creativity); _Gardening Without Digging_, A. Guest; _The Geography of Nowhere_, James Howard Kunstler (New Urbanism); _Hundertwasser: The Painter King with the 5 Skins_, Pierre Restany; _Just Eat An Apple!_, Frederic Patenaude (raw diet magazine); _Magical Child Matures_, Joseph Chilton Pearce; _Mucusless Diet Healing System_, Arnold Ehret; _The Moon Is a Harsh Mistress_, Robert Heinlein; _Nature's First Law_, Arlin, Dini, Wolfe; _ORDO: An American Art of Placement_ (article), Andrew Durham; _Origins of Agriculture_ (article), Greg Wadley and Angus Martin; _The Songlines_, Bruce Chatwin, (aboriginal recalcitrance and worldview); _Summerhill: A Radical Approach to Childrearing_, A.S. Neill; _Teenage Liberation Handbook_, Grace Llewellyn; _Where White Men Fear to Tread_, Russell Means. By Victor Papanek: _Design for a Real World_; _Nomadic Furniture_. By Daniel Quinn: _Ishmael_ (another story to be in); _The Story of B_ (inclusive human history); _My Ishmael_ (concretes and criticism); _Beyond Civilization_ (tribalism, business). By Ayn Rand: _Atlas Shrugged_ (realist metaphysics, industrial culture); _Introduction to Objectivist Epistemology_ (logic). And by Frank Lloyd Wright: many books, especially _The Natural House_. My experiences as a guest and with camping, communities, co-ops and raw eating; and my exposure to eco-villages, co-housing, microhousing, feng shui and humanure have also informed the design. Thanks to my ancestors, family, elders and friends, including: Dick and Anna Lou Callen; John and Lou Ann, Paul and Francois Durham; Jack and Rae Nuckols, Jack and LaVerne Asher, John Boyer, and my former teacher; Laservida (Micha); my hosts while writing: Christopher, Nicole, Frederic and Danny; Sterling, for enduring; Joanie Williamson for leading that week at church camp; and the countless interested and supportive people I have met on my way, especially my hosts. Special thanks to Brian Sullivan for perfecting Tribal Housing's name, sticking to your guns, and above all, for taking up the torch. This article is for Bleu and Meir, who by the depth of their yearning and recognition, inspired it.
         
 _revised 2003 Dec 8_
 
    
-[____&lt;____](../ordo/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../myths/)
+[&lt;](../ordo/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../myths/)
 {:.arrow}
 
 
@@ -1884,21 +3612,6 @@ One night, a child spotted a new star in the sky. Over generations it grew brigh
 
 The Great Hoop rolled on, round and round, again and again, forever and ever. Behold: Earth, where life burns bright and fast but never goes out, one generation to the next.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### long return {#long-return}
 
 The people were dying. We had tried everything. Welcoming, guiding, trading, sharing, talking, debating, running, sabotage, hiding, fighting, alliances, dividing, enduring. Nothing worked. The smelly soldiers were never satisfied. Fire and blood did not stop them, and when they had finished us, they would seek more.
@@ -1913,10 +3626,10 @@ As we did so, we would remember who we really were. We would leave our adopted f
 
 The world is our home. We will not abandon it in its time of need, after the many rounds of peace and plenty we knew. We do not understand this cycle. Not yet.
 
-[____&lt;____](../tribal-housing)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../poems/)
+[&lt;](../tribal-housing)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../poems/)
 {:.arrow}
 
-#### [____Gallery____](http://andrewdurham.shutterfly.com)
+#### [Gallery](http://andrewdurham.shutterfly.com) (off-site) {#[Gallery](http//andrewdurham.shutterfly.com)-(off-site)}
 
 ---  
 ### Poems {#Poems}
@@ -2007,7 +3720,7 @@ What would it be?
 By definition  
 Philosophy
 
-##### My Father Lives in Twin Falls {#My-Father-Lives-in-Twin-Falls}, Idaho
+##### My Father Lives in Twin Falls, Idaho {#My-Father-Lives-in-Twin-Falls-Idaho}
 
 I am not the kind  
 Who can walk down a main street with impunity  
@@ -2129,7 +3842,7 @@ Thy thoughts! behold thy foe hast gone
 No potent threat can be heard  
 By the one who seeks and speaks these words
 
-##### May I have this last dance {#May-I-have-this-last-dance}?
+##### May I have this last dance? {#May-I-have-this-last-dance?}
 
 I have my secret  
 And I am going  
@@ -2212,7 +3925,7 @@ Before the rains, everything will be grey
 This new world will rise  
 From ashes
 
-#### 1999  {#1999-}– present
+#### 1999 – present {#1999-–-present}
 
 ##### Eating Bitter {#Eating-Bitter}
 
@@ -2266,7 +3979,7 @@ Your "Work,"
 As if, somehow,  
 God left something undone.
 
-##### Grass {#Grass}'s benediction
+##### Grass's benediction {#Grasss-benediction}
 
 Grass is benediction  
 To my feet
@@ -2325,7 +4038,7 @@ Again and again and again and again
 
 LV 2001 Mar
 
-##### 1 {#1}.19.02 4 b
+##### 1.19.02 4 b {#1.19.02-4-b}
 
 Did I storm your yard?  
 I bid you relax  
@@ -2488,7 +4201,8 @@ Godspeed.
 
 Eugene 2006 Jan
 
-[____&lt;____](../myths/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../lyrics/)  
+[&lt;](../myths/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lyrics/)  
+{:.arrow}
 
 ---  
 ### Lyrics {#Lyrics}
@@ -2796,7 +4510,7 @@ At the tree's base
 At the base of a tree  
 In my Odyssey…
 
-#### Minstrel {#Minstrel}'s lullaby
+#### Minstrel's lullaby {#Minstrels-lullaby}
 
 Far away, far away  
 I must go far away  
@@ -2886,11 +4600,12 @@ Roots for them, they grow inside
 
 Chorus
 
-[____&lt;____](../poems/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../ashers/)  
+[&lt;](../poems/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../ashers/)  
+{:.arrow}
 
 
 
-### The Ashers {#The-Ashers}, a River, and I
+### The Ashers, a River, and I {#The-Ashers-a-River-and-I}
 
 for my childhood neighbors, LaVerne and Jack Asher, on their 50th Wedding Anniversary
 
@@ -2911,7 +4626,7 @@ Back to the river: it churned brown. It snaked through a long valley near Jackpo
 
 revised 3 Jan 2003
 
-#### &nbsp;&nbsp;&nbsp;[____&lt;____](../lyrics/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../bibliography/)
+[&lt;](../lyrics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../bibliography/)
 {:.arrow}
 
 
@@ -2981,7 +4696,9 @@ Even earlier books, which came to me through my family, were:<br />
 <a href="http://www.amazon.com/gp/product/0394404289?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0394404289">The Prophet</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0394404289" border="0" alt="" width="1" height="1" /> -Khalil Gibran
 
    
-[____&lt;____](../ashers/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../links/)
+[&lt;](../ashers/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../links/)
+{:.arrow}
+
 
 
 ### Links {#Links}
@@ -2993,43 +4710,43 @@ For their simplicity, ease, economy, strength, beauty, and elegance,
 I recommend the following designs/methods for shelter construction.
 (Speed measured in hours, days, weeks):
 
-[____Self-Strutting Geodesic Plydome____](http://andrewdurham.com/formactive) (weeks)  
+[Self-Strutting Geodesic Plydome](http://andrewdurham.com/formactive) (weeks)  
 Steve Miller's perfection of Buckminster Fuller's design for a frameless sphere (now proudly hosted here!)
 
-[____Conic Shelter____](http://www.fishrock.com/conics) (weeks)  
+[Conic Shelter](http://www.fishrock.com/conics) (weeks)  
 Chuck Henderson's sweeping, simple, brilliant, circled-square construction
 
-[____Hexayurt____](http://www.hexayurt.com/) (hours)  
+[Hexayurt](http://www.hexayurt.com/) (hours)  
 Vinay Gupta's 3-hour, $200, portable pop-up shelter + autonomous infrastructure
 
-[____Superadobe____](http://www.calearth.org/) (weeks)  
+[Superadobe](http://www.calearth.org/) (weeks)  
 Nadir Khalili's giant upside down coil pot shelters elegantly made from war materials
 
-[____Straw Bale Dome____](http://andrewdurham.shutterfly.com/355) (weeks)  
+[Straw Bale Dome](http://andrewdurham.shutterfly.com/355) (weeks)  
 my design for a frameless, superinsulated, catenary, corbelled, _cheap_ shelter, based on superadobe
 
-[____Cardboard Geodesic Dome____](http://www.cccoe.net/stars/) (days)  
-I started work on improving this. See pics of Seattle and Sweden Domes [____here____](http://andrewdurham.shutterfly.com).
+[Cardboard Geodesic Dome](http://www.cccoe.net/stars/) (days)  
+I started work on improving this. See pics of Seattle and Sweden Domes [here](http://andrewdurham.shutterfly.com).
 
 The above designs are all **shell** constructions. That is, they are frameless. Why? Because frames should not be used to hold up materials that can hold up themselves. There is no integrity in that approach. I mean I find it a shame to put up a frame, then hang on it a rigid or semi-rigid material which can hold up itself and the whole building. While this approach _does_ have the advantages of requiring no imagination or economy on the part of the owner, builder, or designer, I have chosen frameless designs that embody: a dynamic elegance bordering on anti-gravity; simplicity any 5 year-old can grasp; and an economy any schmuck can achieve.
 
 The two designs below are proper applications of the frame-and-skin method of construction. That is, there is a very lightweight frame that supports fabric or film, a thin, flexible material possessing only tensile, not compressive strength (nor their combination: cantileverage).
 
-[____Pillowdome____](http://www.thegreencenter.net/pdf/dome1985.pdf) (pdf)  
-Jay Baldwin's perfection of Bucky's Skybreak concept: a very light, "ephemeralized" frame-and-skin geodesic dome, with panels of noble gas-inflated fluoropolymeric (teflon/ptfe plastic) pillows. This ultimately led to the gigantic greenhouses at [____The Eden Project____](http://www.lookaroundcornwall.com/gardens-and-nature/the-eden-project.htm) in England.
+[Pillowdome](http://www.thegreencenter.net/pdf/dome1985.pdf) (pdf)  
+Jay Baldwin's perfection of Bucky's Skybreak concept: a very light, "ephemeralized" frame-and-skin geodesic dome, with panels of noble gas-inflated fluoropolymeric (teflon/ptfe plastic) pillows. This ultimately led to the gigantic greenhouses at [The Eden Project](http://www.lookaroundcornwall.com/gardens-and-nature/the-eden-project.htm) in England.
 
-[____Warmlite Tent____](http://warmlite.com)  
+[Warmlite Tent](http://warmlite.com)  
 Jack Stephenson's masterful 2-5 person tents. He and his designs have had a huge influence on all my design thinking since 1995. Can you imagine, he went from being an insulation engineer on NASA space rockets to designing camping gear! After 40 years, his stuff is still decades ahead of its time. Only a few of his ideas have started to be copied in the last 5-10 years. I used to talk to him for hours on the phone while buying his gear and materials. Great guy.
 
 #### Sites  {#Sites-}
 
-[____Tribal Wish____](http://www.efn.org/~wolfe)  
+[Tribal Wish](http://www.efn.org/~wolfe)  
 Adrian Wolfe's obscure, 10-year old, growing collection of essays on his 30-year quest to live in organic intimacy with others. This effort evolved into Gooble Dell, his home (and mine a few times in the past) in Eugene, Oregon, one of the oddest human menageries around. If Willy Wonka were a homeless man who camped inside a house inside a public park (true) with his friends (and a couple Oompa Loompas), this would be the house.
 
-[____EarthBirth Research____](http://www.efn.org/~finnpo/ebr/)  
+[EarthBirth Research](http://www.efn.org/~finnpo/ebr/)  
 Finn Po's site on his multifarious, irrepressible, transcounter-cultural activities and visions. I got my first experiences with both darkness and domes from Finn while living and tinkering together at Maitreya Eco-Village, Eugene, Oregon.
 
-[____&lt;____](../bibliography/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../origins-of-agriculture/)
+[&lt;](../bibliography/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../origins-of-agriculture/)
 {:.arrow}
 
 
@@ -3335,7 +5052,7 @@ Zioudrou, C., Streaty, R. & Klee, W., 1979, Opioid peptides derived from food pr
 
 Zohari, D., 1986, The origin and early spread of agriculture in the Old World, in Barigozzi, G., ed., The origin and domestication of cultivated plants, Elsevier, Amsterdam
 
-[____&lt;____](../links/)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../d/)
+[&lt;](../links/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../fukuoka/)
 {:.arrow}
 
 
@@ -3532,11 +5249,11 @@ Howard stepped out and called, "We have to go or miss our flight. I'll give you 
 
 **Foot Notes**
 
-[(1]: Beginning quote from _The Close To Nature Garden_, a video tape produced by Rodale Press, available from Arthur Mokin Productions, Inc., P. 0\. Box 1866, Santa Rosa, California, 95402, Telephone: (707) 542-4868.
+[1]: Beginning quote from _The Close To Nature Garden_, a video tape produced by Rodale Press, available from Arthur Mokin Productions, Inc., P. 0\. Box 1866, Santa Rosa, California, 95402, Telephone: (707) 542-4868.
 
-[(2]: God, Kami or Kamisama is the Divine power found in natural objects and all living things.
+[2]: God, Kami or Kamisama is the Divine power found in natural objects and all living things.
 
-[(3]: 1,000 square meters = 9,300 square feet. Natural Farming practice requires a minimum area of about 2,000 square feet per person to live on sustainably with a vegetarian diet. For reference, Biointensive Sustainable Mini-Farming practice, developed by John Jeavons, requires a minimum area of about 4,000 square feet per person to live on sustainably with a vegetarian diet. Permaculture Design practice, developed by Bill Mollison, requires a minimum area of about 6,000 square feet per person to live on sustainably with a predominately vegetarian diet. Modern conventional farming practice requires a minimum area of about 10,000 to 40,000 square feet per person to live on according to diet, vegetarian or meat eating, and is not sustainable.
+[3]: 1,000 square meters = 9,300 square feet. Natural Farming practice requires a minimum area of about 2,000 square feet per person to live on sustainably with a vegetarian diet. For reference, Biointensive Sustainable Mini-Farming practice, developed by John Jeavons, requires a minimum area of about 4,000 square feet per person to live on sustainably with a vegetarian diet. Permaculture Design practice, developed by Bill Mollison, requires a minimum area of about 6,000 square feet per person to live on sustainably with a predominately vegetarian diet. Modern conventional farming practice requires a minimum area of about 10,000 to 40,000 square feet per person to live on according to diet, vegetarian or meat eating, and is not sustainable.
 
 **Books:**
 
@@ -3547,7 +5264,7 @@ _The Natural Way of Farming_, a manual, and _The Road Back to Nature_, a history
 _The Ultimatum of GOD NATURE  The One-Straw Revolution  A RECAPITULATION_,  
 an English revision of the original _One-Straw Revolution_, published in 1996, in Japan, available from Mr. Fukuoka at:  201-2 Ohira,   Iyo-Shi  Ehime,   Japan  799-31    Fax: 011-81-8-9983-1892
 
-_Close To Nature Garden_, an excellent video tape about Mr. Fukuoka's early work with Natural Farming in Japan, made for Rodale Press, available from [____Bullfrog Films____](#web/20051224120427/http://www.bullfrogfilms.com/catalog/cng.html), P.O. Box 149,Oley, PA 19547, Tel: 610/779-8226, Fax: 610/370-1978.
+_Close To Nature Garden_, an excellent video tape about Mr. Fukuoka's early work with Natural Farming in Japan, made for Rodale Press, available from [Bullfrog Films](#web/20051224120427/http://www.bullfrogfilms.com/catalog/cng.html), P.O. Box 149,Oley, PA 19547, Tel: 610/779-8226, Fax: 610/370-1978.
 
 &nbsp;
 
@@ -3557,9 +5274,13 @@ All Rights Reserved.  No Part Of This Document May Be Reproduced For Commercial 
 <font size="-2">All Photographs And Text Copyright (C) 1996 Jim Bones (Unless Otherwise Indicated) Box 101, Tesuque, N.M. 87574 (505-955-0956)</font>  
 <font size="-2">"Light Writings" http://www.seedballs.com</font>
 
-[____See "The Seed Ball Story" Video Tape____](#web/20051224120427/http://www.seedballs.com/sbvt10pa.html)
+[See "The Seed Ball Story" Video Tape](#web/20051224120427/http://www.seedballs.com/sbvt10pa.html)
 
-_<font color="#FF0000">*[____(BACK)____](#web/20051224120427/http://www.seedballs.com/2seedpa.html) -- (GO [![](world9.gif)](#web/20051224120427/http://www.seedballs.com/3seedpa.html) ON) -- [____(EXIT)____](#web/20051224120427/http://www.seedballs.com/)*</font>_
+_<font color="#FF0000">*[(BACK)](#web/20051224120427/http://www.seedballs.com/2seedpa.html) -- (GO [![](world9.gif)](#web/20051224120427/http://www.seedballs.com/3seedpa.html) ON) -- [(EXIT)](#web/20051224120427/http://www.seedballs.com/)*</font>_
+
+[&lt;](#origins-of-agriculture/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#mosseri/)
+{:.arrow}
+
 
 
 ### Fasting Discovery {#Fasting-Discovery}
@@ -3626,3324 +5347,6 @@ As soon as we switch to the half-fast, rekindling elimination, we must examine t
 
 It does not matter if, in the meantime, hunger comes back or not, because this Instinct is usually defective amongst civilized people."
 
-
-
-### blog {#blog}
-
-
-### welcome {#welcome}
-2009/02
-
-I think I've theoretically solved all the problems in the world with this idea. Sorry it took so long, and thanks for coming.
-
-### it is not mine alone {#it-is-not-mine-alone}
-2009/02
-
-I have long felt like I could not impose the demands of my [____quest____][(1] on others, could not trouble them with it. But today, it occurred to me that my quest is not really just mine. There are plenty of people who are in the same boat as I, having declined/rejected/imploded the roles we were offered in this cancerous culture.
-
-As I began to nod my head, I thought, like me, they look for a viable alternative. They would be glad to participate in it if they thought it might work. Just like me, they feel they have nothing to lose. Maybe they have nothing better to do, either.
-
-It is not for me to decide whether you participate in this. It is not mine alone.
-
-Besides, the darkness conjecture is just a sketch of a hypothesis. It needs fleshing out and further testing. I make no promises, only a reasonable case for it. I am not bringing a revelation from the mountain, just a sketch of it from the plain. I would like to go there one day. Maybe you are headed that way, too.
-
-I think of the group as a family, a research family. We would be a band of refugees from the death-culture, explorers of the future, looking together for a bridge to a human way of life. Each of us has different aptitudes and sensibilities, all of which are necessary to arrive at a genuine solution to the problem we all face: inordinate suffering.
-
-Here is something about the money part of it that some friends, [____Ethan and Sarah Hughes____][(2], have demonstrated: that the group immediately begin freely serving other people. It is not about making money. If I still worry about making money, it is because my material expectations are too high. If the conjecture is a good idea and if we approach it well enough, it will be supported. This has been the Hughes' experience, which they saw modeled in Peace Pilgrim's life and many others. I have seen it, too. Who hasn't, really? Generosity is infectious.
-
-So rather than soliciting funds, we solicit opportunities to serve. One idea I had is to darken people's bedrooms with free reusable materials. Or to set up free darkrooms, portable or permanent, for neighborhoods or groups. Perhaps our own experiences in darkness would eventually inspire us as a radical theatre troupe or guerrilla gardeners. Or we could walk down streets banging pots and calling out to people for their sick. I do not know. Like everyone, I have a mostly untapped genius that could flow in many different directions.
-
-My only possible conflict is I also wish I lived in a warmer place with yummy fruit and saner people, but maybe I'm not special in this regard, either.
-
-To begin, I guess I will give a free talk somewhere soon. And there is more to say than what I have put up so far. Let me know if you would like to be there.
-
-   [(1]: /darkness-conjecture/rapture/
-   [(2]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-
-
-
-### news {#news}
-2009/02
-
-I'm collecting myself after my first failed attempt at a long darkness retreat. It only lasted two days, not two weeks as planned. I underestimated the need for quiet and chose a room that proved too noisy.
-
-Thus I now seek a separate, finished building, preferably with a bathroom. I would need as much as a week to prepare it before heading in for 14 days.
-
-If anyone has or knows of a such a finished building; or has any other thoughts, please [____let me know____](#about/). I can travel.
-
-
-### new page - psychosis {#new-page-psychosis}
-2009/03
-
-I just wrote a new page, [____psychosis____][(1]. It describes the insight I had on Christmas, 2008 which led to the darkness conjecture.
-
-   [(1]: /darkness-conjecture/psychosis/
-
-
-### new page - four darkness experiences {#new-page-four-darkness-experiences}
-2009/03
-
-I made a new page about my [____four darkness experiences____][(1].
-
-   [(1]: /reports/four-darkness-experiences/
-
-
-### midwest-bound {#midwest-bound}
-2009/04
-
-I have decided that the darkness retreat must be embedded in a life that already works well in other ways. So I am going to the midwest next week to stay at the [____Possibility Alliance____](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), which I have [____mentioned before____](#blog/2009/02/its-not-mine-alone/). After languishing in Eugene for six weeks following my first failed attempt at a long darkness retreat, and exploring options here in Seattle for a month, it is clear my own happiness must become a priority. I cannot wait until the completion of a darkness retreat. And I cannot hope that anyone will really understand this before I complete one.
-
-I really appreciate the comments and support various people have given me since I stumbled out of the darkness in February. Boy, what a strange couple of months it has been!
-
-I have been printing up a booklet of this site's contents in order to send it to people who have supported me in the past. If anyone would like one, let me know.
-
-In other news (ha), I just finished reading a long strange mushroom trip of a book by [____Daniel Pinchbeck____](http://en.wikipedia.org/wiki/Daniel_Pinchbeck) called _2012: The Return of Quetzalcoatl_. Here is an applicable quote: "It may be that the only way to survive the Apocalypse is to undergo it, first, within your own being."
-
-
-
-
-### kansas city {#kansas-city}
-2009/05
-
-I'm in Kansas City, Missouri now, pursuing an unexpected opportunity to build a spherical geodesic plydome and retreat into darkness. Should take a month or two to prepare. We'll see!
-
-The Possibility Alliance was relaxing and useful, but ultimately the folks there were not open to my doing a darkness retreat there anytime soon. Best wishes to the Hughes and everyone there. Worth the trip, for sure.
-
-In KC, I have been helping around the home of some groovy peeps who needed some plumbing and a bike rack. Next, 6′ [____hexayurts____][(1] for myself and a couple other guys because they're so cheap, elegant, and quick to build. Then the plysphere and darkness!
-
-   [(1]: http://hexayurt.com
-
-
-### dark vader in the 3-day sith bathchamber of sleep {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep}, rejuvenation, and lust
-2009/06
-
-Now a report. See [____dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust____](#reports/3-day-sith-bathchamber).
-
-
-
-### design bonanza {#design-bonanza}
-2009/07
-
-Still here in Kansas City, MO. It is design bonanza day due to my friend's computer's webcam, which is an absurd but effective way of taking pictures. (edit: I retook 3 photos with a real camera. More photos soon.)
-
-Anyway, the hexayurt's up! I'm moved in and basically, it is beautiful.
-
-hexayurt front, with screen door (blue tape is screen repair, and yes, that's an impala). 6' hexayurt ( 1' extra height), plywood walls, OSB roof under salvaged asphalt roofing
-
-hexayurt from back
-
-Between my obsessiveness about details, the non-uniform, dirty, salvaged materials, and my funny toolset, it has taken way longer than expected. These things can be built in a few days if you just [____follow instructions____][(1]. C'est la vie. The hexayurt now has provisional solid and screen doors. It still needs shelving.
-
-I racked my brains for three days over the design of the hexayurt's experimental "flat octet truss" floor:
-
-It was worth it, though. I'd been imagining it for a few years and finally had a chance to build it. It is much lighter than a conventional 2×4 or 2×6 joist floor. It is springy and will work nicely in the dome.
-
-Now that I'm sleeping in it, I'm keeping electricity out of it. This is due partly to the influence of the [____Hughes____][(2], who make such excellent candles. I am using an oil lamp:
-
-uses any vegetable oil or biodiesel
-
-I developed it in April in Seattle for Marcus' Martini Heaven, the Pioneer Square bar of my hard rocking high school friend, Steve Alexander.
-
-Recently I built a solar shower out of a 5-gallon bucket.
-
-solar shower bucket
-
-A black planting bucket fits perfectly inside and heats up the water in the sun. A salvaged piece of tempered glass (framed in blue masking tape) traps the heat. A 3/8″ OD polyethylene tube comes out a 5/16″ hole toward the bottom to give a 12-minute warm shower. In use, the bucket rests on a chest-high platform I built above the tub in the bathroom. An upside-down bucket in the tub provides a seat. Our water runs cold and only to the sinks, so this baby has much improved our quality of life for the price of the tubing ($2).
-
-Also I built a compost tumbler for humanure out of a plastic 55-gallon barrel. It uses my first toggle latch.
-
-1/8
-
-These latches totally fascinate me. However, I'm not sure the tumbler is going to work for _all_ the humanure collected over the last six months (!), so we'll build a three-bin shed in the backyard that will also act as a fence. Maybe the tumbler can go in front for food scraps. It will rest on a frame with four skateboard wheels to spin on.
-
-The ever-snapping clothesline stays up finally and folks are keeping the house a lot cleaner. Three guests left, two disgruntled roommates moved out, and a smart, funny guy moved in, so things are running smoothly right now. I hope his somewhat resembles a "life that already works well in other ways" (see [____midwest bound____][(3] post). I'm super grateful for the welcome, friendship, and shelter of the young KC crew. What is youth? The absence of resignation.
-
-Oh, look. It is the 4th of July.
-
-   [(1]: http://openfarmtech.org/weblog/?p=340
-   [(2]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-   [(3]: /blog/2009/04/midwest-bound/
-
-
-### spheres for darkness retreats {#spheres-for-darkness-retreats}
-2009/07
-
-Where should one do a darkness retreat?
-
-For a few years, I have thought: a dome. Sphere-based structures, such as geodesics, [____conics____][(1], [____hexayurts____][(2], [____superadobe domes____][(3], allow lifeforce to flow. Thus they are very conducive to rest. They also provide an energetic shield against the psychic influence of this culture. In my [____architectural experiments____][(4], I have experienced this first hand. These kinds of building feel different because they _are_ different.
-
-I mean different from square buildings, of course. Having observed the effects of square shapes on myself and others for many years, I have concluded that rectilinear geometry does not serve resting and healing well. This is because we rest to allow an inflow of vital energy and squares do not let subtle energy flow. Squares halt, concentrate, and focus lifeforce. The square is a manifesting shape. Thus it can be good for productive activity such as work and spiritual practice (and then only if you know what the hell you are doing and are committed against becoming a black magician). In any case, the square disrupts and deforms passive activities. Thus resting and recreating in them is—how shall I put it?—significantly less than excellent.
-
-Should the darkness conjecture prove true, then the energetic field generated by small groups of healed and sympathetic people can mitigate the effects and vulnerabilities of square buildings. Initially, however, a round shape is critical.
-
-I found especially interesting [____David Wilcock____][(5]‘s comments in [____2012 Enigma____][(6] on an organic geometrical transformation that occurs when traversing the dreamworld. Apparently the conscious shift from spacetime to timespace is accompanied by a change from an icosahedral to a dodecahedral shape in the water molecules inside the pineal gland.
-
-This kind of thing naturally appeals to my geeky designer-brain, with which I have been toying with Platonic solids and spherical trigonometry for the past few years. So, for the retreat, I'm going to build a pure icosahedral Self-Strutting Geodesic Plydome.
-
-![18 ft geodesic plydome, shows construction method][(7]
-
-18 ft geodesic plydome, shows construction method
-
-Except I will make a whole sphere rather than just a dome. We may even hang it by ropes from the large surrounding trees in the backyard. It will be 12 feet in diameter and cost roughly $600 (exact breakdown to come) in materials and be extremely interesting to build.
-
-![12 geodesic plydome, size I intend to build, except without conical cap][(8]
-
-12 ft
-
-My roommates, who are grateful for the copious work I have done around the house, have expressed interest in keeping the sphere as guest quarters. One roommate might abscond with it to land he intends to buy in the fall. So they have offered to cover the cost of materials. What is not covered in the meantime are my other expenses: food, bike parts, laundry, etc, at about $200/month.
-
-I also feel dubious about being subjected during the retreat to the noises in this neighborhood, which is the local hunting grounds for KCMO's well-funded, racist police. This is not necessarily a problem because the sphere can be moved fairly easily if an idyllic countryside location opens up. Then again, this neighborhood might be the ideal location, given the radical nature of the retreat. We'll see.
-
-The dome, food, and continuing to serve my household: so far these constitute my plan and wishlist. So various opportunities for participation in the project exist for interested parties. I would very much appreciate help if you feel moved to give it. Somehow, somewhere, and for the sake of all beings everywhere, especially on Earth, and especially _this_ being, I will lie down in darkness for two weeks.
-
-“If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.”  
---Richard Buckminster Fuller
-
-   [(1]: http://www.conicshelter.com
-   [(2]: http://hexayurt.com
-   [(3]: http://www.calearth.org/EmergencyShelter/eshelter.html
-   [(4]: http://andrewdurham.shutterfly.com
-   [(5]: http://divinecosmos.com
-   [(6]: http://video.google.com/videoplay?docid=-4951448613711060908
-   [(7]: http://web.archive.org/web/20050403170016im_/http://www.sover.net/~triorbtl/tn/S18f-95-31.jpg (18 ft plydome)
-   [(8]: http://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg (12 plydome)
-
-
-### sphere bid {#sphere-bid}
-2009/07
-
-Here is my quick bid for the direct costs of building the sphere.
-
-body and awning:
-1/4″ BCX plywood, 15 sheets @ 18.50 = 277.50
-130 machine screws, nuts, fender washers, = 5.00
-linseed oil, 1 gal = 20.00
-turpentine = 15.00
-
-stand:
-2x4x8′, 8 boards @ 2.50 = 20.00
-metal stakes, 5 @ 2.00 = 10.00
-
-floor:
-1/2″ CDX plywood, 3 sheets @ 13 = 39.00
-2x4x10′, 8 boards @ 3 = 24.00
-deck screws = 5.00
-
-door:
-1/2″ CDX plywood, 1 sheet @ 13 = 13.00
-2x4x8′, 1 board @2.50 = 2.50
-deck screws = 2.00
-
-tools:
-circular plywood blade = 10.00
-bits = 15.00
-misc tools & supplies = 20.00
-
-total: $478.00
-time to completion: 3 weeks
-
-~
-
-other necessary components:
-humanure composting toilet
-convection ventilation system
-food cooler
-water dispenser
-bed
-inversion swing
-chin-up bar
-
-If you feel moved to contribute in any way to the purchase of materials, the fabrication, assembly, outfitting, and occupation of the sphere, please [____write me____](#about/).
-
-### 'sleep: lost and found'
-2009/07
-
-This post now is a page, [____make____][(1].
-
-   [(1]: /make/
-
-
-### psychosagenesis {#psychosagenesis}
-2009/08
-
-I came up with a new word for the process of inducing psychosis: psychosagenesis. This concept, I realized shortly afterward, is _identical_ to the process of civilization. To civilize someone _is_ to induce psychosis in her.
-
-To induce psychosis in someone, just traumatize her thoroughly. Violently injure her. Do it physically and psychologically, repeatedly, relentlessly, in diverse circumstances  and by various methods until something deep inside her _gives way_. Her will? Her wholeness of awareness? Her spirit, joy, and values? All these things. Now she is left with the peculiar sort of psychosis that makes it possible to function inside the machine that hurt her so badly. Civilization is thus both the process of causing psychosis and the collective embodiment of that psychosis.
-
-Other words for or related to this include: zombification, mass hypnosis, walking wounded, living dead, coffee-drinking nation, got milk, beef: it's what's for dinner, idiocracy, sleeping world, matrix, "they". I will add more as they occur to me. Send your suggestions.
-
-This is the most damning description of civilization I can come up with. All it takes to make the meaning of it palpable is to go into a darkroom for a couple of days and experience the contrast between being _rested_ and living as a functional psychotic in the uncomfortable and vague dream that is modern life.
-
-Note the light pollution nearly everywhere that prevents normal sleep. I read a little bit today about about delta brain waves. An EEG machine will record mostly delta waves during deep sleep, when the healing quality of sleep is most active. Modern life systematically prevents this kind of sleep through ambient urban light, light leakage around doors, LED indicators on machines, LCD alarm clocks, and night lights. The reason we are metaphorically asleep as people and as a society is that we are sleep-deprived.
-
-Edison's invention was the logical consequence of 10,000 years of violence against humanity.
-
-Now, is everyone in civilization psychotic? Yes, everyone. Even the realized masters of various spiritual traditions. Why?
-
-"God" is the civilized concept for the subtle and conscious aspect of Universe. This concept is a way to expose civilized people to the subtle dimensions of reality through an avenue effectively controlled by hierarchical traditions. It is as if we have been imprisoned in a cell where we are constantly tortured. Then someone---a realized person---drills a small hole through the wall of the cell and says, "Look, there is god." But he stands there controlling access to it. He will be happy to teach you to drill your own hole through the wall, too. Sometimes, in heightened states, he can make the walls disappear. He is psychotic because he has accepted the necessity of the cell walls, just as he has acquired, by immense force of effort, the ability to dissolve them at will.
-
-The truth, of course, is that the subtle dimension pervades Universe just as the gross one does. It is accessible at every point, every moment, even inside a cell. The blinders are inside consciousness, in the psychosis of everyone of us. They will remain there until we inside the cells appreciate the opportunity to relax into its darkness and we finally heal from them. The torture will continue whether this relaxation takes place or not. One has lasted this long. One can last a bit longer.
-
-
-
-
-### situation report 090811 {#situation-report-090811}
-2009/08
-
-If you've seen nothing, if the crimes of this culture remain unknown to you, then I would suggest you allow this post to pass unmarked. But if you see what I see, if you feel as I feel, and if you would seek as I seek, then I ask you to avail yourself of the vivifying veracity of these volumes:
-
-[____Confessions of an Economic Hit Man____][(1]![][(2] by John Perkins
-A former perpetrator explains the precise mechanism of American imperial activity abroad. Not the [____greatest____][(3], but the most important book I have read in years.
-
-[____The New Pearl Harbor Revisited____][(4]![][(5] by David Ray Griffin, PhD
-A relentless, unanswerable, comprehensive exposé of Cheney"s bombing of the World Trade Center on September 11, 2001 and the ensuing cover-up.
-
-more by Dr Griffin:
-video [____9/11 and the American Empire____][(6]
-interview What Really Happened on September 11?
-
-EDIT: an even more radical description of events is by engineer, [____Dr Judy Wood____][(7], who has interesting criticisms of Dr Griffin's analysis. She says that energy (particle-beam) weapons were used on the World Trade Center and gives a mountain of evidence for it. Happy rabbit-hole spelunking!
-
-   [(1]: http://www.amazon.com/gp/product/0452287081?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0452287081
-   [(2]: http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=0452287081
-   [(3]: /other-writings/bibliography
-   [(4]: http://www.amazon.com/gp/product/1566567297?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1566567297
-   [(5]: http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=1566567297
-   [(6]: www.youtube.com/watch?v=5x0vPXGYzqQ
-   [(7]: http://drjudywood.com
-
-
-### soundproof dome {#soundproof-dome}
-2009/08
-
-The dome must be soundproof, not just sound-dampened. Enough bad experiences with noise and enough reflections by other people have finally gotten it across to me. Sound, to a lesser but still significant degree than light, will sufficiently stimulate consciousness's fixation on the gross dimension. How much? Maybe enough to ruin a test of the conjecture. I'm not going to take that chance.
-
-As much as I'd like to build it, the [____plysphere____][(1] mentioned before will not meet this new qualification. Furthermore, attempting the retreat in or near the city is also now out of the question.
-
-Soundproofness, like other standards the conditions of this first test will meet, may prove non-essential. I hope so. But I will not know till I go through the test first.
-
-Another project I heard about in the spring got me thinking of a corbeled straw bale dome with cob plaster and, like [____i did with a friend in 2007____][(2], a [____conic____][(3] roof of canvas. The design is very simple, fast, and cheap, and would work well for the retreat. I'm working on a model right now. Pics soon.
-
-This also means I need a new source of funding for the dome, and a new, quiet location in the country. Maybe they'd like this at the [____Possibility Alliance____][(4] and I should try again there.
-
-We'll see. I'm glad to have finally seen the need for soundproofness before building something.
-
-What else am I missing?
-
-   [(1]: /blog/2009/07/spheres-for-darkness-retreats/
-   [(2]: http://andrewdurham.shutterfly.com/172
-   [(3]: http://conicshelter.com
-   [(4]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-
-
-### darkness {#darkness}, take 6
-2009/08
-
-My 5th attempt to arrange for a darkness retreat has failed. So tonight I start my 6th attempt.
-
-I began putting the word out that I need a location and a provider of funds for materials. The new retreat building will be made of straw bales, so unlike the plysphere design, I cannot build it first and find a location afterward. Also, I do not know if I will stay wherever I build the thing, so I need someone who wants it afterward, someone who would pay for the materials beforehand.
-
-The cost should roughly equal the plydome estimate: $600. This is for straw bales, twine, 15 sheets of 3/8 CDX plywood for a roof and gas to haul urbanite (for a foundation) and sand (for the cob plaster).
-
-I aim to either succeed or fail thrice more by year's end. Plus leave the states for warmer climes because I prefer warmth, yummy fruit and Latin-Indigenous culture. Central/South America, anyone?
-
-### william arthur evans {#william-arthur-evans}
-2009/08
-
-I would like to share a bit of the background of the darkness conjecture by discussing the work of an early psychobiologist, William Arthur Evans. Evans wrote about the emotional origin of all illness. He had a practice in Dallas, Texas, and eventually, a school.
-
-Due to his astonishing success with patients, he received a subpoena from the US Food and Drug Administration (funny how that works). He knew of and sympathized with Wilhelm Reich, the great somatic psychotherapist and researcher. Reich had recently died in federal prison while being persecuted by the FDA for similar reasons. Evans, lacking a victim complex to fulfill, left for England within a week, never to return. Thus we do not know who Evans was.
-
-We do, however, know of his student, L Ron Hubbard, who lifted Evans' achievement wholesale; fabricated some new vocabulary; emphasized the religious side of his teacher's project; and, apparently, went around acquiring and burning copies of Evans' books to hide the source of Scientology and Dianetics. (I learned all this from an old friend, a diligent researcher.)
-
-Nonetheless, Evans cogently describes in his books the existence of intelligence and feeling in each cell of the body. As the unit of life, it is a micro-scale embodiment of everything experienced on the conscious level. Cells are commonly observed to respond intelligently to their environment. What we experience as our intelligence and feeling is the integrated sum of the intelligences and feelings of our trillions of cells.
-
-Like whole human beings, cells are conditioned by experience to feel a certain way. In this lifeway, that generally means a depressed way which only varies within a narrow range, depending on the circumstances. This persistent, pathological emotional state leads eventually to all disease.
-
-He illustrates the idea like this: A man complains of a nausea in the morning and explains it by saying he ate too much the night before. Evans' singular question is: But why did the man eat too much?
-
-Only the persistence of emotional habit explains the man's acting against what he already knew to be his best interest. Thus, the material habits of eating, sleeping, exercising, bathing, breathing, etc, all become the handmaidens of emotions. It is true, for example, that more than a very small amount of fatty food toxifies the body and thus should not be eaten. But as long as a given set of habituated emotions is running its course in response to habitual circumstances, the person involved will end up eating too much fatty food over and over, no matter what he learns or tries.
-
-Can improved material habits lead to clarity of emotion? Temporarily, yes. But without further discipline and guidance, the process of purification and reconditioning will eventually break down. By force of will, the man can cut back on fat. But then he becomes absent-minded, or an asshole, or especially nervous, etc, any one of which can lead to other kinds of illness or injury of the same _intensity_ and playing the same role in his unconscious drama. In other words, the being will make an internal compensation and remain fundamentally unchanged.
-
-Before reading Evans, I had thought that material factors of health and disease were the main causes of disease. This is the superheroic emphasis of contemporary culture and of Natural Hygiene alike. Through my spiritual teacher, I had also discovered Gurdjieff's methods of self-study. In using these methods, I would sometimes experience profound physical and psychological relief. So the experience of health deriving from _clarity of consciousness_ began to repeat itself in me in small ways. But I found it difficult to reconcile these two ideas about the causation of suffering.
-
-Evans' work provided the missing link in what I had begun to imagine as a cycle of illness. While material causes of health or disease cannot be ignored if ones health is to be fully restored, the basic effect of these factors on health are determined by emotion. For Evans, this insight was enough. He was a master at helping ordinary people rapidly untangle the associations of their emotions and memories. Thus he was able to help people effect spontaneous healings on a regular basis. This likely killed local medical business, drawing the ire of the FDA, probably through the American Medical Association.
-
-Having studied Ayn Rand and Gurdjieff (and a little E J Gold), I knew that emotions themselves are artifacts of _feelings_ reanimated by thought. Evans well understood this. But in my growing view, thought was, in turn, a function of the spiritual dimension of the human organism. "Neti, neti," as the Hindus say: Not this, not that.
-
-Presently, I intuited a long chain of causation of illness that also connected to my observations of widespread social breakdown and ecological destruction. Yet I was puzzled by the sense that all these causes seemed to exist on the same level. I had thought for a long time that the spiritual determines everything else, but this idea was also getting old to me. The work involved to make it true seemed too much. Being a designer, ie, a lazy person, I could not believe it. Maybe all these causes were co-arising, or reciprocal, quasi- causes. A single _deeper_ cause must be at work.
-
-This idea of a deeper cause of health, catalyzed by Evans, mixed into my experiences with darkness, spiritual practice, design, and diet. It led, a year later, to the darkness conjecture*. In the conjecture, the six main kinds of human suffering are viewed as co-arising. That is, they appear to cause each other, but actually derive from impaired consciousness and its immediate effect, psychosis. The spirit becomes dim, the mind bored, the heart numb, the body fatigued, society brittle, and the ecosystem stressed, because so many peoples' consciousnesses are actually broken. Damaged. Wounded. The _majority_ of available data is missed, suppressed, or misinterpreted automatically long before will (ie, volition, reason, choice) comes into play. Failures, deficiencies, and distortions result in the rest of the human system, individually and collectively. These dysfunctions renew existing cultural problems until it exhausts itself in total collapse. Survivors, more damaged than ever, begin the long, slow, "glorious" work of rebuilding toward the same end.
-
-But the organism in darkness can break this cycle before it reaches its inevitable external end.
-
-&nbsp;
-
-*I read _Human Technology_ and _Introduction to Human Technology_, which are out of print and very rare. However, a couple of Evans' other books have recently returned to print. See [____abebooks.com____](http://abebooks.com). Also, I mentioned Evans and Gurdjieff before in a [____sketch of a piece____](../../other-writings/sanity-and-health/) I never finished.
-
-
-
-### darkness proposal {#darkness-proposal}
-2009/09
-
-Having just written a big hairy proposal to build a straw bale dome, it occurred to me that there may be a suitable building out there I could use. The main thing, after all, is the darkness retreat itself. So, if you have or happen to know of a small, round, building in a quiet place that I could use for about a month, then I would pay rent or work in exchange for its use rather than build a whole building from scratch. Please let me know.
-
-### marketing {#marketing}
-2009/09
-
-I wonder if it is earlier in the process of realizing this idea than I thought. Maybe it needs more development. Usually, when I have an idea, I rush it into production. And it has not really mattered before because everything was part of a massive survey of information. I only needed a rough test of something to catalog it and move on.
-
-But this is different. Of course I have ideas about the best way to apply this, but I do not actually know. The idea is so big it could be applied in any of a million ways. Maybe the thing to do is solicit help from people I know to develop the idea rather than apply it directly with them right away. Maybe I'm in an early stage of marketing.
-
-Part of what has driven me before is not knowing where I was going to sleep or what I was going to eat in the meantime. It drives me still. Not having the ability, with my feet broken, to fall back on some form of craftsmanship to support myself steps up my level of necessity to break through. It makes me think I need to develop/produce the darkness idea _faster_, that there must be some way right now to apply it profitably for all concerned. It is very confusing.
-
-The next few days will tell, I guess. Boy.
-
-### conjecture {#conjecture}'s sixth point
-2009/09
-
-I just added a sixth point to the darkness conjecture (see original version in [____basics____](http://andrewdurham.com/basics)).
-
-Until now, I have left it out because it is implied by the first five. But I cannot stop wondering if it is really all that clear to folks, so here it is:
-
-6. Healed consciousness clears the way back to a full life, dispelling our inordinate suffering and absurd problems.
-
-The suffering I am speaking of is not just the suffering we acknowledge, but also the suffering we have so deeply resigned ourselves to that it no longer counts among us as suffering. For us, it's just how life is; get used to it.
-
-For example, degenerative disease, such as cancer, high blood pressure, diabetes, AIDS, heart disease, Crohn's. Every kind of psychic illness: depression, schizophrenia, paranoia. Disease is not inevitable. Though at some point in every illness, death becomes certain, it is usually much farther along than medicine tells us. I do not care what you suffer from, you can heal, more rapidly and thoroughly than you can believe.
-
-Frailty in old age. Perennial family conflict. The struggle just to make a living. Taxes. Wars of conquest sold as self-defense. Lying politicians. The boredom, hatred, and dread of schoolchildren, prisoners, soldiers, and employees. Homelessness. Famine, poverty, crime. Addiction and self-destructiveness of every kind. Basically, the noise all of us learn to turn down because it seems impossible to deal with. Yes, _that_ is the suffering I'm talking about.
-
-Every one of us has had moments of rapture, when the world appeared as paradise. In the conjecture, I am saying that these were moments of lucidity: clear awareness of the world as it truly is; that this awareness can be restored; that it will wipe out the suffering we have resigned ourselves to. Despite everything that has been drilled into us by school and church, by doctors and the state, by television and jobs, this is the world that can be lived in day in a day out, not just in rare moments.
-
-
-
-### first incoming link {#first-incoming-link}
-2009/09
-
-Well, I got [____my first incoming link____](http://entitledtoanopinion.wordpress.com/2008/03/20/digestion-selected-for-docility/) today* from [____entitled to an opinion____](http://entitledtoanopinion.wordpress.com/), a droll, well-written blog on contemporary social and political issues. The author just wanted an ad-free copy of [____Origins of Agriculture____](#other-writings/origins-of-agriculture/) by Greg Wadley and Angus Martin and found one here. Random, but strangely exciting.
-
-\[____*edit: in fact, this link occurred 1 1/2 years ago; I only just _noticed_ it now that I'm using wordpress. Before, I just had a static html website and zero awareness of things like incoming links. Now, with WordPress, I'm starting to learn to manage this site properly. Thanks, TGGP.\____]
-
-
-### darkness made simple {#darkness-made-simple}
-2009/09
-
-I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [____original conjecture____](http://andrewdurham.com/basics).
-
-#### simple {#simple}
-
-1. We civilized people hurt in our spirits, minds, hearts, bodies, society, and world.
-2. This is because we are brain-damaged. This damage makes us crazy about the material world and blind to the also-real world of dreams.
-3. We are locked into acting like this because, when we were young, civilized people hurt us very badly and so we are always afraid of getting hurt again.
-4. With a lot of very deep sleep, our brains, like any part of the living body, can heal from this hurt.
-5. Staying in a totally dark room for a couple weeks straight makes this kind of sleep possible.
-6. Once our brains heal, then our lives fill up again, our [____hurting____](../2009/09/conjectures-sixth-point) stops, and we can let go of our [____problems____](http://andrewdurham.com/2009/09/darkness-made-simple).
-
-Writing it was fun. And a couple interesting things came up.
-
-One, there is something I should clarify. My use of the word, _brain_, should not be taken to mean I believe consciousness can be reduced to the physical brain or the intellect. I'm using it is a very general way to refer to consciousness.
-
-Two, something unexpected came out of the last point: "Once our brains heal, then our lives fill up again, our hurting stops, and we can let go of our problems."
-
-This undermines the conventional view of the relationship between our suffering and our problems. Normally, we think that we suffer because of our problems. While paraphrasing. I realized that both our problems and our suffering result equally from our impaired consciousness. They co-arise, so they are reciprocal. Which is why our problems sometimes seem to result from our suffering. In fact, we just notice one first.
-
-This does help explain the absurd and needless character of most of the problems we face in civilization. Like [____Tracy Chapman____](http://tracychapman.com) sang back in '88:
-
-> Why do the babies starve  
-When there's enough food to feed the world?  
-Why when there are so many of us  
-Are there people still alone?  
-Why are all the missiles called Peacekeepers  
-When they're aimed to kill?  
-Why is a woman still not safe  
-When she's in her home?
-
-What if we work as hard as we do everyday in order to maintain the illusion of our problems' stubbornness? I mean, come on. On some level we all know the nonsense we face everyday is unnecessary.
-
-Sometimes people have frozen in response to my criticisms of civilization, especially after I have demolished their cardboard defenses of it. Sometimes all they can do is ask perfectly insane questions like, "But if we stop, how will we clean up the messes we have made?" Or, "What will we do with all the people who make their livings by doing things they hate?"
-
-It is irrelevant that nearly every individual and every small group of people I have ever met or even heard about expressed strong willingness to deal with their parts of our situation. It is irrelevant that for decades, countless alternative engineers, designers, economists, saints, mothers, indigenous elders, farmers, politicians, etc, have demonstrated the viability of alternatives to this lifeway's ubiquitous violence and stupidity. It is irrelevant that together we have the money and resources to pay for the necessary changes thousands of times over. We do not need to know the answers to the above questions before we stop doing obviously senseless and destructive things. "First, do no harm," Hippocrates advised us. This means that if we find ourselves doing harm, we are to stop.
-
-With the conjecture, I am saying, let us not just stop. Let's put down the impossible burden we bear, too. In our current state, we can _only_ do harm our daily lives. We're not qualified for anything else. Our psychology will drive us to it again and again. In perpetual fear, we will only recreate fearful circumstances.
-
-Rather than more fear, let us allow love, in the form of the organic processes of self-healing, to take over for awhile. Spiritual adepts for millennia have told us that the pursuit of pleasure is futile because as we are, we suffer. Immeasurably. Momentary pleasures cannot change that. Furthermore, sages say we cannot, for the time being, change how we are. And so suffer _consciously_, they say. The only way out is through.
-
-Similarly, they have said that we suffer because we are asleep to the splendorous reality of life. Or blind to it. Suffering are all we are capable of as long as we sleep. So let us sleep! But sleep _consciously_, literally, and fully, until finally, we wake up again.
-
-
-
-
-### ayn rand and bullcrit {#ayn-rand-and-bullcrit}
-2009/09
-
-People commonly act knowledgeable about things they have never read, let alone studied. I think this habit arises from the amazing idea that all the data necessary to life is in and now it is just a matter of sorting it out and making a decision. This, of course, is opposite the darkness conjecture, which is based on the idea that we are always short of most of the data we need to live because consciousness, the faculty which collects this data, is damaged.
-
-Anyway, here is a quote from an unusually honest piece in the establishment press about the ubiquity of this practice among _media professionals_. I noticed it because of its reference to one of my favorite writers.
-
-> Over dinner at a French restaurant in Manhattan—there were four of us—the subject of Ayn Rand came up, and the air was soon full of thoughtful remarks about "enlightened self-interest" and "the way Fascism and libertarianism meet each other halfway in her books." Under subsequent mutual interrogation, we all confessed that Rand was among the authors we had always meant to read. One guilty diner tried to win the court's sympathy by saying, "Well, my best friend in high school read everything Ayn Rand wrote."
-
-[____New York Magazine, 1989 Feb 6, "Bullcrit", p44____][(1]
-
-(Of course, students of Ayn Rand's work have known of this phenomenon in the media for a long time. If only she had just gone away like she was supposed to, it would have all worked out.)
-
-   [(1]: http://books.google.com/books?id=qugCAAAAMBAJ&pg=PA44&dq=
-
-
-### new page - health proposal {#new-page-health-proposal}
-2009/09
-
-I just added a new page, [____health proposal____][(1], to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.
-
-The dome proposal was a good step because it offered value rather than just asking for donations (my earlier, futile plan). But it had three major problems.
-
-One, I do not actually enjoy design and construction. It is an overly fascinating compulsion I'm weary of.
-
-Two, putting up domes, though very cool, is secondary to my overall purpose of giving direct support to people's well being.
-
-Three, the proposal does not help put my research on a solid footing. What if the darkness retreat does not work as expected? Then I will have lost three _more_ months, and be back at square one with maybe a couple hundred bucks with which to nurse my reopened wounds. I have never been able to make a living at design. Enough, already.
-
-I would like to be able to support a family in a stable home; grow and eat good food; and have the time and support to actually help people with what I have discovered. I can easily do this for $10,000/yr, but not $1,500.
-
-The conjecture has given me something tangible and coherent to work with. My two broken feet have given me the opportunity to stop my normal frenetic design activity and properly review my situation. I believe this proposal is more straightforward, and I look forward to your response.
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### health proposal live {#health-proposal-live}
-2009/10
-
-I'm now promoting my [____health proposal____][(1], starting on facebook. Though published, I was still editing it and working out some logistics. There is a lot more to do, but the basics are in place now.
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### new pages - poems {#new-pages-poems}, ashers
-2009/10
-
-I have made two new pages of some older writings: my [____poems____][(1] from 1992 to the present and a short memoir, [____The Ashers, a River, and I____][(2] of a canoe trip I took as a boy with the Boy Scouts, my Scoutmaster, Jack Asher, and his wife, LaVerne, which I wrote for their 50th Wedding Anniversary.
-
-   [(1]: /other-writings/poems
-   [(2]: /other-writings/ashers
-
-
-### natural hygiene 2 {#natural-hygiene-2}.0
-2009/10
-
-So far, Natural Hygienists have said that toxemia is the cause of illness \[____NOTE: actually only some say this. See CORRECTION below\____], and that toxemia itself results from misinformed behavior. But how did this cycle get started? I do not think it just started out of the blue, as if otherwise healthy people started eating incorrectly and then lost their way. Something else had to have happened inbetween.
-
-My first clue was how crazy illness is. Consider the lung cancer patient who keeps smoking or the overweight person who keeps eating junk food. What causes this craziness?
-
-I think something hurt us very, very badly—worse than we typically imagine being hurt—and we never had a chance to recover. This makes us crazy. In my view, all our suffering and all the problems that attend it stem from this unhealed injury. In my approach, which I view as fundamentally Hygienic, we provide for the healing of this injury so that, with our newly recovered sanity, we can freely apply the more common Hygienic practices.
-
-CORRECTION (2010.10.13): I was mistaken about the hygienic position on toxemia._ _Fully informed hygienists actually hold that the basic cause of illness is _enervation_, in this sense, the chronic over-expenditure or lack of energy). Toxemia is simply closely related.
-
-I finally finished reading the super rad central text of Natural Hygiene, _The Science and Fine Art of Natural Hygiene_ by Herbert Shelton. His clearest statement of this in the book is in the chapter on Rest and Sleep. The nine Laws of Life on which Hygiene is based are, in fact, largely about vital energy and the supreme and unsubstitutable intelligence with which the organism manages this energy. I had heard a little about the hygienic idea of enervation before, and it made sense to me. But later, a student of Hygiene whose views I overly regarded said that, according to Natural Hygiene, toxemia is the cause of all illness.
-
-Enervation as the cause of all disease is an idea much more compatible with the darkness conjecture than mere toxemia. Enervation would naturally result from catastrophic, unhealed psychic injury. Enervation would, in turn, lead to toxemia and deficiency. Without energy, the body cannot clean itself out or deliver nutrients, whether the food is appropriate or not. The psychic injury would also explain the strange persistence of our obviously unhealthy lifestyles. Taking this persistence as "just how things are" instead of being part of the pathology itself, Hygienists have so far enjoined people to exert effort to overcome this persistence with willpower. Thus dependent on effort, a very unreliable foundation, success is correspondingly rare. (This position is useful, however, for maintaining the puritanical, self-righteous elitism that characterizes some Hygienists.)
-
-Anyway, I knew there was some reason I liked Natural Hygiene. There is nothing like finding out things for oneself.
-
-
-### wish {#wish}
-2009/10
-
-On the [____wish____][(1] to recover:
-
-
-> There are two kinds of doing—automatic; and doing what you "wish". Take a small thing which you "wish" to do and cannot do and make this your God. Let nothing interfere. If you "wish", you can. Without wishing, you never "can". "Wish" is the most powerful thing in the world.
-—G I Gurdjieff
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### last failure {#last-failure}
-2009/10
-
-Tonight, I report my sixth and last failure to arrange for a long darkness retreat. I made two business propositions to people, the dome and health proposals. But my heart was not really in them. The effort was putting too much pressure on me and the project. It needs no pushing. And so unconsciously, I made these proposals randomly so they would not get enough response.
-
-The benefit of all this has been to become able detach from the retreat in a way new to me. In other words, I no longer feel the need to make it happen right away or as a direct function of my livelihood.
-
-Now I will find some simple work and do the retreat on my own time. If it works, then other opportunities will arise naturally.
-
-Above all, one must be some place. Cold weather has not made sense to me for a long time. Nor has the American way of life. So I traded in my expensive winter coat for a flight to Guatemala on November 9. I will find a group to volunteer with, then go from there.
-
-### site back online {#site-back-online}!
-2009/10
-
-8.17 – Ok, I got most of the content back up. It is still pretty rough around the edges. The look is temporary. Some links do not work. Pictures are missing. Some pages have funny bits of code visible. But at least the content is up. Will fix the rest soon.
-
-(two previous posts:) 8.17 – I will have the site back up soon. Fortunately, before it crashed, I got a backup of everything. Watch for most important pages and blog posts to start going up tonight. I should finish with the details (photos) by Monday night at the latest. Thanks for your patience.
-
-8.16 – My site was hacked. Please check back soon.
-
-### vertigo {#vertigo}
-2009/10
-
-The strangest thing happened last night. I woke up with a strong sense of vertigo. I was having dreams of being way, way up high, of trying to cling to the flat surface I was spread-eagled on. When I woke up, the feeling persisted for a long time, with various high-up imagery to accompany it.
-
-It is all coming from finally doing something I want to do: going to the tropics. I do not have money. I do not know anyone there. I do not even speak the language yet (started studying yesterday, though). But aside from all my grand ideas, my default vision for myself has, for a long time, included going there. It is like I have been huddled on the ground all this time, and now I'm climbing this crazy tower of my own desire. It has overwhelmed me in the past. It is still often scary lately, but sometimes now it feels exciting, like when I'm making arrangements for it, one after another.
-
-I read in _The Continuum Concept_ years ago that children who are held a lot when babies, like native people generally are, grow up without a fear of heights or agoraphobia. It is so odd now to feel it in connection with doing what I would like to do. It is as if people in this society, without necessarily knowing it, automatically stopped carrying around babies, especially with Victoria's popularization of the stroller, in order to condition children to a future of not doing what they want to do, not daring, not being free. And should we begin to act from the heart again, a tidal wave of fear rises to discourage us.
-
-A friend just said we should take this fear as a sign we are doing something right, but also to prepare.
-
-### guatemala {#guatemala}
-2009/10
-
-For a long time, I have wanted to move to the tropics. It is warm, the people are not insane in the same way that they are insane here, and the food I would rather eat grows there. In short, the grass in Guatemala is not greener than it is here, but it _is_ green year-round. I leave Nov 9.
-
-### so long {#so-long}, secret design
-2009/10
-
-secret design, the site I made in late 2001 to present my design for Tribal Housing and a bunch of writings that followed, closed Monday with the rest of GeoCities.
-
-GeoCities was cool. I learned basic HTML by tweaking the code on my templated home page. I published a lot of my ideas. It helped me see the coherence in my thought and helped me communicate it to what seemed like a lot of people: tens, maybe hundreds.
-
-Of course, WordPress and Blogger and posterous and so on are much better because they simplify things and make websites more powerful and cohesive. I would not go back to GeoCities. But it was cool. It hosted lots of sites with tons of rad information from the early days of the web boom. I hope the site owners migrated the data in time. I still have everything I wrote from then. If you do not see it on my "other writings" page, let me know and I will send it to you.
-
-### meta-ethics of darkness {#meta-ethics-of-darkness}
-2009/11
-
-On the metaphysics of self-preservation: "Consciousness, for those organisms which possess it, is the basic means of survival." –Ayn Rand
-
-This idea is one of the roots of _the darkness conjecture_. Our lives are so thoroughly screwed up because our consciousnesses is comprehensively impaired.
-
-Generally, we try to use will---the most delicate part of the very faculty that is so damaged---to fix our problems. How is it working out for us? As a designer of the Los Angeles freeway system would later put it, "Each and every problem we face today is the direct and inevitable result of yesterday's brilliant solutions." If I were the left hand, I'd say the right hand's bluffing.
-
-Which is why I think it would be better to use will to provide the organism, including consciousness, the conditions it needs to heal _itself_ autonomically, to do with ourselves as Rockefeller did with his company: "All I did was hire people who were smarter than me."
-
-
-### atitlan report {#atitlan-report}
-2009/12
-
-I'm sitting in San Pedro La Laguna, Guatemala, on the shore of Lake Atitlan in an internet "store". It is just a painted cinder block room with a bare light bulb and four desks with computers. For 60 cents I can use the computer for an hour.
-
-It _is_ warm here. Everyone is out on the streets as Christmas Eve is a big deal here. Apparently the best way to celebrate it is with firecrackers. Very large ones. As often as possible. Small bombs, really. And the big show is tonight at midnight. Then I will sleep.
-
-Speaking of the weather, the temperature here is the easiest thing to get used to. It hovers in the mid-seventies (21°C) all day. Last night it got really cold: 58 (14°C). Last week we had three cool days of rain. Very rare in December I hear.
-
-The noise pollution is the hardest. It is like they were all born with earplugs in. It is hard for me to convey the intensity of the situation. My new house design fantasies involve caves dug deep into the side of the mountain behind several, thick, airtight doors. Maybe I can buy compressed air and just keep the valve open a little.
-
-I have a job at the moment translating Spanish into English. Which is a joke, because I still speak Spanish only in infinitives in the present tense. However, there are automatic translation services online now that spit out very rough English versions of Spanish text. So I go through and make it intelligible. I know enough Spanish now to check it against the original. I get a whopping $1.80 for an hour of work. This is also how much a cheap hotel room costs here for a night. Truly, it is a foreign country here.
-
-The people are wonderful. Period. Despite 500 years of various levels of European and American terrorism and extremely vigilant evangelism that continues to this very moment, the people still have the sense to carry, nurse, sleep with, and always be deeply connected emotionally to their babies. This is my only explanation for their near universal good natures (even the drunks lying face down in the street). Calm, relaxed, with a ready smile and time to ask your name and where you are from. It is an enormous blessing to be surrounded by a people who are like this.
-
-When Mayans play basketball, they can hover over the court while shooting backwards. The crowd laughs as off-balance players dogpile into the children sitting at the boundary. The instant a period ends, tens of children dash onto the court with every kind of ball for 60 seconds of hoops and tag. Vendors ply parents with water and candy. And oranges, with whose peels mischief-makers hook me into a friendly food fight.
-
-Wheelbarrows and handtrucks are a luxury here. Very young men two feet shorter than I carry twice their weight on their backs. It never fails to drop my jaw. A bag of cement is 90 pounds. I saw a man carry TWO on his back. I did a triple take then followed him to make sure I was seeing things correctly. The "cargadors" use a simple strap that goes over the forehead, then behind the back and under the load, which they secure against their bent-over backs with their arms. I think they must have the strongest necks in the world.
-
-The mountains and lake continue to radiate their world-class beauty. I feel like the lake is where everything gathers, like I'm in the center of the world. The locals know they are a lucky and blessed people to live by this sacred lake, Atitlan. The volcanoes rise like three reticent and omnipotent gods from the south side of the lake, extending their protection to all who can see them. Really, they are the small children of a super-volcano whose crater now holds the lake. Seen this way, it is a little intimidating. It is the Mayan version of the fear of God, I suppose.
-
-Well, Merry Christmas to you all there. Bundle up and sip an egg nog for me. When I get more settled here (still looking for a place to stay longer than a couple weeks), I hope you will come visit me. Tickets are very reasonable, as low as $124 fees one way, depending on departure city and date. For fun, check [____spiritair.com____][(1].
-
-   [(1]: http://www.spiritair.com
-
-
-### remission {#remission}
-2010/01
-
-As I [____wrote before____](#introduction/), I was overwhelmed by [____rapture____](http://andrewdurham.com/darkness-conjecture/rapture) when I was 15 for three months. When it began to fade, I wanted to know what had happened. What caused this feeling? Why did it fade away?
-
-The short answer to this question just came to me: I went into _remission_. I had been suffering from complications arising from an earlier injury. As a result of the developmental surge during adolescence, the complications temporarily and partially cleared up. But the underlying injury remained unchanged. So when the surge abated, the complications returned and the feeling faded.
-
-While I had answered these questions at length, I have not, until now, been able to put it in a single sentence. Recently an acquaintance asked me what was the answer to my original question. When I launched into my longer explanation, she lost interest, and I realized I needed to have a simpler answer. It occurred to me a bit later that the idea of remission would enable me to respond succinctly.
-
-Wikipedia defines remission as "the state of absence of diseased activity in patients with a chronic illness, with the possibility of return of disease activity." In my case, it was like an infected broken bone. If the injury is cleaned often enough, or if circulation is improved sufficiently, the infection can disappear. But if the bone is not set and immobilized correctly, healing of the basic malady will not occur and infection will return.
-
-In this case, the infection is my inordinate suffering and problems. The break is the injury to my psyche that preceded the suffering and problems. The increased throughput of vital energy in my whole being during adolescence is the increase in circulation which temporarily and partially cleared up the infection.
-
-
-### serious darkness {#serious-darkness}
-2010/01
-
-Shortly after returning to San Marcos La Laguna from my seventh attempt at a long retreat in San Pedro La Laguna, several doors opened for me.
-
-I was given a lovely house to sit for an indefinite time period. A friendly elder took stong interest in doing a darkness retreat, and then in the darkness project itself. Many people he talked to about it expressed interest in doing it. Then a suitable room for short retreats emerged. I have begun the minimal work necessary to prepare the room for retreats.
-
-So basically, I almost have a going concern here. Amazing. Now it is much clearer what I can offer people related to darkness besides this free website: free talks, an affordable booklet made of the main content of this site, and short darkness retreats.
-
-For years since my first retreat, I have had in mind to design and offer a proper eye mask for sleeping and resting in darkness. So this could come come next.
-
-I think that with the intensified interest in the darkness conjecture that all of these services will generate, the opportunity for a long retreat for me will finally emerge.
-
-### seventh failure {#seventh-failure}!
-2010/01
-
-In mid-December, I made another serious attempt at a long darkness retreat. I thought I would try something different and keep it under wraps till it was over.
-
-Across the lake, outside more populous San Pedro La Laguna, I rented what I thought was an appropriate house and bought supplies to darken it. The whole nine yards. Then the place turned out to be too noisy, cold, moldy, etc.
-
-I spent all my money and a lot of energy. One of the first things I did afterward was write a long list of criteria any new space must meet before I spend a dime or minute on it. Then I returned to San Marcos to work and collect myself.
-
-My new idea was that I will simply spend longer finding and preparing a place so that when it is finally time to begin, all I have to do is walk in, shut the door and turn of the light and everything will just work.
-
-In the meantime, I would find a decent place to live (done! great housesitting job), decent work (done!), spend more time with the people here (doing it), and see to my immigration status in Guatemala, which I consider my home now.
-
-Now cool developments have emerged since then. See my new post, [____serious darkness____][(1].
-
-   [(1]: /blog/2010/01/serious-darkness/
-
-
-### superlight hypothesis {#superlight-hypothesis}
-2010/01
-
-For the record: when I finally succeed in spending two weeks in darkness, here is one thing I predict will happen.
-
-I will access the dreamworld and see the light that pervades it. This light is called [____superlight____][(1]. I believe it may be the subtle kind of light perceived directly by the pineal gland.
-
-If so, then, superlight is food for the soul, just as the gross light of this dimension (sun, fire, star, northern, electric, etc) is food for the mind. Superlight is what floods consciousness from the inside out in moments of rapture and realization.
-
-It is the light most of us are starved for and seek to replicate with technology, movies, computer screens, light shows at concerts, etc. That we do not see much of it is not a spiritual or moral shortcoming, but a physiological malfunction resulting from psychic injury.
-
-(I believe this injury, by the way, resulted from the shock of incarnation on this planet after leaving the dimension and place in which many of people here were proficient. Earth is a crash-and-burn/trial-and-error planet. This makes more sense if you read the [____myth of three cultures____][(2].)
-
-   [(1]: http://web.archive.org/web/20130121174630/http://customers.hbci.com/~wenonah/new/milewski.htm
-   [(2]: /other-writings/myths/
-
-
-### avatar {#avatar}
-2010/02
-
-"My daughter will teach you our ways. Learn well, Jake Sully. Then we will see if your insanity can be cured.”
-
--Mo'At the shamaness in _Avatar_
-
-Sometimes a Maya asked me what I did and why. I began my explanation with, "Do you know how all gringos are crazy?" He always laughed and nodded. 
-
-
-
-### love vs civilization {#love-vs-civilization}
-2010/10
-
-Mayan youth, a quietly defiant demographic, have been playing "Love the Way You Lie" by Eminem and Rihanna over and over. So I read the [____lyrics____][(1].
-
-OMG.
-
-I hear a torturous description of true love colliding with a singularly unworkable culture, internally and externally. Perforce, most of us give up on, fail at, or get ruined forever by true love because we are already too shattered, and the social context necessary to maintain love is cynically absent. Only manageable and "sensible" relationships remain, being better than nothing. This song represents to me a blistering indictment of civilization, its inherent bankruptcy, and the thoroughgoing resignation and selling out that it demands and gets from all but a few, whose autonomy is not a theat. Like Sinead sang years ago, "They only laugh 'cause they know they're untouchable, not because what I said was wrong."
-
-   [(1]: http://www.directlyrics.com/eminem-love-the-way-you-lie-lyrics.html
-
-
-### 2010 summary {#2010-summary}
-2010/10
-
-Long time, no news. Let me catch you up.
-
-All spring I built a darkroom. I opened it in late May and 10 people got their first taste of darkness. All gave positive reviews. Common comments: 
-
-- “I feel more myself." 
-- "I feel more in my body." 
-- "I feel more rested. 
-- "I did not know how tired I was.” 
-
-Some saw light of varying durations and intensities. Many had intense dreams. All went through some version of the nice/rough/nice cycle I describe in [____four darkness experiences____](http://andrewdurham.com/darkness-conjecture/four-darkness-experiences). I had an interesting time keeping the room going for them, bringing them food, not making too much noise upstairs.
-
-The better rested a retreatant was in the beginning, the less affected by retreating he was. Several said they were just starting to get somewhere when their retreat ended. Those who felt major benefits did not really have time for the changes to become established. My conclusion was that people would benefit much more from longer retreats. About the same time, some noisy construction occurred at the house, so I closed the darkroom for improvements to make it suitable for longer retreats.
-
-I also made a reasonable amount of money for my efforts and with an unusual degree of satisfaction. Businesswise, darkness retreating is very promising. The entire town knows about the darkroom and many are interested in going in. Word is getting out beyond the lake, even. Once I finish the room and do my own long retreat, there are 5-10 more people ready to do both short (3 day) and medium-length retreats (5-10 day). Wicked Rest Retreats (or whatever I'm going to end up calling it) has been a going concern from even before the room opened. Most of the first 10 retreatants made deposits on their retreats. And some of the depositors have not done their retreats yet. The proceeds allowed me to keep working on the room this spring until completion.
-
-At first, I offered the retreats on a donation basis thinking it would be a cool way to do it. But I found myself thinking about money a lot more than necessary and expecting donations from people—very uncool. The donation model must be based on a genuine spirit of giving. I could not hack it. After one retreatant with lots of money donated very little, I got really annoyed and decided that simply setting a price would be better for me and everyone else, too. After that, I have had no dire problems with money. My scarcity habit will likely die hard, but something, at least, began to shift for me money-wise.
-
-Recently, I have become very burned out from building, from being alone in the project (a bunch of friends left suddenly this summer). I have felt kind of shell-shocked from it all, weeping almost everyday for weeks. Living at the lake is very intense, especially near San Marcos, which is traditionally the spiritual/ceremonial center of the lake. In other words, even native people never lived here before. I'm across the lake at the moment, on one of my recent mini-vacations in San Pedro and Panajachel. I'm going back tomorrow to finish the new ventilation system. If I finish, and if beginning to sleep in the room helps me rapidly recover from my burn-out, I will continue working. Otherwise, I'm going to take a week vacation away from the lake.
-
-Since closing the room, I have been living on some unexpected donations from my father, with whom I had a massive falling out three years ago about what the hell I'm doing with my life. Pretty ironic. But I'm glad he found a way to help me for awhile.
-
-It has been a rigorous year. Not bad at all till the last few weeks. Let's see what the next few days bring.
-
-**UPDATE:** the 6-day retreats proved just as safe and more effective than the short retreats. In the first three days, the body rests from its exhaustion and relaxes from its tension. The next three days, these effects become more established while the organism delves into a pressing psychic issue.
-
-One man said he used a certain method of introspection in darkness to clear out negative emotions. This worked for the first few days. Then he encountered something more than he could handle with the method, so he let go of it. When he woke up the next day, the issue was solved. That day he went home and got together with the woman he had desired for months.
-
-It can happen.
-
-
-
-### wicked rest {#wicked-rest}
-2010/10
-
-I have been playing with new names for this project. One that really strikes me is Wicked Rest. And here is a potential intro to the site with this name:
-
-> Wicked rest is what you get in a totally dark room. It is, finally, rest for the wicked, the tormented, the restless. It is automatic and foolproof as long as the room is set up properly. A couple weeks straight of wicked rest may also be sufficient to recover from the functional psychosis that characterizes the people of our culture, which may be what causes _all_ our suffering—spiritual, mental, emotional, physical, social, and ecological. Below are three more formulations of this idea. The rest of the site provides elaborations upon and background for this proposition… (segue to three versions of the darkness conjecture).
-
-Another word I like for a name is trapdoor. I think this gets closer to what I am trying to provide: a hidden door out of the otherwise seamless box of life in this culture.
-
-(Update, 2011 Jan 30: What am I really offering here? What is the value of wicked rest or a trapdoor? These questions started bugging me after I wrote this post. So far the answer to the first question is, sanctuary. Asylum, refuge. Maybe one of these should be the name.)
-
-I guess it does not really matter till I do the long retreat. Surely the correct name would come then. Vamos a ver (Let's see).
-
-### 'e-ink writing device: a plea'
-2011/01
-
-EDIT: Success! Type on e-ink now using [____hacked B&N Nook Simple Touch____](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode), the open-source project I started at xda-developers.com.
-
-Here is a letter I sent an e-ink reading device manufacturer.
-
-———- Forwarded message ———-
-
-From: Andrew Durham  
-Date: Sun, Oct 10, 2010 at 18:49  
-Subject: a plea for an e-writer  
-To: sales@pocketbook-usa.com
-
-Dear Ms Sergiyenko, Mr Bondarenko, and Mr Sheiman and everyone at Pocketbook around the world:
-
-I have heard your devices will have typewriting functionality soon, and I want to express my bottomless support for your efforts to complete this task as soon as possible.
-
-As a philosopher, health practitioner, designer–and a human canary in a coalmine–I cannot overstate how much I would like to type on a non-irritating machine. So: if your device can host a USB external keyboard so that I can use it as a typewriter, not just a reader, then I will buy it. Otherwise, not.
-
-That's a little blunt. But frankly, I am baffled that no e-ink device maker has figured out yet that their e-ink device will only go viral when it becomes writable out of the box–and I mean serious typing with a proper external keyboard for touch-typing. Why?
-
-Because then the e-ink device can produce its own content, just like computers and cellphones, the other big viral devices of our time. With one program and a USB host, you could double the usefulness–and the thus value–of your device, yet sell it for the same price as other devices.
-
-I like USB because it eliminates the complication of recharging the keyboard, problems with bluetooth reception, and the alarming irritation of wireless radiation. For all the same reasons, you would much improve the device with an ethernet port or a third USB port for use with a USB-ethernet adaptor. WiFi burns and numbs my hands when I have to use it. I know other people who experience this, too, some of them without necessarily realizing what causes it.
-
-Why else would you make your reader typable? Because writers, whose numbers have exploded since the beginning of the web, have not had a psychically neutral medium for writing–one that holds perfectly still to the eye–since the typewriter. To take advantage of the wonderful tool of word-processing, we have had to look at screens that exhaust the eyes, alter the mind, and disrupt the emotions.
-
-This is not just a bad combination for us writers. Too much of what is done in this culture is harmful. Nearly everything done today is first written about. If the machine we wrote with did not hurt us, it stands to reason that we writers would cause less harm to the world as well. More people would participate in the process of cultural creation with less difficulty and more psychic integrity. This is a radical proposition. For every writer there are a thousand readers. Every device you sell would support the freedom, self-determination and harmony of a thousand people.
-
-In short, all the reasons for reading on an e-ink device apply a thousand times more to writing on one.
-
-Please help us writers with what, in a subtle way, may be the most important invention since the personal computer. Give us a modern (word-processing) typewriter: sleek, humane. Do so, and I believe that, in the e-ink device competition, you will take a leading position. Do it well, and you might keep it.
-
-With sincere hopes for your success, I am,
-
-Yours,  
-Andrew Durham
-
-UPDATE:  
-No reply as yet from Pocketbook, a company which has left multiple promises unfulfilled and many deadlines pass unremarked. FAIL.
-
-However, another company, as yet unnamed, has responded positively to my idea. We'll see how that goes. \[____2012 Jan 23 EDIT: this was with ctaindia.com. The effort failed in 2011 July due to my impatience with the guy's lack of vision. Bad combo. No matter how much I explained it and how much he agreed it was a good idea, he'd always start in again with questions that began, "But what about..."\____]
-
-http://noteslate.com is the advance marketing effort for an unproduced but extremely interesting e-ink device design which is "pencil" based and hyperconnected. Here is an unequivocal picture of their plans for typeability: http://noteslate.com/img/photo/gal/NoteSlate09.jpg (note the noteslate logo on the keyboard.) There is a small sketch of a keyboard with the noteslate in this photo: http://noteslate.com/img/photo/gal/NoteSlate11.jpg These are actually not photos, but photorealistic renderings of the design.
-
-UPDATE (2012 Jan 23)  
-Success! See [____typable e-paper breakthrough____](#blog/2012/01/typable-e-paper-breakthrough/), today's blog post, above.
-
-Now that we have proved the concept, I felt like unloading a little:
-
-Other failures for the record: Jinke makes the Hanlin reader. We emailed for a few weeks in 2011 June about making a custom device for typing. The representative, Liumin, probably realizing I wasn't some deep-pocketed entrepreneur, but just a homeless slob, sarcastically estimated development at $500,000. It was kind of disgusting. Today I was able to I let him know that my team proved the concept for $119. That was satisfying.
-
-Then there was Edo-Tech. Apparently no one reads their email, but I finally I got a message through to them by guessing the management's addresses. Got a hasty reply from the president. A couple emails later with the vice-president, the homeless slob was dead in the water again. They only work with market leaders in a given region. But they also could not even tell me where I could get one of their devices. Business is so strange.
-
-
-
-
-
-### darkness science {#darkness-science}
-2011/01
-
-Just came across these three entries in Wikipedia about the strange light that people often experience in darkness retreats:
-
-
-[____Ganzfeld Effect____][(1], [____Phosphene____][(2], [____Prisoner's Cinema____][(3]
-
-"Cinema" certainly coincides with my idea of the entertainment value of the light show in the dark. It is just the "hallucinations" that the Ganzfeld Effect entry describes.
-
-But maybe hallucinations are not fabrications of consciousness after all. With enough time inside, I think it will become evident either way.
-
-   [(1]: http://en.wikipedia.org/wiki/Ganzfeld_effect
-   [(2]: http://en.wikipedia.org/wiki/Phosphene
-   [(3]: http://en.wikipedia.org/wiki/Prisoner's_cinema
-
-
-### atlas shrugged {#atlas-shrugged}. the movie. is. coming.
-2011/02
-
-Visit the Official [____Atlas Shrugged Movie____][(1] Web Site!
-
-Hey: Dagny Taggart has blackout blinds @1:45 of the trailer.
-
-   [(1]: http://www.AtlasShruggedPart1.com
-
-
-### typable e-paper {#typable-e-paper}
-2011/02
-
-I was talking with someone about my undying quest for typable e-paper. He concluded his comments with this suggestion:
-
-"You can get an ipad and compose a book on that. The ipad has more glare to look at than e-paper that is e-paper's advantage."
-
-I replied:
-
-> I say it in my [____plea____][(1], but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
->
-> The advantage of e-paper is something much greater, much more fundamental, much more affecting than its lack of glare. A matte finish can be put on any display, or even achieved after the fact with plastic screen protectors.
->
-> What is different about all e-paper devices, regardless of their finish–is the absolutely still nature of the image. Once the page changes and the new words and images appear, the screen holds perfectly still. [____**EDIT** The rest of this paragraph is erroneous. See NOTE below {It does not continue to refresh. The tiny pixels are not quivering with reinstatement 60 times per second. The eyes, which normally make 80 movements per _minute_ are not constantly exhausting themselves in adjusting to the movement of the image. As with the static nature of ink on paper, the eyes do not get irritated. Thought and emotion thus remain undisrupted.}
-____>
-> This is why:
->
->   * people love reading on e-paper devices, even if they do not understand exactly why.
->   * e-paper would matter even more to a writer
->   * I think this would be the most important invention since the personal computer, if not the typewriter or even the printing press.
->
-> The written word is the motive power of this culture, the fulcrum at its center. E-paper device makers are thus sitting unawares on a revolutionary opportunity to do something super cool, serve the world–and make a pile of well-deserved money in the process.
->
-> Who will be the one to stand up at a company meeting and help connect the last dots by pointing out the simple, obvious application of an existing product? For the sake of everyone who has ever suffered from:
->
->   * an aching hand from handwriting
->   * injuries from typing on a manual typewriter
->   * the strained eyes, headaches, and insomnia of the hundreds of millions who write on computers
->   * and far more importantly, the consequences of ideas that had to be dragged through all this torment.
->
-> I wish I knew how to help this happen in even the smallest way. I want one of these things in my hands as soon as corporately possible.
-
-[____**NOTE** I learned that it is strictly backlighting that causes the eyestrain I feel with LCD screens, whether the backlight is fluorescent or LED (due to Pulse Width Modulation). See my topic on mobileread about this, [Project: E-Paper Tablet (typable____!)][(2].
-
-   [(1]: /blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)
-   [(2]: http://www.mobileread.com/forums/showthread.php?t=159007
-
-
-### new articles - make darkness  {#new-articles-make-darkness-}& retreat manual
-2011/03
-
-EDIT: these articles were renamed "make" and "protocol"
-
-I wrote instructions for retreating in my darkroom here in Guatemala in [____protocol____][(1] and for creating a darkroom in your home in [____make____][(2]. These are now included in the paper booklet about darkness that I offer.
-
-   [(1]: /protocol/
-   [(2]: /make/
-
-
-### cool site - photoperiodeffect {#cool-site-photoperiodeffect}.com
-2011/03
-
-[____photoperiodeffect.com____][(1]
-
-This site talks about the effects of light on health and the use of darkness to reverse many illnesses. The author, Russell Johnston, who has used darkness to significantly heal from a serious malady, Ehlers-Danlos Syndrome, is a dogged researcher and a very clear writer.
-
-
-
-   [(1]: http://web.archive.org/web/20110715083725/http://www.photoperiodeffect.com/
-
-
-### line in the sand {#line-in-the-sand}
-2011/03
-If the Problem results from error, then the solution is virtue. If the Problem results from injury, then the solution is convalescence. Either I am sound but mistaken, or unsound and malfunctioning. Let us stop equivocating.
-
-
-### syllogism {#syllogism}
-2011/03
-
-\[____EDIT: I learned this is not a syllogism, just a regular old argument. Syllogisms have only three propositions. Sigh.\____]
-
-Here is my clearest articulation yet of the conjecture's chain of causation, in the form of a seven-line syllogism:
-
-Suffering comes from a catastrophic injury to the psyche;
-the psyche is a system of an organism;
-organisms are self-healing;
-healing requires vital energy;
-vital energy accumulates during rest;
-psychic rest is most profound in absolute darkness;
-therefore, darkness is the solution to inordinate suffering.
-
-\[____EDIT: See end of [hygiene____](#hygiene/)/psychology and [____basics____](#darkness-conjecture/basics/) for updated versions of this.\]
-
-
-
-
-
-### new page - register {#new-page-register}
-2011/04
-
-Now you can [____register____][(1] for your retreat online.
-
-   [(1]: /prepare/
-
-
-### limitless {#limitless}
-2011/05
-
-Just saw this movie. Awesome. It gives a good idea of the surge in creativity, clarity, synchronization, and motivation that sometimes occurs in darkness (without the side effects, of course). But just for the record, darkness will ultimately make NZT-48 look like potty training.
-
-
-
-### greece {#greece}
-2011/06
-
-I moved to Greece, partly as a result of my darkness retreat in March (more on that soon). My new friend and final client in Guatemala, Ajna of [____Yoga of Beauty____][(1] in San Marcos La Laguna, Solola, Guatemala, is taking over the darkroom. Contact her through her website. I will be building a business here in Greece to open more darkrooms around the world.
-
-Note: Ajna sold the darkroom to Arjuna. See his website, [____dark-retreats.com____](http://dark-retreats.com).
-
-   [(1]: http://www.yogaofbeauty.net
-
-
-### bodhisattva math {#bodhisattva-math}
-2011/06
-
-Let us say Bodhisattvas are both sincere and realistic in their vow that, after their own personal enlightenment (which will free them from the necessity of reincarnating on this planet) they will keep reincarnating here anyway in order to help liberate all sentient creatures.
-
-Let us further say that they, combined with those of equal realization and commitment in other traditions, manage to liberate a million people a year until the job is done. At that rate, it will still take them 7,000 years to finish. That's if population remains constant from now on.
-
-Keep in mind this is a 2,500 year old tradition. And that all spiritual traditions combined are not pulling off more than a hundred genuine liberations a year. Which, according to some wise men I once knew, is an extremely generous figure. How are we to make sense of the Bodhisattva's project? What are they counting on?
-
-Maybe they are banking on an exponential effect of their efforts. Maybe we are only a few years or generations away. The results come faster as time goes on and the task gets easier, because its enormity nonetheless is shrinking, while their collective power grows.
-
-Maybe they, like the Mayans, are merely holding out till a cosmic event completes the task in one fell swoop.
-
-So they're not worried. Maybe I should not worry so much, either. Many people have said as much, and lately, I have begun to notice what they're talking about.
-
-_And_, maybe it is time to review the effectiveness of the method of liberation. Or maybe we could just _eliminate the need for it_.
-
-### swedish darkroom news {#swedish-darkroom-news}
-2011/09
-
-Location secured for world's second hygienic darkness retreat: newly remodeled small cabin in quiet neighborhood of Swedish resort town. Modifications commence tomorrow; first retreat within two weeks.
-
-EDIT: the above attempt failed. Taking a bare cabin with only electricity and heat and trying to make even a simple bathroom, kitchenette, and ventilation proved overwhelming. No, the thing is to start with a fully functional building, darken it and start retreating, already. This will require taking the message to the people again.
-
-### conspiracy {#conspiracy}
-2011/11
-
-Here is something I wrote a friend about conspiracy theory following a conversation we had recently on the subject.
-
-~~~
-
-…I had a thought during our conversation about 9/11 that there wasn't time to voice, but which I think you would like to hear. So I am writing you with it.
-
-I think the reason that the idea of a conspiracy can be hard to entertain is that it seems to mean that the people involved are evil and consciously do evil things.
-
-This, of course, is nonsense, and people are correct to reject it. The nature of human consciousness is such that it is impossible to do what one considers evil. But it is a simple matter to do evil that one considers good.
-
-Any honest observer of history and current events can see that it is possible to justify anything (including the justification itself). For example, listen to professional political commentators of any persuasion. What is obviously evil to ordinary people can be seen as good and even obligatory by someone in power. Hitler and his helpers thought they were doing the right thing. Even on the stand in Jerusalem, Eichmann never really got what all the fuss was about. Some National Socialists (NAZIs) actually disliked the program, but they believed in it. It is only people's basic innocence combined with their great naivete that enables them fail to make this distinction.
-
-All this is aside from the fact that the ultrarich and powerful are psychologically damaged to a degree almost impossible to believe. I hesitated to mention the other night—and it is horrible to think about—but in many established families, children are subjected to ritual sexual abuse from a young age. If you imagine a boy who is sexually molested in group Satanic rituals from the time he is less than a year old, with the knowledge and even participation of his own parents, then maybe you can see that his view of right and wrong might be a little bit distorted by the time he is forty years old and running a bank, a corporation, or a country (or these days, all three).
-
-If so, then you can also see how it is possible that if the interests of enough organizations require, for example, the events of 9/11, then as surely as the sun will rise tomorrow morning, those events will take place. Obviously the people in power are deadly serious about making omelets, and it matters to them not one whit that you and I happen to be the eggs.
-
-That was the thought. As I write, it leads to a few similar ones.
-
-Exactly why any organization would require such events as 9/11 has a lot to do with the debt-based monopoly money system I tried to describe to you. Since money as we know it comes into existence as interest-bearing debt, the money available to pay back the debt is always less than the amount owed. So as some pay their debts, the economy must expand to provide others more money to pay the mounting debt. This is why there is never enough money and why we are destroying the earth.
-
-Imbalances in the system grow. People begin to borrow just to stay afloat. This inflates the money supply beyond the wealth that backs it and thus devalues cash holdings. Just to stay even, individuals and groups must always be climbing upward financially, stepping on others as they go. We know how desperate the situation is at our level. Imagine the wicked cut-throat tactics necessary to stay at the top of the game, where there truly is never enough.
-
-Poetically, the naive resistance to the idea of an inside job on 9/11 rests on the same benevolent metaphysics as conspiracism. To the conspiracist, the universe is a friendly, life-supportive place and people are basically peaceful and just. Therefore, the horrors we witness in our culture must be _engineered_. So to those we consider denialists, we conspiracists issue this challenge: prove how the material beneficiaries of 9/11 did _not_ perpetrate it.
-
-Lastly remains the simple fact that government has ever been a tool of the elite to control the (admittedly infantile) peasantry (including the managerial "professional" class). That government could one day benefit the peasantry is merely popular propaganda. Since the job of the state consists of subjugating us—since that is what we pay it to do and as quietly as it can—9/11 is precisely what was required of it at this critical juncture in history. So, again: prove that it failed to perform its function.
-
-With convention stood on its head like this, you can see the difficulty that conspiracists and denialists have in communicating. It is not just about the facts. It is about what a person considers humanly possible. Philosophically, it is a metaphysical difference. This is usually unbridgeable.
-
-Everyone experiences what I am talking about, but as part of a whole lifetime of conditioning in resignation (hospitals, TV, industrial food, school, the legal system) and at a low level where the causes are invisible. This is especially true due to the common preoccupation with survival. Few have the time, stomach, or resources to even consider events in these lights, let alone understand or do anything about them. We issue bitter little complaints as we accept it incrementally.
-
-And then there is the successful propaganda campaign about our masters' being too stupid and incompetent to pull off something like 9/11. It is an impressive conceit that we are smarter and more capable than people who coordinate transnational corporations, global wars, and mass media. Those who deny conspiracy have underwhelmed me with their snide ignorance of basic facts of the case. In my few brushes with the ruling class, even average members impressed me as sophisticated and whipsmart. Now they have accomplished the additional feat of convincing most of us they are otherwise.
-
-For the benefit of both us and our tortured masters, I hope that my [____work____][(1] can help bring an end to the madness I describe. Like most people, I believe that each of us, underneath the exhaustion, resignation, and damage, is still innocent at the core. I cannot believe that anyone really likes or is satisfied with what is happening. Surely we can find another way to be here together. But surely we cannot find it without first seeing things as they are, both in our souls and in our society.
-
-Well, it was nice seeing you, again. Thanks for dinner.
-
-Best regards,
-Andrew
-
-   [(1]: /darkness-conjecture/project/
-
-
-### facebook page up {#facebook-page-up}
-2011/11
-
-I made a facebook page called [____Darkness Conjecture____][(1]. There you can read about the latest goings on, including current public talks in southern Sweden.
-
-   [(1]: http://www.facebook.com/pages/Darkness-Conjecture/282926488408253
-
-
-### illuminati it may concern {#illuminati-it-may-concern}
-2011/11
-
-Dear Illuminati,
-
-My understanding is that there are two factions of your organization: both people who try to use their power and wealth to free humanity, and those who use it to enslave us.
-
-To both groups within your vast network, I wish to say that I understand and accept that you are each sincerely trying to handle our collective mess the best way you know how. For a long time, I thought that you were my enemy, and hatred and sadness about your activities consumed me. But now, as a result of my long search for understanding, I am extending both forgiveness and the offer of a way to handle our situation differently.
-
-Since this subject is your main interest, please read my [____darkness conjecture____][(1]. Then write me if you would like to help make this deep way of healing possible for yourselves. I could use your help, you could probably use a break, and working together would be a nice change from our previous isolation.
-
-I have tried to see a way through our conflict that makes a place for **everyone** at the end, especially those of you that many in my position would wish to exclude (if not summarily execute). In my opinion, you are hurt by all this worst of all, and I believe the way I have found would serve you in an acceptable manner. I really believe there is place for all of us, even you.
-
-Welcome.
-
-Sincerely,  
-Andrew Durham
-
-   [(1]: /darkness-conjecture/conjecture/
-
-
-### breakdown {#breakdown}
-2011/12
-
-Something important started to change for me last week. I have been hiding my own need for darkness by trying to make it happen for others. I wrote these posts about it on my facebook page this week:
-
-**Thursday:** Dear Family and Friends: I am very sick. For the first time, I feel that I am slipping, that I might not make it. Please help me realize the solution I found. Not because it could be a solution for you, too. But simply because you care about me. This is what I have been trying to say for three years. –Andrew.
-
-**Friday:** \[____In response to 20 people:\____] I am relieved to hear from each one of you. I also got supportive emails.
-
-What I need is help in arranging and paying for a long darkness retreat. It needs an empty, functional house and people to bring food and say hello to me each day. And I need to not return to the US, where I feel very unsafe, to do it. There are places to rent here and new friends who could help.
-
-The thing is, my 25 years of studying the absolute depths of both my condition and the world's made me good at solving extremely complex problems, but not good at making money or simple arrangements like this. I cannot overstate how much shame and embarrassment I have felt about this. But I can state the truth about it.
-
-Please do not let my articulateness fool you into thinking that I am ok. No matter what, it seems, I am able to talk.
-
-**Sunday:** Thanks to everyone who wrote. My immediate problem is solved. Nearly undetectable poor air quality where I have been staying wore me down over the last month. I am making arrangements to move into a proper apartment tonight.
-
-The wider issue of why I ended up in that situation in the first place is also getting addressed by rekindled support for the darkroom and other unforeseen means.
-
-**Wednesday:** \[____in response to a local friend:\____] I'm basically okay now. Still edgy, but not as bad as yesterday. It was nice to be able to walk with you the other day. I had been slowly suffocating, and then I suddenly crashed. It felt like I'd been run over by a train.
-
-**Thursday** (today): By the way, I never identified my sickness here.
-
-Essentially, I view it as functional psychosis manifesting as a rigid dependence on my mind. This has numerous ill effects on my life, some of which some of you know all too well. For example, unconsciously setting myself up for periodic breakdowns like the one this weekend.
-
-At 16, I had only a vague sense of my sickness. But it was strong, and it motivated my long search for the root cause of rapture: sanity. My discovery of darkness as an irreplaceable condition of psychological health ensued. This is why I have confidence only in darkness retreats as a means of healing from my sickness and why my wish to do one has finally found its way to the top of my priorities.
-
-
-### typable e-paper breakthrough {#typable-e-paper-breakthrough}
-2012/01
-
-At my request, xda developer, verygreen, with support from ros87, has done in 24 hours for $10 and a $109 donated device what tens of companies could/would not do in four years with all their resources (like the $500,000 one company told me it would cost).
-
-Watch him type on the Nook Simple Touch on youtube:
-[____Nook Simple Touch usb host support____](http://www.youtube.com/watch?v=qU3RpK4LEuk)
-
-EDIT: for outline of installation instructions, see:[____Installation Wiki____](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode)
-These are at noob-hacker level.
-
-There are still some bugs, and the instructions are over my head at this point \[____EDIT: not anymore--see wiki link above\____]. But the basics are there now for people who know how to use them. Once the bugs are worked out, I plan to simplify the instructions for everyone's use. Maybe even offer microSD cards with everything pre-installed. \[____EDIT: this plan is off my agenda for the time being.\____]
-
-Here we go.
-
-
-### money without debt {#money-without-debt}
-2012/02
-
-Hey, I just came across this excellent web-based credit clearing system:
-[____Community Exchange System____][(1] \[____EDIT: I no longer dig this system. It's popular but messy.\____] CES* is international, free, simple, compatible with paper systems, thorough, and cool.  It's just about what the godfather of new money, Thomas Greco, calls for in [_____The End of Money and the Future of Civilization_, chapter 17____][(2].
-
-Other worthy systems I've come across in the last couple days:
-
-- [____payswarm.com____][(3] web technology-based, multiple-scenario payment system. Big vision.
-- [____ opentransact.org____][(4] similar goals as payswarm, different architecture
-- [____picomoney.com____][(5] clever, based on opentransact
-- [____cyclos.org____][(6] open source software to run your own bank, complete with free hosting; soul boggling!
-- [____villages.cc____][(7]**is the best implementation of 
-- [____ripplepay.com____][(8], a compelling solution to LETS accountability concerns.
-- [____e-flux.com/timebank____][(9] hip and simple
-- friendly [____favors.org____][____10____] 2nd largest after CES, social, clever, but aging and a bit complicated
-- [____johnturmel.com/uniset.htm____][____11____] very simple, start alone now. Improved by showing account as a ledger using a [____web-based spreadsheet____][____12____]
-- [____JEU/GAME____][____13____] paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.
-
-CES is (NOT*) the most accessible, practical, and mature, though some of these systems, especially payswarm, have much greater potential. Open source money has finally gotten legs, wings… and teeth.
-
-*EDIT: I gave up on CES because of issues with its design and management. So I am exploring two other systems now: [____Community Forge____][____14____], based on Drupal Community Accounting/mutual credit module, and [____Villages____][(7]. It's Ripple base is better, but CF is much more developed. The insides of it look great so far.  Open source, delegated authority and responsibility. Kind of a weak social network, but it is there.
-
-Greco says a proper system needs:
-
-  1. a marketplace
-  2. a social network
-  3. a means of payment
-  4. a measure of value or pricing unit
-
-Both have all four criteria. So it's a toss up for me. I hope Villages works out.
-
-- [____complementaire-economie.startpagina.nl____][____15____] huge list of currencies, systems, and software, some defunct
-- [____ Open Transactions____][____16____] open source digital cash, transmittable through tons of media, needing no third-party record keeper.
-
-Two cool sites about money ideas:
-
-- [____MetaCurrency____][____17____]
-- [____Webisteme____][____18____] inventor of [____#PunkMoney____][____19____], a twitter-based currency. fricking brilliant.
-
-   [(1]: http://www.ces.org.za/
-   [(2]: http://beyondmoney.net/excerpts/chapter-17-complete-web-based-trading-platform/
-   [(3]: http://payswarm.com/
-   [(4]: http://opentransact.org
-   [(5]: http://picomoney.com/
-   [(6]: http://cyclos.org/
-   [(7]: http://villages.cc
-   [(8]: http://ripplepay.com/
-   [(9]: http://e-flux.com/timebank
-   [____10____]: http://favors.org/
-   [____11____]: http://johnturmel.com/uniset.htm
-   [____12____]: http://bit.ly/uletsad
-   [____13____]: http://www.personocratia.com/en/documents/game-full-document.pdf
-   [____14____]: http://communityforge.net
-   [____15____]: http://complementaire-economie.startpagina.nl/
-   [____16____]: https://github.com/FellowTraveler/Open-Transactions/wiki
-   [____17____]: http://metacurrency.org
-   [____18____]: http://webisteme.com
-   [____19____]: http://www.punkmoney.org
-
-
-### dominant assurance with a twist {#dominant-assurance-with-a-twist}
-2012/02
-
-I came up with a twist on [____Dominant Assurance Contracts____][(1]. Which is economist [____Alex Tabarrok____][(2]‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [____Kickstarter____][(3]. In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
-
-My idea takes off from there.
-
-~~~
-
-Dear Mr Tabarrok,
-
-Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.
-
-I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:
-
-- help fund the bonus pot
-- adjust their positions throughout the game.
-
-Here are the rules:
-
-1. The proposer:
-    - sets the monetary goal and deadline
-    - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
-    - sets the maximum bonus rate between 0% and infinity in case of failure
-    - sets the maximum profit rate in case of success
-    - and can increase both these rates until the campaign's deadline
-2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
-3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
-4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
-5. Supporters can make multiple contributions with different bonus rates.
-
-Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [____webisteme____][(4]‘s [____#PunkMoney____][(5], participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
-
-Examples
-
-- Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
-    - A second such supporter of $99 would take away 99% of the pot.
-    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
-- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
-- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
-
-What do you think?
-
-The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.
-
-Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It's relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,
-
-Cheers,
-Andrew Durham
-
-~~~
-
-EDIT: I removed this sentence from the third to last paragraph: "And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?" I decided on "Cooperative". If you think of a better name, please let me know.
-
-EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.
-
-EDIT: added bit about [____#PunkMoney____][(5]
-
-   [(1]: http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html
-   [(2]: http://mason.gmu.edu/~atabarro/
-   [(3]: http://www.kickstarter.com
-   [(4]: http://webisteme.com
-   [(5]: http://punkmoney.org
-
-
-### tech communication {#tech-communication}
-2012/02
-
-Very off-topic note about how I have come to think of long periods of silence and repeated non-responses in text communication with computer technicians. When it happens I assume one of the following:
-
-  * the issue:
-    * was addressed before
-    * is so basic I should already know about it
-    * is easy enough in their minds for me to work out on my own
-  * they don't know
-  * they would like to but can't
-  * they aren't interested
-  * the answer is no
-
-As long as my message contained no interesting requests or instructions, why would they respond? It's like a logic circuit. Or, at least, my idea of one.
-
-I have read forums. There is simply too much data to respond to. One must not suffer fools or welcome the cloying "friendship" of a zillion strangers.
-
-It took me awhile, but I'd like to think I get it. Here's to the techs. I'm on your side. Thank you for making computers happen.
-
-### poetry of rapture {#poetry-of-rapture}
-2012/03
-
-Here is a poem I read at age 17. It prefaces one of my favorite books, _Magical Child Matures_ by Joseph Chilton Pearce. It took all this time to start seeing the meaning. If ever there were a poem of rapture, this is it.
-
-~~~
-
-#### If I Could Only Live at the Pitch That is Near Madness {#If-I-Could-Only-Live-at-the-Pitch-That-is-Near-Madness}
-
-Richard Eberhart
-
-If I could only live at the pitch that is near madness  
-When everything is as it was in my childhood  
-Violent, vivid, and of infinite possibility:  
-That the sun and the moon broke over my head.
-
-Then I cast time out of the trees and fields.  
-Then I stood immaculate in the Ego;  
-Then I eyed the world with all delight,  
-Reality was the perfection of my sight.
-
-And time has big handles on the hands,  
-Fields and trees a way of being themselves.  
-I saw battalions of the race of mankind  
-Standing solid, demanding a moral answer.
-
-I gave the moral answer and I died  
-And into a realm of complexity came  
-Where nothing is possible but necessity  
-And the truth wailing there like a red babe.
-
-
-### gift economy basics {#gift-economy-basics}
-2012/04
-
-Here's a letter I just wrote an associate about the gift economy.
-~~~
-
-Dear…,
-
-I have news about the gift economy that could blow your mind. It has blown mine, anyway. I'm hoping you've heard of David Graeber by now, the author of _Debt: The First 5000 Years_. If not, it is an amazing anthropological study of money. I haven't read it, just the basics online.
-
-Here's the gist: the gift economy is **not** made up of people just giving things to each other without expectation of return. This is a completely mistaken notion spread by a few lucky people who somehow pull that nonsense off (or pretend to). The gift economy is simply letting people you know and trust have things of yours when they need them, with the mutual understanding that when you call on them, they'll do the same. You say, "You like it? Take it!" and understand, "You owe me one."
-
-It is because this understanding among traditional people is unstated, deeply engrained, even _obscene_ to verbalize that modern civilized observers didn't notice it and assumed theirs was the same as our system of unconditional gifts. Which, you'll notice, often has a strange charge of propriety around it, a stale remnant of our past decency.
-
-So the gift economy consists of an endless series of:
-
-  1. delayed exchanges of
-  2. unequal values
-  3. according to customs of evolving complexity.
-
-Some cultures actively discouraged equal exchanges to help people stay on good terms with each other. (Thanks to [____Eli Gothill____](http://twitter.com/webisteme), aka [____webisteme____](http://webisteme.org), creator of [____#PunkMoney____](https://punkmoney.org) for points 2 & 3.)
-
-Graeber also exposes the barter system as a myth. There are no examples of it among established people. Spot trades of equal values are only found between:
-
-  1. strangers
-  2. people who have temporarily lost their currency system (and haven't developed a gift economy yet due to conditioning)
-
-Graeber's more general discovery about money is that before there was gold or clams or whatever people are said to have used as money, people had mutual credit systems. For example, tally sticks. Money was a *unit of account*, not a commodity-based *medium of exchange*. These credit systems were just formalizations of the old gift economies. Commodity-based money like gold or wheat came much later. And it came by force, too, like our current central bank-issued monopoly monies.
-
-I think what the mutual credit systems I have found are really good for is reorienting people to this way of seeing a local economy while maintaining the familiarity of accounting and limited debt exposure. Once a basic reorientation occurs, the system can become informal. In other words, not written down with arithmetic.
-
-When I was learning a new diet that had me counting calories (to make sure I got *enough* of the right kinds), I got into it for a couple weeks, then I just knew. It was like a skill. Once acquired, there was no need to keep exact record anymore.
-
-Here is the interview that finally got it through to me:
-[____An Interview with Economic Anthropologist David Graeber____](http://www.nakedcapitalism.com/2011/08/what-is-debt-%E2%80%93-an-interview-with-economic-anthropologist-david-graeber.html)
-
-I'm telling you because you and I have both struggled with money and with the gifting idea for a long time, and we ought to have a solution to it finally. I think we were basically right. We have been broke because we didn't really want to have anything to do with regular money. It's got blood all over it. It's a tool of enslavement. To hell with it. Better to eat out of dumpsters.
-
-But in 24/7 unconditional gifting, we were offered a false alternative. Historically, it is bizarre. It is a purely civilized invention. We wage-slaves evolved it to get a break from the cold, even exchanges we have to make most of the time. The real gift economies kept people obliged to each other, preserving relationships and work—peace and prosperity at a reasonable level.
-
-Like I said, the exemplars of the unconditional gifting lifestyle whom we have met are just lucky. It's not learnable. It's unnatural and unnecessary. It's a sham.
-
-Hope this helps.
-
-Best regards…
-
-
-### new stuff {#new-stuff}
-2012/04
-
-A handful of new and changed things have appeared in the last months without announcement:
-
-  * Three new retreat reports under "four darkness retreats"
-  * Updates to "make darkness" and "retreat manual" based on my latest findings
-  * Categories for both posts and pages
-
-More to come.
-
-### brainsdamaged {#brainsdamaged}
-2012/04
-
-Psychology is the study of the psyche, not just the mind. Thus mainstream psychology will continue failing to seriously help people as long as it considers health and illness "mental" rather than "psychic" in nature. The psyche---consciousness---is not just mental, but emotional and physical as well. Feeling and movement are not mere products of the intellect, but their own forms of intelligence.
-
-Various spiritual traditions have posited this for ages. Gurdjieff, a Sufi, said, "Man is a three-brained being." He called these brains, "centers of intelligence." In addition to the thinking center of intelligence, there are the feeling and moving centers of intelligence. Some psychological schools recognize this triune intelligence as well.
-
-A very useful and easy to learn typology* is based on the three ways that psychically traumatized people unconsciously armor themselves. Some people live into their heads. Others retreat deep in their hearts. Others go with their guts. It's right here in our language!
-
-Robotic intellectuals. Sensitive, helpless artists. Dumb athletes/fighters/laborers. We are entertained by the limitations of each stereotype. Nonetheless, all are able to do amazing things with their minds, hearts, and bodies respectively. All excel differently with different forms of intelligence.
-
-Large amounts of neural tissue have been found in the [____heart____](http://wiki.answers.com/Q/Can_you_find_nervous_tissue_in_the_heart) and the [____alimentary canal____](http://www.scientificamerican.com/article/gut-second-brain/). There is a physical basis for intuition and hunches.
-
-Psychic trauma and illness must be seen not just in the mind, to be worked out in only an intellectual way. We must also find the illness in the heart and gut and the rest of the being these are only centers for. Trauma must be worked out in a whole way, by organic processes also involving feeling and movement, conditions and time. We have more than one brain, and they are damaged. We are brainsdamaged.
-
-&nbsp;
-
-*Da Free John (Adi Da Samraj) explains this typology in detail in _The Eating Gorilla Comes in Peace_. Gurdjieff makes many observations about tendencies of the three different types in Ouspensky's _In Search of the Miraculous_.
-
-
-### koloni {#koloni}
-2012/04
-
-The koloni is my great discovery about Sweden this year. There is nothing like it in the States, really. That you can legally live somewhere that costs as little as one month's salary to OWN is beyond belief. It can be had for as little as 9000:KR
-(See [____blocket.se____][(1]. Here is a [____recent one____][(2]. The whole rent thing is such a ridiculous drag.
-
-It is maybe the greatest thing I have heard of in an industrialized country in my whole life. While kolonis are often near loud roads, trains, and electrical stations, there are nice places, too. It's actually how people should live: in small houses surrounded by gardens, other people who are basically there to relax, no cars, minimal fencing, compost toilets, little or no electricity.
-
-Of course, as a way of life, it is a big secret, because Swedes seem conditioned to see kolonis as vacation/summer/second homes, not primary residences. Some places are fairly closed down in the winter, and some places are not legal to live in in the winter due to insufficient insulation. But there are others where no one cares if people stay all the time. Houses can be properly insulated. Rainwater can be harvested. Power can be had from the sun and wind. Composting toilets are practically free to build.
-
-Again, I can't believe this is right under peoples' noses, and the government allows it. You pay 500-1500 yearly fees for basic services, keep your garden nice, your noise level down, and you're in. One could grow a tall hedge over time, I think, for pleasant privacy. It is instant freedom from the slavery of school/work/rent/distraction.
-
-There are deals like this everywhere in the third world, of course. But, boy. What a miracle to find it in the first. It makes me think of developing a whole koloni with curved paths, round stugas, permaculture, etc. It would be a real village over time, with its own economy, etc.
-
-Hmm. Except when the children are 6, they are all confiscated by the state for brainwashing and family destruction. Bummer.
-
-   [(1]: http://blocket.se
-   [(2]: http://www.blocket.se/eslov/Kolonilott_med_hus_pa_Prastkragen_39503878.htm?ca=11&w=123
-
-
-### tao versus moralism {#tao-versus-moralism}
-2012/05
-
-#### tao te ching {#tao-te-ching}, chapter 38
-
-The Master doesn't try to be powerful;  
-thus he is truly powerful.  
-The ordinary man keeps reaching for power;  
-thus he never has enough.
-
-The Master does nothing,  
-yet he leaves nothing undone.  
-The ordinary man is always doing things,  
-yet many more are left to be done.
-
-The kind man does something,  
-yet something remains undone.  
-The just man does something,  
-and leaves many things to be done.  
-The moral man does something,  
-and when no one responds  
-he rolls up his sleeves and uses force.
-
-_When the Tao is lost, there is goodness._  
-_When goodness is lost, there is morality._  
-_When morality is lost, there is ritual._  
-Ritual is the husk of true faith,  
-the beginning of chaos.
-
-Therefore the Master concerns himself  
-with the depths and not the surface,  
-with the fruit and not the flower.  
-He has no will of his own.  
-He dwells in reality,  
-and lets all illusions go.
-
-\[_____emphasis added_\____]
-
-
-### genius and the stupidity problem {#genius-and-the-stupidity-problem}
-2012/07
-
-One of my purposes with a solution to inordinate suffering is to solve "The Stupidity Problem". Stupidity results from psychic malfunction due to major psychic trauma. Healing from this will automatically restore natural human genius. Everyone has genius. It is yet another casualty of the stupidity-inducing process of becoming civilized through routine brutality and casual violence. But I have occasionally glimpsed genius in myself and others. It is yet another of the gems to be recovered upon recovering full health, full sanity, full consciousness.
-
-I am going to be a genius again. I am clearing the way for billions of people be geniuses again. We are going to live forever do the same for the people of a billion other planets suffering the same psychotic stupidity as we do here. We will extinguish this age of darkness... with darkness.
-
-“Everyone is born a genius, but the process of living de-geniuses them.”  
- --Richard Buckminster Fuller
-
-
-### john zerzan {#john-zerzan}
-2012/07
-
-John Zerzan was my neighbor in Eugene, Oregon. I got to know him through a long-lost friend who happened to help edit _Green Anarchy Magazine _with John. It was a great honor to meet him. John even critiqued one of my earlier writings, [____Sociality Undenied____][(1]. But until now, I had not absorbed his basic ideas from books, only gotten a shallow grasp of his thesis from his articles and conversation.
-
-_[____Running on Emptiness: The Pathology of Civilization_____][(2] is the most intellectually exciting thing I have read in a long time. I knew that suffering, technology, hierarchy were the inventions of civilization. But I did not know time, language, art, and culture itself were, too.
-
-This goes beyond Daniel Quinn's critique of civilization. Quinn's and Zerzan's prescriptions overlap in some ways, differ in others.
-
-Also I find it amazing to read a 60 year-old's crying out against the inhumanity of our society with such vehemence as John's. It's such a relief from feeling alone in my own protestations. Highly recommended.
-
-   [(1]: /other-writings/sociality-undenied/ (Sociality Undenied)
-   [(2]: http://theanarchistlibrary.org/library/john-zerzan-running-on-emptiness-the-failure-of-symbolic-thought
-
-
-### new retreat center in works {#new-retreat-center-in-works}
-2012/10
-
-My new business partner and I are building a new darkroom in Central Sweden. Will be open to the public when it is ready. Lots of cool things in the works. More news when we have it!
-
-### guatemalan darkroom under new ownership {#guatemalan-darkroom-under-new-ownership}
-2012/10
-
-Arjuna Thilo has taken over the darkroom I built in Guatemala. Ajna, the woman I sold it to, passed it on to him a few months ago. I never met Arjuna in person, but our communication has been good and he has built a serious website in support of the darkroom. Check it out!
-
-[____Dark-Retreats.com____][(1]
-
-   [(1]: http://dark-retreats.com
-
-
-### post-retreat protocol {#post-retreat-protocol}
-2012/12
-
-I've learned something really important this year about retreats, which is that for every 2-3 days spent inside, one day of identical conditions (except for being in light during the daytime) is necessary afterward to readjust to light and regular consciousness and to absorb the value of the retreat.
-
-This takes a serious plan. The natural impulse is to blow off all the energy gained in the retreat. This can cause as much harm as the retreat did you good. The organism simply needs time to adjust. The parallel with an old saying about fasting is exact: "Any fool can fast. It takes a wise person to break a fast properly."
-
-So if you are going to do a six-day retreat, then schedule two more days at the darkroom so you can continue resting in darkness while spending more and more time in daylight. If it is too late or too expensive to schedule this time at the darkroom, then arrange a private, quiet place to go directly afterward where distractions and stimulation can be minimized. Maintain the same diet of fruits and green leaf vegies. No electronics, no visitors or media.
-
-Time in darkness greatly enriches one's inner life. Relishing it when it is so ripe is one of the points of setting this time aside. After this transition period, move as slowly back into your regular life as possible. Avoid annoyance. Take care to sleep. Take care of yourself.
-
-
-### swedish darkroom nearly ready {#swedish-darkroom-nearly-ready}
-2012/12
-
-The darkroom we have been building in Skattungbyn, Sweden is nearly ready. We are putting the finishing touches on the nifty [____fiwihex____][(1] ventilation system today and will test it before the weekend is out. We will test and refine it with local supporters in January and open it to the public in February. You can see a calendar for it on the [____register____][(2] page.
-
-   [(1]: http://viking-house.ie/fine-wire-hrv.html
-   [(2]: /prepare/
-
-
-### human exceptionalism {#human-exceptionalism}
-2013/02
-
-This meme is the essence of the Dilemma. It is the idea to be exposed, invalidated, replaced, buried.
-
-### darkness talk 2011 {#darkness-talk-2011}
-2013/03
-
-[____Using Darkness to Heal from Civilized Psychosis____][(1], talk I gave in 2011 in Helsingborg. I liked how it went.
-
-   [(1]: http://www.youtube.com/watch?v=P8dMuf4KtUM
-
-
-### books {#books}
-2013/04
-
-I am working on a book now. It will contain all the articles about darkness here, all my retreat reports, and several blog posts that elaborate on theory and history of the conjecture. Once the book is published, I will start giving more talks.
-
-### first client {#first-client}
-2013/04
-
-Our first client had a good retreat last week and our second client will exit the darkroom tomorrow. Sign up for your retreat now on the [____register____][(1] page.
-
-   [(1]: /prepare/
-
-
-### laws of life {#laws-of-life}
-2013/04
-
-Check out Herbert Shelton's cogent discussion of the [____Laws of Life____][(1] as formulated in Natural Hygiene.
-
-   [(1]: http://www.naturalhygienesociety.org/members/general/e/files/lawsoflife.pdf
-
-
-### the darkness hypothesis {#the-darkness-hypothesis}
-2013/04
-
-For four years, I have been trying to do a 14-day retreat. I thought short retreats were of little value, that a long retreat was the only action that mattered. But a room good for 14-day retreats is harder to set up than one for 4- or 8-day retreats. In my dysfunction, it was too big a leap for me, like trying to jump across a wide river. In my [____last retreat____](http://andrewdurham.com/2x2), I discovered my first stepping stone.
-
-With this retreat, the conjecture has become a hypothesis for me. The principal obstacle to human function and happiness is obviously psychic trauma, and dark retreating really works in healing from it. I'm not out of the woods yet, but this is definitely a clearing.
-
-This book closes the first phase of practical effort that began four years ago Christmas morning. Once it is published, I will tour with it to generate more interest in dark retreating as well as more income and stability for myself. Then a longer retreat will become possible.
-
-For the second phase, we will make a documentary about my investigation, focusing on my discovery of darkness. It will climax with the 14-day retreat and show the aftermath.
-
-In its theme of reckless uncompromise, it will echo the story of another extreme seeker, Christopher McCandless (of _Into the Wild_). He also wanted to find a way to break out of our sick conditioning and live a real human life. I want to show what becomes of such a person who lives to share his findings.
-
-
-### static site generator {#static-site-generator}
-2013/05
-
-Soon I will migrate this site to a new content management system based on a static site generator. Generators are clients (like [____jekyll____][(1]), hosted, or self-hosted (like [____blosxom____][(2] and [____stacey____][(3]). I'm most interested in hosted generators that use [____dropbox____][(4] and [____github____][(5] and usually [____markdown____][(6]. Here are the ones I have found so far:
-
-calepin.com (closed)
-[____droppages.com____][(7]
-[____scriptogr.am____][(8]
-[____site44.com____][(9]
-[____paperplane.io____][____10____]
-[____telegr.am____][____11____]
-[____markbox.io____][____12____]
-[____dropplets.com____][____13____]
-[____kissr.com____][____14____]
-
-I'll add to this list as I find more.
-
-   [(1]: http://jekyllrb.com
-   [(2]: http://blosxom.sourceforge.net
-   [(3]: http://staceyapp.com
-   [(4]: http://dropbox.com
-   [(5]: http://github.com
-   [(6]: http://daringfireball.net/projects/markdown
-   [(7]: http://droppages.com
-   [(8]: http://scriptogr.am
-   [(9]: http://site44.com
-   [____10____]: http://paperplane.io
-   [____11____]: http://telegr.am
-   [____12____]: http://markbox.io
-   [____13____]: http://dropplets.com
-   [____14____]: http://kissr.com
-
-
-### retreat reports moved {#retreat-reports-moved}
-2013/05
-
-All my retreat reports are now blog posts, arranged chronologically in their own category, report.
-
-EDIT: this has changed again. [____Reports____](#reports/) are now a main menu item.
-
-
-### how not to retreat {#how-not-to-retreat}
-2013/05
-
-Retreating for less than 56 hours seems to be a really bad idea. \[____EDIT: glad to be wrong about this____! See UPDATE below\]
-
-Three times in the last half-year, I have done mini dark retreats: once for 36 hours, twice for 16 hours. It just meant going to bed as usual then sleeping *way* in: waking up and going back to sleep several times, maybe all day and another night.
-
-Rather than being lifted over a chasm, enabling further forward motion (as in 56 hours of darkness), a mini-retreat is like being lifted out of the dumps to a great height (nice), then dropped (not nice). I did not do this on purpose. It just happened in moments of crisis and extreme exhaustion. I needed rest but I was unprepared for a proper retreat. Unfortunately, this almost killed me.
-
-A mini-retreat does not give enough time for the organism to adjust to being so re-energized, deal with underlying issues, or reset ones internal clock. Its like darkness turned into a drug.
-
-At first it seemed promising. I went in super depressed and came out feeling like superman. So energized, I would lose track of time more easily than usual, stay up all night, go to bed feeling like crap and wake up feeling like supercrap. My poor sleeping habits were not neutralized in 16 hours, as in a regular retreat. They were accentuated. This excited my suicidal tendencies. I would not be surprised if people with good sleeping habits got thrown off them by this surge of energy.
-
-For me, the point of a retreat is that it requires virtually no effort, and at the end, some things are made right in a permanent way, or at least fade out slowly. To do a retreat in a way that requires extra discipline afterward is stupid.
-
-The only way it might work is if a person can go to bed on time despite having so recently awakened and with so much energy. But I still suspect something bad could happen. Ego-inflation at least. Like when people fast for psychological or spiritual reasons.
-
-Myself, I have enough difficulty getting to bed without the promise of disaster if I dont. Normally, if I stay up late, I just get more exhaustion. Staying up after a mini-retreat led to serious vital and emotional crashes all three times I did it.
-
-The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldnt figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
-
-My shocking break-up in the fall from a girlfriend, set me up for all this. But the two mini-retreats I did afterward crystallized this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
-
-I was thinking of offering this kind of retreat as an introduction to darkness. It proved a _failure point test_: finessing a design to the point of collapse to find its absolute minimum requirements. A mini-retreat simply does not meet them.
-
-**UPDATE:** I found a way to do a mini-retreat safely. The above dire description should just be taken as a warning against starting and ending a mini-retreat _late_. Starting and ending early is the key.
-
-Go to bed in total darkness early: by 20:00 at the absolute latest. You might sleep the whole night if you are really tired. But if you wake up in the middle of the night as I usually do, don't turn the light on. As in a longer retreat, you can hang out, meditate, exercise, eat a bit of fruit, or take a shower. But stay in darkness. Return to bed after an hour or two and sleep. In the morning, uncover the windows by 10:00 (set an alarm) and have a regular day.
-
-A mini-retreat is not as impressive as regular ones. But it is safe, it feels really good, and it accustoms one to total darkness without disrupting one's schedule.
-
-It is actually just a slight modification of a normal night's rest, in which one goes to bed early, wakes up in the wee hours for a bit, then sleeps again. That was common until artificial light came a hundred years ago. We haven't adapted to sleeping the night through. We have just accommodated with chronic exhaustion.
-
-
-
-### revisions {#revisions}, book
-2013/08
-
-I am working with professional writers to edit the darkness conjecture in preparation for publishing a proper book based on it. Several of the articles have changed significantly. Rapture and hygiene are extended. The retreat manual is now divided into design and protocol, and make was divided into format and design. All of these are better organized. More changes to come. These will include a re-organization of the articles into sections and a migration away from WordPress.
-
-### peep {#peep}
-published: true
-2015/03
-
-I haven't made a peep here in almost two years. But not for lack of activity on my part. I released a new version of my book in early 2014. I discovered a flaw in my vent and started working on it, never dreaming it would take this long to fix, going through two versions and 20 iterations. I built several private darkrooms in the process and just released a new edition of my book that reflects some of my new designs and thinking about retreating. The main change, small but important, is reflected in the format chapter, summarized in the first paragraphs there.
-
-
-### 2016 overhaul {#2016-overhaul}
-published: true
-2016/05
-
-After two years of work, the new edition of my book, _darkroom retreat: deep rest for the self-healing psyche_, is finally done, fancy computer drawings, theoretical breakthroughs, and all. Get it now at [____leanpub____](https://leanpub.com/darkroomretreat) for free or pay what you like. Or just read it [____here as webpages____](/). Leanpub keeps your name and contact info private, even from me, while enabling me to automatically send you free updates to the book.
-
-This edition started when Simen Kirkerød, a friend and supporter in Norway, sent me a shocking message that the lightproof vent I'd just made for him leaked light like crazy. It turned out he was right, and that my design was rather stupid. I was appalled. The simple hand-drawings in my book were possibly misleading billions of people all over the world trying to darken their rooms! The situation would not stand.
-
-I had added the drawings to my book almost as an afterthought. I sketched them in an hour or two, and it seemed so simple that idyllic night in Karlstad, Sweden. Dozens of prototypes and a year later, I actually came up with a functional vent that is as small as possible while being relatively easy to make.
-
-About the same time, I got new ideas for other components. I learned to draw everything on a computer and things got out of hand. Now you can see all 19(!) drawings and several photos in the [____make____](#make/) chapter.
-
-I also made a couple theoretical breakthroughs regarding hygiene:
-
-- formulation of the Law of Vital Capacity, which explains the beneficial mechanism lurking behind self-sabotage (and virtually everything else in life that goes sideways). See [____hygiene____](#hygiene/)/capacity
-- darkroom retreating's greater importance than fasting. This includes how darkroom retreating will make long, self-managed (unsupervised) fasts possible for the masses. This fulfills hygiene's radical promise of perfect health for the people and, along with my previous discovery of trauma at the heart of all disease, helps prepare hygiene to finally overcome medicine's strangehold on healthcare. See [____hygiene____](#hygiene/)/psychology.
-
-So much happened in the last two years, it will be difficult to catch up. But in the coming weeks and months, I will renew my [____blog____](#blog) and share some of my thoughts from this period. Some of them I already posted on facebook (where I tend to restrain myself more than I like sometimes). Many of them are still text files on my computer.
-
-Many thanks (again!) to Daniel Reed and Heidi Sheryl Ewen in Sweden; Ketil Berg, Terje Tjensvoll, Bård Anders Lien, Benjamin Astrit Wold, Erlend Hårstad, Curare Austad, Magnus Vanebo, Bertrand Besigye in Norway; and Ségolène Lefébure, Marie Richter, and Virginie Bournaud in Paris for indispensable help since 2014 in completing this task. Special thanks to Sasha Day for heroic help with relevant personal matters, Nancy Gayle for cheerleading, and Mercedes Amapola Vlachou and Marion Abbott for recent enthusiastic help in preparing the text. Please forgive me if I left your name out of this list.
-
-Everyone, please let me know what you think of this new edition and what you need. Cheers!
-
-### new title {#new-title}
-published: true
-2017/09
-
-I changed the name of the site and book. As darkroom retreating is growing a lot, I find it increasingly necessary to differentiate the hygienic from the usual spiritual, therapeutic, and psychedelic approaches. "Deep rest" unfortunately sounds like depressed, and other hygienists use the phrase, "profound rest", so I changed that, too. The essence of the book remains the same, or more so. I have new sections planned and will write them as soon as I am capable. Cheers.
-
-
-### 2017 september update {#2017-september-update}
-published: true
-2017/09
-
-In 2016 June, I gave up on overwork as the means to arrange the conditions of profound rest for myself. With the help of Marion Abbott, a great new friend and fellow darkness seeker, I made a successful crowdfunding campaign to raise the money I needed to finally retreat for 20 days. 
-
-For the first days, I was euphoric. Finally, the way was cleared for me to retreat. Or so I thought.
-
-In four months, with $2800, I only arranged a rushed 5-day retreat. My incapacity was heartbreaking and unbelievably strange. The ability I had counted on to accomplish the retreat vanished upon acquiring the means to do so. The incapacity persists and intensifies to this day. In February, I arrived at an explanation: the automatic loss of [____false capacity____](#false-capacity) upon recovery of original capacity. This has helped me remain calm about my hastening debilitation.
-
-I continued trying to arrange a retreat while struggling to keep a roof over my head as usual. I found a workshop to prefabricate a new portable building in. I met several people interested in participating and supporting it somehow. But my living situation constantly interfered with my efforts.
-
-Finally I realized what everyone who knows me must know: my biggest and most immediate problem is my homelessness. I shifted my focus from arranging a retreat to making a home for myself. Everything started fall into place. With a home, I could do the retreat and the hundred other things I need to do and which constantly plague my efforts to retreat. My darkroom building project became my home building project. For several hours one day, I felt [____rapture____](#darkness-conjecture/rapture) for the first time since it overcame me as a teenager.
-
-The hexayurt will be a full-size hexayurt (4.8m inside diameter, corner to corner) of massive materials for warmth and sound insulation yet still portable. As a darkroom is just a proper shelter that is easily darkenable, the whole building will meet my specifications in [____design____](#design). I have built one-third of the floor. Photos soon.
-
-About the same time (June), my meager cryptocurrency investments of the previous 18 months matured. Suddenly I had enough to build and feed myself.
-
-The whole time I wondered what the hell had happened to me this year. Besides my strange incapacity, I felt like I had a target painted on me. I encountered several personality-disordered people in the past 18 months and one genuine psychopath this spring, perhaps the most evil person I have ever met. It nearly did me in.
-
-I got away from him in time. I was offered a two-month housesitting job in a run-down yurt I didn't have to do much for. I had it to myself and began to recover. One day, I felt a primal power begin to stir in myself. It is the power to live, to survive, to run or fight, to maintain one's place in the world in the face of challenges, to take care of oneself, to be satisfied in oneself. Money represents it. It is fundamental to sexual power, which I had explored and [____reported____](#reports/) on in recent years. The power to live had been largely decimated in me as a child, as much or more than my sexuality. But here it was. It felt clear though very faint.
-
-Though I have more money (on paper) than I ever had at once in my life, my capacity for money and for the power it represents remain quite limited by ordinary standards. I pray it is enough to get me into darkness for 20 days. We will see.
-
-Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by eliminating footnotes and underlining words that are links in the PDF or online. The new version is up at [____leanpub____](https://leanpub.com/darkroomretreat)
-
-It also includes three crucial new designs: a [____silencer____](#silencer), [____fan mount____](#fan-mount), and [____instant sleeping mask____](#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
-
-Ok, till next time.
-
-
-
-
-
-
-### welcome {#welcome}
-2009/02
-
-I think I've theoretically solved all the problems in the world with this idea. Sorry it took so long, and thanks for coming.
-
-### it {#it}'s not mine alone
-2009/02
-
-I have long felt like I could not impose the demands of my [____quest____][(1] on others, could not trouble them with it. But today, it occurred to me that my quest is not really just mine. There are plenty of people who are in the same boat as I, having declined/rejected/imploded the roles we were offered in this cancerous culture.
-
-As I began to nod my head, I thought, like me, they look for a viable alternative. They would be glad to participate in it if they thought it might work. Just like me, they feel they have nothing to lose. Maybe they have nothing better to do, either.
-
-It is not for me to decide whether you participate in this. It is not mine alone.
-
-Besides, the darkness conjecture is just a sketch of a hypothesis. It needs fleshing out and further testing. I make no promises, only a reasonable case for it. I am not bringing a revelation from the mountain, just a sketch of it from the plain. I would like to go there one day. Maybe you are headed that way, too.
-
-I think of the group as a family, a research family. We would be a band of refugees from the death-culture, explorers of the future, looking together for a bridge to a human way of life. Each of us has different aptitudes and sensibilities, all of which are necessary to arrive at a genuine solution to the problem we all face: inordinate suffering.
-
-Here is something about the money part of it that some friends, [____Ethan and Sarah Hughes____][(2], have demonstrated: that the group immediately begin freely serving other people. It is not about making money. If I still worry about making money, it is because my material expectations are too high. If the conjecture is a good idea and if we approach it well enough, it will be supported. This has been the Hughes' experience, which they saw modeled in Peace Pilgrim's life and many others. I have seen it, too. Who hasn't, really? Generosity is infectious.
-
-So rather than soliciting funds, we solicit opportunities to serve. One idea I had is to darken people's bedrooms with free reusable materials. Or to set up free darkrooms, portable or permanent, for neighborhoods or groups. Perhaps our own experiences in darkness would eventually inspire us as a radical theatre troupe or guerrilla gardeners. Or we could walk down streets banging pots and calling out to people for their sick. I do not know. Like everyone, I have a mostly untapped genius that could flow in many different directions.
-
-My only possible conflict is I also wish I lived in a warmer place with yummy fruit and saner people, but maybe I'm not special in this regard, either.
-
-To begin, I guess I will give a free talk somewhere soon. And there is more to say than what I have put up so far. Let me know if you would like to be there.
-
-   [(1]: /darkness-conjecture/rapture/
-   [(2]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-
-
-
-### news {#news}
-2009/02
-
-I'm collecting myself after my first failed attempt at a long darkness retreat. It only lasted two days, not two weeks as planned. I underestimated the need for quiet and chose a room that proved too noisy.
-
-Thus I now seek a separate, finished building, preferably with a bathroom. I would need as much as a week to prepare it before heading in for 14 days.
-
-If anyone has or knows of a such a finished building; or has any other thoughts, please [____let me know____](#about/). I can travel.
-
-
-### 'new page: psychosis'
-2009/03
-
-I just wrote a new page, [____psychosis____][(1]. It describes the insight I had on Christmas, 2008 which led to the darkness conjecture.
-
-   [(1]: /darkness-conjecture/psychosis/
-
-
-### 'new page: four darkness experiences'
-2009/03
-
-I made a new page about my [____four darkness experiences____][(1].
-
-   [(1]: /reports/four-darkness-experiences/
-
-
-### midwest-bound {#midwest-bound}
-2009/04
-
-I have decided that the darkness retreat must be embedded in a life that already works well in other ways. So I am going to the midwest next week to stay at the [____Possibility Alliance____](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), which I have [____mentioned before____](#blog/2009/02/its-not-mine-alone/). After languishing in Eugene for six weeks following my first failed attempt at a long darkness retreat, and exploring options here in Seattle for a month, it is clear my own happiness must become a priority. I cannot wait until the completion of a darkness retreat. And I cannot hope that anyone will really understand this before I complete one.
-
-I really appreciate the comments and support various people have given me since I stumbled out of the darkness in February. Boy, what a strange couple of months it has been!
-
-I have been printing up a booklet of this site's contents in order to send it to people who have supported me in the past. If anyone would like one, let me know.
-
-In other news (ha), I just finished reading a long strange mushroom trip of a book by [____Daniel Pinchbeck____](http://en.wikipedia.org/wiki/Daniel_Pinchbeck) called _2012: The Return of Quetzalcoatl_. Here is an applicable quote: "It may be that the only way to survive the Apocalypse is to undergo it, first, within your own being."
-
-
-
-
-### kansas city {#kansas-city}
-2009/05
-
-I'm in Kansas City, Missouri now, pursuing an unexpected opportunity to build a spherical geodesic plydome and retreat into darkness. Should take a month or two to prepare. We'll see!
-
-The Possibility Alliance was relaxing and useful, but ultimately the folks there were not open to my doing a darkness retreat there anytime soon. Best wishes to the Hughes and everyone there. Worth the trip, for sure.
-
-In KC, I have been helping around the home of some groovy peeps who needed some plumbing and a bike rack. Next, 6′ [____hexayurts____][(1] for myself and a couple other guys because they're so cheap, elegant, and quick to build. Then the plysphere and darkness!
-
-   [(1]: http://hexayurt.com
-
-
-### dark vader in the 3-day sith bathchamber of sleep {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep}, rejuvenation, and lust
-2009/06
-
-Now a report. See [____dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust____](#reports/3-day-sith-bathchamber).
-
-
-
-### design bonanza {#design-bonanza}
-2009/07
-
-Still here in Kansas City, MO. It is design bonanza day due to my friend's computer's webcam, which is an absurd but effective way of taking pictures. (edit: I retook 3 photos with a real camera. More photos soon.)
-
-Anyway, the hexayurt's up! I'm moved in and basically, it is beautiful.
-
-hexayurt front, with screen door (blue tape is screen repair, and yes, that's an impala). 6' hexayurt ( 1' extra height), plywood walls, OSB roof under salvaged asphalt roofing
-
-hexayurt from back
-
-Between my obsessiveness about details, the non-uniform, dirty, salvaged materials, and my funny toolset, it has taken way longer than expected. These things can be built in a few days if you just [____follow instructions____][(1]. C'est la vie. The hexayurt now has provisional solid and screen doors. It still needs shelving.
-
-I racked my brains for three days over the design of the hexayurt's experimental "flat octet truss" floor:
-
-It was worth it, though. I'd been imagining it for a few years and finally had a chance to build it. It is much lighter than a conventional 2×4 or 2×6 joist floor. It is springy and will work nicely in the dome.
-
-Now that I'm sleeping in it, I'm keeping electricity out of it. This is due partly to the influence of the [____Hughes____][(2], who make such excellent candles. I am using an oil lamp:
-
-uses any vegetable oil or biodiesel
-
-I developed it in April in Seattle for Marcus' Martini Heaven, the Pioneer Square bar of my hard rocking high school friend, Steve Alexander.
-
-Recently I built a solar shower out of a 5-gallon bucket.
-
-solar shower bucket
-
-A black planting bucket fits perfectly inside and heats up the water in the sun. A salvaged piece of tempered glass (framed in blue masking tape) traps the heat. A 3/8″ OD polyethylene tube comes out a 5/16″ hole toward the bottom to give a 12-minute warm shower. In use, the bucket rests on a chest-high platform I built above the tub in the bathroom. An upside-down bucket in the tub provides a seat. Our water runs cold and only to the sinks, so this baby has much improved our quality of life for the price of the tubing ($2).
-
-Also I built a compost tumbler for humanure out of a plastic 55-gallon barrel. It uses my first toggle latch.
-
-1/8
-
-These latches totally fascinate me. However, I'm not sure the tumbler is going to work for _all_ the humanure collected over the last six months (!), so we'll build a three-bin shed in the backyard that will also act as a fence. Maybe the tumbler can go in front for food scraps. It will rest on a frame with four skateboard wheels to spin on.
-
-The ever-snapping clothesline stays up finally and folks are keeping the house a lot cleaner. Three guests left, two disgruntled roommates moved out, and a smart, funny guy moved in, so things are running smoothly right now. I hope his somewhat resembles a "life that already works well in other ways" (see [____midwest bound____][(3] post). I'm super grateful for the welcome, friendship, and shelter of the young KC crew. What is youth? The absence of resignation.
-
-Oh, look. It is the 4th of July.
-
-   [(1]: http://openfarmtech.org/weblog/?p=340
-   [(2]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-   [(3]: /blog/2009/04/midwest-bound/
-
-
-### spheres for darkness retreats {#spheres-for-darkness-retreats}
-2009/07
-
-Where should one do a darkness retreat?
-
-For a few years, I have thought: a dome. Sphere-based structures, such as geodesics, [____conics____][(1], [____hexayurts____][(2], [____superadobe domes____][(3], allow lifeforce to flow. Thus they are very conducive to rest. They also provide an energetic shield against the psychic influence of this culture. In my [____architectural experiments____][(4], I have experienced this first hand. These kinds of building feel different because they _are_ different.
-
-I mean different from square buildings, of course. Having observed the effects of square shapes on myself and others for many years, I have concluded that rectilinear geometry does not serve resting and healing well. This is because we rest to allow an inflow of vital energy and squares do not let subtle energy flow. Squares halt, concentrate, and focus lifeforce. The square is a manifesting shape. Thus it can be good for productive activity such as work and spiritual practice (and then only if you know what the hell you are doing and are committed against becoming a black magician). In any case, the square disrupts and deforms passive activities. Thus resting and recreating in them is—how shall I put it?—significantly less than excellent.
-
-Should the darkness conjecture prove true, then the energetic field generated by small groups of healed and sympathetic people can mitigate the effects and vulnerabilities of square buildings. Initially, however, a round shape is critical.
-
-I found especially interesting [____David Wilcock____][(5]‘s comments in [____2012 Enigma____][(6] on an organic geometrical transformation that occurs when traversing the dreamworld. Apparently the conscious shift from spacetime to timespace is accompanied by a change from an icosahedral to a dodecahedral shape in the water molecules inside the pineal gland.
-
-This kind of thing naturally appeals to my geeky designer-brain, with which I have been toying with Platonic solids and spherical trigonometry for the past few years. So, for the retreat, I'm going to build a pure icosahedral Self-Strutting Geodesic Plydome.
-
-![18 ft geodesic plydome, shows construction method][(7]
-
-18 ft geodesic plydome, shows construction method
-
-Except I will make a whole sphere rather than just a dome. We may even hang it by ropes from the large surrounding trees in the backyard. It will be 12 feet in diameter and cost roughly $600 (exact breakdown to come) in materials and be extremely interesting to build.
-
-![12 geodesic plydome, size I intend to build, except without conical cap][(8]
-
-12 ft
-
-My roommates, who are grateful for the copious work I have done around the house, have expressed interest in keeping the sphere as guest quarters. One roommate might abscond with it to land he intends to buy in the fall. So they have offered to cover the cost of materials. What is not covered in the meantime are my other expenses: food, bike parts, laundry, etc, at about $200/month.
-
-I also feel dubious about being subjected during the retreat to the noises in this neighborhood, which is the local hunting grounds for KCMO's well-funded, racist police. This is not necessarily a problem because the sphere can be moved fairly easily if an idyllic countryside location opens up. Then again, this neighborhood might be the ideal location, given the radical nature of the retreat. We'll see.
-
-The dome, food, and continuing to serve my household: so far these constitute my plan and wishlist. So various opportunities for participation in the project exist for interested parties. I would very much appreciate help if you feel moved to give it. Somehow, somewhere, and for the sake of all beings everywhere, especially on Earth, and especially _this_ being, I will lie down in darkness for two weeks.
-
-“If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.”  
---Richard Buckminster Fuller
-
-   [(1]: http://www.conicshelter.com
-   [(2]: http://hexayurt.com
-   [(3]: http://www.calearth.org/EmergencyShelter/eshelter.html
-   [(4]: http://andrewdurham.shutterfly.com
-   [(5]: http://divinecosmos.com
-   [(6]: http://video.google.com/videoplay?docid=-4951448613711060908
-   [(7]: http://web.archive.org/web/20050403170016im_/http://www.sover.net/~triorbtl/tn/S18f-95-31.jpg (18 ft plydome)
-   [(8]: http://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg (12 plydome)
-
-
-### sphere bid {#sphere-bid}
-2009/07
-
-Here is my quick bid for the direct costs of building the sphere.
-
-body and awning:
-1/4″ BCX plywood, 15 sheets @ 18.50 = 277.50
-130 machine screws, nuts, fender washers, = 5.00
-linseed oil, 1 gal = 20.00
-turpentine = 15.00
-
-stand:
-2x4x8′, 8 boards @ 2.50 = 20.00
-metal stakes, 5 @ 2.00 = 10.00
-
-floor:
-1/2″ CDX plywood, 3 sheets @ 13 = 39.00
-2x4x10′, 8 boards @ 3 = 24.00
-deck screws = 5.00
-
-door:
-1/2″ CDX plywood, 1 sheet @ 13 = 13.00
-2x4x8′, 1 board @2.50 = 2.50
-deck screws = 2.00
-
-tools:
-circular plywood blade = 10.00
-bits = 15.00
-misc tools & supplies = 20.00
-
-total: $478.00
-time to completion: 3 weeks
-
-~
-
-other necessary components:
-humanure composting toilet
-convection ventilation system
-food cooler
-water dispenser
-bed
-inversion swing
-chin-up bar
-
-If you feel moved to contribute in any way to the purchase of materials, the fabrication, assembly, outfitting, and occupation of the sphere, please [____write me____](#about/).
-
-### 'sleep: lost and found'
-2009/07
-
-This post now is a page, [____make____][(1].
-
-   [(1]: /make/
-
-
-### psychosagenesis {#psychosagenesis}
-2009/08
-
-I came up with a new word for the process of inducing psychosis: psychosagenesis. This concept, I realized shortly afterward, is _identical_ to the process of civilization. To civilize someone _is_ to induce psychosis in her.
-
-To induce psychosis in someone, just traumatize her thoroughly. Violently injure her. Do it physically and psychologically, repeatedly, relentlessly, in diverse circumstances  and by various methods until something deep inside her _gives way_. Her will? Her wholeness of awareness? Her spirit, joy, and values? All these things. Now she is left with the peculiar sort of psychosis that makes it possible to function inside the machine that hurt her so badly. Civilization is thus both the process of causing psychosis and the collective embodiment of that psychosis.
-
-Other words for or related to this include: zombification, mass hypnosis, walking wounded, living dead, coffee-drinking nation, got milk, beef: it's what's for dinner, idiocracy, sleeping world, matrix, "they". I will add more as they occur to me. Send your suggestions.
-
-This is the most damning description of civilization I can come up with. All it takes to make the meaning of it palpable is to go into a darkroom for a couple of days and experience the contrast between being _rested_ and living as a functional psychotic in the uncomfortable and vague dream that is modern life.
-
-Note the light pollution nearly everywhere that prevents normal sleep. I read a little bit today about about delta brain waves. An EEG machine will record mostly delta waves during deep sleep, when the healing quality of sleep is most active. Modern life systematically prevents this kind of sleep through ambient urban light, light leakage around doors, LED indicators on machines, LCD alarm clocks, and night lights. The reason we are metaphorically asleep as people and as a society is that we are sleep-deprived.
-
-Edison's invention was the logical consequence of 10,000 years of violence against humanity.
-
-Now, is everyone in civilization psychotic? Yes, everyone. Even the realized masters of various spiritual traditions. Why?
-
-"God" is the civilized concept for the subtle and conscious aspect of Universe. This concept is a way to expose civilized people to the subtle dimensions of reality through an avenue effectively controlled by hierarchical traditions. It is as if we have been imprisoned in a cell where we are constantly tortured. Then someone---a realized person---drills a small hole through the wall of the cell and says, "Look, there is god." But he stands there controlling access to it. He will be happy to teach you to drill your own hole through the wall, too. Sometimes, in heightened states, he can make the walls disappear. He is psychotic because he has accepted the necessity of the cell walls, just as he has acquired, by immense force of effort, the ability to dissolve them at will.
-
-The truth, of course, is that the subtle dimension pervades Universe just as the gross one does. It is accessible at every point, every moment, even inside a cell. The blinders are inside consciousness, in the psychosis of everyone of us. They will remain there until we inside the cells appreciate the opportunity to relax into its darkness and we finally heal from them. The torture will continue whether this relaxation takes place or not. One has lasted this long. One can last a bit longer.
-
-
-
-
-### situation report 090811 {#situation-report-090811}
-2009/08
-
-If you've seen nothing, if the crimes of this culture remain unknown to you, then I would suggest you allow this post to pass unmarked. But if you see what I see, if you feel as I feel, and if you would seek as I seek, then I ask you to avail yourself of the vivifying veracity of these volumes:
-
-[____Confessions of an Economic Hit Man____][(1]![][(2] by John Perkins
-A former perpetrator explains the precise mechanism of American imperial activity abroad. Not the [____greatest____][(3], but the most important book I have read in years.
-
-[____The New Pearl Harbor Revisited____][(4]![][(5] by David Ray Griffin, PhD
-A relentless, unanswerable, comprehensive exposé of Cheney"s bombing of the World Trade Center on September 11, 2001 and the ensuing cover-up.
-
-more by Dr Griffin:
-video [____9/11 and the American Empire____][(6]
-interview What Really Happened on September 11?
-
-EDIT: an even more radical description of events is by engineer, [____Dr Judy Wood____][(7], who has interesting criticisms of Dr Griffin's analysis. She says that energy (particle-beam) weapons were used on the World Trade Center and gives a mountain of evidence for it. Happy rabbit-hole spelunking!
-
-   [(1]: http://www.amazon.com/gp/product/0452287081?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0452287081
-   [(2]: http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=0452287081
-   [(3]: /other-writings/bibliography
-   [(4]: http://www.amazon.com/gp/product/1566567297?ie=UTF8&tag=thedarknessco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1566567297
-   [(5]: http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&l=as2&o=1&a=1566567297
-   [(6]: www.youtube.com/watch?v=5x0vPXGYzqQ
-   [(7]: http://drjudywood.com
-
-
-### soundproof dome {#soundproof-dome}
-2009/08
-
-The dome must be soundproof, not just sound-dampened. Enough bad experiences with noise and enough reflections by other people have finally gotten it across to me. Sound, to a lesser but still significant degree than light, will sufficiently stimulate consciousness's fixation on the gross dimension. How much? Maybe enough to ruin a test of the conjecture. I'm not going to take that chance.
-
-As much as I'd like to build it, the [____plysphere____][(1] mentioned before will not meet this new qualification. Furthermore, attempting the retreat in or near the city is also now out of the question.
-
-Soundproofness, like other standards the conditions of this first test will meet, may prove non-essential. I hope so. But I will not know till I go through the test first.
-
-Another project I heard about in the spring got me thinking of a corbeled straw bale dome with cob plaster and, like [____i did with a friend in 2007____][(2], a [____conic____][(3] roof of canvas. The design is very simple, fast, and cheap, and would work well for the retreat. I'm working on a model right now. Pics soon.
-
-This also means I need a new source of funding for the dome, and a new, quiet location in the country. Maybe they'd like this at the [____Possibility Alliance____][(4] and I should try again there.
-
-We'll see. I'm glad to have finally seen the need for soundproofness before building something.
-
-What else am I missing?
-
-   [(1]: /blog/2009/07/spheres-for-darkness-retreats/
-   [(2]: http://andrewdurham.shutterfly.com/172
-   [(3]: http://conicshelter.com
-   [(4]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
-
-
-### darkness {#darkness}, take 6
-2009/08
-
-My 5th attempt to arrange for a darkness retreat has failed. So tonight I start my 6th attempt.
-
-I began putting the word out that I need a location and a provider of funds for materials. The new retreat building will be made of straw bales, so unlike the plysphere design, I cannot build it first and find a location afterward. Also, I do not know if I will stay wherever I build the thing, so I need someone who wants it afterward, someone who would pay for the materials beforehand.
-
-The cost should roughly equal the plydome estimate: $600. This is for straw bales, twine, 15 sheets of 3/8 CDX plywood for a roof and gas to haul urbanite (for a foundation) and sand (for the cob plaster).
-
-I aim to either succeed or fail thrice more by year's end. Plus leave the states for warmer climes because I prefer warmth, yummy fruit and Latin-Indigenous culture. Central/South America, anyone?
-
-### william arthur evans {#william-arthur-evans}
-2009/08
-
-I would like to share a bit of the background of the darkness conjecture by discussing the work of an early psychobiologist, William Arthur Evans. Evans wrote about the emotional origin of all illness. He had a practice in Dallas, Texas, and eventually, a school.
-
-Due to his astonishing success with patients, he received a subpoena from the US Food and Drug Administration (funny how that works). He knew of and sympathized with Wilhelm Reich, the great somatic psychotherapist and researcher. Reich had recently died in federal prison while being persecuted by the FDA for similar reasons. Evans, lacking a victim complex to fulfill, left for England within a week, never to return. Thus we do not know who Evans was.
-
-We do, however, know of his student, L Ron Hubbard, who lifted Evans' achievement wholesale; fabricated some new vocabulary; emphasized the religious side of his teacher's project; and, apparently, went around acquiring and burning copies of Evans' books to hide the source of Scientology and Dianetics. (I learned all this from an old friend, a diligent researcher.)
-
-Nonetheless, Evans cogently describes in his books the existence of intelligence and feeling in each cell of the body. As the unit of life, it is a micro-scale embodiment of everything experienced on the conscious level. Cells are commonly observed to respond intelligently to their environment. What we experience as our intelligence and feeling is the integrated sum of the intelligences and feelings of our trillions of cells.
-
-Like whole human beings, cells are conditioned by experience to feel a certain way. In this lifeway, that generally means a depressed way which only varies within a narrow range, depending on the circumstances. This persistent, pathological emotional state leads eventually to all disease.
-
-He illustrates the idea like this: A man complains of a nausea in the morning and explains it by saying he ate too much the night before. Evans' singular question is: But why did the man eat too much?
-
-Only the persistence of emotional habit explains the man's acting against what he already knew to be his best interest. Thus, the material habits of eating, sleeping, exercising, bathing, breathing, etc, all become the handmaidens of emotions. It is true, for example, that more than a very small amount of fatty food toxifies the body and thus should not be eaten. But as long as a given set of habituated emotions is running its course in response to habitual circumstances, the person involved will end up eating too much fatty food over and over, no matter what he learns or tries.
-
-Can improved material habits lead to clarity of emotion? Temporarily, yes. But without further discipline and guidance, the process of purification and reconditioning will eventually break down. By force of will, the man can cut back on fat. But then he becomes absent-minded, or an asshole, or especially nervous, etc, any one of which can lead to other kinds of illness or injury of the same _intensity_ and playing the same role in his unconscious drama. In other words, the being will make an internal compensation and remain fundamentally unchanged.
-
-Before reading Evans, I had thought that material factors of health and disease were the main causes of disease. This is the superheroic emphasis of contemporary culture and of Natural Hygiene alike. Through my spiritual teacher, I had also discovered Gurdjieff's methods of self-study. In using these methods, I would sometimes experience profound physical and psychological relief. So the experience of health deriving from _clarity of consciousness_ began to repeat itself in me in small ways. But I found it difficult to reconcile these two ideas about the causation of suffering.
-
-Evans' work provided the missing link in what I had begun to imagine as a cycle of illness. While material causes of health or disease cannot be ignored if ones health is to be fully restored, the basic effect of these factors on health are determined by emotion. For Evans, this insight was enough. He was a master at helping ordinary people rapidly untangle the associations of their emotions and memories. Thus he was able to help people effect spontaneous healings on a regular basis. This likely killed local medical business, drawing the ire of the FDA, probably through the American Medical Association.
-
-Having studied Ayn Rand and Gurdjieff (and a little E J Gold), I knew that emotions themselves are artifacts of _feelings_ reanimated by thought. Evans well understood this. But in my growing view, thought was, in turn, a function of the spiritual dimension of the human organism. "Neti, neti," as the Hindus say: Not this, not that.
-
-Presently, I intuited a long chain of causation of illness that also connected to my observations of widespread social breakdown and ecological destruction. Yet I was puzzled by the sense that all these causes seemed to exist on the same level. I had thought for a long time that the spiritual determines everything else, but this idea was also getting old to me. The work involved to make it true seemed too much. Being a designer, ie, a lazy person, I could not believe it. Maybe all these causes were co-arising, or reciprocal, quasi- causes. A single _deeper_ cause must be at work.
-
-This idea of a deeper cause of health, catalyzed by Evans, mixed into my experiences with darkness, spiritual practice, design, and diet. It led, a year later, to the darkness conjecture*. In the conjecture, the six main kinds of human suffering are viewed as co-arising. That is, they appear to cause each other, but actually derive from impaired consciousness and its immediate effect, psychosis. The spirit becomes dim, the mind bored, the heart numb, the body fatigued, society brittle, and the ecosystem stressed, because so many peoples' consciousnesses are actually broken. Damaged. Wounded. The _majority_ of available data is missed, suppressed, or misinterpreted automatically long before will (ie, volition, reason, choice) comes into play. Failures, deficiencies, and distortions result in the rest of the human system, individually and collectively. These dysfunctions renew existing cultural problems until it exhausts itself in total collapse. Survivors, more damaged than ever, begin the long, slow, "glorious" work of rebuilding toward the same end.
-
-But the organism in darkness can break this cycle before it reaches its inevitable external end.
-
-&nbsp;
-
-*I read _Human Technology_ and _Introduction to Human Technology_, which are out of print and very rare. However, a couple of Evans' other books have recently returned to print. See [____abebooks.com____](http://abebooks.com). Also, I mentioned Evans and Gurdjieff before in a [____sketch of a piece____](../../other-writings/sanity-and-health/) I never finished.
-
-
-
-### darkness proposal {#darkness-proposal}
-2009/09
-
-Having just written a big hairy proposal to build a straw bale dome, it occurred to me that there may be a suitable building out there I could use. The main thing, after all, is the darkness retreat itself. So, if you have or happen to know of a small, round, building in a quiet place that I could use for about a month, then I would pay rent or work in exchange for its use rather than build a whole building from scratch. Please let me know.
-
-### marketing {#marketing}
-2009/09
-
-I wonder if it is earlier in the process of realizing this idea than I thought. Maybe it needs more development. Usually, when I have an idea, I rush it into production. And it has not really mattered before because everything was part of a massive survey of information. I only needed a rough test of something to catalog it and move on.
-
-But this is different. Of course I have ideas about the best way to apply this, but I do not actually know. The idea is so big it could be applied in any of a million ways. Maybe the thing to do is solicit help from people I know to develop the idea rather than apply it directly with them right away. Maybe I'm in an early stage of marketing.
-
-Part of what has driven me before is not knowing where I was going to sleep or what I was going to eat in the meantime. It drives me still. Not having the ability, with my feet broken, to fall back on some form of craftsmanship to support myself steps up my level of necessity to break through. It makes me think I need to develop/produce the darkness idea _faster_, that there must be some way right now to apply it profitably for all concerned. It is very confusing.
-
-The next few days will tell, I guess. Boy.
-
-### conjecture {#conjecture}'s sixth point
-2009/09
-
-I just added a sixth point to the darkness conjecture (see original version in [____basics____](http://andrewdurham.com/basics)).
-
-Until now, I have left it out because it is implied by the first five. But I cannot stop wondering if it is really all that clear to folks, so here it is:
-
-6. Healed consciousness clears the way back to a full life, dispelling our inordinate suffering and absurd problems.
-
-The suffering I am speaking of is not just the suffering we acknowledge, but also the suffering we have so deeply resigned ourselves to that it no longer counts among us as suffering. For us, it's just how life is; get used to it.
-
-For example, degenerative disease, such as cancer, high blood pressure, diabetes, AIDS, heart disease, Crohn's. Every kind of psychic illness: depression, schizophrenia, paranoia. Disease is not inevitable. Though at some point in every illness, death becomes certain, it is usually much farther along than medicine tells us. I do not care what you suffer from, you can heal, more rapidly and thoroughly than you can believe.
-
-Frailty in old age. Perennial family conflict. The struggle just to make a living. Taxes. Wars of conquest sold as self-defense. Lying politicians. The boredom, hatred, and dread of schoolchildren, prisoners, soldiers, and employees. Homelessness. Famine, poverty, crime. Addiction and self-destructiveness of every kind. Basically, the noise all of us learn to turn down because it seems impossible to deal with. Yes, _that_ is the suffering I'm talking about.
-
-Every one of us has had moments of rapture, when the world appeared as paradise. In the conjecture, I am saying that these were moments of lucidity: clear awareness of the world as it truly is; that this awareness can be restored; that it will wipe out the suffering we have resigned ourselves to. Despite everything that has been drilled into us by school and church, by doctors and the state, by television and jobs, this is the world that can be lived in day in a day out, not just in rare moments.
-
-
-
-### first incoming link {#first-incoming-link}
-2009/09
-
-Well, I got [____my first incoming link____](http://entitledtoanopinion.wordpress.com/2008/03/20/digestion-selected-for-docility/) today* from [____entitled to an opinion____](http://entitledtoanopinion.wordpress.com/), a droll, well-written blog on contemporary social and political issues. The author just wanted an ad-free copy of [____Origins of Agriculture____](#other-writings/origins-of-agriculture/) by Greg Wadley and Angus Martin and found one here. Random, but strangely exciting.
-
-\[____*edit: in fact, this link occurred 1 1/2 years ago; I only just _noticed_ it now that I'm using wordpress. Before, I just had a static html website and zero awareness of things like incoming links. Now, with WordPress, I'm starting to learn to manage this site properly. Thanks, TGGP.\____]
-
-
-### darkness made simple {#darkness-made-simple}
-2009/09
-
-I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [____original conjecture____](http://andrewdurham.com/basics).
-
-#### simple {#simple}
-
-1. We civilized people hurt in our spirits, minds, hearts, bodies, society, and world.
-2. This is because we are brain-damaged. This damage makes us crazy about the material world and blind to the also-real world of dreams.
-3. We are locked into acting like this because, when we were young, civilized people hurt us very badly and so we are always afraid of getting hurt again.
-4. With a lot of very deep sleep, our brains, like any part of the living body, can heal from this hurt.
-5. Staying in a totally dark room for a couple weeks straight makes this kind of sleep possible.
-6. Once our brains heal, then our lives fill up again, our [____hurting____](../2009/09/conjectures-sixth-point) stops, and we can let go of our [____problems____](http://andrewdurham.com/2009/09/darkness-made-simple).
-
-Writing it was fun. And a couple interesting things came up.
-
-One, there is something I should clarify. My use of the word, _brain_, should not be taken to mean I believe consciousness can be reduced to the physical brain or the intellect. I'm using it is a very general way to refer to consciousness.
-
-Two, something unexpected came out of the last point: "Once our brains heal, then our lives fill up again, our hurting stops, and we can let go of our problems."
-
-This undermines the conventional view of the relationship between our suffering and our problems. Normally, we think that we suffer because of our problems. While paraphrasing. I realized that both our problems and our suffering result equally from our impaired consciousness. They co-arise, so they are reciprocal. Which is why our problems sometimes seem to result from our suffering. In fact, we just notice one first.
-
-This does help explain the absurd and needless character of most of the problems we face in civilization. Like [____Tracy Chapman____](http://tracychapman.com) sang back in '88:
-
-> Why do the babies starve  
-When there's enough food to feed the world?  
-Why when there are so many of us  
-Are there people still alone?  
-Why are all the missiles called Peacekeepers  
-When they're aimed to kill?  
-Why is a woman still not safe  
-When she's in her home?
-
-What if we work as hard as we do everyday in order to maintain the illusion of our problems' stubbornness? I mean, come on. On some level we all know the nonsense we face everyday is unnecessary.
-
-Sometimes people have frozen in response to my criticisms of civilization, especially after I have demolished their cardboard defenses of it. Sometimes all they can do is ask perfectly insane questions like, "But if we stop, how will we clean up the messes we have made?" Or, "What will we do with all the people who make their livings by doing things they hate?"
-
-It is irrelevant that nearly every individual and every small group of people I have ever met or even heard about expressed strong willingness to deal with their parts of our situation. It is irrelevant that for decades, countless alternative engineers, designers, economists, saints, mothers, indigenous elders, farmers, politicians, etc, have demonstrated the viability of alternatives to this lifeway's ubiquitous violence and stupidity. It is irrelevant that together we have the money and resources to pay for the necessary changes thousands of times over. We do not need to know the answers to the above questions before we stop doing obviously senseless and destructive things. "First, do no harm," Hippocrates advised us. This means that if we find ourselves doing harm, we are to stop.
-
-With the conjecture, I am saying, let us not just stop. Let's put down the impossible burden we bear, too. In our current state, we can _only_ do harm our daily lives. We're not qualified for anything else. Our psychology will drive us to it again and again. In perpetual fear, we will only recreate fearful circumstances.
-
-Rather than more fear, let us allow love, in the form of the organic processes of self-healing, to take over for awhile. Spiritual adepts for millennia have told us that the pursuit of pleasure is futile because as we are, we suffer. Immeasurably. Momentary pleasures cannot change that. Furthermore, sages say we cannot, for the time being, change how we are. And so suffer _consciously_, they say. The only way out is through.
-
-Similarly, they have said that we suffer because we are asleep to the splendorous reality of life. Or blind to it. Suffering are all we are capable of as long as we sleep. So let us sleep! But sleep _consciously_, literally, and fully, until finally, we wake up again.
-
-
-
-
-### ayn rand and bullcrit {#ayn-rand-and-bullcrit}
-2009/09
-
-People commonly act knowledgeable about things they have never read, let alone studied. I think this habit arises from the amazing idea that all the data necessary to life is in and now it is just a matter of sorting it out and making a decision. This, of course, is opposite the darkness conjecture, which is based on the idea that we are always short of most of the data we need to live because consciousness, the faculty which collects this data, is damaged.
-
-Anyway, here is a quote from an unusually honest piece in the establishment press about the ubiquity of this practice among _media professionals_. I noticed it because of its reference to one of my favorite writers.
-
-> Over dinner at a French restaurant in Manhattan—there were four of us—the subject of Ayn Rand came up, and the air was soon full of thoughtful remarks about "enlightened self-interest" and "the way Fascism and libertarianism meet each other halfway in her books." Under subsequent mutual interrogation, we all confessed that Rand was among the authors we had always meant to read. One guilty diner tried to win the court's sympathy by saying, "Well, my best friend in high school read everything Ayn Rand wrote."
-
-[____New York Magazine, 1989 Feb 6, "Bullcrit", p44____][(1]
-
-(Of course, students of Ayn Rand's work have known of this phenomenon in the media for a long time. If only she had just gone away like she was supposed to, it would have all worked out.)
-
-   [(1]: http://books.google.com/books?id=qugCAAAAMBAJ&pg=PA44&dq=
-
-
-### 'new page: health proposal'
-2009/09
-
-I just added a new page, [____health proposal____][(1], to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.
-
-The dome proposal was a good step because it offered value rather than just asking for donations (my earlier, futile plan). But it had three major problems.
-
-One, I do not actually enjoy design and construction. It is an overly fascinating compulsion I'm weary of.
-
-Two, putting up domes, though very cool, is secondary to my overall purpose of giving direct support to people's well being.
-
-Three, the proposal does not help put my research on a solid footing. What if the darkness retreat does not work as expected? Then I will have lost three _more_ months, and be back at square one with maybe a couple hundred bucks with which to nurse my reopened wounds. I have never been able to make a living at design. Enough, already.
-
-I would like to be able to support a family in a stable home; grow and eat good food; and have the time and support to actually help people with what I have discovered. I can easily do this for $10,000/yr, but not $1,500.
-
-The conjecture has given me something tangible and coherent to work with. My two broken feet have given me the opportunity to stop my normal frenetic design activity and properly review my situation. I believe this proposal is more straightforward, and I look forward to your response.
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### health proposal live {#health-proposal-live}
-2009/10
-
-I'm now promoting my [____health proposal____][(1], starting on facebook. Though published, I was still editing it and working out some logistics. There is a lot more to do, but the basics are in place now.
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### 'new pages: poems, ashers'
-2009/10
-
-I have made two new pages of some older writings: my [____poems____][(1] from 1992 to the present and a short memoir, [____The Ashers, a River, and I____][(2] of a canoe trip I took as a boy with the Boy Scouts, my Scoutmaster, Jack Asher, and his wife, LaVerne, which I wrote for their 50th Wedding Anniversary.
-
-   [(1]: /other-writings/poems
-   [(2]: /other-writings/ashers
-
-
-### natural hygiene 2 {#natural-hygiene-2}.0
-2009/10
-
-So far, Natural Hygienists have said that toxemia is the cause of illness \[____NOTE: actually only some say this. See CORRECTION below\____], and that toxemia itself results from misinformed behavior. But how did this cycle get started? I do not think it just started out of the blue, as if otherwise healthy people started eating incorrectly and then lost their way. Something else had to have happened inbetween.
-
-My first clue was how crazy illness is. Consider the lung cancer patient who keeps smoking or the overweight person who keeps eating junk food. What causes this craziness?
-
-I think something hurt us very, very badly—worse than we typically imagine being hurt—and we never had a chance to recover. This makes us crazy. In my view, all our suffering and all the problems that attend it stem from this unhealed injury. In my approach, which I view as fundamentally Hygienic, we provide for the healing of this injury so that, with our newly recovered sanity, we can freely apply the more common Hygienic practices.
-
-CORRECTION (2010.10.13): I was mistaken about the hygienic position on toxemia._ _Fully informed hygienists actually hold that the basic cause of illness is _enervation_, in this sense, the chronic over-expenditure or lack of energy). Toxemia is simply closely related.
-
-I finally finished reading the super rad central text of Natural Hygiene, _The Science and Fine Art of Natural Hygiene_ by Herbert Shelton. His clearest statement of this in the book is in the chapter on Rest and Sleep. The nine Laws of Life on which Hygiene is based are, in fact, largely about vital energy and the supreme and unsubstitutable intelligence with which the organism manages this energy. I had heard a little about the hygienic idea of enervation before, and it made sense to me. But later, a student of Hygiene whose views I overly regarded said that, according to Natural Hygiene, toxemia is the cause of all illness.
-
-Enervation as the cause of all disease is an idea much more compatible with the darkness conjecture than mere toxemia. Enervation would naturally result from catastrophic, unhealed psychic injury. Enervation would, in turn, lead to toxemia and deficiency. Without energy, the body cannot clean itself out or deliver nutrients, whether the food is appropriate or not. The psychic injury would also explain the strange persistence of our obviously unhealthy lifestyles. Taking this persistence as "just how things are" instead of being part of the pathology itself, Hygienists have so far enjoined people to exert effort to overcome this persistence with willpower. Thus dependent on effort, a very unreliable foundation, success is correspondingly rare. (This position is useful, however, for maintaining the puritanical, self-righteous elitism that characterizes some Hygienists.)
-
-Anyway, I knew there was some reason I liked Natural Hygiene. There is nothing like finding out things for oneself.
-
-
-### wish {#wish}
-2009/10
-
-On the [____wish____][(1] to recover:
-
-
-> There are two kinds of doing—automatic; and doing what you "wish". Take a small thing which you "wish" to do and cannot do and make this your God. Let nothing interfere. If you "wish", you can. Without wishing, you never "can". "Wish" is the most powerful thing in the world.
-—G I Gurdjieff
-
-   [(1]: /darkness-conjecture/proposals/health-proposal
-
-
-### last failure {#last-failure}
-2009/10
-
-Tonight, I report my sixth and last failure to arrange for a long darkness retreat. I made two business propositions to people, the dome and health proposals. But my heart was not really in them. The effort was putting too much pressure on me and the project. It needs no pushing. And so unconsciously, I made these proposals randomly so they would not get enough response.
-
-The benefit of all this has been to become able detach from the retreat in a way new to me. In other words, I no longer feel the need to make it happen right away or as a direct function of my livelihood.
-
-Now I will find some simple work and do the retreat on my own time. If it works, then other opportunities will arise naturally.
-
-Above all, one must be some place. Cold weather has not made sense to me for a long time. Nor has the American way of life. So I traded in my expensive winter coat for a flight to Guatemala on November 9. I will find a group to volunteer with, then go from there.
-
-### site back online {#site-back-online}!
-2009/10
-
-8.17 – Ok, I got most of the content back up. It is still pretty rough around the edges. The look is temporary. Some links do not work. Pictures are missing. Some pages have funny bits of code visible. But at least the content is up. Will fix the rest soon.
-
-(two previous posts:) 8.17 – I will have the site back up soon. Fortunately, before it crashed, I got a backup of everything. Watch for most important pages and blog posts to start going up tonight. I should finish with the details (photos) by Monday night at the latest. Thanks for your patience.
-
-8.16 – My site was hacked. Please check back soon.
-
-### vertigo {#vertigo}
-2009/10
-
-The strangest thing happened last night. I woke up with a strong sense of vertigo. I was having dreams of being way, way up high, of trying to cling to the flat surface I was spread-eagled on. When I woke up, the feeling persisted for a long time, with various high-up imagery to accompany it.
-
-It is all coming from finally doing something I want to do: going to the tropics. I do not have money. I do not know anyone there. I do not even speak the language yet (started studying yesterday, though). But aside from all my grand ideas, my default vision for myself has, for a long time, included going there. It is like I have been huddled on the ground all this time, and now I'm climbing this crazy tower of my own desire. It has overwhelmed me in the past. It is still often scary lately, but sometimes now it feels exciting, like when I'm making arrangements for it, one after another.
-
-I read in _The Continuum Concept_ years ago that children who are held a lot when babies, like native people generally are, grow up without a fear of heights or agoraphobia. It is so odd now to feel it in connection with doing what I would like to do. It is as if people in this society, without necessarily knowing it, automatically stopped carrying around babies, especially with Victoria's popularization of the stroller, in order to condition children to a future of not doing what they want to do, not daring, not being free. And should we begin to act from the heart again, a tidal wave of fear rises to discourage us.
-
-A friend just said we should take this fear as a sign we are doing something right, but also to prepare.
-
-### guatemala {#guatemala}
-2009/10
-
-For a long time, I have wanted to move to the tropics. It is warm, the people are not insane in the same way that they are insane here, and the food I would rather eat grows there. In short, the grass in Guatemala is not greener than it is here, but it _is_ green year-round. I leave Nov 9.
-
-### so long {#so-long}, secret design
-2009/10
-
-secret design, the site I made in late 2001 to present my design for Tribal Housing and a bunch of writings that followed, closed Monday with the rest of GeoCities.
-
-GeoCities was cool. I learned basic HTML by tweaking the code on my templated home page. I published a lot of my ideas. It helped me see the coherence in my thought and helped me communicate it to what seemed like a lot of people: tens, maybe hundreds.
-
-Of course, WordPress and Blogger and posterous and so on are much better because they simplify things and make websites more powerful and cohesive. I would not go back to GeoCities. But it was cool. It hosted lots of sites with tons of rad information from the early days of the web boom. I hope the site owners migrated the data in time. I still have everything I wrote from then. If you do not see it on my "other writings" page, let me know and I will send it to you.
-
-### meta-ethics of darkness {#meta-ethics-of-darkness}
-2009/11
-
-On the metaphysics of self-preservation: "Consciousness, for those organisms which possess it, is the basic means of survival." –Ayn Rand
-
-This idea is one of the roots of _the darkness conjecture_. Our lives are so thoroughly screwed up because our consciousnesses is comprehensively impaired.
-
-Generally, we try to use will---the most delicate part of the very faculty that is so damaged---to fix our problems. How is it working out for us? As a designer of the Los Angeles freeway system would later put it, "Each and every problem we face today is the direct and inevitable result of yesterday's brilliant solutions." If I were the left hand, I'd say the right hand's bluffing.
-
-Which is why I think it would be better to use will to provide the organism, including consciousness, the conditions it needs to heal _itself_ autonomically, to do with ourselves as Rockefeller did with his company: "All I did was hire people who were smarter than me."
-
-
-### atitlan report {#atitlan-report}
-2009/12
-
-I'm sitting in San Pedro La Laguna, Guatemala, on the shore of Lake Atitlan in an internet "store". It is just a painted cinder block room with a bare light bulb and four desks with computers. For 60 cents I can use the computer for an hour.
-
-It _is_ warm here. Everyone is out on the streets as Christmas Eve is a big deal here. Apparently the best way to celebrate it is with firecrackers. Very large ones. As often as possible. Small bombs, really. And the big show is tonight at midnight. Then I will sleep.
-
-Speaking of the weather, the temperature here is the easiest thing to get used to. It hovers in the mid-seventies (21°C) all day. Last night it got really cold: 58 (14°C). Last week we had three cool days of rain. Very rare in December I hear.
-
-The noise pollution is the hardest. It is like they were all born with earplugs in. It is hard for me to convey the intensity of the situation. My new house design fantasies involve caves dug deep into the side of the mountain behind several, thick, airtight doors. Maybe I can buy compressed air and just keep the valve open a little.
-
-I have a job at the moment translating Spanish into English. Which is a joke, because I still speak Spanish only in infinitives in the present tense. However, there are automatic translation services online now that spit out very rough English versions of Spanish text. So I go through and make it intelligible. I know enough Spanish now to check it against the original. I get a whopping $1.80 for an hour of work. This is also how much a cheap hotel room costs here for a night. Truly, it is a foreign country here.
-
-The people are wonderful. Period. Despite 500 years of various levels of European and American terrorism and extremely vigilant evangelism that continues to this very moment, the people still have the sense to carry, nurse, sleep with, and always be deeply connected emotionally to their babies. This is my only explanation for their near universal good natures (even the drunks lying face down in the street). Calm, relaxed, with a ready smile and time to ask your name and where you are from. It is an enormous blessing to be surrounded by a people who are like this.
-
-When Mayans play basketball, they can hover over the court while shooting backwards. The crowd laughs as off-balance players dogpile into the children sitting at the boundary. The instant a period ends, tens of children dash onto the court with every kind of ball for 60 seconds of hoops and tag. Vendors ply parents with water and candy. And oranges, with whose peels mischief-makers hook me into a friendly food fight.
-
-Wheelbarrows and handtrucks are a luxury here. Very young men two feet shorter than I carry twice their weight on their backs. It never fails to drop my jaw. A bag of cement is 90 pounds. I saw a man carry TWO on his back. I did a triple take then followed him to make sure I was seeing things correctly. The "cargadors" use a simple strap that goes over the forehead, then behind the back and under the load, which they secure against their bent-over backs with their arms. I think they must have the strongest necks in the world.
-
-The mountains and lake continue to radiate their world-class beauty. I feel like the lake is where everything gathers, like I'm in the center of the world. The locals know they are a lucky and blessed people to live by this sacred lake, Atitlan. The volcanoes rise like three reticent and omnipotent gods from the south side of the lake, extending their protection to all who can see them. Really, they are the small children of a super-volcano whose crater now holds the lake. Seen this way, it is a little intimidating. It is the Mayan version of the fear of God, I suppose.
-
-Well, Merry Christmas to you all there. Bundle up and sip an egg nog for me. When I get more settled here (still looking for a place to stay longer than a couple weeks), I hope you will come visit me. Tickets are very reasonable, as low as $124 fees one way, depending on departure city and date. For fun, check [____spiritair.com____][(1].
-
-   [(1]: http://www.spiritair.com
-
-
-### remission {#remission}
-2010/01
-
-As I [____wrote before____](#introduction/), I was overwhelmed by [____rapture____](http://andrewdurham.com/darkness-conjecture/rapture) when I was 15 for three months. When it began to fade, I wanted to know what had happened. What caused this feeling? Why did it fade away?
-
-The short answer to this question just came to me: I went into _remission_. I had been suffering from complications arising from an earlier injury. As a result of the developmental surge during adolescence, the complications temporarily and partially cleared up. But the underlying injury remained unchanged. So when the surge abated, the complications returned and the feeling faded.
-
-While I had answered these questions at length, I have not, until now, been able to put it in a single sentence. Recently an acquaintance asked me what was the answer to my original question. When I launched into my longer explanation, she lost interest, and I realized I needed to have a simpler answer. It occurred to me a bit later that the idea of remission would enable me to respond succinctly.
-
-Wikipedia defines remission as "the state of absence of diseased activity in patients with a chronic illness, with the possibility of return of disease activity." In my case, it was like an infected broken bone. If the injury is cleaned often enough, or if circulation is improved sufficiently, the infection can disappear. But if the bone is not set and immobilized correctly, healing of the basic malady will not occur and infection will return.
-
-In this case, the infection is my inordinate suffering and problems. The break is the injury to my psyche that preceded the suffering and problems. The increased throughput of vital energy in my whole being during adolescence is the increase in circulation which temporarily and partially cleared up the infection.
-
-
-### serious darkness {#serious-darkness}
-2010/01
-
-Shortly after returning to San Marcos La Laguna from my seventh attempt at a long retreat in San Pedro La Laguna, several doors opened for me.
-
-I was given a lovely house to sit for an indefinite time period. A friendly elder took stong interest in doing a darkness retreat, and then in the darkness project itself. Many people he talked to about it expressed interest in doing it. Then a suitable room for short retreats emerged. I have begun the minimal work necessary to prepare the room for retreats.
-
-So basically, I almost have a going concern here. Amazing. Now it is much clearer what I can offer people related to darkness besides this free website: free talks, an affordable booklet made of the main content of this site, and short darkness retreats.
-
-For years since my first retreat, I have had in mind to design and offer a proper eye mask for sleeping and resting in darkness. So this could come come next.
-
-I think that with the intensified interest in the darkness conjecture that all of these services will generate, the opportunity for a long retreat for me will finally emerge.
-
-### seventh failure {#seventh-failure}!
-2010/01
-
-In mid-December, I made another serious attempt at a long darkness retreat. I thought I would try something different and keep it under wraps till it was over.
-
-Across the lake, outside more populous San Pedro La Laguna, I rented what I thought was an appropriate house and bought supplies to darken it. The whole nine yards. Then the place turned out to be too noisy, cold, moldy, etc.
-
-I spent all my money and a lot of energy. One of the first things I did afterward was write a long list of criteria any new space must meet before I spend a dime or minute on it. Then I returned to San Marcos to work and collect myself.
-
-My new idea was that I will simply spend longer finding and preparing a place so that when it is finally time to begin, all I have to do is walk in, shut the door and turn of the light and everything will just work.
-
-In the meantime, I would find a decent place to live (done! great housesitting job), decent work (done!), spend more time with the people here (doing it), and see to my immigration status in Guatemala, which I consider my home now.
-
-Now cool developments have emerged since then. See my new post, [____serious darkness____][(1].
-
-   [(1]: /blog/2010/01/serious-darkness/
-
-
-### superlight hypothesis {#superlight-hypothesis}
-2010/01
-
-For the record: when I finally succeed in spending two weeks in darkness, here is one thing I predict will happen.
-
-I will access the dreamworld and see the light that pervades it. This light is called [____superlight____][(1]. I believe it may be the subtle kind of light perceived directly by the pineal gland.
-
-If so, then, superlight is food for the soul, just as the gross light of this dimension (sun, fire, star, northern, electric, etc) is food for the mind. Superlight is what floods consciousness from the inside out in moments of rapture and realization.
-
-It is the light most of us are starved for and seek to replicate with technology, movies, computer screens, light shows at concerts, etc. That we do not see much of it is not a spiritual or moral shortcoming, but a physiological malfunction resulting from psychic injury.
-
-(I believe this injury, by the way, resulted from the shock of incarnation on this planet after leaving the dimension and place in which many of people here were proficient. Earth is a crash-and-burn/trial-and-error planet. This makes more sense if you read the [____myth of three cultures____][(2].)
-
-   [(1]: http://web.archive.org/web/20130121174630/http://customers.hbci.com/~wenonah/new/milewski.htm
-   [(2]: /other-writings/myths/
-
-
-### avatar {#avatar}
-2010/02
-
-"My daughter will teach you our ways. Learn well, Jake Sully. Then we will see if your insanity can be cured.”
-
--Mo'At the shamaness in _Avatar_
-
-Sometimes a Maya asked me what I did and why. I began my explanation with, "Do you know how all gringos are crazy?" He always laughed and nodded. 
-
-
-
-### love vs civilization {#love-vs-civilization}
-2010/10
-
-Mayan youth, a quietly defiant demographic, have been playing "Love the Way You Lie" by Eminem and Rihanna over and over. So I read the [____lyrics____][(1].
-
-OMG.
-
-I hear a torturous description of true love colliding with a singularly unworkable culture, internally and externally. Perforce, most of us give up on, fail at, or get ruined forever by true love because we are already too shattered, and the social context necessary to maintain love is cynically absent. Only manageable and "sensible" relationships remain, being better than nothing. This song represents to me a blistering indictment of civilization, its inherent bankruptcy, and the thoroughgoing resignation and selling out that it demands and gets from all but a few, whose autonomy is not a theat. Like Sinead sang years ago, "They only laugh 'cause they know they're untouchable, not because what I said was wrong."
-
-   [(1]: http://www.directlyrics.com/eminem-love-the-way-you-lie-lyrics.html
-
-
-### 2010 summary {#2010-summary}
-2010/10
-
-Long time, no news. Let me catch you up.
-
-All spring I built a darkroom. I opened it in late May and 10 people got their first taste of darkness. All gave positive reviews. Common comments: 
-
-- “I feel more myself." 
-- "I feel more in my body." 
-- "I feel more rested. 
-- "I did not know how tired I was.” 
-
-Some saw light of varying durations and intensities. Many had intense dreams. All went through some version of the nice/rough/nice cycle I describe in [____four darkness experiences____](http://andrewdurham.com/darkness-conjecture/four-darkness-experiences). I had an interesting time keeping the room going for them, bringing them food, not making too much noise upstairs.
-
-The better rested a retreatant was in the beginning, the less affected by retreating he was. Several said they were just starting to get somewhere when their retreat ended. Those who felt major benefits did not really have time for the changes to become established. My conclusion was that people would benefit much more from longer retreats. About the same time, some noisy construction occurred at the house, so I closed the darkroom for improvements to make it suitable for longer retreats.
-
-I also made a reasonable amount of money for my efforts and with an unusual degree of satisfaction. Businesswise, darkness retreating is very promising. The entire town knows about the darkroom and many are interested in going in. Word is getting out beyond the lake, even. Once I finish the room and do my own long retreat, there are 5-10 more people ready to do both short (3 day) and medium-length retreats (5-10 day). Wicked Rest Retreats (or whatever I'm going to end up calling it) has been a going concern from even before the room opened. Most of the first 10 retreatants made deposits on their retreats. And some of the depositors have not done their retreats yet. The proceeds allowed me to keep working on the room this spring until completion.
-
-At first, I offered the retreats on a donation basis thinking it would be a cool way to do it. But I found myself thinking about money a lot more than necessary and expecting donations from people—very uncool. The donation model must be based on a genuine spirit of giving. I could not hack it. After one retreatant with lots of money donated very little, I got really annoyed and decided that simply setting a price would be better for me and everyone else, too. After that, I have had no dire problems with money. My scarcity habit will likely die hard, but something, at least, began to shift for me money-wise.
-
-Recently, I have become very burned out from building, from being alone in the project (a bunch of friends left suddenly this summer). I have felt kind of shell-shocked from it all, weeping almost everyday for weeks. Living at the lake is very intense, especially near San Marcos, which is traditionally the spiritual/ceremonial center of the lake. In other words, even native people never lived here before. I'm across the lake at the moment, on one of my recent mini-vacations in San Pedro and Panajachel. I'm going back tomorrow to finish the new ventilation system. If I finish, and if beginning to sleep in the room helps me rapidly recover from my burn-out, I will continue working. Otherwise, I'm going to take a week vacation away from the lake.
-
-Since closing the room, I have been living on some unexpected donations from my father, with whom I had a massive falling out three years ago about what the hell I'm doing with my life. Pretty ironic. But I'm glad he found a way to help me for awhile.
-
-It has been a rigorous year. Not bad at all till the last few weeks. Let's see what the next few days bring.
-
-**UPDATE:** the 6-day retreats proved just as safe and more effective than the short retreats. In the first three days, the body rests from its exhaustion and relaxes from its tension. The next three days, these effects become more established while the organism delves into a pressing psychic issue.
-
-One man said he used a certain method of introspection in darkness to clear out negative emotions. This worked for the first few days. Then he encountered something more than he could handle with the method, so he let go of it. When he woke up the next day, the issue was solved. That day he went home and got together with the woman he had desired for months.
-
-It can happen.
-
-
-
-### wicked rest {#wicked-rest}
-2010/10
-
-I have been playing with new names for this project. One that really strikes me is Wicked Rest. And here is a potential intro to the site with this name:
-
-> Wicked rest is what you get in a totally dark room. It is, finally, rest for the wicked, the tormented, the restless. It is automatic and foolproof as long as the room is set up properly. A couple weeks straight of wicked rest may also be sufficient to recover from the functional psychosis that characterizes the people of our culture, which may be what causes _all_ our suffering—spiritual, mental, emotional, physical, social, and ecological. Below are three more formulations of this idea. The rest of the site provides elaborations upon and background for this proposition… (segue to three versions of the darkness conjecture).
-
-Another word I like for a name is trapdoor. I think this gets closer to what I am trying to provide: a hidden door out of the otherwise seamless box of life in this culture.
-
-(Update, 2011 Jan 30: What am I really offering here? What is the value of wicked rest or a trapdoor? These questions started bugging me after I wrote this post. So far the answer to the first question is, sanctuary. Asylum, refuge. Maybe one of these should be the name.)
-
-I guess it does not really matter till I do the long retreat. Surely the correct name would come then. Vamos a ver (Let's see).
-
-### 'e-ink writing device: a plea'
-2011/01
-
-EDIT: Success! Type on e-ink now using [____hacked B&N Nook Simple Touch____](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode), the open-source project I started at xda-developers.com.
-
-Here is a letter I sent an e-ink reading device manufacturer.
-
-———- Forwarded message ———-
-
-From: Andrew Durham  
-Date: Sun, Oct 10, 2010 at 18:49  
-Subject: a plea for an e-writer  
-To: sales@pocketbook-usa.com
-
-Dear Ms Sergiyenko, Mr Bondarenko, and Mr Sheiman and everyone at Pocketbook around the world:
-
-I have heard your devices will have typewriting functionality soon, and I want to express my bottomless support for your efforts to complete this task as soon as possible.
-
-As a philosopher, health practitioner, designer–and a human canary in a coalmine–I cannot overstate how much I would like to type on a non-irritating machine. So: if your device can host a USB external keyboard so that I can use it as a typewriter, not just a reader, then I will buy it. Otherwise, not.
-
-That's a little blunt. But frankly, I am baffled that no e-ink device maker has figured out yet that their e-ink device will only go viral when it becomes writable out of the box–and I mean serious typing with a proper external keyboard for touch-typing. Why?
-
-Because then the e-ink device can produce its own content, just like computers and cellphones, the other big viral devices of our time. With one program and a USB host, you could double the usefulness–and the thus value–of your device, yet sell it for the same price as other devices.
-
-I like USB because it eliminates the complication of recharging the keyboard, problems with bluetooth reception, and the alarming irritation of wireless radiation. For all the same reasons, you would much improve the device with an ethernet port or a third USB port for use with a USB-ethernet adaptor. WiFi burns and numbs my hands when I have to use it. I know other people who experience this, too, some of them without necessarily realizing what causes it.
-
-Why else would you make your reader typable? Because writers, whose numbers have exploded since the beginning of the web, have not had a psychically neutral medium for writing–one that holds perfectly still to the eye–since the typewriter. To take advantage of the wonderful tool of word-processing, we have had to look at screens that exhaust the eyes, alter the mind, and disrupt the emotions.
-
-This is not just a bad combination for us writers. Too much of what is done in this culture is harmful. Nearly everything done today is first written about. If the machine we wrote with did not hurt us, it stands to reason that we writers would cause less harm to the world as well. More people would participate in the process of cultural creation with less difficulty and more psychic integrity. This is a radical proposition. For every writer there are a thousand readers. Every device you sell would support the freedom, self-determination and harmony of a thousand people.
-
-In short, all the reasons for reading on an e-ink device apply a thousand times more to writing on one.
-
-Please help us writers with what, in a subtle way, may be the most important invention since the personal computer. Give us a modern (word-processing) typewriter: sleek, humane. Do so, and I believe that, in the e-ink device competition, you will take a leading position. Do it well, and you might keep it.
-
-With sincere hopes for your success, I am,
-
-Yours,  
-Andrew Durham
-
-UPDATE:  
-No reply as yet from Pocketbook, a company which has left multiple promises unfulfilled and many deadlines pass unremarked. FAIL.
-
-However, another company, as yet unnamed, has responded positively to my idea. We'll see how that goes. \[____2012 Jan 23 EDIT: this was with ctaindia.com. The effort failed in 2011 July due to my impatience with the guy's lack of vision. Bad combo. No matter how much I explained it and how much he agreed it was a good idea, he'd always start in again with questions that began, "But what about..."\____]
-
-http://noteslate.com is the advance marketing effort for an unproduced but extremely interesting e-ink device design which is "pencil" based and hyperconnected. Here is an unequivocal picture of their plans for typeability: http://noteslate.com/img/photo/gal/NoteSlate09.jpg (note the noteslate logo on the keyboard.) There is a small sketch of a keyboard with the noteslate in this photo: http://noteslate.com/img/photo/gal/NoteSlate11.jpg These are actually not photos, but photorealistic renderings of the design.
-
-UPDATE (2012 Jan 23)  
-Success! See [____typable e-paper breakthrough____](#blog/2012/01/typable-e-paper-breakthrough/), today's blog post, above.
-
-Now that we have proved the concept, I felt like unloading a little:
-
-Other failures for the record: Jinke makes the Hanlin reader. We emailed for a few weeks in 2011 June about making a custom device for typing. The representative, Liumin, probably realizing I wasn't some deep-pocketed entrepreneur, but just a homeless slob, sarcastically estimated development at $500,000. It was kind of disgusting. Today I was able to I let him know that my team proved the concept for $119. That was satisfying.
-
-Then there was Edo-Tech. Apparently no one reads their email, but I finally I got a message through to them by guessing the management's addresses. Got a hasty reply from the president. A couple emails later with the vice-president, the homeless slob was dead in the water again. They only work with market leaders in a given region. But they also could not even tell me where I could get one of their devices. Business is so strange.
-
-
-
-
-
-### darkness science {#darkness-science}
-2011/01
-
-Just came across these three entries in Wikipedia about the strange light that people often experience in darkness retreats:
-
-
-[____Ganzfeld Effect____][(1], [____Phosphene____][(2], [____Prisoner's Cinema____][(3]
-
-"Cinema" certainly coincides with my idea of the entertainment value of the light show in the dark. It is just the "hallucinations" that the Ganzfeld Effect entry describes.
-
-But maybe hallucinations are not fabrications of consciousness after all. With enough time inside, I think it will become evident either way.
-
-   [(1]: http://en.wikipedia.org/wiki/Ganzfeld_effect
-   [(2]: http://en.wikipedia.org/wiki/Phosphene
-   [(3]: http://en.wikipedia.org/wiki/Prisoner's_cinema
-
-
-### atlas shrugged {#atlas-shrugged}. the movie. is. coming.
-2011/02
-
-Visit the Official [____Atlas Shrugged Movie____][(1] Web Site!
-
-Hey: Dagny Taggart has blackout blinds @1:45 of the trailer.
-
-   [(1]: http://www.AtlasShruggedPart1.com
-
-
-### typable e-paper {#typable-e-paper}
-2011/02
-
-I was talking with someone about my undying quest for typable e-paper. He concluded his comments with this suggestion:
-
-"You can get an ipad and compose a book on that. The ipad has more glare to look at than e-paper that is e-paper's advantage."
-
-I replied:
-
-> I say it in my [____plea____][(1], but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
->
-> The advantage of e-paper is something much greater, much more fundamental, much more affecting than its lack of glare. A matte finish can be put on any display, or even achieved after the fact with plastic screen protectors.
->
-> What is different about all e-paper devices, regardless of their finish–is the absolutely still nature of the image. Once the page changes and the new words and images appear, the screen holds perfectly still. [____**EDIT** The rest of this paragraph is erroneous. See NOTE below {It does not continue to refresh. The tiny pixels are not quivering with reinstatement 60 times per second. The eyes, which normally make 80 movements per _minute_ are not constantly exhausting themselves in adjusting to the movement of the image. As with the static nature of ink on paper, the eyes do not get irritated. Thought and emotion thus remain undisrupted.}
-____>
-> This is why:
->
->   * people love reading on e-paper devices, even if they do not understand exactly why.
->   * e-paper would matter even more to a writer
->   * I think this would be the most important invention since the personal computer, if not the typewriter or even the printing press.
->
-> The written word is the motive power of this culture, the fulcrum at its center. E-paper device makers are thus sitting unawares on a revolutionary opportunity to do something super cool, serve the world–and make a pile of well-deserved money in the process.
->
-> Who will be the one to stand up at a company meeting and help connect the last dots by pointing out the simple, obvious application of an existing product? For the sake of everyone who has ever suffered from:
->
->   * an aching hand from handwriting
->   * injuries from typing on a manual typewriter
->   * the strained eyes, headaches, and insomnia of the hundreds of millions who write on computers
->   * and far more importantly, the consequences of ideas that had to be dragged through all this torment.
->
-> I wish I knew how to help this happen in even the smallest way. I want one of these things in my hands as soon as corporately possible.
-
-[____**NOTE** I learned that it is strictly backlighting that causes the eyestrain I feel with LCD screens, whether the backlight is fluorescent or LED (due to Pulse Width Modulation). See my topic on mobileread about this, [Project: E-Paper Tablet (typable____!)][(2].
-
-   [(1]: /blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)
-   [(2]: http://www.mobileread.com/forums/showthread.php?t=159007
-
-
-### 'new articles: make darkness & retreat manual'
-2011/03
-
-EDIT: these articles were renamed "make" and "protocol"
-
-I wrote instructions for retreating in my darkroom here in Guatemala in [____protocol____][(1] and for creating a darkroom in your home in [____make____][(2]. These are now included in the paper booklet about darkness that I offer.
-
-   [(1]: /protocol/
-   [(2]: /make/
-
-
-### 'cool site: photoperiodeffect.com'
-2011/03
-
-[____photoperiodeffect.com____][(1]
-
-This site talks about the effects of light on health and the use of darkness to reverse many illnesses. The author, Russell Johnston, who has used darkness to significantly heal from a serious malady, Ehlers-Danlos Syndrome, is a dogged researcher and a very clear writer.
-
-   [(1]: http://www.photoperiodeffect.com/
-
-
-### line in the sand {#line-in-the-sand}
-2011/03
-If the Problem results from error, then the solution is virtue. If the Problem results from injury, then the solution is convalescence. Either I am sound but mistaken, or unsound and malfunctioning. Let us stop equivocating.
-
-
-### syllogism {#syllogism}
-2011/03
-
-\[____EDIT: I learned this is not a syllogism, just a regular old argument. Syllogisms have only three propositions. Sigh.\____]
-
-Here is my clearest articulation yet of the conjecture's chain of causation, in the form of a seven-line syllogism:
-
-Suffering comes from a catastrophic injury to the psyche;
-the psyche is a system of an organism;
-organisms are self-healing;
-healing requires vital energy;
-vital energy accumulates during rest;
-psychic rest is most profound in absolute darkness;
-therefore, darkness is the solution to inordinate suffering.
-
-\[____EDIT: See end of [hygiene____](#hygiene/)/psychology and [____basics____](#darkness-conjecture/basics/) for updated versions of this.\]
-
-
-
-
-
-### 'new page: register'
-2011/04
-
-Now you can [____register____][(1] for your retreat online.
-
-   [(1]: /prepare/
-
-
-### limitless {#limitless}
-2011/05
-
-Just saw this movie. Awesome. It gives a good idea of the surge in creativity, clarity, synchronization, and motivation that sometimes occurs in darkness (without the side effects, of course). But just for the record, darkness will ultimately make NZT-48 look like potty training.
-
-
-
-### greece {#greece}
-2011/06
-
-I moved to Greece, partly as a result of my darkness retreat in March (more on that soon). My new friend and final client in Guatemala, Ajna of [____Yoga of Beauty____][(1] in San Marcos La Laguna, Solola, Guatemala, is taking over the darkroom. Contact her through her website. I will be building a business here in Greece to open more darkrooms around the world.
-
-Note: Ajna sold the darkroom to Arjuna. See his website, [____dark-retreats.com____](http://dark-retreats.com).
-
-   [(1]: http://www.yogaofbeauty.net
-
-
-### bodhisattva math {#bodhisattva-math}
-2011/06
-
-Let us say Bodhisattvas are both sincere and realistic in their vow that, after their own personal enlightenment (which will free them from the necessity of reincarnating on this planet) they will keep reincarnating here anyway in order to help liberate all sentient creatures.
-
-Let us further say that they, combined with those of equal realization and commitment in other traditions, manage to liberate a million people a year until the job is done. At that rate, it will still take them 7,000 years to finish. That's if population remains constant from now on.
-
-Keep in mind this is a 2,500 year old tradition. And that all spiritual traditions combined are not pulling off more than a hundred genuine liberations a year. Which, according to some wise men I once knew, is an extremely generous figure. How are we to make sense of the Bodhisattva's project? What are they counting on?
-
-Maybe they are banking on an exponential effect of their efforts. Maybe we are only a few years or generations away. The results come faster as time goes on and the task gets easier, because its enormity nonetheless is shrinking, while their collective power grows.
-
-Maybe they, like the Mayans, are merely holding out till a cosmic event completes the task in one fell swoop.
-
-So they're not worried. Maybe I should not worry so much, either. Many people have said as much, and lately, I have begun to notice what they're talking about.
-
-_And_, maybe it is time to review the effectiveness of the method of liberation. Or maybe we could just _eliminate the need for it_.
-
-### swedish darkroom news {#swedish-darkroom-news}
-2011/09
-
-Location secured for world's second hygienic darkness retreat: newly remodeled small cabin in quiet neighborhood of Swedish resort town. Modifications commence tomorrow; first retreat within two weeks.
-
-EDIT: the above attempt failed. Taking a bare cabin with only electricity and heat and trying to make even a simple bathroom, kitchenette, and ventilation proved overwhelming. No, the thing is to start with a fully functional building, darken it and start retreating, already. This will require taking the message to the people again.
-
-### conspiracy {#conspiracy}
-2011/11
-
-Here is something I wrote a friend about conspiracy theory following a conversation we had recently on the subject.
-
-~~~
-
-…I had a thought during our conversation about 9/11 that there wasn't time to voice, but which I think you would like to hear. So I am writing you with it.
-
-I think the reason that the idea of a conspiracy can be hard to entertain is that it seems to mean that the people involved are evil and consciously do evil things.
-
-This, of course, is nonsense, and people are correct to reject it. The nature of human consciousness is such that it is impossible to do what one considers evil. But it is a simple matter to do evil that one considers good.
-
-Any honest observer of history and current events can see that it is possible to justify anything (including the justification itself). For example, listen to professional political commentators of any persuasion. What is obviously evil to ordinary people can be seen as good and even obligatory by someone in power. Hitler and his helpers thought they were doing the right thing. Even on the stand in Jerusalem, Eichmann never really got what all the fuss was about. Some National Socialists (NAZIs) actually disliked the program, but they believed in it. It is only people's basic innocence combined with their great naivete that enables them fail to make this distinction.
-
-All this is aside from the fact that the ultrarich and powerful are psychologically damaged to a degree almost impossible to believe. I hesitated to mention the other night—and it is horrible to think about—but in many established families, children are subjected to ritual sexual abuse from a young age. If you imagine a boy who is sexually molested in group Satanic rituals from the time he is less than a year old, with the knowledge and even participation of his own parents, then maybe you can see that his view of right and wrong might be a little bit distorted by the time he is forty years old and running a bank, a corporation, or a country (or these days, all three).
-
-If so, then you can also see how it is possible that if the interests of enough organizations require, for example, the events of 9/11, then as surely as the sun will rise tomorrow morning, those events will take place. Obviously the people in power are deadly serious about making omelets, and it matters to them not one whit that you and I happen to be the eggs.
-
-That was the thought. As I write, it leads to a few similar ones.
-
-Exactly why any organization would require such events as 9/11 has a lot to do with the debt-based monopoly money system I tried to describe to you. Since money as we know it comes into existence as interest-bearing debt, the money available to pay back the debt is always less than the amount owed. So as some pay their debts, the economy must expand to provide others more money to pay the mounting debt. This is why there is never enough money and why we are destroying the earth.
-
-Imbalances in the system grow. People begin to borrow just to stay afloat. This inflates the money supply beyond the wealth that backs it and thus devalues cash holdings. Just to stay even, individuals and groups must always be climbing upward financially, stepping on others as they go. We know how desperate the situation is at our level. Imagine the wicked cut-throat tactics necessary to stay at the top of the game, where there truly is never enough.
-
-Poetically, the naive resistance to the idea of an inside job on 9/11 rests on the same benevolent metaphysics as conspiracism. To the conspiracist, the universe is a friendly, life-supportive place and people are basically peaceful and just. Therefore, the horrors we witness in our culture must be _engineered_. So to those we consider denialists, we conspiracists issue this challenge: prove how the material beneficiaries of 9/11 did _not_ perpetrate it.
-
-Lastly remains the simple fact that government has ever been a tool of the elite to control the (admittedly infantile) peasantry (including the managerial "professional" class). That government could one day benefit the peasantry is merely popular propaganda. Since the job of the state consists of subjugating us—since that is what we pay it to do and as quietly as it can—9/11 is precisely what was required of it at this critical juncture in history. So, again: prove that it failed to perform its function.
-
-With convention stood on its head like this, you can see the difficulty that conspiracists and denialists have in communicating. It is not just about the facts. It is about what a person considers humanly possible. Philosophically, it is a metaphysical difference. This is usually unbridgeable.
-
-Everyone experiences what I am talking about, but as part of a whole lifetime of conditioning in resignation (hospitals, TV, industrial food, school, the legal system) and at a low level where the causes are invisible. This is especially true due to the common preoccupation with survival. Few have the time, stomach, or resources to even consider events in these lights, let alone understand or do anything about them. We issue bitter little complaints as we accept it incrementally.
-
-And then there is the successful propaganda campaign about our masters' being too stupid and incompetent to pull off something like 9/11. It is an impressive conceit that we are smarter and more capable than people who coordinate transnational corporations, global wars, and mass media. Those who deny conspiracy have underwhelmed me with their snide ignorance of basic facts of the case. In my few brushes with the ruling class, even average members impressed me as sophisticated and whipsmart. Now they have accomplished the additional feat of convincing most of us they are otherwise.
-
-For the benefit of both us and our tortured masters, I hope that my [____work____][(1] can help bring an end to the madness I describe. Like most people, I believe that each of us, underneath the exhaustion, resignation, and damage, is still innocent at the core. I cannot believe that anyone really likes or is satisfied with what is happening. Surely we can find another way to be here together. But surely we cannot find it without first seeing things as they are, both in our souls and in our society.
-
-Well, it was nice seeing you, again. Thanks for dinner.
-
-Best regards,
-Andrew
-
-   [(1]: /darkness-conjecture/project/
-
-
-### facebook page up {#facebook-page-up}
-2011/11
-
-I made a facebook page called [____Darkness Conjecture____][(1]. There you can read about the latest goings on, including current public talks in southern Sweden.
-
-   [(1]: http://www.facebook.com/pages/Darkness-Conjecture/282926488408253
-
-
-### illuminati it may concern {#illuminati-it-may-concern}
-2011/11
-
-Dear Illuminati,
-
-My understanding is that there are two factions of your organization: both people who try to use their power and wealth to free humanity, and those who use it to enslave us.
-
-To both groups within your vast network, I wish to say that I understand and accept that you are each sincerely trying to handle our collective mess the best way you know how. For a long time, I thought that you were my enemy, and hatred and sadness about your activities consumed me. But now, as a result of my long search for understanding, I am extending both forgiveness and the offer of a way to handle our situation differently.
-
-Since this subject is your main interest, please read my [____darkness conjecture____][(1]. Then write me if you would like to help make this deep way of healing possible for yourselves. I could use your help, you could probably use a break, and working together would be a nice change from our previous isolation.
-
-I have tried to see a way through our conflict that makes a place for **everyone** at the end, especially those of you that many in my position would wish to exclude (if not summarily execute). In my opinion, you are hurt by all this worst of all, and I believe the way I have found would serve you in an acceptable manner. I really believe there is place for all of us, even you.
-
-Welcome.
-
-Sincerely,  
-Andrew Durham
-
-   [(1]: /darkness-conjecture/conjecture/
-
-
-### breakdown {#breakdown}
-2011/12
-
-Something important started to change for me last week. I have been hiding my own need for darkness by trying to make it happen for others. I wrote these posts about it on my facebook page this week:
-
-**Thursday:** Dear Family and Friends: I am very sick. For the first time, I feel that I am slipping, that I might not make it. Please help me realize the solution I found. Not because it could be a solution for you, too. But simply because you care about me. This is what I have been trying to say for three years. –Andrew.
-
-**Friday:** \[____In response to 20 people:\____] I am relieved to hear from each one of you. I also got supportive emails.
-
-What I need is help in arranging and paying for a long darkness retreat. It needs an empty, functional house and people to bring food and say hello to me each day. And I need to not return to the US, where I feel very unsafe, to do it. There are places to rent here and new friends who could help.
-
-The thing is, my 25 years of studying the absolute depths of both my condition and the world's made me good at solving extremely complex problems, but not good at making money or simple arrangements like this. I cannot overstate how much shame and embarrassment I have felt about this. But I can state the truth about it.
-
-Please do not let my articulateness fool you into thinking that I am ok. No matter what, it seems, I am able to talk.
-
-**Sunday:** Thanks to everyone who wrote. My immediate problem is solved. Nearly undetectable poor air quality where I have been staying wore me down over the last month. I am making arrangements to move into a proper apartment tonight.
-
-The wider issue of why I ended up in that situation in the first place is also getting addressed by rekindled support for the darkroom and other unforeseen means.
-
-**Wednesday:** \[____in response to a local friend:\____] I'm basically okay now. Still edgy, but not as bad as yesterday. It was nice to be able to walk with you the other day. I had been slowly suffocating, and then I suddenly crashed. It felt like I'd been run over by a train.
-
-**Thursday** (today): By the way, I never identified my sickness here.
-
-Essentially, I view it as functional psychosis manifesting as a rigid dependence on my mind. This has numerous ill effects on my life, some of which some of you know all too well. For example, unconsciously setting myself up for periodic breakdowns like the one this weekend.
-
-At 16, I had only a vague sense of my sickness. But it was strong, and it motivated my long search for the root cause of rapture: sanity. My discovery of darkness as an irreplaceable condition of psychological health ensued. This is why I have confidence only in darkness retreats as a means of healing from my sickness and why my wish to do one has finally found its way to the top of my priorities.
-
-
-### typable e-paper breakthrough {#typable-e-paper-breakthrough}
-2012/01
-
-At my request, xda developer, verygreen, with support from ros87, has done in 24 hours for $10 and a $109 donated device what tens of companies could/would not do in four years with all their resources (like the $500,000 one company told me it would cost).
-
-Watch him type on the Nook Simple Touch on youtube:
-[____Nook Simple Touch usb host support____](http://www.youtube.com/watch?v=qU3RpK4LEuk)
-
-EDIT: for outline of installation instructions, see:[____Installation Wiki____](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode)
-These are at noob-hacker level.
-
-There are still some bugs, and the instructions are over my head at this point \[____EDIT: not anymore--see wiki link above\____]. But the basics are there now for people who know how to use them. Once the bugs are worked out, I plan to simplify the instructions for everyone's use. Maybe even offer microSD cards with everything pre-installed. \[____EDIT: this plan is off my agenda for the time being.\____]
-
-Here we go.
-
-
-### money without debt {#money-without-debt}
-2012/02
-
-Hey, I just came across this excellent web-based credit clearing system:
-[____Community Exchange System____][(1] \[____EDIT: I no longer dig this system. It's popular but messy.\____] CES* is international, free, simple, compatible with paper systems, thorough, and cool.  It's just about what the godfather of new money, Thomas Greco, calls for in [_____The End of Money and the Future of Civilization_, chapter 17____][(2].
-
-Other worthy systems I've come across in the last couple days:
-
-- [____payswarm.com____][(3] web technology-based, multiple-scenario payment system. Big vision.
-- [____ opentransact.org____][(4] similar goals as payswarm, different architecture
-- [____picomoney.com____][(5] clever, based on opentransact
-- [____cyclos.org____][(6] open source software to run your own bank, complete with free hosting; soul boggling!
-- [____villages.cc____][(7]**is the best implementation of 
-- [____ripplepay.com____][(8], a compelling solution to LETS accountability concerns.
-- [____e-flux.com/timebank____][(9] hip and simple
-- friendly [____favors.org____][____10____] 2nd largest after CES, social, clever, but aging and a bit complicated
-- [____johnturmel.com/uniset.htm____][____11____] very simple, start alone now. Improved by showing account as a ledger using a [____web-based spreadsheet____][____12____]
-- [____JEU/GAME____][____13____] paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.
-
-CES is (NOT*) the most accessible, practical, and mature, though some of these systems, especially payswarm, have much greater potential. Open source money has finally gotten legs, wings… and teeth.
-
-*EDIT: I gave up on CES because of issues with its design and management. So I am exploring two other systems now: [____Community Forge____][____14____], based on Drupal Community Accounting/mutual credit module, and [____Villages____][(7]. It's Ripple base is better, but CF is much more developed. The insides of it look great so far.  Open source, delegated authority and responsibility. Kind of a weak social network, but it is there.
-
-Greco says a proper system needs:
-
-  1. a marketplace
-  2. a social network
-  3. a means of payment
-  4. a measure of value or pricing unit
-
-Both have all four criteria. So it's a toss up for me. I hope Villages works out.
-
-- [____complementaire-economie.startpagina.nl____][____15____] huge list of currencies, systems, and software, some defunct
-- [____ Open Transactions____][____16____] open source digital cash, transmittable through tons of media, needing no third-party record keeper.
-
-Two cool sites about money ideas:
-
-- [____MetaCurrency____][____17____]
-- [____Webisteme____][____18____] inventor of [____#PunkMoney____][____19____], a twitter-based currency. fricking brilliant.
-
-   [(1]: http://www.ces.org.za/
-   [(2]: http://beyondmoney.net/excerpts/chapter-17-complete-web-based-trading-platform/
-   [(3]: http://payswarm.com/
-   [(4]: http://opentransact.org
-   [(5]: http://picomoney.com/
-   [(6]: http://cyclos.org/
-   [(7]: http://villages.cc
-   [(8]: http://ripplepay.com/
-   [(9]: http://e-flux.com/timebank
-   [____10____]: http://favors.org/
-   [____11____]: http://johnturmel.com/uniset.htm
-   [____12____]: http://bit.ly/uletsad
-   [____13____]: http://www.personocratia.com/en/documents/game-full-document.pdf
-   [____14____]: http://communityforge.net
-   [____15____]: http://complementaire-economie.startpagina.nl/
-   [____16____]: https://github.com/FellowTraveler/Open-Transactions/wiki
-   [____17____]: http://metacurrency.org
-   [____18____]: http://webisteme.com
-   [____19____]: http://www.punkmoney.org
-
-
-### dominant assurance with a twist {#dominant-assurance-with-a-twist}
-2012/02
-
-I came up with a twist on [____Dominant Assurance Contracts____][(1]. Which is economist [____Alex Tabarrok____][(2]‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [____Kickstarter____][(3]. In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
-
-My idea takes off from there.
-
-~~~
-
-Dear Mr Tabarrok,
-
-Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.
-
-I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:
-
-- help fund the bonus pot
-- adjust their positions throughout the game.
-
-Here are the rules:
-
-1. The proposer:
-    - sets the monetary goal and deadline
-    - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
-    - sets the maximum bonus rate between 0% and infinity in case of failure
-    - sets the maximum profit rate in case of success
-    - and can increase both these rates until the campaign's deadline
-2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
-3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
-4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
-5. Supporters can make multiple contributions with different bonus rates.
-
-Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [____webisteme____][(4]‘s [____#PunkMoney____][(5], participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
-
-Examples
-
-- Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
-    - A second such supporter of $99 would take away 99% of the pot.
-    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
-- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
-- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
-
-What do you think?
-
-The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.
-
-Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It's relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,
-
-Cheers,
-Andrew Durham
-
-~~~
-
-EDIT: I removed this sentence from the third to last paragraph: "And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?" I decided on "Cooperative". If you think of a better name, please let me know.
-
-EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.
-
-EDIT: added bit about [____#PunkMoney____][(5]
-
-   [(1]: http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html
-   [(2]: http://mason.gmu.edu/~atabarro/
-   [(3]: http://www.kickstarter.com
-   [(4]: http://webisteme.com
-   [(5]: http://punkmoney.org
-
-
-### tech communication {#tech-communication}
-2012/02
-
-Very off-topic note about how I have come to think of long periods of silence and repeated non-responses in text communication with computer technicians. When it happens I assume one of the following:
-
-  * the issue:
-    * was addressed before
-    * is so basic I should already know about it
-    * is easy enough in their minds for me to work out on my own
-  * they don't know
-  * they would like to but can't
-  * they aren't interested
-  * the answer is no
-
-As long as my message contained no interesting requests or instructions, why would they respond? It's like a logic circuit. Or, at least, my idea of one.
-
-I have read forums. There is simply too much data to respond to. One must not suffer fools or welcome the cloying "friendship" of a zillion strangers.
-
-It took me awhile, but I'd like to think I get it. Here's to the techs. I'm on your side. Thank you for making computers happen.
-
-### poetry of rapture {#poetry-of-rapture}
-2012/03
-
-Here is a poem I read at age 17. It prefaces one of my favorite books, _Magical Child Matures_ by Joseph Chilton Pearce. It took all this time to start seeing the meaning. If ever there were a poem of rapture, this is it.
-
-~~~
-
-#### If I Could Only Live at the Pitch That is Near Madness {#If-I-Could-Only-Live-at-the-Pitch-That-is-Near-Madness}
-
-Richard Eberhart
-
-If I could only live at the pitch that is near madness  
-When everything is as it was in my childhood  
-Violent, vivid, and of infinite possibility:  
-That the sun and the moon broke over my head.
-
-Then I cast time out of the trees and fields.  
-Then I stood immaculate in the Ego;  
-Then I eyed the world with all delight,  
-Reality was the perfection of my sight.
-
-And time has big handles on the hands,  
-Fields and trees a way of being themselves.  
-I saw battalions of the race of mankind  
-Standing solid, demanding a moral answer.
-
-I gave the moral answer and I died  
-And into a realm of complexity came  
-Where nothing is possible but necessity  
-And the truth wailing there like a red babe.
-
-
-### gift economy basics {#gift-economy-basics}
-2012/04
-
-Here's a letter I just wrote an associate about the gift economy.
-~~~
-
-Dear…,
-
-I have news about the gift economy that could blow your mind. It has blown mine, anyway. I'm hoping you've heard of David Graeber by now, the author of _Debt: The First 5000 Years_. If not, it is an amazing anthropological study of money. I haven't read it, just the basics online.
-
-Here's the gist: the gift economy is **not** made up of people just giving things to each other without expectation of return. This is a completely mistaken notion spread by a few lucky people who somehow pull that nonsense off (or pretend to). The gift economy is simply letting people you know and trust have things of yours when they need them, with the mutual understanding that when you call on them, they'll do the same. You say, "You like it? Take it!" and understand, "You owe me one."
-
-It is because this understanding among traditional people is unstated, deeply engrained, even _obscene_ to verbalize that modern civilized observers didn't notice it and assumed theirs was the same as our system of unconditional gifts. Which, you'll notice, often has a strange charge of propriety around it, a stale remnant of our past decency.
-
-So the gift economy consists of an endless series of:
-
-  1. delayed exchanges of
-  2. unequal values
-  3. according to customs of evolving complexity.
-
-Some cultures actively discouraged equal exchanges to help people stay on good terms with each other. (Thanks to [____Eli Gothill____](http://twitter.com/webisteme), aka [____webisteme____](http://webisteme.org), creator of [____#PunkMoney____](https://punkmoney.org) for points 2 & 3.)
-
-Graeber also exposes the barter system as a myth. There are no examples of it among established people. Spot trades of equal values are only found between:
-
-  1. strangers
-  2. people who have temporarily lost their currency system (and haven't developed a gift economy yet due to conditioning)
-
-Graeber's more general discovery about money is that before there was gold or clams or whatever people are said to have used as money, people had mutual credit systems. For example, tally sticks. Money was a *unit of account*, not a commodity-based *medium of exchange*. These credit systems were just formalizations of the old gift economies. Commodity-based money like gold or wheat came much later. And it came by force, too, like our current central bank-issued monopoly monies.
-
-I think what the mutual credit systems I have found are really good for is reorienting people to this way of seeing a local economy while maintaining the familiarity of accounting and limited debt exposure. Once a basic reorientation occurs, the system can become informal. In other words, not written down with arithmetic.
-
-When I was learning a new diet that had me counting calories (to make sure I got *enough* of the right kinds), I got into it for a couple weeks, then I just knew. It was like a skill. Once acquired, there was no need to keep exact record anymore.
-
-Here is the interview that finally got it through to me:
-[____An Interview with Economic Anthropologist David Graeber____](http://www.nakedcapitalism.com/2011/08/what-is-debt-%E2%80%93-an-interview-with-economic-anthropologist-david-graeber.html)
-
-I'm telling you because you and I have both struggled with money and with the gifting idea for a long time, and we ought to have a solution to it finally. I think we were basically right. We have been broke because we didn't really want to have anything to do with regular money. It's got blood all over it. It's a tool of enslavement. To hell with it. Better to eat out of dumpsters.
-
-But in 24/7 unconditional gifting, we were offered a false alternative. Historically, it is bizarre. It is a purely civilized invention. We wage-slaves evolved it to get a break from the cold, even exchanges we have to make most of the time. The real gift economies kept people obliged to each other, preserving relationships and work—peace and prosperity at a reasonable level.
-
-Like I said, the exemplars of the unconditional gifting lifestyle whom we have met are just lucky. It's not learnable. It's unnatural and unnecessary. It's a sham.
-
-Hope this helps.
-
-Best regards…
-
-
-### new stuff {#new-stuff}
-2012/04
-
-A handful of new and changed things have appeared in the last months without announcement:
-
-  * Three new retreat reports under "four darkness retreats"
-  * Updates to "make darkness" and "retreat manual" based on my latest findings
-  * Categories for both posts and pages
-
-More to come.
-
-### brainsdamaged {#brainsdamaged}
-2012/04
-
-Psychology is the study of the psyche, not just the mind. Thus mainstream psychology will continue failing to seriously help people as long as it considers health and illness "mental" rather than "psychic" in nature. The psyche---consciousness---is not just mental, but emotional and physical as well. Feeling and movement are not mere products of the intellect, but their own forms of intelligence.
-
-Various spiritual traditions have posited this for ages. Gurdjieff, a Sufi, said, "Man is a three-brained being." He called these brains, "centers of intelligence." In addition to the thinking center of intelligence, there are the feeling and moving centers of intelligence. Some psychological schools recognize this triune intelligence as well.
-
-A very useful and easy to learn typology* is based on the three ways that psychically traumatized people unconsciously armor themselves. Some people live into their heads. Others retreat deep in their hearts. Others go with their guts. It's right here in our language!
-
-Robotic intellectuals. Sensitive, helpless artists. Dumb athletes/fighters/laborers. We are entertained by the limitations of each stereotype. Nonetheless, all are able to do amazing things with their minds, hearts, and bodies respectively. All excel differently with different forms of intelligence.
-
-Large amounts of neural tissue have been found in the [____heart____](http://wiki.answers.com/Q/Can_you_find_nervous_tissue_in_the_heart) and the [____alimentary canal____](http://www.scientificamerican.com/article/gut-second-brain/). There is a physical basis for intuition and hunches.
-
-Psychic trauma and illness must be seen not just in the mind, to be worked out in only an intellectual way. We must also find the illness in the heart and gut and the rest of the being these are only centers for. Trauma must be worked out in a whole way, by organic processes also involving feeling and movement, conditions and time. We have more than one brain, and they are damaged. We are brainsdamaged.
-
-&nbsp;
-
-*Da Free John (Adi Da Samraj) explains this typology in detail in _The Eating Gorilla Comes in Peace_. Gurdjieff makes many observations about tendencies of the three different types in Ouspensky's _In Search of the Miraculous_.
-
-
-### koloni {#koloni}
-2012/04
-
-The koloni is my great discovery about Sweden this year. There is nothing like it in the States, really. That you can legally live somewhere that costs as little as one month's salary to OWN is beyond belief. It can be had for as little as 9000:KR
-(See [____blocket.se____][(1]. Here is a [____recent one____][(2]. The whole rent thing is such a ridiculous drag.
-
-It is maybe the greatest thing I have heard of in an industrialized country in my whole life. While kolonis are often near loud roads, trains, and electrical stations, there are nice places, too. It's actually how people should live: in small houses surrounded by gardens, other people who are basically there to relax, no cars, minimal fencing, compost toilets, little or no electricity.
-
-Of course, as a way of life, it is a big secret, because Swedes seem conditioned to see kolonis as vacation/summer/second homes, not primary residences. Some places are fairly closed down in the winter, and some places are not legal to live in in the winter due to insufficient insulation. But there are others where no one cares if people stay all the time. Houses can be properly insulated. Rainwater can be harvested. Power can be had from the sun and wind. Composting toilets are practically free to build.
-
-Again, I can't believe this is right under peoples' noses, and the government allows it. You pay 500-1500 yearly fees for basic services, keep your garden nice, your noise level down, and you're in. One could grow a tall hedge over time, I think, for pleasant privacy. It is instant freedom from the slavery of school/work/rent/distraction.
-
-There are deals like this everywhere in the third world, of course. But, boy. What a miracle to find it in the first. It makes me think of developing a whole koloni with curved paths, round stugas, permaculture, etc. It would be a real village over time, with its own economy, etc.
-
-Hmm. Except when the children are 6, they are all confiscated by the state for brainwashing and family destruction. Bummer.
-
-   [(1]: http://blocket.se
-   [(2]: http://www.blocket.se/eslov/Kolonilott_med_hus_pa_Prastkragen_39503878.htm?ca=11&w=123
-
-
-### tao versus moralism {#tao-versus-moralism}
-2012/05
-
-#### tao te ching {#tao-te-ching}, chapter 38
-
-The Master doesn't try to be powerful;  
-thus he is truly powerful.  
-The ordinary man keeps reaching for power;  
-thus he never has enough.
-
-The Master does nothing,  
-yet he leaves nothing undone.  
-The ordinary man is always doing things,  
-yet many more are left to be done.
-
-The kind man does something,  
-yet something remains undone.  
-The just man does something,  
-and leaves many things to be done.  
-The moral man does something,  
-and when no one responds  
-he rolls up his sleeves and uses force.
-
-_When the Tao is lost, there is goodness._  
-_When goodness is lost, there is morality._  
-_When morality is lost, there is ritual._  
-Ritual is the husk of true faith,  
-the beginning of chaos.
-
-Therefore the Master concerns himself  
-with the depths and not the surface,  
-with the fruit and not the flower.  
-He has no will of his own.  
-He dwells in reality,  
-and lets all illusions go.
-
-\[_____emphasis added_\____]
-
-
-### genius and the stupidity problem {#genius-and-the-stupidity-problem}
-2012/07
-
-One of my purposes with a solution to inordinate suffering is to solve "The Stupidity Problem". Stupidity results from psychic malfunction due to major psychic trauma. Healing from this will automatically restore natural human genius. Everyone has genius. It is yet another casualty of the stupidity-inducing process of becoming civilized through routine brutality and casual violence. But I have occasionally glimpsed genius in myself and others. It is yet another of the gems to be recovered upon recovering full health, full sanity, full consciousness.
-
-I am going to be a genius again. I am clearing the way for billions of people be geniuses again. We are going to live forever do the same for the people of a billion other planets suffering the same psychotic stupidity as we do here. We will extinguish this age of darkness... with darkness.
-
-“Everyone is born a genius, but the process of living de-geniuses them.”  
- --Richard Buckminster Fuller
-
-
-### john zerzan {#john-zerzan}
-2012/07
-
-John Zerzan was my neighbor in Eugene, Oregon. I got to know him through a long-lost friend who happened to help edit _Green Anarchy Magazine _with John. It was a great honor to meet him. John even critiqued one of my earlier writings, [____Sociality Undenied____][(1]. But until now, I had not absorbed his basic ideas from books, only gotten a shallow grasp of his thesis from his articles and conversation.
-
-_[____Running on Emptiness: The Pathology of Civilization_____][(2] is the most intellectually exciting thing I have read in a long time. I knew that suffering, technology, hierarchy were the inventions of civilization. But I did not know time, language, art, and culture itself were, too.
-
-This goes beyond Daniel Quinn's critique of civilization. Quinn's and Zerzan's prescriptions overlap in some ways, differ in others.
-
-Also I find it amazing to read a 60 year-old's crying out against the inhumanity of our society with such vehemence as John's. It's such a relief from feeling alone in my own protestations. Highly recommended.
-
-   [(1]: /other-writings/sociality-undenied/ (Sociality Undenied)
-   [(2]: http://theanarchistlibrary.org/library/john-zerzan-running-on-emptiness-the-failure-of-symbolic-thought
-
-
-### new retreat center in works {#new-retreat-center-in-works}
-2012/10
-
-My new business partner and I are building a new darkroom in Central Sweden. Will be open to the public when it is ready. Lots of cool things in the works. More news when we have it!
-
-### guatemalan darkroom under new ownership {#guatemalan-darkroom-under-new-ownership}
-2012/10
-
-Arjuna Thilo has taken over the darkroom I built in Guatemala. Ajna, the woman I sold it to, passed it on to him a few months ago. I never met Arjuna in person, but our communication has been good and he has built a serious website in support of the darkroom. Check it out!
-
-[____Dark-Retreats.com____][(1]
-
-   [(1]: http://dark-retreats.com
-
-
-### post-retreat protocol {#post-retreat-protocol}
-2012/12
-
-I've learned something really important this year about retreats, which is that for every 2-3 days spent inside, one day of identical conditions (except for being in light during the daytime) is necessary afterward to readjust to light and regular consciousness and to absorb the value of the retreat.
-
-This takes a serious plan. The natural impulse is to blow off all the energy gained in the retreat. This can cause as much harm as the retreat did you good. The organism simply needs time to adjust. The parallel with an old saying about fasting is exact: "Any fool can fast. It takes a wise person to break a fast properly."
-
-So if you are going to do a six-day retreat, then schedule two more days at the darkroom so you can continue resting in darkness while spending more and more time in daylight. If it is too late or too expensive to schedule this time at the darkroom, then arrange a private, quiet place to go directly afterward where distractions and stimulation can be minimized. Maintain the same diet of fruits and green leaf vegies. No electronics, no visitors or media.
-
-Time in darkness greatly enriches one's inner life. Relishing it when it is so ripe is one of the points of setting this time aside. After this transition period, move as slowly back into your regular life as possible. Avoid annoyance. Take care to sleep. Take care of yourself.
-
-
-### swedish darkroom nearly ready {#swedish-darkroom-nearly-ready}
-2012/12
-
-The darkroom we have been building in Skattungbyn, Sweden is nearly ready. We are putting the finishing touches on the nifty [____fiwihex____][(1] ventilation system today and will test it before the weekend is out. We will test and refine it with local supporters in January and open it to the public in February. You can see a calendar for it on the [____register____][(2] page.
-
-   [(1]: http://viking-house.ie/fine-wire-hrv.html
-   [(2]: /prepare/
-
-
-### human exceptionalism {#human-exceptionalism}
-2013/02
-
-This meme is the essence of the Dilemma. It is the idea to be exposed, invalidated, replaced, buried.
-
-### darkness talk 2011 {#darkness-talk-2011}
-2013/03
-
-[____Using Darkness to Heal from Civilized Psychosis____][(1], talk I gave in 2011 in Helsingborg. I liked how it went.
-
-   [(1]: http://www.youtube.com/watch?v=P8dMuf4KtUM
-
-
-### books {#books}
-2013/04
-
-I am working on a book now. It will contain all the articles about darkness here, all my retreat reports, and several blog posts that elaborate on theory and history of the conjecture. Once the book is published, I will start giving more talks.
-
-### first client {#first-client}
-2013/04
-
-Our first client had a good retreat last week and our second client will exit the darkroom tomorrow. Sign up for your retreat now on the [____register____][(1] page.
-
-   [(1]: /prepare/
-
-
-### laws of life {#laws-of-life}
-2013/04
-
-Check out Herbert Shelton's cogent discussion of the [____Laws of Life____][(1] as formulated in Natural Hygiene.
-
-   [(1]: http://www.naturalhygienesociety.org/members/general/e/files/lawsoflife.pdf
-
-
-### the darkness hypothesis {#the-darkness-hypothesis}
-2013/04
-
-For four years, I have been trying to do a 14-day retreat. I thought short retreats were of little value, that a long retreat was the only action that mattered. But a room good for 14-day retreats is harder to set up than one for 4- or 8-day retreats. In my dysfunction, it was too big a leap for me, like trying to jump across a wide river. In my [____last retreat____](http://andrewdurham.com/2x2), I discovered my first stepping stone.
-
-With this retreat, the conjecture has become a hypothesis for me. The principal obstacle to human function and happiness is obviously psychic trauma, and dark retreating really works in healing from it. I'm not out of the woods yet, but this is definitely a clearing.
-
-This book closes the first phase of practical effort that began four years ago Christmas morning. Once it is published, I will tour with it to generate more interest in dark retreating as well as more income and stability for myself. Then a longer retreat will become possible.
-
-For the second phase, we will make a documentary about my investigation, focusing on my discovery of darkness. It will climax with the 14-day retreat and show the aftermath.
-
-In its theme of reckless uncompromise, it will echo the story of another extreme seeker, Christopher McCandless (of _Into the Wild_). He also wanted to find a way to break out of our sick conditioning and live a real human life. I want to show what becomes of such a person who lives to share his findings.
-
-
-### static site generator {#static-site-generator}
-2013/05
-
-Soon I will migrate this site to a new content management system based on a static site generator. Generators are clients (like [____jekyll____][(1]), hosted, or self-hosted (like [____blosxom____][(2] and [____stacey____][(3]). I'm most interested in hosted generators that use [____dropbox____][(4] and [____github____][(5] and usually [____markdown____][(6]. Here are the ones I have found so far:
-
-calepin.com (closed)
-[____droppages.com____][(7]
-[____scriptogr.am____][(8]
-[____site44.com____][(9]
-[____paperplane.io____][____10____]
-[____telegr.am____][____11____]
-[____markbox.io____][____12____]
-[____dropplets.com____][____13____]
-[____kissr.com____][____14____]
-
-I'll add to this list as I find more.
-
-   [(1]: http://jekyllrb.com
-   [(2]: http://blosxom.sourceforge.net
-   [(3]: http://staceyapp.com
-   [(4]: http://dropbox.com
-   [(5]: http://github.com
-   [(6]: http://daringfireball.net/projects/markdown
-   [(7]: http://droppages.com
-   [(8]: http://scriptogr.am
-   [(9]: http://site44.com
-   [____10____]: http://paperplane.io
-   [____11____]: http://telegr.am
-   [____12____]: http://markbox.io
-   [____13____]: http://dropplets.com
-   [____14____]: http://kissr.com
-
-
-### retreat reports moved {#retreat-reports-moved}
-2013/05
-
-All my retreat reports are now blog posts, arranged chronologically in their own category, report.
-
-EDIT: this has changed again. [____Reports____](#reports/) are now a main menu item.
-
-
-### how not to retreat {#how-not-to-retreat}
-2013/05
-
-Retreating for less than 56 hours seems to be a really bad idea. \[____EDIT: glad to be wrong about this____! See UPDATE below\]
-
-Three times in the last half-year, I have done mini dark retreats: once for 36 hours, twice for 16 hours. It just meant going to bed as usual then sleeping *way* in: waking up and going back to sleep several times, maybe all day and another night.
-
-Rather than being lifted over a chasm, enabling further forward motion (as in 56 hours of darkness), a mini-retreat is like being lifted out of the dumps to a great height (nice), then dropped (not nice). I did not do this on purpose. It just happened in moments of crisis and extreme exhaustion. I needed rest but I was unprepared for a proper retreat. Unfortunately, this almost killed me.
-
-A mini-retreat does not give enough time for the organism to adjust to being so re-energized, deal with underlying issues, or reset ones internal clock. Its like darkness turned into a drug.
-
-At first it seemed promising. I went in super depressed and came out feeling like superman. So energized, I would lose track of time more easily than usual, stay up all night, go to bed feeling like crap and wake up feeling like supercrap. My poor sleeping habits were not neutralized in 16 hours, as in a regular retreat. They were accentuated. This excited my suicidal tendencies. I would not be surprised if people with good sleeping habits got thrown off them by this surge of energy.
-
-For me, the point of a retreat is that it requires virtually no effort, and at the end, some things are made right in a permanent way, or at least fade out slowly. To do a retreat in a way that requires extra discipline afterward is stupid.
-
-The only way it might work is if a person can go to bed on time despite having so recently awakened and with so much energy. But I still suspect something bad could happen. Ego-inflation at least. Like when people fast for psychological or spiritual reasons.
-
-Myself, I have enough difficulty getting to bed without the promise of disaster if I dont. Normally, if I stay up late, I just get more exhaustion. Staying up after a mini-retreat led to serious vital and emotional crashes all three times I did it.
-
-The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldnt figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
-
-My shocking break-up in the fall from a girlfriend, set me up for all this. But the two mini-retreats I did afterward crystallized this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
-
-I was thinking of offering this kind of retreat as an introduction to darkness. It proved a _failure point test_: finessing a design to the point of collapse to find its absolute minimum requirements. A mini-retreat simply does not meet them.
-
-**UPDATE:** I found a way to do a mini-retreat safely. The above dire description should just be taken as a warning against starting and ending a mini-retreat _late_. Starting and ending early is the key.
-
-Go to bed in total darkness early: by 20:00 at the absolute latest. You might sleep the whole night if you are really tired. But if you wake up in the middle of the night as I usually do, don't turn the light on. As in a longer retreat, you can hang out, meditate, exercise, eat a bit of fruit, or take a shower. But stay in darkness. Return to bed after an hour or two and sleep. In the morning, uncover the windows by 10:00 (set an alarm) and have a regular day.
-
-A mini-retreat is not as impressive as regular ones. But it is safe, it feels really good, and it accustoms one to total darkness without disrupting one's schedule.
-
-It is actually just a slight modification of a normal night's rest, in which one goes to bed early, wakes up in the wee hours for a bit, then sleeps again. That was common until artificial light came a hundred years ago. We haven't adapted to sleeping the night through. We have just accommodated with chronic exhaustion.
-
-
-
-### revisions {#revisions}, book
-2013/08
-
-I am working with professional writers to edit the darkness conjecture in preparation for publishing a proper book based on it. Several of the articles have changed significantly. Rapture and hygiene are extended. The retreat manual is now divided into design and protocol, and make was divided into format and design. All of these are better organized. More changes to come. These will include a re-organization of the articles into sections and a migration away from WordPress.
-
-### peep {#peep}
-published: true
-2015/03
-
-I haven't made a peep here in almost two years. But not for lack of activity on my part. I released a new version of my book in early 2014. I discovered a flaw in my vent and started working on it, never dreaming it would take this long to fix, going through two versions and 20 iterations. I built several private darkrooms in the process and just released a new edition of my book that reflects some of my new designs and thinking about retreating. The main change, small but important, is reflected in the format chapter, summarized in the first paragraphs there.
-
-
-### 2016 overhaul {#2016-overhaul}
-published: true
-2016/05
-
-After two years of work, the new edition of my book, _darkroom retreat: deep rest for the self-healing psyche_, is finally done, fancy computer drawings, theoretical breakthroughs, and all. Get it now at [____leanpub____](https://leanpub.com/darkroomretreat) for free or pay what you like. Or just read it [____here as webpages____](/). Leanpub keeps your name and contact info private, even from me, while enabling me to automatically send you free updates to the book.
-
-This edition started when Simen Kirkerød, a friend and supporter in Norway, sent me a shocking message that the lightproof vent I'd just made for him leaked light like crazy. It turned out he was right, and that my design was rather stupid. I was appalled. The simple hand-drawings in my book were possibly misleading billions of people all over the world trying to darken their rooms! The situation would not stand.
-
-I had added the drawings to my book almost as an afterthought. I sketched them in an hour or two, and it seemed so simple that idyllic night in Karlstad, Sweden. Dozens of prototypes and a year later, I actually came up with a functional vent that is as small as possible while being relatively easy to make.
-
-About the same time, I got new ideas for other components. I learned to draw everything on a computer and things got out of hand. Now you can see all 19(!) drawings and several photos in the [____make____](#make/) chapter.
-
-I also made a couple theoretical breakthroughs regarding hygiene:
-
-- formulation of the Law of Vital Capacity, which explains the beneficial mechanism lurking behind self-sabotage (and virtually everything else in life that goes sideways). See [____hygiene____](#hygiene/)/capacity
-- darkroom retreating's greater importance than fasting. This includes how darkroom retreating will make long, self-managed (unsupervised) fasts possible for the masses. This fulfills hygiene's radical promise of perfect health for the people and, along with my previous discovery of trauma at the heart of all disease, helps prepare hygiene to finally overcome medicine's strangehold on healthcare. See [____hygiene____](#hygiene/)/psychology.
-
-So much happened in the last two years, it will be difficult to catch up. But in the coming weeks and months, I will renew my [____blog____](#blog) and share some of my thoughts from this period. Some of them I already posted on facebook (where I tend to restrain myself more than I like sometimes). Many of them are still text files on my computer.
-
-Many thanks (again!) to Daniel Reed and Heidi Sheryl Ewen in Sweden; Ketil Berg, Terje Tjensvoll, Bård Anders Lien, Benjamin Astrit Wold, Erlend Hårstad, Curare Austad, Magnus Vanebo, Bertrand Besigye in Norway; and Ségolène Lefébure, Marie Richter, and Virginie Bournaud in Paris for indispensable help since 2014 in completing this task. Special thanks to Sasha Day for heroic help with relevant personal matters, Nancy Gayle for cheerleading, and Mercedes Amapola Vlachou and Marion Abbott for recent enthusiastic help in preparing the text. Please forgive me if I left your name out of this list.
-
-Everyone, please let me know what you think of this new edition and what you need. Cheers!
-
-### new title {#new-title}
-published: true
-2017/09
-
-I changed the name of the site and book. As darkroom retreating is growing a lot, I find it increasingly necessary to differentiate the hygienic from the usual spiritual, therapeutic, and psychedelic approaches. "Deep rest" unfortunately sounds like depressed, and other hygienists use the phrase, "profound rest", so I changed that, too. The essence of the book remains the same, or more so. I have new sections planned and will write them as soon as I am capable. Cheers.
-
-
-### 2017 september update {#2017-september-update}
-published: true
-2017/09
-
-In 2016 June, I gave up on overwork as the means to arrange the conditions of profound rest for myself. With the help of Marion Abbott, a great new friend and fellow darkness seeker, I made a successful crowdfunding campaign to raise the money I needed to finally retreat for 20 days. 
-
-For the first days, I was euphoric. Finally, the way was cleared for me to retreat. Or so I thought.
-
-In four months, with $2800, I only arranged a rushed 5-day retreat. My incapacity was heartbreaking and unbelievably strange. The ability I had counted on to accomplish the retreat vanished upon acquiring the means to do so. The incapacity persists and intensifies to this day. In February, I arrived at an explanation: the automatic loss of [____false capacity____](#false-capacity) upon recovery of original capacity. This has helped me remain calm about my hastening debilitation.
-
-I continued trying to arrange a retreat while struggling to keep a roof over my head as usual. I found a workshop to prefabricate a new portable building in. I met several people interested in participating and supporting it somehow. But my living situation constantly interfered with my efforts.
-
-Finally I realized what everyone who knows me must know: my biggest and most immediate problem is my homelessness. I shifted my focus from arranging a retreat to making a home for myself. Everything started fall into place. With a home, I could do the retreat and the hundred other things I need to do and which constantly plague my efforts to retreat. My darkroom building project became my home building project. For several hours one day, I felt [____rapture____](#darkness-conjecture/rapture) for the first time since it overcame me as a teenager.
-
-The hexayurt will be a full-size hexayurt (4.8m inside diameter, corner to corner) of massive materials for warmth and sound insulation yet still portable. As a darkroom is just a proper shelter that is easily darkenable, the whole building will meet my specifications in [____design____](#design). I have built one-third of the floor. Photos soon.
-
-About the same time (June), my meager cryptocurrency investments of the previous 18 months matured. Suddenly I had enough to build and feed myself.
-
-The whole time I wondered what the hell had happened to me this year. Besides my strange incapacity, I felt like I had a target painted on me. I encountered several personality-disordered people in the past 18 months and one genuine psychopath this spring, perhaps the most evil person I have ever met. It nearly did me in.
-
-I got away from him in time. I was offered a two-month housesitting job in a run-down yurt I didn't have to do much for. I had it to myself and began to recover. One day, I felt a primal power begin to stir in myself. It is the power to live, to survive, to run or fight, to maintain one's place in the world in the face of challenges, to take care of oneself, to be satisfied in oneself. Money represents it. It is fundamental to sexual power, which I had explored and [____reported____](#reports/) on in recent years. The power to live had been largely decimated in me as a child, as much or more than my sexuality. But here it was. It felt clear though very faint.
-
-Though I have more money (on paper) than I ever had at once in my life, my capacity for money and for the power it represents remain quite limited by ordinary standards. I pray it is enough to get me into darkness for 20 days. We will see.
-
-Meanwhile, a new reader contacted me and offered to edit my book. She did it in June. We corrected lots of typos, spelling and grammatical errors. I also cleaned up the appearance of the book's text by eliminating footnotes and underlining words that are links in the PDF or online. The new version is up at [____leanpub____](https://leanpub.com/darkroomretreat)
-
-It also includes three crucial new designs: a [____silencer____](#silencer), [____fan mount____](#fan-mount), and [____instant sleeping mask____](#sleeping-mask). I believe these complete the basic suite of components everyone needs to make a proper darkroom and endure till it is ready to retreat in.
-
-Ok, till next time.
-
-
-
+[&lt;](#fukuoka/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#d/)
+{:.arrow}
 

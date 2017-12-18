@@ -44,3 +44,7 @@ All in all, I had what I consider an extraordinarily valuable experience with th
    [9]: /darkness-conjecture/strifeless/
    [10]: /darkness-conjecture/hygiene-notes/
    [11]: http://www.okcupid.com/profile/brisully
+
+[&lt;](../365-day-retreat-of-150-year-old-yogi/)&nbsp;&nbsp;&nbsp;[`^`](/)
+{:.arrow}
+
