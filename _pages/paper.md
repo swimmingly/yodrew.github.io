@@ -1,13 +1,21 @@
 ---
 title: darkroomretreat.com extras
-layout: page
+layout: print
 permalink: /paper/
 ---
 
-This is the secondary content from [darkroomretreat.com](http://darkroomretreat.com) in one printable document. The main content is in the book, hygienic darkroom retreat, available on the site and at [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat). 
+# darkroomretreat.com extras
 
+This is the secondary content from [darkroomretreat.com](http://darkroomretreat.com) in one printable document:
 
-## blog  {#blog}
+1. blog
+2. the darkness conjecture
+3. reports
+4. other writings
+
+Main site content is in the ebook, hygienic darkroom retreat, available from the site and at [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat).
+
+## blog {#blog}
 
 
 ### welcome {#welcome}
@@ -1661,7 +1669,7 @@ It also includes three crucial new designs: a [silencer](#silencer), [fan mount]
 Ok, till next time.
 
 
-## the darkness conjecture {#the-darkness-conjecture}
+### the darkness conjecture {#the-darkness-conjecture}
 
 #### a strifeless recovery of rapture {#a-strifeless-recovery-of-rapture}
 
@@ -3571,7 +3579,7 @@ The world is our home. We will not abandon it in its time of need, after the man
 #### [Gallery](http://andrewdurham.shutterfly.com) (off-site) {#[Gallery](http//andrewdurham.shutterfly.com)-(off-site)}
 
 ---  
-### Poems {#Poems}
+title: Poems
 
 #### 1992-93 {#1992-93}
 
@@ -4144,7 +4152,7 @@ Eugene 2006 Jan
 {:.arrow}
 
 ---  
-### Lyrics {#Lyrics}
+title: Lyrics
 
 #### Exactly Me {#Exactly-Me}
 
