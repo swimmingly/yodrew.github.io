@@ -1661,67 +1661,6 @@ It also includes three crucial new designs: a [silencer](#silencer), [fan mount]
 Ok, till next time.
 
 
-### dominant assurance with a twist {#dominant-assurance-with-a-twist}
-
-2012/02
-
-I came up with a twist on [Dominant Assurance Contracts](http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html). Which is economist [Alex Tabarrok](http://mason.gmu.edu/~atabarro/)‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [Kickstarter](http://www.kickstarter.com). In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
-
-My idea takes off from there.
-
-~/~
-
-Dear Mr Tabarrok,
-
-Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.
-
-I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:
-
-- help fund the bonus pot
-- adjust their positions throughout the game.
-
-Here are the rules:
-
-1. The proposer:
-    - sets the monetary goal and deadline
-    - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
-    - sets the maximum bonus rate between 0% and infinity in case of failure
-    - sets the maximum profit rate in case of success
-    - and can increase both these rates until the campaign's deadline
-2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
-3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
-4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
-5. Supporters can make multiple contributions with different bonus rates.
-
-Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [webisteme](http://webisteme.com)‘s [#PunkMoney](http://punkmoney.org), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
-
-Examples
-
-- Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
-    - A second such supporter of $99 would take away 99% of the pot.
-    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
-- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
-- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
-
-What do you think?
-
-The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.
-
-Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It's relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,
-
-Cheers,
-Andrew Durham
-
-~/~
-
-EDIT: I removed this sentence from the third to last paragraph: "And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?" I decided on "Cooperative". If you think of a better name, please let me know.
-
-EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.
-
-EDIT: added bit about [#PunkMoney][5]
-
-
-
 ## the darkness conjecture {#the-darkness-conjecture}
 
 #### a strifeless recovery of rapture {#a-strifeless-recovery-of-rapture}
@@ -2919,7 +2858,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Links](./links/) others' good designs &etc to learn and sing
     - [Origins of Agriculture](./origins-of-agriculture/) a stunning _What if…?_
     - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
-    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri, French hygienic master
+<!--    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri, French hygienic master -->
     - [QWERTY to Dvorak](./d/) typing translator
     
     
@@ -5279,74 +5218,5 @@ All Rights Reserved.  No Part Of This Document May Be Reproduced For Commercial 
 _<font color="#FF0000">*[(BACK)](#web/20051224120427/http://www.seedballs.com/2seedpa.html) -- (GO [![](world9.gif)](#web/20051224120427/http://www.seedballs.com/3seedpa.html) ON) -- [(EXIT)](#web/20051224120427/http://www.seedballs.com/)*</font>_
 
 [&lt;](#origins-of-agriculture/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#mosseri/)
-{:.arrow}
-
-
-
-### Fasting Discovery {#Fasting-Discovery}
-
-from
-"A Prodigious Discovery"
-_Fasting: Nature’s Best Remedy_
-by Albert Mosséri 
-ch19, p136
-http://rawfoodconsultations.com/book.html
-
-~~
-
-"In 1986, I made a prodigious discovery in the field of fasting that forced me to revise my Sheltonian method. This is how I was led to make this discovery:
-
-A 37-year-old man came to fast under my supervision. He had taken 104 different tranquilizers for his nervous state during the past 14 years. As soon as a drug wasn't having any effect anymore, his doctor prescribed him another one, thus the incredible number of different tranquilizers he took. He wanted to cure himself without drugs of any sort, so he fasted for 29 days.
-
-Then he became tense, incapable of relaxing or sleeping and unable to drink water despite an intense thirst and an acute kidney pain. I told him that he could not continue this way, even though he still had a lot to eliminate - his tongue was still very coated, his urine dark, his breath foul and he had pains in the kidneys despite all the water he had drunk.
-
-He responded that he still had a lot of time and that he wanted to complete his detoxification... so i thought that the opprtunity had come, for the first time, to make him follow a detoxification diet...
-
-Every time a faster breaks his fast, he only wants to leave and I can't monitor his tongue anymore... for all those that come for a cure, my greatest concern is to facilitate the reintroduction of food, in a manner that avoids all the problems... must ration the quantities each day, increasing them and change the types of food according to each case... I do all this while watching the various symptoms that will guide me in the process.
-
-I rarely have this chance... I was fortunate to have such a determined man in my care.
-
-Three days after breaking his fast, I entered his room to bring him a few small apples. He told me, "Mr. Mosseri, look at my tongue" ... it was charcoal black! It didn't take long to understand this surprise... I had already seen a few cases where the tongue turned black during a fast - but this man was eating again! Yet the color was not accidental... I had provoked it with this "detoxification diet". I had restarted his elimination, the profound elimination of a fast. I also realized that I could have done this much earlier - a week earlier, at the 20th day of the fast.. he thus lost about ten days, during which time his elimination was very weak ... his tongue stayed black for a few days... then it turned a mustard yellow for many weeks, before returning to a healthy rose color ... at the same time, hunger came back - a true hunger - and the kidney pains disappeared... I then fed him a normal diet. I wondered if this case was an exception, or if it could be imitated as many times as possible with other fasting patients... obviously, this half-fast had accelerated his elimination, but one case does not mean much ...I needed verification through numerous, varied cases ....
-
-I started again in the same manner with two sisters that came after the man... the very day after they broke their fasts, their tongues were coated brown ... since then, 90% of my patients develop a colored tongue upon breaking the fast and commencing the half-fast and the other 10% develop it during a second cure ... this half-fast must, of course, be continued as long as the tongue is even a little colored... a black tongue shows that elimination has deepened, reaching into cellular level to root out decades-old drugs and toxins ... other questions came naturally in my mind: at what moment do we break the fast and go to the half-fast? What quantities of raw foods must be given to the patients?
-
-Having observed it many times, I already knew that a day comes when a patient's weight ceases to drop... only now do I understand why! As for the food quantities, with a lot of trial and error, I arrived at the actual rations, more or less according to the height of the person ...
-
-In the classical method, promoted by Shelton, the fast is pursued with water in bed... but when the fast is continued, though the body ceases losing weight, elimination becomes insignificant and time is lost ... when someone noted to Shelton that a faster was only losing 200g a day and that the elimination barely continued, he answered that it was 200g gained and that it was still better than nothing ... he did not see we could jump-start elimination instead of standing about, making no progress ... when the fast is pursued at this stagnant stage, weight hardly falls and elimination barely proceeds because the body does not have enough vitamins and enzymes for it ... the body has just enough to survive.
-
-As we have seen earlier, the body's reserves are imbalanced ... there is always too much fat and toxins and too few essential elements, when they run out, we go to the next phase, the half-fast, and the tongue colors itself in 90% of cases ... for the other ones, it will color at a second fast ... I could not find out the reasons why...on the other hand, with the classic Sheltonian method, it is very rare that the tongue will color itself, even if the fast is pursued to 60-70 days ...
-
-When the tongue colors itself (black, brown, mustard green, beige), the half-fast must be pursued until the color returns to a natural pink, that is, until the end of elimination. Then, the more concentrated foods can be introduced. The tongue becomes pink at the same time that spitting stops, the urine becomes clear, the breath becomes pleasant, and the headaches are gone. The half-fast can last for one week or many, according to the degree of toxemia.
-
-With this new method, the fasting becomes easier, with fewer risks and problems and more efficient. The fast becomes mathematical, precise, scientific and without blind spots or surprises. This important discovery condemns the long fasts as a risky waste of time.
-
-I called this second part of the fast that follows the water fast the half-fast ... but in reality, it's an elimination diet, since two pounds of food is eaten every day, half fruits, half vegetables ...but I preferred to call it the half-fast, to strike the imagination of the fasting person ...otherwise, he would be tempted to think that he's breaking the fast and that he can eat whatever food and in any quantities ...he has to stay with the impression that he's continuing elimination and that his cure also continues, although in another, less intense form than the complete fast.
-
-#### the reasons for this method {#the-reasons-for-this-method}
-
-Whenever we stop eating, elimination starts and is evidenced by a white tongue coated with mucus, a foul breath, a bad taste in the mouth, a loss of weight and other symptoms according to the individual. As the fast goes on, eliminaton slows down because it uses up the body's stock of vitamins and minerals. Depending on the individual, this stock of vitamins and other essential elements lasts approximately 7 to 20 days. At the end of this period, elimination slows down, as revealed in the following symptoms:
-
-- weight loss slows to 1-2 pounds a week, stabilizing about every three days ... it was 1-2 pounds a day before... the loss of weight signifies a strong elimination of toxins and retained water, which are urinated ...when elimination weakens, we don't urinate much... this stabilization of the weight is the main signal to begin the
-half-fast.
-- thirst disappears and drinking water is difficult, before, elimination created the need to drink in order to dilute the poisons and expel them in the urine.
-- the coating of the tongue is lighter in color and thickness, and the bad taste in the mouth lessens.
-- other symptoms specific to each individual can also reveal a slowdown in elimination.
-- Thus, when these symptoms of the slowing of elimination appear it must be relaunched, by breaking the fast and replenishing the body with nutrients in the form of raw, natural foods:
-- 500 grams of raw fruits, spread through the afternoon, this quantity varying according to the person's height;
-- 500 grams of raw vegetables and salad, in two sittings in the evening.
-
-These amounts should not be increased, otherwise digestion will take the energy needed by elimination and bring it to a halt ...
-
-The patient should drink a lot of water between midnight and noon, because that's when elimination is at its strongest... if the person is not able to drink at least one liter a day of plain water, then we flavor it with lemon juice ...
-
-The fruits that I prefer to give are apples, because they act like a good broom in the intestines...
-
-Sometimes, a water-rich fruit, like melon or Watermelon must be given ...
-
-As soon as we switch to the half-fast, rekindling elimination, we must examine the tongue every morning before putting anything in the mouth ... it should not be washed! Within a few days, if not a few hours, it colors itself black, mustard, or brownish red ... the half-fast is pursued until the tongue is completely clear ... it becomes pink and all eliminative symptoms (thirst, bad taste in the mouth upon awakening, bad breath, spitting, etc.) disappear...
-
-It does not matter if, in the meantime, hunger comes back or not, because this Instinct is usually defective amongst civilized people."
-
-[&lt;](#fukuoka/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](#d/)
 {:.arrow}
 
