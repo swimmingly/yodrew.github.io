@@ -1,17 +1,23 @@
 ---
-title: darkroomretreat.com extras
+title: extras - hygienic darkroomretreat.com
 layout: print
-permalink: /paper/
+permalink: /extras/
 ---
 
-# darkroomretreat.com extras
+# extras
 
-This is the secondary content from [darkroomretreat.com](/) in one printable document:
+the secondary content from
+
+#### [hygienic darkroomretreat.com](/)
+
+in one printable page:
 
 1. blog
 2. the darkness conjecture
 3. reports
-4. other writings
+4. other writings.
+
+Download pdf: [darkroomretreat.com/extras.pdf](/extras.pdf).
 
 Main site content is in the ebook, hygienic darkroom retreat, available from the site and at [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat).
 
