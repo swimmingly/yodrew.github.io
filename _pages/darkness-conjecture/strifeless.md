@@ -2,6 +2,8 @@
 title: strifeless
 layout: page
 permalink: /darkness-conjecture/strifeless/
+navprev: catastrophe
+navnext: 
 ---
 
 A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conversation brought out the meaning and an important implication of the word _strifeless_ (from the subtitle).
@@ -44,4 +46,4 @@ Darkness is but one such force. It is a normal condition of life. In the retreat
 
 *by this I mean _predominantly_ easy and pleasant. There can be difficult, painful moments in darkness, some of which require focused attention to overcome. But these are exceptions, not the rule. The principal actor in the situation, like ones champion in a duel, remains the autonomic organism. This feeling of a great force come to ones aid in a crisis is indescribably encouraging.
 
-[&lt;](../catastrophe/)&nbsp;&nbsp;&nbsp;[`^`](../)
+

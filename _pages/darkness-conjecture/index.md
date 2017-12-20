@@ -21,5 +21,5 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
     - [strifeless](./strifeless/)
 - Healing
     - see [darkroom retreat](/)
-    - [project](./project/)
+<!--    - [project](./project/) -->
 

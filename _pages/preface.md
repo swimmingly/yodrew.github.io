@@ -2,6 +2,8 @@
 title: preface
 layout: page
 permalink: /preface/
+navprev: foreword
+navnext: introduction
 ---
 
 When I first retreated in darkness, I just did it to rest. It worked. After 56 hours, I felt caught up on all the sleep I had ever lost, truly awake for the first time in decades. I was stunned.
@@ -21,8 +23,7 @@ Hygienic darkroom retreating requires minimal effort and no faith. Darkness is n
 ad  
 Spain, 2017
 
-[&lt;](/foreword/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/introduction/)
-{:.arrow}
+
 
 
 

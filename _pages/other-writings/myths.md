@@ -2,6 +2,8 @@
 title: myths
 layout: page
 permalink: /other-writings/myths/
+navprev: tribal-housing
+navnext: poems
 ---
 
 #### three peoples
@@ -98,8 +100,8 @@ As we did so, we would remember who we really were. We would leave our adopted f
 
 The world is our home. We will not abandon it in its time of need, after the many rounds of peace and plenty we knew. We do not understand this cycle. Not yet.
 
-[&lt;](../tribal-housing)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../poems/)
-{:.arrow}
+~/~
 
-#### [Gallery](http://andrewdurham.shutterfly.com) (off-site)
+#### [Gallery](http://andrewdurham.shutterfly.com) (my photos, hosted off-site)
+
 

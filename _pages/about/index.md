@@ -61,8 +61,8 @@ Two years of work on new edition of book finally finished!
 
 #### site powered by [jekyll](https://jekyllrb.com) static site generator, free hosting at [github](https://github.com)
 
-
-&nbsp;&nbsp;&nbsp;[&lt;](/services)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences)
+%(/services)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](./bibliography-influences)
+{:.arrow}
 
 <!--
 - [bibliography-influences](./bibliography-influences)

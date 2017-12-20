@@ -2,6 +2,8 @@
 title: introduction
 layout: page
 permalink: /introduction/
+navprev: preface
+navnext: hygiene
 ---
 
 Imagine:
@@ -240,6 +242,5 @@ Thanks for reading and best wishes.
 
 Now on to the life-restoring perspective of hygiene and how darkness completes it.
 
-[&lt;](/preface/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/hygiene/)
-{:.arrow}
+
 

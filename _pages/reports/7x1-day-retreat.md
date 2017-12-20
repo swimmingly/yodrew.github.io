@@ -2,6 +2,8 @@
 title: 7x1-day retreat
 layout: page
 permalink: /reports/7x1-day-retreat/
+navprev: 2-day-retreat
+navnext: 2x2-day-retreat
 ---
 
 2013 Jan 10
@@ -64,6 +66,5 @@ UPDATE: The pickup I studied made my "game" more awkward than ever. After eight 
 
 I got a lot of good ideas from indirect pickup. Some basics still apply. But a lot can be tossed out. For this distinction and its content, thanks to [Sasha Daygame](http://sashapua.com) and other teachers he recommends: David X, Alan Roger Currie, Johnny Soporno, Bad Boy, James Marshall. And Pook's focus on the self, on being a sexual man---not because that is what women like, but because that is what one is and deeply wants himself---remains helpful.
 
-[&lt;](../2-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../2x2-day-retreat/)
-{:.arrow}
+
 

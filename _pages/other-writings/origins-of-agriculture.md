@@ -2,6 +2,8 @@
 title: Origins of Agriculture
 layout: page
 permalink: /other-writings/origins-of-agriculture/
+navprev: links
+navnext: fukuoka
 ---
 
 ### Origins of Agriculture
@@ -303,6 +305,5 @@ Zioudrou, C., Streaty, R. & Klee, W., 1979, Opioid peptides derived from food pr
 
 Zohari, D., 1986, The origin and early spread of agriculture in the Old World, in Barigozzi, G., ed., The origin and domestication of cultivated plants, Elsevier, Amsterdam
 
-[&lt;](../links/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../fukuoka/)
-{:.arrow}
+
 

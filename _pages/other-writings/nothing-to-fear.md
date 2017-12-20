@@ -2,6 +2,8 @@
 title: Nothing to Fear, Even Fear Itself
 layout: page
 permalink: /other-writings/nothing-to-fear/
+navprev: from-where
+navnext: sanity-and-health
 ---
 
 #### big brother's achilles's heel
@@ -64,6 +66,4 @@ I hope this helps you take heart, as it has helped me. I believe that we live in
 
 **I just read a [comically blatant report](http://www.aol.com.au/news/story/Europe-fast-tracking-swine-flu-vaccine/2350992/index.html) about the latest trial balloon, swine flu (which looks like a keeper in the escalating war on the credulous peasantry). Naturally, all the right people, to cover their asses apparently, come out and impotently say that distributing insufficiently tested vaccines should not happen.
 
-   
-[&lt;](../from-where/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sanity-and-health/)
-{:.arrow}
+

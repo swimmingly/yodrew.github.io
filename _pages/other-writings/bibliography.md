@@ -2,6 +2,8 @@
 title: Bibliography
 layout: page
 permalink: /other-writings/bibliography/
+navprev: ashers
+navnext: links
 ---
 
 #### five cranial supernovas
@@ -66,7 +68,4 @@ Even earlier books, which came to me through my family, were:<br />
 <a href="http://www.amazon.com/gp/product/0099427869?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0099427869">Illusions: The Adventures of a Reluctant Messiah</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0099427869" border="0" alt="" width="1" height="1" /> -Richard Bach<br />
 <a href="http://www.amazon.com/gp/product/0394404289?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0394404289">The Prophet</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0394404289" border="0" alt="" width="1" height="1" /> -Khalil Gibran
 
-   
-[&lt;](../ashers/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../links/)
-{:.arrow}
 

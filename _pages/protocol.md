@@ -2,6 +2,8 @@
 title: 3 - protocol
 layout: page
 permalink: /protocol/
+navprev: format
+navnext: prepare
 ---
 
 How to be and what to do once in darkness is simple. It's a lot like having a guest. Provide what is necessary for function and comfort, then stay out of the way. 
@@ -72,11 +74,11 @@ I make sure I do two things in darkness:
 
 Eat meals rather than snacks. When you are hungry, focus on eating until you feel full and satisfied. The human alimentary tract processes food in batches, not continuously. A constant stream of food (often eaten in boredom) disrupts and distresses digestion, thus sleep, attention, and healing.
 
-You will probably need 25-50% less food, by calories, than usual. I recommend keeping it to fresh, raw, ripe fruit and leafy greens to maximize nutrition, elimination, and psychic agility. Keep food in a cooler with a block of ice. Eat as much as you like. It is likely that your appetite will be diminished due to extra [melatonin](http://en.wikipedia.org/wiki/Melatonin‎) in the blood (a reason we do not get hungry when we sleep). This was especially noticeable in my first retreat. 
+You will probably need 25-50@@ less food, by calories, than usual. I recommend keeping it to fresh, raw, ripe fruit and leafy greens to maximize nutrition, elimination, and psychic agility. Keep food in a cooler with a block of ice. Eat as much as you like. It is likely that your appetite will be diminished due to extra [melatonin](http://en.wikipedia.org/wiki/Melatonin‎) in the blood (a reason we do not get hungry when we sleep). This was especially noticeable in my first retreat. 
 
-As much as 10% of your food, by mass, can be tender leafy greens like leaf lettuce (not iceberg) and baby spinach. Celery, too. This is the equivalent of 1 large head or bunch of greens per day total.
+As much as 10@@ of your food, by mass, can be tender leafy greens like leaf lettuce (not iceberg) and baby spinach. Celery, too. This is the equivalent of 1 large head or bunch of greens per day total.
 
-A minimum of 90% of your food, by mass, should be seeded fruit, sweet and non-sweet (like tomatoes, bell peppers, cucumbers). So salads can be sweet (greens mixed with sweet fruit) and savory (greens mixed with non-sweet fruit). 
+A minimum of 90@@ of your food, by mass, should be seeded fruit, sweet and non-sweet (like tomatoes, bell peppers, cucumbers). So salads can be sweet (greens mixed with sweet fruit) and savory (greens mixed with non-sweet fruit). 
 
 Our need for fat is tiny and easily met with the above food types. Fat is very complex and difficult to digest. Too much interferes with resting and healing. So eliminate oils and minimize fatty foods. Forego nuts and seeds altogether. One small to medium avocado during a 4-day retreat in a savory salad is very pleasant.
 
@@ -141,7 +143,7 @@ Besides a darkroom, food, and support, a hygienic retreat requires a fourth crit
 ### expectations
 
 - You will get a distinct break from your regular life. It's best to consider anything more a bonus. While I and some others I supported have experienced amazing occurrences in darkness, I cannot guarantee you will experience them.
-- Your results are up to your whole self, 99.99% of which operates below the level of conscious awareness, beyond your direct control. 
+- Your results are up to your whole self, 99.99@@ of which operates below the level of conscious awareness, beyond your direct control. 
 
     I do guarantee that your being will do exactly what is most necessary and not require more of you than you can handle. Perfect, complete knowledge of everything about you and absolute power to act on this knowledge are the autonomic self's great gifts for you. 
 - As when wandering the streets of a foreign city, keep your wits about you. Neither your supporter nor your autonomic self will relieve you of the normal task of watching over your own life. You remain responsible for yourself.
@@ -317,6 +319,5 @@ Your non-expert, non-mind-reading, non-therapist supporter (if you have one) wil
 
 On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
 
-[&lt;](/format/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/prepare/)
-{:.arrow}
+
 

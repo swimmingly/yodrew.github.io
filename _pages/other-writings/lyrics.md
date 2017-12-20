@@ -2,6 +2,8 @@
 title: Lyrics
 layout: page
 permalink: /other-writings/lyrics/
+navprev: poems
+navnext: ashers
 ---
 
 #### Exactly Me
@@ -397,6 +399,4 @@ Roots for them, they grow inside
 
 Chorus
 
-[&lt;](../poems/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../ashers/)  
-{:.arrow}
 

@@ -2,6 +2,8 @@
 title: 365-day retreat of 150 year-old yogi
 layout: page
 permalink: /reports/365-day-retreat-of-150-year-old-yogi/
+navprev: lindsey-vona-darkness-retreat
+navnext: 3-day-sith-bathchamber
 ---
 
 _This story was sent me by [Finn Po](http://members.efn.org/~finnpo/info.html) and seems to have come from [Rhio's website](http://www.rawfoodinfo.com/hotline/Rejuvenation2.html)_
@@ -28,6 +30,5 @@ In the description of the Saint's first kaya kalpa treatment, the "medicine" was
 
 One thing I note is how similar the "cell" where he spent his time is to a womb. It was dark. It was quiet and secluded with minimum disturbance. He seems to only have consumed raw milk and herbs. He seems to have slept a lot with the balance of time spent in meditation and repeating mantras.
 
-[&lt;](/lindsey-vona-darkness-retreat/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/3-day-sith-bathchamber/)
-{:.arrow}
+
 

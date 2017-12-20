@@ -2,6 +2,8 @@
 title: 5-day retreat
 layout: page
 permalink: /reports/5-day-retreat/
+navprev: 6-day-retreat
+navnext: 2-day-retreat
 ---
 
 2012 Feb 09
@@ -30,6 +32,5 @@ Along with with this major lesson, I learned some useful minor things to be care
 
 Will soon commence 12th attempt at a long dark retreat, somehow, somewhere.
 
-[&lt;](../6-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../2-day-retreat/)
-{:.arrow} 
+ 
 

@@ -2,6 +2,8 @@
 title: ORDO
 layout: page
 permalink: /other-writings/ordo/
+navprev: mechanics-of-mass-slavery
+navnext: tribal-housing
 ---
 
 #### an American art of placement
@@ -26,6 +28,5 @@ ORDO will move your furniture and belongings—and your psyche with them—to a 
 
 _revised 7 Dec 2007_
 
-[&lt;](../mechanics-of-mass-slavery/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../tribal-housing/)
-{:.arrow}
+
 

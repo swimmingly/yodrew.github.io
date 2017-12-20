@@ -2,6 +2,8 @@
 title: appendix - laws of life
 layout: page
 permalink: /appendix-laws-of-life/
+navprev: water
+navnext: appendix-pathology
 ---
 
 1. **Life's Great Law**: Every living cell of the organized body is endowed with an instinct of self-preservation, sustained by an inherent force in the organism called "vital force" or "life force." The success of each living organism whether it be simple or complex is directly proportional to the amount of its life force and inversely proportional to the degree of its activity.
@@ -23,6 +25,5 @@ permalink: /appendix-laws-of-life/
 
 Resume reading [hygiene](/hygiene#examples)
 
-[&lt;](/water/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/appendix-pathology/)
-{:.arrow}
+
 

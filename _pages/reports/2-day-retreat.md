@@ -2,6 +2,8 @@
 title: 2-day retreat
 layout: page
 permalink: /reports/2-day-retreat/
+navprev: 5-day-retreat
+navnext: 7x1-day-retreat
 ---
 
 2012 Mar 30
@@ -42,6 +44,5 @@ Woke up feeling just fine. Clear and motivated. To go from suicidally depressed 
 
 In two days, I have talked to three other people serious about doing long retreats. Maybe we can fund the whole thing ourselves. Somehow it will happen this summer in Europe. Game on.
 
-[&lt;](../5-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../7x1-day-retreat/)
-{:.arrow}
+
 

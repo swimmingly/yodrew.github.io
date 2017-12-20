@@ -2,6 +2,8 @@
 title: catastrophe
 layout: page
 permalink: /darkness-conjecture/catastrophe/
+navprev: psychosis 
+navnext: strifeless
 ---
 
 The catastrophic injury to the psyche I mention in the conjecture deserves some explanation.
@@ -48,4 +50,4 @@ I lived among Mayan Indians for 18 months. I tried using their calendar, which i
 
 I believe this is our destiny. Darkness is simply a way to participate in what is happening anyway. It is way to run out and meet it.
 
-[&lt;](../psychosis/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../strifeless/)
+

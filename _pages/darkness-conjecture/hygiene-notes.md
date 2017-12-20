@@ -2,6 +2,8 @@
 title: hygiene notes
 layout: page
 permalink: /darkness-conjecture/hygiene-notes/
+navprev: rapture
+navnext: dreamtime
 ---
 
 _Note: this is a early version of [hygiene](/hygiene/) from the book. So some of the text is the same. But there is much more here about Natural Hygiene and other approaches._
@@ -160,4 +162,4 @@ In the hygienic use of darkness, rest, and the other requirements of the automat
 
 Freedom is only a light switch away.
 
-[&lt;](../rapture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../dreamtime/)
+

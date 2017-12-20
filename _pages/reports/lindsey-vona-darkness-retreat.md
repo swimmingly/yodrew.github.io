@@ -2,6 +2,8 @@
 title: lindsey vona&#8217;s 14-day darkness retreat
 layout: page
 permalink: /reports/lindsey-vona-darkness-retreat/
+navprev: 2x2-day-retreat
+navnext: 365-day-retreat-of-150-year-old-yogi
 ---
 
 \[Her vivid account, republished in toto with my comments in \[brackets\]. Background follows.\]
@@ -88,5 +90,4 @@ Her full account has become difficult to find, so I’m republishing it here fro
 
 James Fadiman excerpted the dazzling parts of this account in [_The Psychedelic Explorers_](http://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [an engaging interview](http://www.hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).
 
-[&lt;](/2x2-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/365-day-retreat-of-150-year-old-yogi/)
-{:.arrow}
+

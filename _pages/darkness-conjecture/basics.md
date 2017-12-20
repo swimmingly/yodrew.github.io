@@ -2,6 +2,8 @@
 title: basics
 layout: page
 permalink: /darkness-conjecture/basics/
+navprev: conjecture
+navnext: rapture
 ---
 
 I will briefly explain the title, subtitle, and thesis of this part of the book in terms of theory. This site's [primary content](/) is the practical part. Further notes introduce the rest of the essays.
@@ -58,5 +60,3 @@ Similarly, you may feel that I exaggerate the potential of the self-healing psyc
 
 If our lifeway's insanity is obvious to you, yet you find yourself strangely unable to break free of it, take heart. The chains that bind you are wholly internal, and you will gradually discover them in darkness. The restoration of psychic integrity is the master key to a new way of life. We will still have to open the door and walk through, but we can stop trying to pick the lock.
 
-
-[&lt;](../conjecture/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../rapture/)

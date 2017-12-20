@@ -2,8 +2,6 @@
 title: rapture
 layout: page
 permalink: /darkness-conjecture/rapture/
-navprev: basics
-navnext: hygiene-notes
 ---
 
 On Christmas morning, 2008, I solved the mystery I had investigated for over 20 years: Why did a state of rapture arise in me when I was 15 for three months solid, only to fade away?
@@ -37,4 +35,6 @@ When the explanation of remission arrived, I had already retreated in darkness. 
 
 In that instant, I knew my search was over. One burning question pursued obsessively had finally yielded something worth trying. The theoretical phase of my work was finished, and the practical phase had begun.
 
+%(../basics/)&nbsp;&nbsp;&nbsp;(../)&nbsp;&nbsp;&nbsp;[&gt;](../hygiene-notes/)
+{:.arrow}
 

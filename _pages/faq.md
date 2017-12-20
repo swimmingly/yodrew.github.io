@@ -2,6 +2,8 @@
 title: faq
 layout: page
 permalink: /faq/
+navprev: appendix-pathology
+navnext: bibliography-and-influences
 ---
 
 ## mechanics
@@ -78,6 +80,5 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
     
     Naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
 
-[&lt;](/appendix-pathology/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/bibliography-and-influences/)
-{:.arrow}
+
 

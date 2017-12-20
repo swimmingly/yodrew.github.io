@@ -2,6 +2,8 @@
 title: 6-day retreat
 layout: page
 permalink: /reports/6-day-retreat/
+navprev: four-darkness-experiences
+navnext: 5-day-retreat
 ---
 
 2011 Mar 17
@@ -52,5 +54,4 @@ I think all these technical failures point to my chronic, rigid dependence on my
 
 Especially including its aftermath, this retreat counts as a semi-success. I have not written about it much, but I view the re-emergence of love in a person as a criterion of success of the conjecture. At some point I will dare to call this a hypothesis, not merely a conjecture. But put to the test, much evidence in support of it continues to be generated, and little to the contrary.
 
-[&lt;](../four-darkness-experiences/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../5-day-retreat/)
-{:.arrow}
+

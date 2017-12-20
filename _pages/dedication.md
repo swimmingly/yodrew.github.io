@@ -2,6 +2,8 @@
 title: dedication
 layout: page
 permalink: /dedication/
+navprev:
+navnext: notes
 ---
 
 For late friends,  
@@ -15,7 +17,3 @@ on whom the sins of our fathers
 are so heavily visited  
 these decades of hard time.
 {:#dedication}
-
-&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/notes/)
-{:.arrow}
-

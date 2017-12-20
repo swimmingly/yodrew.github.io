@@ -2,6 +2,8 @@
 title: 2 - format
 layout: page
 permalink: /format/
+navprev: hygiene
+navnext: protocol
 ---
 
 We can use darkness in different formats for different reasons. Here, I describe the formats in which I have experienced deep rest and observed positive results in my energy level, psychic state, and general well-being.
@@ -34,7 +36,7 @@ In the meantime, this format helps us remember just how important darkness is. W
 
 We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (the [*Law of Vital Accommodation*](/appendix-laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
-From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100% darkness is 1000% better than a 99.9% dark room. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
+From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100@@ darkness is 1000@@ better than a 99.9@@ dark room. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
 
 It is best to go to sleep early, from 18:00 to 22:00 at the absolute latest. Then one naturally awakens about 4 hours later for 1-3 hours. At this hour, one is freshly rested, yet the promise of sleep lies ahead. The world outside is quieter; children are asleep; the mind runs more slowly; and inhibitions are slightly relaxed.
 
@@ -186,6 +188,5 @@ It may take a few generations of healthy living to fully restore our health and 
 
 Now that we have examined different formats of the restful use of darkness for different circumstances and purposes, let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
-[&lt;](/hygiene/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/protocol/)
-{:.arrow}
+
 

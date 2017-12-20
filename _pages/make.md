@@ -2,6 +2,8 @@
 title: 6 - make
 layout: page
 permalink: /make/
+navprev: design
+navnext: air
 ---
 
 > "The time for half-measures and talk is over."  
@@ -9,7 +11,7 @@ permalink: /make/
 
 &nbsp;
 
-The ideas in this book can bring relief and hope. But 99% of their value lies in applying them. This requires a darkroom. Since darkrooms are uncommon, these last 4 chapters explain how to build them inside existing buildings yourself. The chapters includes detailed plans and instructions for components: vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost and work off-grid.
+The ideas in this book can bring relief and hope. But 99@@ of their value lies in applying them. This requires a darkroom. Since darkrooms are uncommon, these last 4 chapters explain how to build them inside existing buildings yourself. The chapters includes detailed plans and instructions for components: vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost and work off-grid.
 
 A darkroom is normal, not exceptional. It a real thing you see and touch, make, use, and show others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, construction, testing, and improvement. 
 
@@ -142,7 +144,7 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
         1. only do this if you are absolutely broke or can't find a large format printing service on your desert island. Desktop printing of plans takes a lot of time and yields imperfect results.
         2. print
             1. open file with Adobe Reader (not Adobe Professional) 
-            2. in print dialogue, select: "Poster"; Tile Scale: 100%; Overlap: 1.0in; Cut marks: yes; Labels: yes
+            2. in print dialogue, select: "Poster"; Tile Scale: 100@@; Overlap: 1.0in; Cut marks: yes; Labels: yes
             3. use A4, letter, or legal size, possibly A3
             4. Distortion over 250mm span should not exceed 1mm.
             5. after printing one file, check measurements against ruler to 1mm tolerance.
@@ -241,6 +243,5 @@ These instructions apply to all components, or as indicated. Read special instru
 
 Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.
 
-[&lt;](/design/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/air/)
-{:.arrow}
+
 

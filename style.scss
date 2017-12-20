@@ -40,16 +40,17 @@ body
     {
     color: $blue2;
     }
+
   }
+
 .arrow
 	{
-	font-size: 1.8em;
+    padding-top: 20px;
+	font-size: 3em;
 	font-weight: 600;
-	text-decoration: none;      
-	text-align: center;
-	margin-top: 2em;
+	text-decoration: none;
+    text-align: center;
 	}
-
 
 h1, h2, h3, h4, h5, h6
   {
@@ -154,6 +155,12 @@ strong, b
   {
   font-weight: bold;
   }
+
+sup
+    {
+    vertical-align: super;
+    font-size: smaller;
+    }
 
 img
   {
@@ -344,7 +351,7 @@ nav
 
 footer
   {
-  padding: 20px 0;
+  padding-bottom: 40px;
   text-align: center;
   }
 

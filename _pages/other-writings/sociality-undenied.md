@@ -2,6 +2,8 @@
 title: Sociality Undenied
 layout: page
 permalink: /other-writings/sociality-undenied/
+navprev: existence-isnt-everything
+navnext: from-where
 ---
 
 ####  the operative principle of band society
@@ -163,6 +165,5 @@ _revised 5 July 2008_
    [1]: /other-writings/bibliography/
    [2]: /other-writings/origins-of-agriculture/
    
-[&lt;](../existence-isnt-everything/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../from-where/)
-{:.arrow}
+
 

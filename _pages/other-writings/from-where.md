@@ -2,6 +2,8 @@
 title: From Where?
 layout: page
 permalink: /other-writings/from-where/
+navprev: sociality-undenied
+navnext: nothing-to-fear
 ---
 
 #### understanding Quinn, part 2
@@ -24,6 +26,5 @@ _revised 2 Dec 03_
 
    [1]: http://www.ishmael.com/Education/Writings/technology_and_other_war.shtml
 
-[&lt;](../sociality-undenied/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../nothing-to-fear/)
-{:.arrow}
+
 

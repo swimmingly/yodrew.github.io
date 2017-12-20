@@ -2,6 +2,8 @@
 title: Links
 layout: page
 permalink: /other-writings/links/
+navprev: bibliography
+navnext: origins-of-agriculture
 ---
 
 ##### Good Designs by Others
@@ -47,6 +49,5 @@ Adrian Wolfe's obscure, 10-year old, growing collection of essays on his 30-year
 [EarthBirth Research](http://www.efn.org/~finnpo/ebr/)  
 Finn Po's site on his multifarious, irrepressible, transcounter-cultural activities and visions. I got my first experiences with both darkness and domes from Finn while living and tinkering together at Maitreya Eco-Village, Eugene, Oregon.
 
-[&lt;](../bibliography/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../origins-of-agriculture/)
-{:.arrow}
+
 

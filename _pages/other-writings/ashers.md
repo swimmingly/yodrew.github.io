@@ -2,6 +2,8 @@
 title: The Ashers, a River, and I
 layout: page
 permalink: /other-writings/ashers/
+navprev: lyrics
+navnext: bibliography
 ---
 
 for my childhood neighbors, LaVerne and Jack Asher, on their 50th Wedding Anniversary
@@ -23,6 +25,5 @@ Back to the river: it churned brown. It snaked through a long valley near Jackpo
 
 revised 3 Jan 2003
 
-[&lt;](../lyrics/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../bibliography/)
-{:.arrow}
+
 

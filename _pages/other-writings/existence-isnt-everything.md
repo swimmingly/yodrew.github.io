@@ -2,6 +2,8 @@
 title: Existence Isn't Everything
 layout: page
 permalink: /other-writings/existence-isnt-everything/
+navprev:
+navnext: sociality-undenied
 ---
 
 #### rethinking Objectivism's first axiom
@@ -62,7 +64,5 @@ _revised 19 Jan 2008_
 
 
    [1]: http://www.objectivistliving.com
-   
-&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../sociality-undenied/)
-{:.arrow}
+
 

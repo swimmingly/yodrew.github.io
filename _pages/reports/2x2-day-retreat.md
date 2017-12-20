@@ -2,6 +2,8 @@
 title: 2x2-day retreat
 layout: page
 permalink: /reports/2x2-day-retreat/
+navprev: 7x1-day-retreat
+navnext: lindsey-vona-darkness-retreat
 ---
 
 2013 Mar 28
@@ -76,6 +78,4 @@ Boy, to think of all the years endured without myself, in denial, in pain, think
 
 All my retreats have culminated in this one. It is a milestone. Now I can function well enough to begin supporting myself and then get a 14-day retreat organized. What is next?!
 
-[&lt;](../7x1-day-retreat/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lindsey-vona-darkness-retreat)
-{:.arrow}
 

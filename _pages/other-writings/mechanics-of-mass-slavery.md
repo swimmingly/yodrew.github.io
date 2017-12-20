@@ -2,6 +2,8 @@
 title: Mechanics of Mass Slavery
 layout: page
 permalink: /other-writings/mechanics-of-mass-slavery/
+navprev: just-living
+navnext: ordo
 ---
 
 #### a drive-by analysis
@@ -62,7 +64,5 @@ Social isolation erodes security. Fear leads to credit card shopping sprees. Deb
 
 Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](/darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is the pursuit of a career that leads to everything else, due to the college debt a career entails these days. I was raised by an architect, and I'm cheap, so I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but these pieces come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
 
-   
-[&lt;](../just-living/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../ordo/)
-{:.arrow}
+
 

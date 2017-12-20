@@ -2,6 +2,8 @@
 title: Just Living
 layout: page
 permalink: /other-writings/just-living/
+navprev: sanity-and-health
+navnext: mechanics-of-mass-slavery
 ---
 
 #### a meditation on design
@@ -38,5 +40,4 @@ _revised 2 Dec 2003_
 
    [1]: http://www.sunnyjohn.com/
 
-[&lt;](../sanity-and-health/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../mechanics-of-mass-slavery/)
-{:.arrow}
+

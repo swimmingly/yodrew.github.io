@@ -2,6 +2,8 @@
 title: Poems
 layout: page
 permalink: /other-writings/poems/
+navprev: myths
+navnext: lyrics
 ---
 
 #### 1992-93
@@ -571,6 +573,4 @@ Godspeed.
 
 Eugene 2006 Jan
 
-[&lt;](../myths/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../lyrics/)  
-{:.arrow}
 

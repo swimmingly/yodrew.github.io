@@ -1,11 +1,14 @@
 ---
-title: On a Green Mountain with Masanobu Fukuoka
+title: On a Green Mountain, with Masanobu Fukuoka
 layout: page
 permalink: /other-writings/fukuoka/
+navprev: origins-of-agriculture
+navnext: mosseris-fasting-discovery
 ---
 
 ...the Sensei of Natural Farming  
 by Jim Bones
+[archived page](http://web.archive.org/web/20051224120427/http://www.seedballs.com/)
 
 _"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."_[^1]  
 Masanobu Fukuoka
@@ -192,14 +195,6 @@ Not yet satisfied with the whole view, Howard knocked about inside for inspirati
 
 Howard stepped out and called, "We have to go or miss our flight. I'll give you a hand with the cameras." He started down, and in a panic I shouted, "I feel like its all around me, but I can't quite picture it." He reached for my pack and I asked, "By the way, what are these knee deep weeds, do you know?" As he leaned closer and I kneeled to the ground, thousands of intertwined daikons, sweet potatoes, cabbages, carrots, beans, kudzus, kiwis, and more, began to reveal themselves. "My God, this is it!" I exclaimed, "We are standing on an edible forest floor." Lush green and wet with dew, shining proof of the vision Sensei had, fifty years ago grew everywhere we looked. And for a moment we too were enfolded in the transcendent fruit of a lifetime devoted to bringing people and Nature together again.
 
-**Foot Notes**
-
-[1]: Beginning quote from _The Close To Nature Garden_, a video tape produced by Rodale Press, available from Arthur Mokin Productions, Inc., P. 0\. Box 1866, Santa Rosa, California, 95402, Telephone: (707) 542-4868.
-
-[2]: God, Kami or Kamisama is the Divine power found in natural objects and all living things.
-
-[3]: 1,000 square meters = 9,300 square feet. Natural Farming practice requires a minimum area of about 2,000 square feet per person to live on sustainably with a vegetarian diet. For reference, Biointensive Sustainable Mini-Farming practice, developed by John Jeavons, requires a minimum area of about 4,000 square feet per person to live on sustainably with a vegetarian diet. Permaculture Design practice, developed by Bill Mollison, requires a minimum area of about 6,000 square feet per person to live on sustainably with a predominately vegetarian diet. Modern conventional farming practice requires a minimum area of about 10,000 to 40,000 square feet per person to live on according to diet, vegetarian or meat eating, and is not sustainable.
-
 **Books:**
 
 _The One-Straw Revolution_, a philosophy, published by the Rodale Institute, 33 East Minor Street, Emmaus, Pennsylvania, 18098.
@@ -209,9 +204,7 @@ _The Natural Way of Farming_, a manual, and _The Road Back to Nature_, a history
 _The Ultimatum of GOD NATURE  The One-Straw Revolution  A RECAPITULATION_,  
 an English revision of the original _One-Straw Revolution_, published in 1996, in Japan, available from Mr. Fukuoka at:  201-2 Ohira,   Iyo-Shi  Ehime,   Japan  799-31    Fax: 011-81-8-9983-1892
 
-_Close To Nature Garden_, an excellent video tape about Mr. Fukuoka's early work with Natural Farming in Japan, made for Rodale Press, available from [Bullfrog Films](/web/20051224120427/http://www.bullfrogfilms.com/catalog/cng.html), P.O. Box 149,Oley, PA 19547, Tel: 610/779-8226, Fax: 610/370-1978.
-
-&nbsp;
+_Close To Nature Garden_, an excellent video tape about Mr. Fukuoka's early work with Natural Farming in Japan, made for Rodale Press, available from [Bullfrog Films](http://web.archive.org/web/20051224120427/http://www.bullfrogfilms.com/catalog/cng.html), P.O. Box 149,Oley, PA 19547, Tel: 610/779-8226, Fax: 610/370-1978.
 
 Copyright (C)1995 Jim Bones  
 All Rights Reserved.  No Part Of This Document May Be Reproduced For Commercial Purposes.
@@ -219,10 +212,15 @@ All Rights Reserved.  No Part Of This Document May Be Reproduced For Commercial 
 <font size="-2">All Photographs And Text Copyright (C) 1996 Jim Bones (Unless Otherwise Indicated) Box 101, Tesuque, N.M. 87574 (505-955-0956)</font>  
 <font size="-2">"Light Writings" http://www.seedballs.com</font>
 
-[See "The Seed Ball Story" Video Tape](/web/20051224120427/http://www.seedballs.com/sbvt10pa.html)
+[See "The Seed Ball Story" Video Tape](http://web.archive.org/web/20051224120427/http://www.seedballs.com/sbvt10pa.html)
 
-_<font color="#FF0000">*[(BACK)](/web/20051224120427/http://www.seedballs.com/2seedpa.html) -- (GO [![](world9.gif)](/web/20051224120427/http://www.seedballs.com/3seedpa.html) ON) -- [(EXIT)](/web/20051224120427/http://www.seedballs.com/)*</font>_
+**Foot Notes** (below)
 
-[&lt;](/origins-of-agriculture/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/mosseri/)
-{:.arrow}
+[^1]: Beginning quote from _The Close To Nature Garden_, a video tape produced by Rodale Press, available from Arthur Mokin Productions, Inc., P. 0\. Box 1866, Santa Rosa, California, 95402, Telephone: (707) 542-4868.
+
+[^2]: God, Kami or Kamisama is the Divine power found in natural objects and all living things.
+
+[^3]: 1,000 square meters = 9,300 square feet. Natural Farming practice requires a minimum area of about 2,000 square feet per person to live on sustainably with a vegetarian diet. For reference, Biointensive Sustainable Mini-Farming practice, developed by John Jeavons, requires a minimum area of about 4,000 square feet per person to live on sustainably with a vegetarian diet. Permaculture Design practice, developed by Bill Mollison, requires a minimum area of about 6,000 square feet per person to live on sustainably with a predominately vegetarian diet. Modern conventional farming practice requires a minimum area of about 10,000 to 40,000 square feet per person to live on according to diet, vegetarian or meat eating, and is not sustainable.
+
+&nbsp;
 

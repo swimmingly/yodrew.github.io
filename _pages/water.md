@@ -2,6 +2,8 @@
 title: 9 - water
 layout: page
 permalink: /water/
+navprev: darkness
+navnext: appendix-laws-of-life
 ---
 
 If you have a bathroom and kitchen you can easily darken or use with a blindfold, great. 
@@ -124,7 +126,6 @@ That's the state of my art of low-cost DIY darkroom design and construction. Che
 
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 
-[&lt;](/darkness/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/appendix-laws-of-life/)
-{:.arrow}
+
 
 

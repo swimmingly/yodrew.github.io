@@ -2,6 +2,8 @@
 title: Tribal Housing
 layout: page
 permalink: /other-writings/tribal-housing/
+navprev: ordo
+navnext: myths
 ---
 
 #### a design for a full life on $250 a month
@@ -99,8 +101,5 @@ _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least
         
 _revised 2003 Dec 8_
 
-   
-[&lt;](../ordo/)&nbsp;&nbsp;&nbsp;[`^`](../)&nbsp;&nbsp;&nbsp;[&gt;](../myths/)
-{:.arrow}
 
 

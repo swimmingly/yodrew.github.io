@@ -36,7 +36,7 @@ I think what the mutual credit systems I have found are really good for is reori
 When I was learning a new diet that had me counting calories (to make sure I got *enough* of the right kinds), I got into it for a couple weeks, then I just knew. It was like a skill. Once acquired, there was no need to keep exact record anymore.
 
 Here is the interview that finally got it through to me:
-[An Interview with Economic Anthropologist David Graeber](http://www.nakedcapitalism.com/2011/08/what-is-debt-%E2%80%93-an-interview-with-economic-anthropologist-david-graeber.html)
+[An Interview with Economic Anthropologist David Graeber](http://www.nakedcapitalism.com/2011/08/what-is-debt-@@E2@@80@@93-an-interview-with-economic-anthropologist-david-graeber.html)
 
 I'm telling you because you and I have both struggled with money and with the gifting idea for a long time, and we ought to have a solution to it finally. I think we were basically right. We have been broke because we didn't really want to have anything to do with regular money. It's got blood all over it. It's a tool of enslavement. To hell with it. Better to eat out of dumpsters.
 

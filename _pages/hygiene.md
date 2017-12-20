@@ -2,6 +2,8 @@
 title: 1 - hygiene
 layout: page
 permalink: /hygiene/
+navprev: introduction
+navnext: format
 ---
 
 Hygiene is a complete system of health and healing based on the self-preserving nature of life and an appreciation for its normal conditions. More than mere cleanliness, hygiene is a 200 year-old, globally established health care system. We hardly discuss it because it's just how things are done. Little known in its fullness, yet its depth and details strike newcomers as oddly familiar.
@@ -147,7 +149,7 @@ Dr Jennings reworked ideas of Rousseau and gave hygiene 16 laws. But this is too
 
 Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^3] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^4] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
 
-Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," as philosopher, Ayn Rand, put it in her _meta-ethics_ [^5]. The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism, functioning at every scale, autonomically monitoring and harmonizing every one of sextillions (1,000,000,000,000,000,000,000) of organic processes per second (trillions of cells X 1 billion processes per cell). Whatever affects the psyche for good or ill greatly affects the rest of the organism likewise.
+Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," as philosopher, Ayn Rand, put it in her _meta-ethics_[^5]. The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism, functioning at every scale, autonomically monitoring and harmonizing every one of sextillions (1,000,000,000,000,000,000,000) of organic processes per second (trillions of cells X 1 billion processes per cell). Whatever affects the psyche for good or ill greatly affects the rest of the organism likewise.
 
 That's a lot of work. Like any other organic system, the psyche needs a period of rest and recovery. Since its sensory apparatus is reflexive---the skin automatically feels what makes contact with it, the nose smells, the eyes see---sensory destimulation is necessary for psychic rest. Think back to the times you got your best sleep. Besides feeling at ease, your shelter was probably especially dark, well-ventilated, and quiet. While the exact circumstances at the time cannot be replicated, these critical elements can be.
 
@@ -264,7 +266,7 @@ I know no one who has explicitly gone into darkness with the hygienic perspectiv
 
 The main effort involved is supportive: to maintain the conditions of healing. This ain't a tall order. Stay in the darkroom. Lie down as much as possible. Eat. Exercise. Bathe. Eliminate. Meditate if so moved. Lie back down. Think when necessary. Stare at the backs of your eyelids, feel your breath and pulse, and let sleep come. 
 
-It will anyway. Darkness ensures it. Anyone with a bloodstream flooded with melatonin is induced to sleep. And sleep deeply. In my retreats, I have often felt positively knocked out. Dreams are fewer or more vivid. In 48 hours it is possible to catch up on all the sleep one has ever lost. (See the first of my [four darkness experiences](/reports/four-darkness-experiences). I am not speaking metaphorically. It is impossible to believe until it happens.
+It will anyway. Darkness ensures it. Anyone with a bloodstream flooded with melatonin is induced to sleep. And sleep deeply. In my retreats, I have often felt positively knocked out. Dreams are fewer or more vivid. In 48 hours it is possible to catch up on all the sleep one has ever lost. (See the first of my [*four darkness experiences*](/reports/four-darkness-experiences)). I am not speaking metaphorically. It is impossible to believe until it happens.
 
 I find even the least bit of light too distracting, too stimulating. I am on guard. I can't relax. I can't stay with what I'm feeling. I can't "just be with it". I can't feel into myself. I've tried and failed my whole life. I have found solace only in darkness. 
 
@@ -350,7 +352,7 @@ Denial is not a moral failure. It is unconscious success. Trauma of such devasta
 
 In darkness, denial begins to lift and traumatic events are remembered or acknowledged. Frozen feelings resurface, along with the general capacity for feeling. Insight comes. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
-Gaining confidence in this capacity can take time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [reports](/reports), I have recorded my experiences in darkness of beginning to heal from deep trauma.
+Gaining confidence in this capacity can take time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [*reports*](/reports), I have recorded my experiences in darkness of beginning to heal from deep trauma.
 
 What trauma? I mean the routine brutality of our lifeway, which touches virtually everyone from before birth. I mean not just the bad things we condemn, but common atrocities we mistakenly accept. I mean offenses to nature, as if it hadn't already worked out every detail of a happy existence from the beginning of time. 
 
@@ -363,7 +365,7 @@ I'm going to list common examples of the plague of polite violence I refer to. M
 - absent, pushover, smothering, and abusive parents
 - nannies and day care
 - cribs, playpens, strollers (the worst designs of all time. They crystallize alienation in the nervous systems of billions.)
-- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development. [^6])
+- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^6])
 - factory food (including unripe harvesting, chemical farming, genetic modification, irradiation) 
 - and finally, the last nail so big it splinters the coffin: school. 
 
@@ -419,7 +421,7 @@ Awareness of the other basic plane of reality. Because it mirrors spacetime, som
 
 Our feeling centers, being more fragile, are generally out of commission. So to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite the evidence. Which even most civilized people have a little of. I mean strange experiences that stick in the mind unexplained for decades, like personal x-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it promises to return permanently.
 
-If the hygienic view of health and sanity is the brain of my method, and darkroom retreating is the gut---the action---then the testimony of mass functional psychosis is its broken heart. My online essay, [psychosis](/darkness-conjecture/psychosis), records it purely and forcefully.
+If the hygienic view of health and sanity is the brain of my method, and darkroom retreating is the gut---the action---then the testimony of mass functional psychosis is its broken heart. My online essay, [*psychosis*](/darkness-conjecture/psychosis), records it purely and forcefully.
 
 ### causation
 
@@ -441,7 +443,7 @@ Major trauma injures, shocks, and disorients everyone concerned. One gets lost i
 
 How did the snowball of major trauma begin? Sane people do not hurt their children. Humanity was fine at some point. The trauma had to have originated externally. Self-correcting instinct is very strong. The trauma had to be cataclysmic to knock so many of us so far off course for so long.
 
-Some kind of super-[catastrophe](/darkness-conjecture/catastrophe) in our distant past must have done it. A supervolcano, a pole-shift that triggered continent-sweeping tsunamis, an alien invasion. Who knows. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. We may be the butt of an accidental cosmic joke.
+Some kind of super-[catastrophe*](/darkness-conjecture/catastrophe) in our distant past must have done it. A supervolcano, a pole-shift that triggered continent-sweeping tsunamis, an alien invasion. Who knows. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. We may be the butt of an accidental cosmic joke.
 
 If so, then our wars, big and small, are pointless. No one started it. Everyone is essentially innocent. So everyone is free to walk away from the conflict and heal. 
 
@@ -474,7 +476,7 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its consequences. As with the rest of Natural Hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed.
 
-The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [hygiene notes](/darkness-conjecture/hygiene-notes).
+The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
 I am only saying enough here to give you a theoretical basis for doing hygienic darkroom retreats. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*The Science and Fine Art of Natural Hygiene*](https://darkroomretreat.com/nhs.pdf).
 
@@ -491,6 +493,5 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
 [^10]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
 
-[&lt;](/introduction/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/format/)
-{:.arrow}
+
 

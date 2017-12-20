@@ -2,6 +2,8 @@
 title: dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust
 layout: page
 permalink: /reports/3-day-sith-bathchamber/
+navprev: 365-day-retreat-of-150-year-old-yogi
+navnext: 
 ---
 
 \[Brian Riggs Sullivan, a close friend*, just did a short darkness retreat and wrote this entertaining report about his experience.\]
@@ -45,6 +47,4 @@ All in all, I had what I consider an extraordinarily valuable experience with th
    [10]: /darkness-conjecture/hygiene-notes/
    [11]: http://www.okcupid.com/profile/brisully
 
-[&lt;](../365-day-retreat-of-150-year-old-yogi/)&nbsp;&nbsp;&nbsp;[`^`](/)
-{:.arrow}
 

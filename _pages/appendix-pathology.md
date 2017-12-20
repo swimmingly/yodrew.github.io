@@ -2,6 +2,8 @@
 title: appendix - pathology
 layout: page
 permalink: /appendix-pathology/
+navprev: appendix-laws-of-life
+navnext: faq
 ---
 
 Pathology is the study of disease, including its nature, causes, and symptoms. Pathology guides our conscious response to disease. Every school of health has a general theory of pathology. In fact, many systems are named for their pathologies because they are basically oriented toward disease: homeopathy, naturopathy, osteopathy, allopathy (medicine). Allopathy's germ theory of disease leads doctors to gloss over causes and get right to symptomology and treatment. By contrast, a benevolent view of disease keeps a hygienist cool as a cucumber. Hygiene makes plenty of time to correct allopathy's imbalance with careful etiology (study of causes). This reveals the simplest and most effective responses.
@@ -30,6 +32,5 @@ Also, most hygienic physicians start as allopaths. Their fascination with and aw
 
 In short, we seem caught in a strange dream, half-waking and prolonged. But rather than force ourselves awake with discipline, hygienic darkroom retreating allows us to fully sleep it out. Hygiene has always been a kind of physiological judo: calm, understanding, effective. Rather than wait for trauma to replay its disastrous drama in our lives, we can take hygiene's peaceful, reassured approach to resolving it once and for all.
 
-[&lt;](/appendix-laws-of-life/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/faq/)
-{:.arrow}
+
 

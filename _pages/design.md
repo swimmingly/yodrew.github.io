@@ -2,6 +2,8 @@
 title: 5 - design
 layout: page
 permalink: /design/
+navprev: prepare
+navnext: make
 ---
 
 An echo of the ancient cataclysm that caused our mass major trauma, civilization assaults human psychobiology. It makes war zones of our habitats. It triggers a constant state of emergency. Most succumb. Many conform. Some take up arms. 
@@ -100,7 +102,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
             - polyester/non-toxic mattress cover
             - polyester/non-toxic-fill comforters
             - polyester/non-toxic-fill pillow
-            - 100% natural fiber sheet and duvet
+            - 100@@ natural fiber sheet and duvet
         - sofa
         - chairs
         - hammock
@@ -181,6 +183,5 @@ Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writ
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
-[&lt;](/prepare/)&nbsp;&nbsp;&nbsp;[`^`](/)&nbsp;&nbsp;&nbsp;[&gt;](/make/)
-{:.arrow}
+
 
