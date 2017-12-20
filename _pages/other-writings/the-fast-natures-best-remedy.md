@@ -6,12 +6,9 @@ navprev: mosseris-fasting-discovery
 navnext:
 ---
 
-
-#### _The Fast - Nature's Best Remedy_
-
 by Dr. Albert Mosséri</h3>
 completes _RADIANT HEALTH THROUGH  FASTING_
-translated from the French, _Meilleur Remede de la Nature_
+translated from the French, _Le Jeune: Meilleur Remede de la Nature_
 
 ##### blurb
 
