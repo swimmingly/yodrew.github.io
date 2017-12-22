@@ -55,7 +55,7 @@ As with fasting, a hygienic darkroom retreat is a set of normal conditions, temp
 
 Hygiene has long excelled in caring for the self-healing body. With darkroom retreating, hygiene now has an equally effective way of caring for the self-healing soul. This completes hygiene and holds staggering implications for individuals, society, and the world.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[_continue reading online_ &gt;](/dedication)
+<span style="font-size:.6em">_continue reading online_</span> [&gt;](/dedication)
 {:.arrow}
 
 ## ebook
@@ -133,4 +133,4 @@ Quantity/price (postpaid)
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Delivery in US - _Coming Soon_ --> 
+Delivery in US - _Coming Soon_ -->  
