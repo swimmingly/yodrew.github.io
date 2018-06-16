@@ -24,15 +24,15 @@ Register for your retreat here. Follow instructions carefully.
 
 - Price: (European example)&euro;40 + &euro;80/day (eg, 4-day retreat=&euro;360)
 - Discounts: 
-    - Local, student, or friend: 25@@ 
-    - Local and student or friend: 50@@
-    - Offers of 35@@ + remainder in trade are gladly considered
+    - Local, student, or friend: 25% 
+    - Local and student or friend: 50%
+    - Offers of 35% + remainder in trade are gladly considered
     - No one serious turned away for lack of funds
-- Reserve dates with a 50@@ deposit. Balance due on arrival.
-- Cancelation fees (@@ of _total_ price): 
-    - 30+ days before retreat: 5@@
-    - 7+ days before retreat: 25@@ (half the deposit)
-    - 1-29 days if someone else can take your spot: 10@@ 
+- Reserve dates with a 50% deposit. Balance due on arrival.
+- Cancelation fees (% of _total_ price): 
+    - 30+ days before retreat: 5%
+    - 7+ days before retreat: 25% (half the deposit)
+    - 1-29 days if someone else can take your spot: 10% 
 
 &nbsp;
 

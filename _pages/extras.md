@@ -1174,23 +1174,23 @@ Here are the rules:
 1. The proposer:
     - sets the monetary goal and deadline
     - seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)
-    - sets the maximum bonus rate between 0@@ and infinity in case of failure
+    - sets the maximum bonus rate between 0% and infinity in case of failure
     - sets the maximum profit rate in case of success
     - and can increase both these rates until the campaign's deadline
-2. A supporter sets her bonus rate from –100@@ to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
+2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
 3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
-4. In case of success, a supporter with an average bonus rates of less than 0@@ is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
+4. In case of success, a supporter with an average bonus rates of less than 0% is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
 5. Supporters can make multiple contributions with different bonus rates.
 
-Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0@@ rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [webisteme](http://webisteme.com)‘s [#PunkMoney](http://punkmoney.org), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
+Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0% rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in [webisteme](http://webisteme.com)‘s [#PunkMoney](http://punkmoney.org), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
 
 Examples
 
 - Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
-    - A second such supporter of $99 would take away 99@@ of the pot.
-    - If the proposer set the maximum bonus rate to 10@@, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
-- Due to Rule 4, in a successful proposal with a 20@@ profit rate, a supporter whose bonus rate was –40@@ for 10 days and –80@@ for 10 days would have an average rate of –60@@, earning her 12@@ on her contribution (to be paid when the project actually profits).
-- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0@@, the same as in an Assurance Contract)
+    - A second such supporter of $99 would take away 99% of the pot.
+    - If the proposer set the maximum bonus rate to 10%, then the first would only get back $1.10 and the second $108.90, regardless of pot size.
+- Due to Rule 4, in a successful proposal with a 20% profit rate, a supporter whose bonus rate was –40% for 10 days and –80% for 10 days would have an average rate of –60%, earning her 12% on her contribution (to be paid when the project actually profits).
+- Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0%, the same as in an Assurance Contract)
 
 What do you think?
 
@@ -1301,7 +1301,7 @@ I think what the mutual credit systems I have found are really good for is reori
 When I was learning a new diet that had me counting calories (to make sure I got *enough* of the right kinds), I got into it for a couple weeks, then I just knew. It was like a skill. Once acquired, there was no need to keep exact record anymore.
 
 Here is the interview that finally got it through to me:
-[An Interview with Economic Anthropologist David Graeber](http://www.nakedcapitalism.com/2011/08/what-is-debt-@@E2@@80@@93-an-interview-with-economic-anthropologist-david-graeber.html)
+[An Interview with Economic Anthropologist David Graeber](http://www.nakedcapitalism.com/2011/08/what-is-debt-%E2%80%93-an-interview-with-economic-anthropologist-david-graeber.html)
 
 I'm telling you because you and I have both struggled with money and with the gifting idea for a long time, and we ought to have a solution to it finally. I think we were basically right. We have been broke because we didn't really want to have anything to do with regular money. It's got blood all over it. It's a tool of enslavement. To hell with it. Better to eat out of dumpsters.
 

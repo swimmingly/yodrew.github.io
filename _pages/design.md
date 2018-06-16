@@ -102,7 +102,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
             - polyester/non-toxic mattress cover
             - polyester/non-toxic-fill comforters
             - polyester/non-toxic-fill pillow
-            - 100@@ natural fiber sheet and duvet
+            - 100% natural fiber sheet and duvet
         - sofa
         - chairs
         - hammock
