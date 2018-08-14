@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  recovery-of-the-lost-self:
+    title: Recovery of the Lost Self
+    output: true
   uploads:
     title: Uploads
     output: true
