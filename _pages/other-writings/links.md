@@ -1,7 +1,7 @@
 ---
 title: Links
+permalink: "/other-writings/links/"
 layout: page
-permalink: /other-writings/links/
 navprev: bibliography
 navnext: origins-of-agriculture
 ---

@@ -1,7 +1,8 @@
 ---
 title: static site generator
+date: 2013-05-02 00:00:00 Z
+permalink: "/blog/2013/05/static-site-generator/"
 layout: post
-permalink: /blog/2013/05/static-site-generator/
 ---
 
 Soon I will migrate this site to a new content management system based on a static site generator. Generators are clients (like [jekyll](http://jekyllrb.com)), hosted, or self-hosted (like [blosxom](http://blosxom.sourceforge.net) and [stacey](http://staceyapp.com)). I'm most interested in hosted generators that use [dropbox](http://dropbox.com) and [github](http://github.com) and usually [markdown](http://daringfireball.net/projects/markdown). Here are the ones I have found so far:

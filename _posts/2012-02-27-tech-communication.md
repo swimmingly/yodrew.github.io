@@ -1,7 +1,8 @@
 ---
 title: tech communication
+date: 2012-02-27 00:00:00 Z
+permalink: "/blog/2012/02/tech-communication/"
 layout: post
-permalink: /blog/2012/02/tech-communication/
 ---
 
 Very off-topic note about how I have come to think of long periods of silence and repeated non-responses in text communication with computer technicians. When it happens I assume one of the following:

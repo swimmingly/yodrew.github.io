@@ -1,7 +1,7 @@
 ---
 title: basics
+permalink: "/darkness-conjecture/basics/"
 layout: page
-permalink: /darkness-conjecture/basics/
 navprev: conjecture
 navnext: rapture
 ---

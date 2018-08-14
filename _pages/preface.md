@@ -1,7 +1,7 @@
 ---
 title: preface
+permalink: "/preface/"
 layout: page
-permalink: /preface/
 navprev: foreword
 navnext: introduction
 ---

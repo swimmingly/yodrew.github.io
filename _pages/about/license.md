@@ -1,7 +1,7 @@
 ---
 title: license
+permalink: "/about/license/"
 layout: page
-permalink: /about/license/
 ---
 
 Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't.

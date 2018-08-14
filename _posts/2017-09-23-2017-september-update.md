@@ -1,8 +1,8 @@
 ---
 title: 2017 september update
+date: 2017-09-23 00:00:00 Z
+permalink: "/blog/2017/09/2017-september-update"
 layout: post
-
-permalink: /blog/2017/09/2017-september-update
 ---
 
 In 2016 June, I gave up on overwork as the means to arrange the conditions of profound rest for myself. With the help of Marion Abbott, a great new friend and fellow darkness seeker, I made a successful crowdfunding campaign to raise the money I needed to finally retreat for 20 days. 

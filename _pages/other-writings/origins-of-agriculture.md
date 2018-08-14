@@ -1,7 +1,7 @@
 ---
 title: Origins of Agriculture
+permalink: "/other-writings/origins-of-agriculture/"
 layout: page
-permalink: /other-writings/origins-of-agriculture/
 navprev: links
 navnext: fukuoka
 ---

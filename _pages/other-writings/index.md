@@ -1,7 +1,7 @@
 ---
 title: other writings
+permalink: "/other-writings/"
 layout: index
-permalink: /other-writings/
 ---
 
 _This is a collection of my earlier writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities._

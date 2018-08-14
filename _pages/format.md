@@ -1,7 +1,7 @@
 ---
 title: 2 - format
+permalink: "/format/"
 layout: page
-permalink: /format/
 navprev: hygiene
 navnext: protocol
 ---

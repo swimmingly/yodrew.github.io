@@ -1,7 +1,7 @@
 ---
 title: ebook
+permalink: "/ebook/"
 layout: page
-permalink: /ebook/
 ---
 
 Download this ebook directly now:

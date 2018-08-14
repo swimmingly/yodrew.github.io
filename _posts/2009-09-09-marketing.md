@@ -1,7 +1,8 @@
 ---
 title: marketing
+date: 2009-09-09 00:00:00 Z
+permalink: "/blog/2009/09/marketing/"
 layout: post
-permalink: /blog/2009/09/marketing/
 ---
 
 I wonder if it is earlier in the process of realizing this idea than I thought. Maybe it needs more development. Usually, when I have an idea, I rush it into production. And it has not really mattered before because everything was part of a massive survey of information. I only needed a rough test of something to catalog it and move on.

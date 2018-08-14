@@ -1,7 +1,7 @@
 ---
 title: darkrooms worldwide
+permalink: "/darkrooms-worldwide/"
 layout: page
-permalink: /darkrooms-worldwide/
 ---
 
 <!--

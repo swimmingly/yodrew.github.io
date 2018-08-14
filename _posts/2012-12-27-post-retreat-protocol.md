@@ -1,7 +1,8 @@
 ---
 title: post-retreat protocol
+date: 2012-12-27 00:00:00 Z
+permalink: "/blog/2012/12/post-retreat-protocol/"
 layout: post
-permalink: /blog/2012/12/post-retreat-protocol/
 ---
 
 I've learned something really important this year about retreats, which is that for every 2-3 days spent inside, one day of identical conditions (except for being in light during the daytime) is necessary afterward to readjust to light and regular consciousness and to absorb the value of the retreat.

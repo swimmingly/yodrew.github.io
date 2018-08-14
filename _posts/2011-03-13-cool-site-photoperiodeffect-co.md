@@ -1,7 +1,8 @@
 ---
 title: cool site - photoperiodeffect.com
+date: 2011-03-13 00:00:00 Z
+permalink: "/blog/2011/03/cool-site-photoperiodeffect-com/"
 layout: post
-permalink: /blog/2011/03/cool-site-photoperiodeffect-com/
 ---
 
 [photoperiodeffect.com](http://web.archive.org/web/20110715083725/http://www.photoperiodeffect.com/)

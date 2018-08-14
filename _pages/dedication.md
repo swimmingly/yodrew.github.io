@@ -1,8 +1,8 @@
 ---
 title: dedication
+permalink: "/dedication/"
 layout: page
-permalink: /dedication/
-navprev:
+navprev: 
 navnext: notes
 ---
 

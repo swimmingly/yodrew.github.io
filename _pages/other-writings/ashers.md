@@ -1,7 +1,7 @@
 ---
 title: The Ashers, a River, and I
+permalink: "/other-writings/ashers/"
 layout: page
-permalink: /other-writings/ashers/
 navprev: lyrics
 navnext: bibliography
 ---

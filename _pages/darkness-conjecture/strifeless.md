@@ -1,7 +1,7 @@
 ---
 title: strifeless
+permalink: "/darkness-conjecture/strifeless/"
 layout: page
-permalink: /darkness-conjecture/strifeless/
 navprev: catastrophe
 navnext: 
 ---

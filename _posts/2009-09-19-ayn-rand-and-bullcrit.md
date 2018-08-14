@@ -1,7 +1,8 @@
 ---
 title: ayn rand and bullcrit
+date: 2009-09-19 00:00:00 Z
+permalink: "/blog/2009/09/ayn-rand-and-bullcrit/"
 layout: post
-permalink: /blog/2009/09/ayn-rand-and-bullcrit/
 ---
 
 People commonly act knowledgeable about things they have never read, let alone studied. I think this habit arises from the amazing idea that all the data necessary to life is in and now it is just a matter of sorting it out and making a decision. This, of course, is opposite the darkness conjecture, which is based on the idea that we are always short of most of the data we need to live because consciousness, the faculty which collects this data, is damaged.

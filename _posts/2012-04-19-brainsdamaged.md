@@ -1,7 +1,8 @@
 ---
 title: brainsdamaged
+date: 2012-04-19 00:00:00 Z
+permalink: "/blog/2012/04/brainsdamaged/"
 layout: post
-permalink: /blog/2012/04/brainsdamaged/
 ---
 
 Psychology is the study of the psyche, not just the mind. Thus mainstream psychology will continue failing to seriously help people as long as it considers health and illness "mental" rather than "psychic" in nature. The psyche---consciousness---is not just mental, but emotional and physical as well. Feeling and movement are not mere products of the intellect, but their own forms of intelligence.

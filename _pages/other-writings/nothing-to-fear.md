@@ -1,7 +1,7 @@
 ---
 title: Nothing to Fear, Even Fear Itself
+permalink: "/other-writings/nothing-to-fear/"
 layout: page
-permalink: /other-writings/nothing-to-fear/
 navprev: from-where
 navnext: sanity-and-health
 ---

@@ -1,7 +1,7 @@
 ---
 title: hygiene notes
+permalink: "/darkness-conjecture/hygiene-notes/"
 layout: page
-permalink: /darkness-conjecture/hygiene-notes/
 navprev: rapture
 navnext: dreamtime
 ---

@@ -1,7 +1,8 @@
 ---
 title: remission
+date: 2010-01-08 00:00:00 Z
+permalink: "/blog/2010/01/remission/"
 layout: post
-permalink: /blog/2010/01/remission/
 ---
 
 As I [wrote before](/introduction/), I was overwhelmed by [rapture](http://andrewdurham.com/darkness-conjecture/rapture) when I was 15 for three months. When it began to fade, I wanted to know what had happened. What caused this feeling? Why did it fade away?

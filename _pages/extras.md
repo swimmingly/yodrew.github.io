@@ -1,7 +1,7 @@
 ---
 title: extras - hygienic darkroomretreat.com
+permalink: "/extras/"
 layout: print
-permalink: /extras/
 ---
 
 # extras

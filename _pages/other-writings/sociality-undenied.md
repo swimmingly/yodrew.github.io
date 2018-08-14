@@ -1,7 +1,7 @@
 ---
 title: Sociality Undenied
+permalink: "/other-writings/sociality-undenied/"
 layout: page
-permalink: /other-writings/sociality-undenied/
 navprev: existence-isnt-everything
 navnext: from-where
 ---

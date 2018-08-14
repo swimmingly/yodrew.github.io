@@ -1,7 +1,8 @@
 ---
 title: william arthur evans
+date: 2009-08-26 00:00:00 Z
+permalink: "/blog/2009/08/william-arthur-evans/"
 layout: post
-permalink: /blog/2009/08/william-arthur-evans/
 ---
 
 I would like to share a bit of the background of the darkness conjecture by discussing the work of an early psychobiologist, William Arthur Evans. Evans wrote about the emotional origin of all illness. He had a practice in Dallas, Texas, and eventually, a school.

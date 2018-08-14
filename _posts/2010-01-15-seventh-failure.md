@@ -1,7 +1,8 @@
 ---
 title: seventh failure!
+date: 2010-01-15 00:00:00 Z
+permalink: "/blog/2010/01/seventh-failure/"
 layout: post
-permalink: /blog/2010/01/seventh-failure/
 ---
 
 In mid-December, I made another serious attempt at a long darkness retreat. I thought I would try something different and keep it under wraps till it was over.

@@ -1,7 +1,7 @@
 ---
 title: Mechanics of Mass Slavery
+permalink: "/other-writings/mechanics-of-mass-slavery/"
 layout: page
-permalink: /other-writings/mechanics-of-mass-slavery/
 navprev: just-living
 navnext: ordo
 ---

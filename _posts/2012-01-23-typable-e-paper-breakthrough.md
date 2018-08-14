@@ -1,7 +1,8 @@
 ---
 title: typable e-paper breakthrough
+date: 2012-01-23 00:00:00 Z
+permalink: "/blog/2012/01/typable-e-paper-breakthrough/"
 layout: post
-permalink: /blog/2012/01/typable-e-paper-breakthrough/
 ---
 
 At my request, xda developer, verygreen, with support from ros87, has done in 24 hours for $10 and a $109 donated device what tens of companies could/would not do in four years with all their resources (like the $500,000 one company told me it would cost).

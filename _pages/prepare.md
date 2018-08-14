@@ -1,7 +1,7 @@
 ---
 title: 4 - prepare
+permalink: "/prepare/"
 layout: page
-permalink: /prepare/
 navprev: protocol
 navnext: design
 ---

@@ -1,7 +1,8 @@
 ---
 title: darkness, take 6
+date: 2009-08-26 00:00:00 Z
+permalink: "/blog/2009/08/darkness-take-6/"
 layout: post
-permalink: /blog/2009/08/darkness-take-6/
 ---
 
 My 5th attempt to arrange for a darkness retreat has failed. So tonight I start my 6th attempt.

@@ -1,8 +1,8 @@
 ---
 title: Existence Isn't Everything
+permalink: "/other-writings/existence-isnt-everything/"
 layout: page
-permalink: /other-writings/existence-isnt-everything/
-navprev:
+navprev: 
 navnext: sociality-undenied
 ---
 

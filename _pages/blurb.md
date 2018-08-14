@@ -1,7 +1,7 @@
 ---
 title: blurb
+permalink: "/blurb/"
 layout: page
-permalink: /blurb/
 ---
 
 ## a complete manual

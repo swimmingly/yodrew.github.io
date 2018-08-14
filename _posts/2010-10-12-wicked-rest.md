@@ -1,7 +1,8 @@
 ---
 title: wicked rest
+date: 2010-10-12 00:00:00 Z
+permalink: "/blog/2010/10/wicked-rest/"
 layout: post
-permalink: /blog/2010/10/wicked-rest/
 ---
 
 I have been playing with new names for this project. One that really strikes me is Wicked Rest. And here is a potential intro to the site with this name:

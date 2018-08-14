@@ -1,7 +1,7 @@
 ---
 title: 6 - make
+permalink: "/make/"
 layout: page
-permalink: /make/
 navprev: design
 navnext: air
 ---

@@ -1,7 +1,7 @@
 ---
 title: Bibliography
+permalink: "/other-writings/bibliography/"
 layout: page
-permalink: /other-writings/bibliography/
 navprev: ashers
 navnext: links
 ---

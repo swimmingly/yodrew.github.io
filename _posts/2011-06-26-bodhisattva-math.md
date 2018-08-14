@@ -1,7 +1,8 @@
 ---
 title: bodhisattva math
+date: 2011-06-26 00:00:00 Z
+permalink: "/blog/2011/06/bodhisattva-math/"
 layout: post
-permalink: /blog/2011/06/bodhisattva-math/
 ---
 
 Let us say Bodhisattvas are both sincere and realistic in their vow that, after their own personal enlightenment (which will free them from the necessity of reincarnating on this planet) they will keep reincarnating here anyway in order to help liberate all sentient creatures.

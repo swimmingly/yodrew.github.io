@@ -1,7 +1,8 @@
 ---
 title: superlight hypothesis
+date: 2010-01-15 00:00:00 Z
+permalink: "/blog/2010/01/superlight-hypothesis/"
 layout: post
-permalink: /blog/2010/01/superlight-hypothesis/
 ---
 
 For the record: when I finally succeed in spending two weeks in darkness, here is one thing I predict will happen.

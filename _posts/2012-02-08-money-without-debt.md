@@ -1,7 +1,8 @@
 ---
 title: money without debt
+date: 2012-02-08 00:00:00 Z
+permalink: "/blog/2012/02/money-without-debt/"
 layout: post
-permalink: /blog/2012/02/money-without-debt/
 ---
 
 Hey, I just came across this excellent web-based credit clearing system:

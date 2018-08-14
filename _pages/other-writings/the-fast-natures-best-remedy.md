@@ -1,9 +1,9 @@
 ---
 title: The Fast - Nature's Best Remedy
+permalink: "/other-writings/the-fast-natures-best-remedy"
 layout: page
-permalink: /other-writings/the-fast-natures-best-remedy
 navprev: mosseris-fasting-discovery
-navnext:
+navnext: 
 ---
 
 by Dr. Albert Mosséri</h3>

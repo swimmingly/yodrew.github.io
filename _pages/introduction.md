@@ -1,7 +1,7 @@
 ---
 title: introduction
+permalink: "/introduction/"
 layout: page
-permalink: /introduction/
 navprev: preface
 navnext: hygiene
 ---

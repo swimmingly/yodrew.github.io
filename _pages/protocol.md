@@ -1,7 +1,7 @@
 ---
 title: 3 - protocol
+permalink: "/protocol/"
 layout: page
-permalink: /protocol/
 navprev: format
 navnext: prepare
 ---

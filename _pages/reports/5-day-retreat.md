@@ -1,7 +1,7 @@
 ---
 title: 5-day retreat
+permalink: "/reports/5-day-retreat/"
 layout: page
-permalink: /reports/5-day-retreat/
 navprev: 6-day-retreat
 navnext: 2-day-retreat
 ---

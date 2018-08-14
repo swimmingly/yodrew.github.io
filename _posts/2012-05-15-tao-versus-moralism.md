@@ -1,7 +1,8 @@
 ---
 title: tao versus moralism
+date: 2012-05-15 00:00:00 Z
+permalink: "/blog/2012/05/tao-versus-moralism/"
 layout: post
-permalink: /blog/2012/05/tao-versus-moralism/
 ---
 
 #### tao te ching, chapter 38

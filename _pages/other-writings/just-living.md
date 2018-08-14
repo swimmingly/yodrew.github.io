@@ -1,7 +1,7 @@
 ---
 title: Just Living
+permalink: "/other-writings/just-living/"
 layout: page
-permalink: /other-writings/just-living/
 navprev: sanity-and-health
 navnext: mechanics-of-mass-slavery
 ---

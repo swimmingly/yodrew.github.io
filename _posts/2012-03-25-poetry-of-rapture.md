@@ -1,7 +1,8 @@
 ---
 title: poetry of rapture
+date: 2012-03-25 00:00:00 Z
+permalink: "/blog/2012/03/poetry-of-rapture/"
 layout: post
-permalink: /blog/2012/03/poetry-of-rapture/
 ---
 
 Here is a poem I read at age 17. It prefaces one of my favorite books, _Magical Child Matures_ by Joseph Chilton Pearce. It took all this time to start seeing the meaning. If ever there were a poem of rapture, this is it.

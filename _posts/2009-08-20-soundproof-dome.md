@@ -1,7 +1,8 @@
 ---
 title: soundproof dome
+date: 2009-08-20 00:00:00 Z
+permalink: "/blog/2009/08/soundproof-dome/"
 layout: post
-permalink: /blog/2009/08/soundproof-dome/
 ---
 
 The dome must be soundproof, not just sound-dampened. Enough bad experiences with noise and enough reflections by other people have finally gotten it across to me. Sound, to a lesser but still significant degree than light, will sufficiently stimulate consciousness's fixation on the gross dimension. How much? Maybe enough to ruin a test of the conjecture. I'm not going to take that chance.

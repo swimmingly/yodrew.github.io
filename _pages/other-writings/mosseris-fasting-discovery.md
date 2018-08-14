@@ -1,7 +1,7 @@
 ---
 title: Mosséri's Fasting Discovery
+permalink: "/other-writings/mosseris-fasting-discovery/"
 layout: page
-permalink: /other-writings/mosseris-fasting-discovery/
 navprev: fukuoka
 navnext: the-fast-natures-best-remedy-mosseri
 ---

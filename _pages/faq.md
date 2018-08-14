@@ -1,7 +1,7 @@
 ---
 title: faq
+permalink: "/faq/"
 layout: page
-permalink: /faq/
 navprev: appendix-pathology
 navnext: bibliography-and-influences
 ---

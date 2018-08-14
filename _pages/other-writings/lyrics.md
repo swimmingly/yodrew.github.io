@@ -1,7 +1,7 @@
----  
+---
 title: Lyrics
+permalink: "/other-writings/lyrics/"
 layout: page
-permalink: /other-writings/lyrics/
 navprev: poems
 navnext: ashers
 ---

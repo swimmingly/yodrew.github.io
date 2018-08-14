@@ -1,7 +1,8 @@
 ---
 title: darkness made simple
+date: 2009-09-15 00:00:00 Z
+permalink: "/blog/2009/09/darkness-made-simple/"
 layout: post
-permalink: /blog/2009/09/darkness-made-simple/
 ---
 
 I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [original conjecture](http://andrewdurham.com/basics).

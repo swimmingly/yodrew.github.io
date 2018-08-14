@@ -1,7 +1,8 @@
 ---
 title: e-ink writing device - a plea
+date: 2011-01-20 00:00:00 Z
+permalink: "/blog/2011/01/e-ink-writing-device-a-plea/"
 layout: post
-permalink: /blog/2011/01/e-ink-writing-device-a-plea/
 ---
 
 EDIT: Success! Type on e-ink now using [hacked B&N Nook Simple Touch](http://forum.xda-developers.com/wiki/BN_Nook_Simple_Touch/USB_host_mode), the open-source project I started at xda-developers.com.

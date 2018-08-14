@@ -1,7 +1,7 @@
 ---
 title: 7 - air
+permalink: "/air/"
 layout: page
-permalink: /air/
 navprev: make
 navnext: darkness
 ---

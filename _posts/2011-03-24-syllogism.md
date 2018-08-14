@@ -1,7 +1,8 @@
 ---
 title: syllogism
+date: 2011-03-24 00:00:00 Z
+permalink: "/blog/2011/03/syllogism/"
 layout: post
-permalink: /blog/2011/03/syllogism/
 ---
 
 \[EDIT: I learned this is not a syllogism, just a regular old argument. Syllogisms have only three propositions. Sigh.\]

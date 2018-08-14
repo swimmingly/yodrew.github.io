@@ -1,7 +1,7 @@
 ---
 title: bibliography and influences
+permalink: "/about/bibliography-influences/"
 layout: page
-permalink: /about/bibliography-influences/
 ---
 
 - indigeny vs industry 

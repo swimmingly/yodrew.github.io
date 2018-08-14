@@ -1,7 +1,7 @@
 ---
 title: 8 - darkness
+permalink: "/darkness/"
 layout: page
-permalink: /darkness/
 navprev: air
 navnext: water
 ---

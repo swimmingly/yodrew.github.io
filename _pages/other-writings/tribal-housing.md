@@ -1,7 +1,7 @@
 ---
 title: Tribal Housing
+permalink: "/other-writings/tribal-housing/"
 layout: page
-permalink: /other-writings/tribal-housing/
 navprev: ordo
 navnext: myths
 ---

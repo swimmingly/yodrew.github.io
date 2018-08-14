@@ -1,7 +1,7 @@
 ---
 title: lindsey vona&#8217;s 14-day darkness retreat
+permalink: "/reports/lindsey-vona-darkness-retreat/"
 layout: page
-permalink: /reports/lindsey-vona-darkness-retreat/
 navprev: 2x2-day-retreat
 navnext: 365-day-retreat-of-150-year-old-yogi
 ---

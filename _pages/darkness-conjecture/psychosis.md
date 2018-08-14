@@ -1,7 +1,7 @@
 ---
 title: psychosis
+permalink: "/darkness-conjecture/psychosis/"
 layout: page
-permalink: /darkness-conjecture/psychosis/
 navprev: dreamtime
 navnext: catastrophe
 ---

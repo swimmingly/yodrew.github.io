@@ -1,7 +1,7 @@
 ---
 title: four darkness experiences
+permalink: "/reports/four-darkness-experiences/"
 layout: page
-permalink: /reports/four-darkness-experiences/
 navprev: 
 navnext: 6-day-retreat
 ---

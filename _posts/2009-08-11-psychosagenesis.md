@@ -1,7 +1,8 @@
 ---
 title: psychosagenesis
+date: 2009-08-11 00:00:00 Z
+permalink: "/blog/2009/08/psychosagenesis/"
 layout: post
-permalink: /blog/2009/08/psychosagenesis/
 ---
 
 I came up with a new word for the process of inducing psychosis: psychosagenesis. This concept, I realized shortly afterward, is _identical_ to the process of civilization. To civilize someone _is_ to induce psychosis in her.

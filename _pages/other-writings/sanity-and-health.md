@@ -1,7 +1,7 @@
 ---
 title: Sanity and Health
+permalink: "/other-writings/sanity-and-health/"
 layout: page
-permalink: /other-writings/sanity-and-health/
 navprev: nothing-to-fear
 navnext: just-living
 ---

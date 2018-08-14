@@ -1,7 +1,8 @@
 ---
 title: atitlan report
+date: 2009-12-26 00:00:00 Z
+permalink: "/blog/2009/12/atitlan-report/"
 layout: post
-permalink: /blog/2009/12/atitlan-report/
 ---
 
 I'm sitting in San Pedro La Laguna, Guatemala, on the shore of Lake Atitlan in an internet "store". It is just a painted cinder block room with a bare light bulb and four desks with computers. For 60 cents I can use the computer for an hour.

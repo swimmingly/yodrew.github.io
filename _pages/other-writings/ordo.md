@@ -1,7 +1,7 @@
 ---
 title: ORDO
+permalink: "/other-writings/ordo/"
 layout: page
-permalink: /other-writings/ordo/
 navprev: mechanics-of-mass-slavery
 navnext: tribal-housing
 ---

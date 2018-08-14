@@ -1,7 +1,7 @@
 ---
 title: the darkness conjecture
+permalink: "/darkness-conjecture/"
 layout: page
-permalink: /darkness-conjecture/
 ---
 
 #### a strifeless recovery of rapture

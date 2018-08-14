@@ -1,7 +1,8 @@
 ---
 title: darkness science
+date: 2011-01-25 00:00:00 Z
+permalink: "/blog/2011/01/darkness-science/"
 layout: post
-permalink: /blog/2011/01/darkness-science/
 ---
 
 Just came across these three entries in Wikipedia about the strange light that people often experience in darkness retreats:

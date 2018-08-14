@@ -1,7 +1,8 @@
 ---
 title: conjecture's sixth point
+date: 2009-09-13 00:00:00 Z
+permalink: "/blog/2009/09/conjectures-sixth-point/"
 layout: post
-permalink: /blog/2009/09/conjectures-sixth-point/
 ---
 
 I just added a sixth point to the darkness conjecture (see original version in [basics](http://andrewdurham.com/basics)).

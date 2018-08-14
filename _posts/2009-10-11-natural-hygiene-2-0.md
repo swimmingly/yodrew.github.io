@@ -1,7 +1,8 @@
 ---
 title: natural hygiene 2.0
+date: 2009-10-11 00:00:00 Z
+permalink: "/blog/2009/10/natural-hygiene-2-0/"
 layout: post
-permalink: /blog/2009/10/natural-hygiene-2-0/
 ---
 
 So far, Natural Hygienists have said that toxemia is the cause of illness \[NOTE: actually only some say this. See CORRECTION below\], and that toxemia itself results from misinformed behavior. But how did this cycle get started? I do not think it just started out of the blue, as if otherwise healthy people started eating incorrectly and then lost their way. Something else had to have happened inbetween.

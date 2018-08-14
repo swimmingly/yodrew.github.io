@@ -1,7 +1,7 @@
 ---
 title: rapture
+permalink: "/darkness-conjecture/rapture/"
 layout: page
-permalink: /darkness-conjecture/rapture/
 navprev: basics
 navnext: hygiene-notes
 ---

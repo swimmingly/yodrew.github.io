@@ -1,7 +1,7 @@
 ---
 title: project
+permalink: "/darkness-conjecture/project/"
 layout: page
-permalink: /darkness-conjecture/project/
 navprev: 
 navnext: 
 ---

@@ -1,7 +1,7 @@
 ---
 title: On a Green Mountain, with Masanobu Fukuoka
+permalink: "/other-writings/fukuoka/"
 layout: page
-permalink: /other-writings/fukuoka/
 navprev: origins-of-agriculture
 navnext: mosseris-fasting-discovery
 ---

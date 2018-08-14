@@ -1,7 +1,7 @@
 ---
 title: bio
+permalink: "/about/bio/"
 layout: page
-permalink: /about/bio/
 ---
 
 Born 1971, Twin Falls, Idaho. For 21 years, I traveled America while searching for the cause of joy. I independently studied philosophy, health, and design, testing my findings by living outside, doing odd jobs, playing music, and building alternative shelter. 

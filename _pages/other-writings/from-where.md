@@ -1,7 +1,7 @@
 ---
 title: From Where?
+permalink: "/other-writings/from-where/"
 layout: page
-permalink: /other-writings/from-where/
 navprev: sociality-undenied
 navnext: nothing-to-fear
 ---

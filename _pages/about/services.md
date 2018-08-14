@@ -1,7 +1,7 @@
 ---
 title: services
+permalink: "/about/services/"
 layout: page
-permalink: /about/services/
 ---
 
 I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build. 

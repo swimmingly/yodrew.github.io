@@ -1,7 +1,7 @@
 ---
 title: about
+permalink: "/about/"
 layout: index
-permalink: /about/
 ---
 
 [bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [license](./license/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [services](./services/)

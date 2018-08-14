@@ -1,7 +1,7 @@
 ---
 title: reports
+permalink: "/reports/"
 layout: index
-permalink: /reports/
 ---
 
 This series of Hygienic darkroom retreat reports documents my improbable recovery from an ancestral suicide program and the resulting qualification of the [darkness-conjecture](/darkness-conjecture/) as a hypothesis.

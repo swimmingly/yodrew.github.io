@@ -1,7 +1,8 @@
 ---
 title: situation report 090811
+date: 2009-08-11 00:00:00 Z
+permalink: "/blog/2009/08/situation-report-090811/"
 layout: post
-permalink: /blog/2009/08/situation-report-090811/
 ---
 
 If you've seen nothing, if the crimes of this culture remain unknown to you, then I would suggest you allow this post to pass unmarked. But if you see what I see, if you feel as I feel, and if you would seek as I seek, then I ask you to avail yourself of the vivifying veracity of these volumes:

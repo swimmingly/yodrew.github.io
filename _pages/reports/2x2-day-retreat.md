@@ -1,7 +1,7 @@
 ---
 title: 2x2-day retreat
+permalink: "/reports/2x2-day-retreat/"
 layout: page
-permalink: /reports/2x2-day-retreat/
 navprev: 7x1-day-retreat
 navnext: lindsey-vona-darkness-retreat
 ---

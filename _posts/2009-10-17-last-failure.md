@@ -1,7 +1,8 @@
 ---
 title: last failure
+date: 2009-10-17 00:00:00 Z
+permalink: "/blog/2009/10/last-failure/"
 layout: post
-permalink: /blog/2009/10/last-failure/
 ---
 
 Tonight, I report my sixth and last failure to arrange for a long darkness retreat. I made two business propositions to people, the dome and health proposals. But my heart was not really in them. The effort was putting too much pressure on me and the project. It needs no pushing. And so unconsciously, I made these proposals randomly so they would not get enough response.

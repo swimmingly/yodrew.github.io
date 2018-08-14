@@ -1,7 +1,8 @@
 ---
 title: so long, secret design
+date: 2009-10-28 00:00:00 Z
+permalink: "/blog/2009/10/so-long-secret-design/"
 layout: post
-permalink: /blog/2009/10/so-long-secret-design/
 ---
 
 secret design, the site I made in late 2001 to present my design for Tribal Housing and a bunch of writings that followed, closed Monday with the rest of GeoCities.

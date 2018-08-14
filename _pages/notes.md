@@ -1,7 +1,7 @@
 ---
 title: notes
+permalink: "/notes/"
 layout: page
-permalink: /notes/
 navprev: dedication
 navnext: foreword
 ---

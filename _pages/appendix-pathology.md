@@ -1,7 +1,7 @@
 ---
 title: appendix - pathology
+permalink: "/appendix-pathology/"
 layout: page
-permalink: /appendix-pathology/
 navprev: appendix-laws-of-life
 navnext: faq
 ---

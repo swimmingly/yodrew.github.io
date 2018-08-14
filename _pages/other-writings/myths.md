@@ -1,7 +1,7 @@
 ---
 title: myths
+permalink: "/other-writings/myths/"
 layout: page
-permalink: /other-writings/myths/
 navprev: tribal-housing
 navnext: poems
 ---

@@ -1,7 +1,7 @@
----  
+---
 title: Poems
+permalink: "/other-writings/poems/"
 layout: page
-permalink: /other-writings/poems/
 navprev: myths
 navnext: lyrics
 ---
