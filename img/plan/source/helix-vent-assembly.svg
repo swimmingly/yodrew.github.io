@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-assembly-345.svg"
+   sodipodi:docname="helix-vent-assembly.svg"
    inkscape:export-filename="/home/hill/Dropbox/write/darkness/img/plan/svg backup-using/helix-vent-assembly-345.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -134,8 +134,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="335.34088"
-     inkscape:cy="243.10434"
+     inkscape:cx="596.97039"
+     inkscape:cy="137.03832"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -513,7 +513,7 @@
          y="265.66833"
          x="855.92963"
          sodipodi:role="line"
-         id="tspan5060">paper core 87 x 220 x 221</tspan><tspan
+         id="tspan5060">paper core 87 x 220 x 216</tspan><tspan
          id="tspan48"
          style="font-style:italic;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
          y="272.72388"
