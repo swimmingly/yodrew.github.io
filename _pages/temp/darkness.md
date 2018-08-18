@@ -1,6 +1,6 @@
 ---
 title: 8 - darkness
-permalink: "/darkness/"
+permalink: "/temp/darkness/"
 layout: page
 navprev: air
 navnext: water

@@ -1,6 +1,6 @@
 ---
 title: 6 - make
-permalink: "/make/"
+permalink: "/temp/make/"
 layout: page
 navprev: design
 navnext: air

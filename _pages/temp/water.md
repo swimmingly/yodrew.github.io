@@ -1,6 +1,6 @@
 ---
 title: 9 - water
-permalink: "/water/"
+permalink: "/temp/water/"
 layout: page
 navprev: darkness
 navnext: appendix-laws-of-life
