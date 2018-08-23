@@ -133,12 +133,14 @@ Read through instructions once while studying plans.
     3. fabric: polar fleece, black, medium weight (for seal. Quality check: 10 layers of it in a stack should measure 30-35mm high) 
 2. follow instructions in [air > fabricate](/air/#fabricate)
 3. sub-assembly
-    1. attach channels to walls
+    1. attach wall channels to walls
         1. referring to assembly and key, get a clear idea of how parts go together
         2. glue channel and wall joints in alphabetical order between question marked holes. Channels lie between dash-dotted lines.
+		3. glue narrow part of flaps to top and bottom of walls. Wide part should fold slightly upward
+		4. position middle channels against upwardly angled flaps of wall channels and glue in place 
     2. glue joints of shell together with shell seals
 4. assemble core
-    1. glue 20mm wide flaps of inner wall to outer wall
+	1. put inner and outer wall sub-assemblies together and glue outer top and bottom over inner top and bottom. Note how V-shaped cut-outs in inner wall butt up against middle channel of outer wall.
     2. glue 20mm wide flaps of outer wall to inner wall
 5. shell
 	- when using shell, put core inside and attach fleece seal with glue. This is a 20mm wide double-layer strip of fleece that goes around the flaps of the face opening. Three sides of the seal attach to the shell flaps. The fourth side goes across the core. Double-layers overlap at corners.
@@ -234,7 +236,9 @@ The plan is straightforward. It is just a wooden box with two baffles (internal 
 
 The box is lined with porous non-toxic insulation. Pillow filling, quilt batting, cellulose, clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. I feel hesitant to use acoustic foam because I don't know what chemicals are in it. Fiberglass and rockwool are unpleasant to work with and fiberglass often smells of chemicals. Closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, is not porous so will not work.
 
-Discarded furniture is made of melamine, an excellent material for silencer boxes. It is particle board with plastic veneer, usually 15 or 19mm thick. Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
+Discarded furniture is made of melamine, an excellent material for silencer boxes. It is particle board with plastic veneer, usually 15 or 19mm thick. Marine plywood uses non-toxic glue. Otherwise, avoid plywood or line with aluminum foil. 
+
+Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
 
 To insulate, make square tubes of metal screen covered in porous fabric to form the channel. Stuff insulation around it and close the box. Or cut and glue sheet insulation in place. Roughen the plastic surface first with sandpaper so the glue sticks. 
 
