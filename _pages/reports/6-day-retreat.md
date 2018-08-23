@@ -6,7 +6,7 @@ navprev: four-darkness-experiences
 navnext: 5-day-retreat
 ---
 
-2011 Mar 17
+### 2011 Mar 17
 
 My second attempt at a 14-day dark retreat ended after only 6 days on 2011 March 12, Saturday, due to excessive external noise and breakdown of the ventilation system. Stress from mechanical failures of the room accumulated and defeated the retreat. Despite the aggravation, some cool things happened and continue to happen as a result. So it was not a bust, but a semi-success, and I'm glad I went in.
 

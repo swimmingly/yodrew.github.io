@@ -16,9 +16,9 @@ Imagine:
 
 How? By _hygienic darkroom retreating:_ profound psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
-## basics
+### basics
 
-### how it works
+#### how it works
 
 1. The psyche, as an organic system, is self-healing.
 2. The primary condition of healing is rest. 
@@ -26,7 +26,7 @@ How? By _hygienic darkroom retreating:_ profound psychic rest in total physical 
 
 This is fully developed in chapter one, _hygiene_. Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. This includes designs for darkroom components precise to the millimeter.
 
-### terminology
+#### terminology
 
 **hygiene:** hygienism<!-- hygienics? -->; caring for health by respecting life's self-preserving nature and providing its normal conditions  
 **Natural Hygiene:** the 185 year-old school of health that exemplifies hygiene  
@@ -46,7 +46,7 @@ This is fully developed in chapter one, _hygiene_. Essentially, because the proc
 **psychic:** of or relating to the psyche in general (not occult powers). For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
 **lifeway:** a way of life; everything that happens with people in a given group in the course of living. I once used the word, culture, for this. Then I learned culture is recent: an invention of civilization. I wanted a bigger word which would include all approaches to human existence. Lifeway is a nicely compressed term common in anthropology.
 
-### darkroom
+#### darkroom
 
 A darkroom is a bedroom that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
 
@@ -54,15 +54,15 @@ Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comf
 
 Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More about this in the [*design*](/design) chapter
 
-## background
+### background
 
-### nature
+#### nature
 
 Darkness is instinctive. We sleep in it at night and nap in shadows. We use our hands to cover our eyes when overwhelmed. We take longer refuge in caves and shelters when injured. We and many other animals always have. 
 
 Absolute darkness is natural. Our natural habitat is tropical forest. At night its floor is pitch black.
 
-### traditions
+#### traditions
 
 Spiritual traditions have used darkness for millennia. They tend to view it as the ultimate environment for self-discipline and gaining unusual knowledge. Egyptians and Maya have used it in pyramids; Christians in catacombs; Sufis and Taoists in caves; Tibetan Buddhists in cells of monasteries.
 
@@ -72,7 +72,7 @@ Western science has studied sensory destimulation since the 1950s for astronauti
 
 Unfortunately, the active nature of these approaches to darkroom retreating compromises them. This means they depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
 
-### hygiene
+#### hygiene
 
 Hygiene is not just cleanliness, as medicine has led us to believe. Hygiene is broad and deep, dealing with all conditions of health. We know the word today because of a radical school of natural health originating in America in 1832 now known as _Natural Hygiene_. It led the global natural health movement of the 19th century. Hygiene vigorously respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide such conditions.
 
@@ -82,13 +82,13 @@ Hygiene identifies disease **_as_** the process of healing. Disease is the norma
 
 The fundamentals of hygiene help us reconnect with our own common sense about healing. They guide us past incorrect assumptions we likely have about it. Once you have these absolute basics down, you can learn the concrete details of a darkroom retreat and approach it with confidence. Moreover, hygiene provides guidance in all aspects of healthful living.
 
-### people
+#### people
 
 My parents had taught me the importance of eating well through their interest in natural diet. When I was 9 years old, I got sick and realized it was from the junk food I had eaten the day before. Diet became my religion for 30 years.
 
 Natural Hygiene came knocking three times. Once in 1989 through my dad's second wife, a truthseeker among whose fascinating books I found the ecstatic _Fit for Life_ by Harvey and Marilyn Diamond. Again in 1992 through a great friend, Sterling Voss. He told me, in the greatest letter anyone ever wrote me, about _Fasting Can Save Your Life_ by Herbert Shelton, hygiene's systematizer. Finally, in 2001, through friend and colleague, Frederic Patenaude, editor of _Just Eat An Apple_ magazine and author of _The Raw Secrets_. These were about the raw vegan diet.
 
-## frederic
+##### frederic
 
 I worked and was housemates with Frederic Patenaude a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
 
@@ -98,7 +98,7 @@ In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zov
 
 Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*hygiene > capacity*](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
-## finn
+##### finn
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
@@ -126,7 +126,7 @@ A benevolent Pied Piper and the coolest 60 year-old around, he had inspired all 
 
 But as Finn says, I was just getting started. It would take two more years, the massive shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
-## andrew
+##### andrew
 
 How did all this begin?
 
@@ -142,9 +142,9 @@ Besides this supporting evidence, no data contradicting the basic idea has yet e
 
 As Finn says, what else can go right?
 
-## application
+### application
 
-### audience
+#### audience
 
 This book is for:
 
@@ -157,7 +157,7 @@ Darkroom retreating is for anyone to whom it makes sense and who feels moved to 
 
 However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging. Acquaintance with hygienic principles is invaluable in healing from any illness. 
 
-### how to use this book
+#### how to use this book
 
 Above all, this book presents an idea for consideration. For now, doing it is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief, which comes from knowledge. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
@@ -167,7 +167,7 @@ Help from others may or may not come. You are the one you have been waiting for.
  
 The full application of the idea of hygienic darkroom retreating consists of doing retreats of increasing length alternated with periods of making the radical changes in lifeway one becomes capable of in darkness. This includes studying and applying the rest of hygiene. Continue until your psychic integrity and physical health are completely restored. _Live_.
 
-### contents
+#### contents
 
 Chapters are mostly practical with a dose of theory to start with. 
 
@@ -200,7 +200,7 @@ Book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroom
 - related [myths](/other-writings/myths) and
 - essays, designs, prose, poetry, and lyrics from the [past 25 years](/other-writings).
 
-### open-source
+#### open-source
 
 Thanks for reading. Please copy and give out this free book as much as you please. See [*license*](/license) for more options.
 
@@ -221,7 +221,7 @@ Likewise, I am open to working with you in any way to develop hygienic darkroom 
 
 I continually update this book. Especially before building, download the latest version of the book and review relevant sections for new plans.
 
-### help
+#### help
 
 Join the dolphin economy: I help you help me help you help me help you...
 

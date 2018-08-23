@@ -6,7 +6,7 @@ navprev: 2-day-retreat
 navnext: 2x2-day-retreat
 ---
 
-2013 Jan 10
+### 2013 Jan 10
 
 Just before New Year's, I began the first retreat in the new darkroom. As usual with a new room, it had lots of mechanical problems. And as usual, the self-healing psyche, given an inch, took a mile.
 
@@ -62,7 +62,7 @@ The aftermath of this retreat went on for several weeks. Due to reconnecting wit
 
 I learned the shocking principle of _masculinity as respectful dominance_ (see _Tao of Badass_ by Joshua Pellicer and _Book of Pook_ by Pook). This enabled me to recover from the dark side of feminism: its gender warfare. I laughed harder than I ever have at hundreds of pick-up stories in _The Game_ by Neil Strauss and _Get Laid or Die Trying_ by Jeff Allen. PUA is super liberating. I am trying this new way of being toward women, alternately succeeding slightly then bombing. Still an [AFC](http://www.pualingo.com/pua-definitions/average-frustrated-chump-afc/), but the ducks are slowly lining up.
 
-UPDATE: The pickup I studied made my "game" more awkward than ever. After eight months of this, I came across the _direct_ approach to pickup: telling a woman right away why one noticed her and the romantic purpose one is talking to her for. This is a consistent application of the alpha/dominant idea to pickup. A dominant man needn't hide his intentions behind memorized techniques and lines (the _indirect_ approach I had learned).
+UPDATE: The indirect pickup I studied made my "game" more awkward than ever. After eight months of this, I came across the _direct_ approach to pickup: telling a woman right away why one noticed her and the romantic purpose one is talking to her for. This is a consistent application of the alpha/dominant idea to pickup. A dominant man needn't hide his intentions behind memorized techniques and lines (the _indirect_ approach I had learned).
 
 I got a lot of good ideas from indirect pickup. Some basics still apply. But a lot can be tossed out. For this distinction and its content, thanks to [Sasha Daygame](http://sashapua.com) and other teachers he recommends: David X, Alan Roger Currie, Johnny Soporno, Bad Boy, James Marshall. And Pook's focus on the self, on being a sexual man---not because that is what women like, but because that is what one is and deeply wants himself---remains helpful.
 

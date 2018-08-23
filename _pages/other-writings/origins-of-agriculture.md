@@ -6,8 +6,6 @@ navprev: links
 navnext: fukuoka
 ---
 
-### Origins of Agriculture
-
 ###### A Biological Perspective and a New Hypothesis
 
 Greg Wadley and Angus Martin
@@ -42,7 +40,7 @@ The early hominid diet (from about four million years ago), evolving as it did f
 
 The diet of pre-agricultural but anatomically modern humans (from 30,000 years ago) diversified somewhat, but still consisted of meat, fruits, nuts, legumes, edible roots and tubers, with consumption of cereal seeds only increasing towards the end of the Pleistocene (e.g. Constantini 1989 and subsequent chapters in Harris and Hillman 1989).
 
-#####The rise of civilisation
+##### The rise of civilisation
 
 Within a few thousand years of the adoption of cereal agriculture, the old hunter-gatherer style of social organisation began to decline. Large, hierarchically organised societies appeared, centred around villages and then cities. With the rise of civilisation and the state came socioeconomic classes, job specialisation, governments and armies.
 
@@ -54,13 +52,13 @@ Agriculture and civilisation meant the end of foraging—a subsistence method wi
 
 The phenomena of human agriculture and civilisation are ethologically interesting, because (1) virtually no other species lives this way, and (2) humans did not live this way until relatively recently. Why was this way of life adopted, and why has it become dominant in the human species?
 
-#####Problems explaining agriculture
+##### Problems explaining agriculture
 
 Until recent decades, the transition to farming was seen as an inherently progressive one: people learnt that planting seeds caused crops to grow, and this new improved food source led to larger populations, sedentary farm and town life, more leisure time and so to specialisation, writing, technological advances and civilisation. It is now clear that agriculture was adopted despite certain disadvantages of that lifestyle (e.g. Flannery 1973, Henry 1989). There is a substantial literature (e.g. Reed 1977), not only on how agriculture began, but why. Palaeopathological and comparative studies show that health deteriorated in populations that adopted cereal agriculture, returning to pre-agricultural levels only in modem times. This is in part attributable to the spread of infection in crowded cities, but is largely due to a decline in dietary quality that accompanied intensive cereal farming (Cohen 1989). People in many parts of the world remained hunter-gatherers until quite recently; though they were quite aware of the existence and methods of agriculture, they declined to undertake it (Lee & DeVore 1968, Harris 1977). Cohen (1977:141) summarised the problem by asking: "If agriculture provides neither better diet, nor greater dietary reliability, nor greater ease, but conversely appears to provide a poorer diet, less reliably, with greater labor costs, why does anyone become a farmer?"
 
 Many explanations have been offered, usually centred around a particular factor that forced the adoption of agriculture, such as environmental or population pressure (for reviews see Rindos 1984, Pryor 1986, Redding 1988, Blumler & Byrne 1991). Each of these models has been criticised extensively, and there is at this time no generally accepted explanation of the origin of agriculture.
 
-#####Problems explaining civilisation
+##### Problems explaining civilisation
 
 A similar problem is posed by the post-agricultural appearance, all over the world, of cities and states, and again there is a large literature devoted to explaining it (e.g. Claessen & Skalnik 1978). The major behavioural changes made in adopting the civilised lifestyle beg explanation. Bledsoe (1987:136) summarised the situation thus:
 
@@ -72,7 +70,7 @@ To a very good approximation, every civilisation that came into being had cereal
 
 Recent research into the pharmacology of food presents a new perspective on these problems.
 
-#####Exorphins: opioid substances in food
+##### Exorphins: opioid substances in food
 
 Prompted by a possible link between diet and mental illness, several researchers in the late 1970s began investigating the occurrence of drug-like substances in some common foodstuffs.
 
@@ -84,7 +82,7 @@ Since then, researchers have measured the potency of exorphins, showing them to 
 
 Most common drugs of addiction are either opioid (e.g heroin and morphine) or dopaminergic (e.g. cocaine and amphetamine), and work by activating reward centres in the brain. Hence we may ask, do these findings mean that cereals and milk are chemically rewarding? Are humans somehow "addicted" to these foods?
 
-#####Problems in interpreting these findings
+##### Problems in interpreting these findings
 
 Discussion of the possible behavioural effects of exorphins, in normal dietary amounts, has been cautious. Interpretations of their significance have been of two types:
 
@@ -94,7 +92,7 @@ We believe that there can be no natural function for ingestion of exorphins by a
 
 Our sympathies therefore lie with the pathological interpretation of exorphins, whereby substances found in cereals and milk are seen as modern dietary abnormalities which may cause schizophrenia, coeliac disease or whatever. But these are serious diseases found in a minority. Can exorphins be having an effect on humankind at large?
 
-#####Other evidence for "drug-like" effects of these foods
+##### Other evidence for "drug-like" effects of these foods
 
 Research into food _allergy_ has shown that normal quantities of some foods can have pharmacological, including behavioural, effects. Many people develop intolerances to particular foods. Various foods are implicated, and a variety of symptoms is produced. (The term "intolerance" rather than allergy is often used, as in many cases the immune system may not be involved (Egger 1988:159). Some intolerance symptoms, such as anxiety, depression, epilepsy, hyperactivity, and schizophrenic episodes involve brain function (Egger 1988, Scadding & Brostoff 1988).
 
@@ -106,14 +104,14 @@ One of the most striking phenomena in these studies is that patients often exhib
 
 There is no possibility that craving these foods has anything to do with the popular notion of the body telling the brain what it needs for nutritional purposes. These foods were not significant in the human diet before agriculture, and large quantities of them cannot be necessary for nutrition. In fact, the standard way to treat food intolerance is to remove the offending items from the patient's diet.
 
-#####A suggested interpretation of exorphin research
+##### A suggested interpretation of exorphin research
 
 But what are the effects of these foods on normal people? Though exorphins cannot have a naturally selected physiological function in humans, this does not mean that they have _no_ effect. Food intolerance research suggests that cereals and milk, in normal dietary quantities, are capable of affecting behaviour in many people. And if severe behavioural effects in schizophrenics and coeliacs can be caused by higher than normal absorption of peptides, then more subtle effects, which may not even be regarded as abnormal, could be produced in people generally.
 
 The evidence presented so far suggests the following interpretation.
 The ingestion of cereals and milk, in normal modern dietary amounts by normal humans, activates reward centres in the brain. Foods that were common in the diet before agriculture (fruits and so on) do not have this pharmacological property. The effects of exorphins are qualitatively the same as those produced by other opioid and / or dopaminergic drugs, that is, reward, motivation, reduction of anxiety, a sense of wellbeing, and perhaps even addiction. Though the effects of a typical meal are quantitatively less than those of doses of those drugs, most modern humans experience them several times a day, every day of their adult lives.
 
-#####Hypothesis: exorphins and the origin of agriculture and civilisation
+##### Hypothesis: exorphins and the origin of agriculture and civilisation
 
 When this scenario of human dietary practices is viewed in the light of the problem of the origin of agriculture described earlier, it suggests an hypothesis that combines the results of these lines of enquiry.
 
@@ -137,13 +135,13 @@ Thus major civilisations have in common that their populations were frequent ing
 
 #### Discussion
 
-#####The natural diet and genetic change
+##### The natural diet and genetic change
 
 Some nutritionists deny the notion of a pre-agricultural natural human diet on the basis that humans are omnivorous, or have adapted to agricultural foods (e.g. Garn & Leonard 1989; for the contrary view see for example Eaton & Konner 1985). An omnivore, however, is simply an animal that eats both meat and plants: it can still be quite specialised in its preferences (chimpanzees are an appropriate example). A degree of omnivory in early humans might have preadapted them to some of the nutrients contained in cereals, but not to exorphins, which are unique to cereals.
 
 The differential rates of lactase deficiency, coeliac disease and favism (the inability to metabolise fava beans) among modern racial groups are usually explained as the result of varying genetic adaptation to post-agricultural diets (Simopoulos 1990:27-9), and this could be thought of as implying some adaptation to exorphins as well. We argue that little or no such adaptation has occurred, for two reasons: first, allergy research indicates that these foods still cause abnormal reactions in many people, and that susceptibility is variable within as well as between populations, indicating that differential adaptation is not the only factor involved. Second, the function of the adaptations mentioned is to enable humans to digest those foods, and if they are adaptations, they arose because they conferred a survival advantage. But would susceptibility to the rewarding effects of exorphins lead to lower, or higher, reproductive success? One would expect in general that an animal with a supply of drugs would behave less adaptively and so lower its chances of survival. But our model shows how the widespread exorphin ingestion in humans has led to increased population. And once civilisation was the norm, non-susceptibility to exorphins would have meant not fitting in with society. Thus, though there may be adaptation to the nutritional content of cereals, there will be little or none to exorphins. In any case, while contemporary humans may enjoy the benefits of some adaptation to agricultural diets, those who actually made the change ten thousand years ago did not.
 
-#####Other "non-nutritional" origins of agriculture models
+##### Other "non-nutritional" origins of agriculture models
 
 We are not the first to suggest a non-nutritional motive for early agriculture. Hayden (1990) argued that early cultigens and trade items had more prestige value than utility, and suggested that agriculture began because the powerful used its products for competitive feasting and accrual of wealth. Braidwood et al. (1953) and later Katz and Voigt (1986) suggested that the incentive for cereal cultivation was the production of alcoholic beer:
 
@@ -153,7 +151,7 @@ This view is clearly compatible with ours. However there may be problems with an
 
 Cereals have important qualities that differentiate them from most other drugs. They are a food source as well as a drug, and can be stored and transported easily. They are ingested in frequent small doses (not occasional large ones), and do not impede work performance in most people. A desire for the drug, even cravings or withdrawal, can be confused with hunger. These features make cereals the ideal facilitator of civilisation (and may also have contributed to the long delay in recognising their pharmacological properties).
 
-#####Compatibility, limitations, more data needed
+##### Compatibility, limitations, more data needed
 
 Our hypothesis is not a refutation of existing accounts of the origins of agriculture, but rather fits alongside them, explaining why cereal agriculture was adopted despite its apparent disadvantages and how it led to civilisation.
 

@@ -6,7 +6,7 @@ navprev: 7x1-day-retreat
 navnext: lindsey-vona-darkness-retreat
 ---
 
-2013 Mar 28
+### 2013 Mar 28
 
 On Sunday, Mar 24, I finished a shockingly effective dark retreat. Something was different about this one. Here is what happened.
 

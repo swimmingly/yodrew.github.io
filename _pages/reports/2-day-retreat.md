@@ -6,7 +6,7 @@ navprev: 5-day-retreat
 navnext: 7x1-day-retreat
 ---
 
-2012 Mar 30
+### 2012 Mar 30
 
 It happened again.
 
@@ -43,6 +43,5 @@ When I came out, I looked around a bit, then started writing this. Stayed on com
 Woke up feeling just fine. Clear and motivated. To go from suicidally depressed to excited and energetic in three days is very weird. Even in the first day out weirdness, I felt a thread of rapture running through my solar plexus, a feeling of quiet, precious joy. Richness and color have returned to the world and my life. This usually happens, but its easy to forget just how much.
 
 In two days, I have talked to three other people serious about doing long retreats. Maybe we can fund the whole thing ourselves. Somehow it will happen this summer in Europe. Game on.
-
 
 

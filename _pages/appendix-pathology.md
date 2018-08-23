@@ -12,7 +12,7 @@ In the 1930s, hygienist Dr. John Tilden, identified seven stages of all chronic 
 
 The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [Victoria Bidwell](http://getwellstaywell.com).
 
-## seven stages of disease
+### seven stages of disease
 
 1. Enervation: Nerve Energy is so reduced or exhausted that all normal bodily functions are greatly impaired, especially the elimination of endogenous and exogenous poisons. Stage One thus begins the progressive and chronic process of “Toxemia Toleration” that continues through all of the following stages. The Toxic Sufferer does not feel his “normal self.” He feels either stimulated or depressed by the poisonous overload.
 2. Toxemia: Nerve Energy is too low to eliminate metabolic wastes and ingested poisons. These toxic substances begin to saturate first the bloodstream and lymphatic fluids and then the cells themselves. The Toxic Sufferer feels inordinately tired, run-down, and “out of it.”
@@ -22,7 +22,7 @@ The following summary of Tilden's analysis of disease comes from _The Health See
 6. Induration: Induration is the result of long-standing, chronic inflammation with bouts of acute inflammation interspersed. The chronic inflammation causes an impairment or sluggishness of circulation: and because some cells succumb, they are replaced with scar tissue. This is the way we lose good, normal-functioning cells — by chronic inflammation and death of cells. Toxins may or may not be encapsulated in a tumor, sac, wen, or polyp. The Toxic Sufferer endures even more physical pain, which is intensified by the emotional distress of realizing that he is only getting worse, regardless of his earnest, obedient, even heroic attempts to get well. Standard medical doctors continue with both drugging and surgery and all other kinds of modalities deemed appropriate, both conventional and experimental. (“Induration” means “hardening” or “scarring” of tissues.)
 7. Fungation (cancer): Cellular integrity is destroyed through their disorganization and/or cancerous proliferation. Tissues, organs, and whole systems lose their ability to function normally. Biochemical and morphological changes from the depositing of Endogenous and Exogenous Toxins bring about degenerations and death at the cellular level. The Toxic Sufferer is “a pathological mess”: he is on his deathbed. Standard medical doctors declare at this stage: “There is no hope left. You have just so much longer to live. You need to make preparations accordingly.” Failure of vital organs eventually results in death.
 
-## comments
+#### comments
 
 Tilden's analysis shows the close relationship between enervation and toxemia as the two most obvious causes of all illness. It explains hygiene's success in supporting the recovery of countless people whose cases allopathy pronounced hopeless.
 

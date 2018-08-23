@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="140.29999mm"
-   height="291.30417mm"
-   viewBox="0 0 140.29997 291.30417"
+   width="133.39999mm"
+   height="271.40002mm"
+   viewBox="0 0 133.39998 271.40003"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-slotx.svg">
+   sodipodi:docname="helix-vent-slot.svg"
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-slot.png"
+   inkscape:export-xdpi="59.990417"
+   inkscape:export-ydpi="59.990417">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="387.83914"
-     inkscape:cy="445.87397"
+     inkscape:zoom="0.7"
+     inkscape:cx="104.39877"
+     inkscape:cy="490.15947"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,8 +50,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid29"
-       originx="0"
-       originy="0" />
+       originx="5.9604601e-09"
+       originy="1.4720801e-05" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -58,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,13 +69,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-19.595869,10.374051)">
+     transform="translate(-19.595869,-9.5301032)">
     <path
        style="fill:#d8d8d8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 69.795869,29.725854 63.000001,1.51e-4 V 230.73021 l -63.000001,-1.5e-4 z"
+       d="m 132.79587,230.73021 -63.000001,-1.5e-4 V 29.730052 l 63.000001,1.51e-4"
        id="rect3336"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -110,7 +113,7 @@
          y="228.81755"
          style="font-size:5.64444447px;line-height:1.25;stroke-width:0.28222224px"
          id="tspan1041">              <tspan
-   style="fill:#000000;fill-opacity:0.49803922"
+   style="fill:#000000;fill-opacity:0.6"
    id="tspan1043">50                      100 113  133</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -127,7 +130,7 @@
          sodipodi:role="line"
          x="-259.67245"
          y="84.80127"
-         style="font-size:5.64444447px;line-height:1.25;fill:#000000;fill-opacity:0.49803922;stroke-width:0.28222224px"
+         style="font-size:5.64444447px;line-height:1.25;fill:#000000;fill-opacity:0.6;stroke-width:0.28222224px"
          id="tspan1851">              50                                                                                                          251   271</tspan></text>
     <text
        xml:space="preserve"
@@ -208,7 +211,7 @@
          sodipodi:role="line"
          id="tspan1857"
          x="-201.65019"
-         y="118.01678">inner opening 50 x 201</tspan></text>
+         y="118.01678">face opening 50 x 201</tspan></text>
     <text
        transform="rotate(-90)"
        id="text1863"
@@ -220,6 +223,12 @@
          x="-201.65019"
          id="tspan1861"
          sodipodi:role="line"
-         style="font-size:5.64444447px;line-height:1.25;stroke-width:0.28222224px">side opening 63 x 201</tspan></text>
+         style="font-size:5.64444447px;line-height:1.25;stroke-width:0.28222224px">edge opening 63 x 201</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.79999998, 4.79999998;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 132.79587,30.930128 V 228.93013"
+       id="path36"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

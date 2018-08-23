@@ -17,9 +17,9 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="helix-vent-assembly.svg"
-   inkscape:export-filename="/home/hill/Dropbox/write/darkness/img/plan/svg backup-using/helix-vent-assembly-345.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-assembly.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs2">
     <marker
@@ -134,8 +134,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="596.97039"
-     inkscape:cy="137.03832"
+     inkscape:cx="557.50293"
+     inkscape:cy="247.16547"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -390,7 +390,7 @@
          id="tspan575">42         A                                 B</tspan></text>
     <path
        style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222254"
-       d="m 821.32514,142.98798 h 229.99996 v 87.00007 l 15.0002,3e-5 -2e-4,4.9999 -20,1.7e-4 2e-4,-87.00012 -220.0002,-3e-5 v 24.00005 l -62.99958,1e-5 -4e-4,-21.00001 h 5 l -2e-5,16.00001 53.00004,-1e-5 z"
+       d="m 821.32514,142.98798 h 229.99996 v 87.00007 l 15.0002,3e-5 -2e-4,3.9999 -19,1.7e-4 2e-4,-87.00012 -222.0002,-3e-5 v 24.00005 l -61.99958,1e-5 -4e-4,-20.00001 h 5 l -2e-5,16.00001 53.00004,-1e-5 z"
        id="path4324"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
@@ -419,15 +419,15 @@
          sodipodi:role="line">20</tspan></text>
     <text
        id="text633"
-       y="232.98476"
-       x="834.80786"
-       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:0.94;font-family:sans-serif;letter-spacing:0.00264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="233.48479"
+       x="897.80786"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:0.94;font-family:sans-serif;letter-spacing:-0.26458332px;word-spacing:-0.5291667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan631"
-         style="font-size:5.64444447px;line-height:0.94;letter-spacing:0.00264583px;stroke-width:0.26458332"
-         y="232.98476"
-         x="834.80786"
-         sodipodi:role="line">C                                 D                                 E</tspan></text>
+         style="font-size:5.64444447px;line-height:0.94;letter-spacing:-0.26458332px;word-spacing:-0.5291667px;stroke-width:0.26458332"
+         y="233.48479"
+         x="897.80786"
+         sodipodi:role="line">C                                                             D</tspan></text>
     <text
        id="text57"
        y="169.48473"
@@ -539,19 +539,46 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:0.89999998;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="962.30048"
+       x="964.30048"
        y="250.58473"
        id="text77"><tspan
          sodipodi:role="line"
-         x="962.30048"
+         x="964.30048"
          y="250.58473"
          style="font-size:5.64444447px;line-height:0.89999998;text-align:start;text-anchor:start;stroke-width:0.26458332"
          id="tspan79">fleece seal</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2813)"
-       d="m 975.26079,246.8581 3.6368,-8.27979"
+       d="m 989.26079,246.8581 2.6368,-8.27979"
        id="path976"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       id="text94"
+       y="230.58473"
+       x="1002.2005"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:0.89999998;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan92"
+         style="font-size:5.64444447px;line-height:0.89999998;text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="230.58473"
+         x="1002.2005"
+         sodipodi:role="line">face opening</tspan></text>
+    <text
+       id="text94-3"
+       y="199.09053"
+       x="793.61011"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:0.89999998;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       xml:space="preserve"><tspan
+         id="tspan92-6"
+         style="font-size:5.64444447px;line-height:0.89999998;text-align:center;text-anchor:middle;stroke-width:0.26458332;"
+         y="199.09053"
+         x="782.612"
+         sodipodi:role="line">edge</tspan><tspan
+         style="font-size:5.64444447px;line-height:0.89999998;text-align:center;text-anchor:middle;stroke-width:0.26458332;"
+         y="204.17053"
+         x="782.612"
+         sodipodi:role="line"
+         id="tspan114">opening</tspan></text>
   </g>
 </svg>

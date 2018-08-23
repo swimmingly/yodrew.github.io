@@ -1,6 +1,6 @@
 ---
 title: 6 - make
-permalink: "/make/"
+permalink: "/temp/make/"
 layout: page
 navprev: design
 navnext: air
@@ -31,7 +31,7 @@ After improvising darkness to sleep in [*tonight*](/format#tonight), the [*insta
 
 If you need more specific advice for darkening your space, I provide [*design consultation*](/services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [*open-source*](/introduction#open-source) designs and my consultation to darken other people's spaces as a service for money. See [*license*](/license) for my liberal terms.
 
-#### metric
+## metric
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
@@ -63,7 +63,7 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
 		- 28g = 1 oz
 		- *1kg = 2 lb
 
-#### tools
+## tools
 
 Making components requires some or all of these tools:
 
@@ -109,7 +109,7 @@ Making components requires some or all of these tools:
         - every 300mm, 8mm holes, an 8x80mm bolt, 2 washers, and a wingnut holding boards together
     4. hack saw (for roller blind), even just a hack saw blade is enough. Cover teeth at one end with tape as a handle so you can cut on the pull stroke
 
-#### plans
+## plans
 
 I have drawn the plans on a computer for precision, clarity, and ease of modification. However, at first, they can be baffling to look at. 
 
@@ -164,25 +164,23 @@ Images in this book are only for reference and hand-reproduction. They are reduc
             2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
             3. use masking tape to join sheets
     3. by hand
-    	1. ruler and magnifying glass
-			1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
-    	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [Incra ruler](incra.com) will help a lot with this. 
-			3. use magnifying glass to see plans and measurements in the book correctly or draw from PDFs
-            4. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements with arithmetic. 
-            5. use grey-numbered cumulative measurements in plan to quickly mark lines
+    	1. ruler
+    	    1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [Incra ruler](incra.com) will help a lot with this. 
+            2. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements. 
+            3. use grey-numbered cumulative measurements in plan to quickly mark lines
 		2. trace
 			1. trace directly from a flat screen monitor
-			2. zoom image till stated measurements match a ruler both horizontally and vertically
+			2. zoom image till measurements match a ruler
 			3. tape paper to the screen
-			4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
-			5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
+			4. mark intersections precisely and lines just well enough to know what you are looking at later
+			5. you will have to use multiple pieces of paper for some plans, as with a desktop printer
 3. key
 
     Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
 
 [![plan key](/img/plan/image/key.png)](/img/plan/key.pdf)
 
-#### fabricate
+## fabricate
 
 These instructions apply to all components, or as indicated. Read special instructions for each component in its respective section afterward.
 
@@ -216,7 +214,7 @@ These instructions apply to all components, or as indicated. Read special instru
     2. put three layers (10mm+) of scrap cardboard on work surface
     3. transfer plan to material
         - poke straight pin through 
-        	- all lines close to ends
+        	- lines close to ends
         	- centers of holes
         - in cardboard
         	- poke all the way through dotted lines
@@ -227,9 +225,9 @@ These instructions apply to all components, or as indicated. Read special instru
         - dashed lines: circles (asterisk where indicated)
         - dotted lines: triangles (asterisk where indicated)
         - solid lines: squares
-        - dash-dotted lines: question mark
+        - dash-dotted lines: ? (question mark)
         - holes: double-circle
-	6. mark marked hole
+	6. mark hole marks
 	    - draw short lines from circles, triangles, and squares in the same direction as lines in plan
         - circles & triangles: add asterisk where indicated 
         - copy joint labels (A, B, C, etc)
@@ -271,3 +269,6 @@ These instructions apply to all components, or as indicated. Read special instru
 ~~
 
 Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.
+
+
+

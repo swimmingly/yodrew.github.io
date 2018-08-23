@@ -8,7 +8,8 @@ navnext: bibliography
 
 for my childhood neighbors, LaVerne and Jack Asher, on their 50th Wedding Anniversary
 
-**2002 Jun 4**
+### 2002 Jun 4
+
 LaVerne Asher and Mrs Nielson picked us up that day at the end of our run down the Salmon Falls River in a train of canoes. We, the Boy Scouts of Troop 69, were cold and wet, having endured a stormy spring day on an especially fast river. As usual, I was withdrawn and in shock from the physical demand of our outing. Ten years old and coddled, I was still possessed of the belief that no one should ever bear such trauma; that anyone, such as my Scoutmaster, Jack Asher, who subjected another to it was deeply misled and even dangerous.
 
 It would turn out that life had more in store for me of what I faced that day. Many nights I was to spend alone and afraid in addition to being cold, wet, and tired. For I would choose, at 19, to live outside, off and on for 10 years, as I traveled the American West, contemplating my life and the world. My path twisted—and slowly untwisted me—just as the river twisted ceaselessly back and forth, throwing Mark Nielson, an expert canoer and my best friend, Jack, and me across its screaming currents.

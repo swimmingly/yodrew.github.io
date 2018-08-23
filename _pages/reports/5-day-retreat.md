@@ -6,7 +6,7 @@ navprev: 6-day-retreat
 navnext: 2-day-retreat
 ---
 
-2012 Feb 09
+### 2012 Feb 09
 
 I had a depressive breakdown in December and let out a cry on my personal facebook page for help with a dark retreat to recover. Within a few weeks, and with the help of a small, far-flung team of supporters, I did a five-day dark retreat. I am feeling much better. (Fourteen days as planned proved impractical in the location, so I am still psychotic :)
 

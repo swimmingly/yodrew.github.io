@@ -6,9 +6,9 @@ navprev: bibliography
 navnext: origins-of-agriculture
 ---
 
-##### Good Designs by Others
+#### Good Designs by Others
 
-#### Shelter
+##### Shelter
 For their simplicity, ease, economy, strength, beauty, and elegance,
 I recommend the following designs/methods for shelter construction.
 (Speed measured in hours, days, weeks):
@@ -41,7 +41,7 @@ Jay Baldwin's perfection of Bucky's Skybreak concept: a very light, "ephemeraliz
 [Warmlite Tent](http://warmlite.com)  
 Jack Stephenson's masterful 2-5 person tents. He and his designs have had a huge influence on all my design thinking since 1995. Can you imagine, he went from being an insulation engineer on NASA space rockets to designing camping gear! After 40 years, his stuff is still decades ahead of its time. Only a few of his ideas have started to be copied in the last 5-10 years. I used to talk to him for hours on the phone while buying his gear and materials. Great guy.
 
-#### Sites 
+##### Sites 
 
 [Tribal Wish](http://www.efn.org/~wolfe)  
 Adrian Wolfe's obscure, 10-year old, growing collection of essays on his 30-year quest to live in organic intimacy with others. This effort evolved into Gooble Dell, his home (and mine a few times in the past) in Eugene, Oregon, one of the oddest human menageries around. If Willy Wonka were a homeless man who camped inside a house inside a public park (true) with his friends (and a couple Oompa Loompas), this would be the house.

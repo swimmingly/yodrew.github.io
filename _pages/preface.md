@@ -21,7 +21,7 @@ Now I feel confident about what I have learned: what happens in darkness and why
 Hygienic darkroom retreating requires minimal effort and no faith. Darkness is not a void, but a sanctuary. It is not the absence of light, but the presence of the self. It is yours.  
 &nbsp;  
 ad  
-Spain, 2017
+Europe, 2018
 
 
 

@@ -40,7 +40,6 @@ Public storage lays throughout the house; private storage lays between or above 
 
 We reach the back of the house and exit to the outside area. It is at least a third of the size of the space inside. It has an undug garden and workspace, lawn, fountain with pool, mud bath, and a fire ring. There is an awning and a ladder to the roof. We climb up to a resort in a sky forest. There are several, large, potted trees, a flower and vegetable garden, a lounge area, retreat huts, and solar installations. We take in the view and watch people on the street hurry by.
 
-
 #### Background
 
 So where did this come from? And how does it work? Well, there is something of my story in this.
