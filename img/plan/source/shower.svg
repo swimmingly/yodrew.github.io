@@ -13,12 +13,12 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   height="297mm"
-   width="420mm"
+   height="440.53757mm"
+   width="130.65039mm"
    inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/shower.png"
    inkscape:export-xdpi="36.019222"
    inkscape:export-ydpi="36.019222"
-   viewBox="0 0 1587.4016 1122.5197">
+   viewBox="0 0 493.79676 1665.0239">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="230.42896"
-     inkscape:cy="449.8781"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-243.91861"
+     inkscape:cy="777.34255"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,7 +42,11 @@
      showborder="false"
      objecttolerance="10000"
      guidetolerance="10000"
-     viewbox-x="0">
+     viewbox-x="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -127,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +139,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3.4456036e-5)">
+     transform="translate(26.927878,651.35469)">
     <path
        style="fill:none;stroke:#969696;stroke-width:1.51181102;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.09448819, 3.02362205, 1.51181102, 3.02362205;stroke-dashoffset:0;stroke-opacity:1"
        d="m 0,684.09439 c 0,-33.39797 103.22127,-60.47232 230.55119,-60.47232 m 15.15914,0.12863 c 120.26349,2.04749 215.39205,28.28166 215.39205,60.34369"
