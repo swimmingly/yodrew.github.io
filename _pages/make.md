@@ -35,7 +35,7 @@ If you need more specific advice for darkening your space, I provide [*design co
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
-1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not, thank god, be wrestling with fractions and multiple conversion factors as in the imperial system.
+1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not, thank god, be wrangling fractions and multiple conversion factors as in the imperial system.
     - basic metric conversions:
         - length: 1m=100cm=1000mm (meter, centimeter, millimeter)
         - volume: 1L=10dL=1000mL (liter, deciliter, milliliter)
@@ -167,7 +167,7 @@ Images in this book are only for reference and hand-reproduction. They are reduc
     	1. ruler and magnifying glass
 			1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
     	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [Incra ruler](incra.com) will help a lot with this. 
-			3. use magnifying glass to see plans and measurements in the book correctly or draw from PDFs
+			3. use magnifying glass to see small words and numbers in the book
             4. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements with arithmetic. 
             5. use grey-numbered cumulative measurements in plan to quickly mark lines
 		2. trace

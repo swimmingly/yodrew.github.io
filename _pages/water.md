@@ -62,18 +62,18 @@ Dimensions: 35cmH x 60W x 60D
 [![plan: toilet liner](/img/plan/image/toilet-liner.png)](/img/plan/toilet-liner.pdf)
 
 - top
-    - platform made of 15--20mm tongue and groove boards or 12--19mm plywood
-    - front and back boards, ~25mm x 37mm, go under platform to fit on top of front and back frame pieces and between frame legs
+    - platform made of 15--20 tongue and groove boards or 12--20 plywood
+    - front and back boards, ~24 x 36, go under platform to fit on top of front and back frame pieces and between frame legs
     - hole is at least 20mm smaller than bucket opening all the way around 
     - attach toilet seat to top 
     - reinforcer only for tongue and groove boards, directly behind toilet seat mounts
 - frame
-    - made of 25mm x 37 lumber
+    - made of 24 x 36 lumber
     - joint is extra strong, non-planar joint (see [gridbeam.com](http://gridbeam.com))
     - black dots indicate heads of screws. Always drill pilot holes for screws.
     - adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
 - liner
-    - made of thick plastic sheeting 
+    - made of thick plastic sheeting (0.006" or 0.02mm)
     - folds into an open box
     - resulting triangular gussets in corners **A** fold against outside of liner
     - liner fits inside frame
@@ -108,7 +108,7 @@ It's a simple shower which collapses for storage, requiring no pipes and little 
 - bucket or bottle (4-8L, hangs from hook by handle)
 - siphon tube (polyethylene, 4mm ID x 50cm, bent near its middle with heat to hook over rim of container)
 - 4 cords (hung from hook, tied to curtain rod)
-- curtain rod (circular, 120cm diameter, made of 30mm OD, black poly pipe, dowel inside ends for smooth joint)
+- curtain rod (black polyethylene irrigation tubing, 30mm OD, circular, 120cm diameter, dowel inside ends for smooth joint)
 - curtain (polyester, with 15cm sleeve for rod (as shown) or grommets and rings, 5cm bottom hem with small river rocks inside to weigh it down)
 - **x**=holes in curtain for cords to tie around curtain rod
 - large tub (90L+, from garden supply store, catches everything at the bottom. Could also be a large, deep tray or pan.)
