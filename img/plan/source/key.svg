@@ -16,9 +16,9 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="key.svg"
    viewBox="0 0 152.16713 237.49651"
-   inkscape:export-filename="/home/hill/Dropbox/write/darkness/img/plan/Z2key.png"
-   inkscape:export-xdpi="150.02969"
-   inkscape:export-ydpi="150.02969"
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/key.png"
+   inkscape:export-xdpi="72.018089"
+   inkscape:export-ydpi="72.018089"
    style="shape-rendering:crispEdges">
   <defs
      id="defs4">
@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1078211"
-     inkscape:cx="213.71226"
-     inkscape:cy="614.61694"
+     inkscape:zoom="1.0539106"
+     inkscape:cx="75.530459"
+     inkscape:cy="535.5523"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -488,8 +488,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path3086-3-7"
-       d="m 66.92256,120.38578 12.999971,0"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.79999998,3.19999999,1.19999999,3.19999999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 65.92256,120.38578 H 80.922531"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.4, 1.6, 0.6, 1.6;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
@@ -509,8 +509,8 @@
        d="m 68.922556,152.38573 8.999985,0"
        style="fill:none;stroke:#000000;stroke-width:4.00002384;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:16.00010155, 4.0000254;stroke-dashoffset:0;stroke-opacity:0.13333333" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.40000018,1.60000012,0.60000005,1.60000012;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#TriangleOutL)"
-       d="m 68.912566,128.38578 8.634305,0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.40000018, 1.60000012, 0.60000005, 1.60000012;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#TriangleOutL)"
+       d="M 66.912566,128.38578 H 79.546871"
        id="path10154-5-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
