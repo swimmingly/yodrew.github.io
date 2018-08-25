@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="roller-blind-layout.svg"
-   inkscape:export-filename="/home/george/Dropbox/write/darkness/img/plan/blind-roller-layout1.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/roller-blind-layout.png"
+   inkscape:export-xdpi="72.031319"
+   inkscape:export-ydpi="72.031319"
    viewBox="0 0 681.82678 1040.8806">
   <defs
      id="defs6586">
@@ -56,8 +56,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48541449"
-     inkscape:cx="-14.801116"
-     inkscape:cy="684.21559"
+     inkscape:cx="274.56952"
+     inkscape:cy="545.67432"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -340,40 +340,45 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="16.846134"
-       y="572.03021"
+       y="552.75458"
        id="text8439"><tspan
          sodipodi:role="line"
          x="16.846134"
-         y="572.03021"
-         id="tspan14512"
-         style="font-style:normal;font-size:21.33333206px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:1.06666672">notes:</tspan><tspan
+         y="552.75458"
+         style="font-style:normal;font-weight:bold;font-size:21.33333206px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:1.06666672"
+         id="tspan425">notes</tspan><tspan
          sodipodi:role="line"
          x="16.846134"
-         y="591.23022"
+         y="571.95459"
+         style="font-style:normal;font-size:21.33333206px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:1.06666672"
+         id="tspan435"> </tspan><tspan
+         sodipodi:role="line"
+         x="16.846134"
+         y="591.1546"
+         style="font-style:normal;font-size:21.33333206px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:1.06666672"
+         id="tspan427">in plan,</tspan><tspan
+         sodipodi:role="line"
+         x="16.846134"
+         y="610.35455"
          id="tspan5703"
          style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672"><tspan
    style="font-style:italic;font-size:21.33333206px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:1.06666672"
    id="tspan5705">w</tspan>=50</tspan><tspan
          sodipodi:role="line"
          x="16.846134"
-         y="610.43024"
+         y="629.55457"
          id="tspan5605"
          style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672"> </tspan><tspan
          sodipodi:role="line"
          x="16.846134"
-         y="629.63019"
+         y="648.75458"
          id="tspan5607"
          style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672">window</tspan><tspan
          sodipodi:role="line"
          x="16.846134"
-         y="648.8302"
-         id="tspan5609"
-         style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672">recess</tspan><tspan
-         sodipodi:role="line"
-         x="16.846134"
-         y="668.03021"
+         y="667.95459"
          id="tspan5707"
-         style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672"> </tspan></text>
+         style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672">recess </tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:7.55905485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:60.47244095, 15.11811024, 7.55905511, 15.11811024;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m -334.53277,501.08021 h 188.97633 v 415.748 h -188.97633 z"
@@ -671,13 +676,12 @@
          y="628.82837"
          id="tspan6596"
          style="font-size:21.33333206px;line-height:0.89999998;stroke-width:1.06666672"> </tspan></text>
-    <rect
+    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:7.5590539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:60.47243246, 15.11810812, 7.55905406, 15.11810812;stroke-dashoffset:34.72440338;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 12.426946,628.0723 H 94.82065 v 45.73227 H 12.426946 Z"
        id="rect7735"
-       width="75.590553"
-       height="41.574791"
-       x="16.206474"
-       y="611.44238" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
