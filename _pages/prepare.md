@@ -8,11 +8,11 @@ navnext: design
 
 I do not offer retreats at present. But these are a few things that will help you prepare for a retreat: the registration form I have used with clients, the food menu, and a list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
 
-### register
+#### register
 
 Register for your retreat here. Follow instructions carefully.
 
-#### general
+##### general
 
 1. Read this book. Quiz later.
 2. Select dates for your retreat from the calendar below. Retreats begin at 18:00 and end at 12:00 four or eight mornings later. For example, a 4-day retreat that begins on Monday evening would end on Friday morning.
@@ -20,7 +20,7 @@ Register for your retreat here. Follow instructions carefully.
 4. Send deposit by Bitcoin, PayPal, credit card
 5. Bring things listed below
 
-#### terms
+##### terms
 
 - Price: (European example)&euro;40 + &euro;80/day (eg, 4-day retreat=&euro;360)
 - Discounts: 
@@ -40,7 +40,7 @@ Register for your retreat here. Follow instructions carefully.
 
 &nbsp;
 
-#### questionnaire
+##### questionnaire
 
 1. Name:
 2. Email address:
@@ -63,7 +63,7 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 18. Assuming I am correct that practically everyone is [psychotic](/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
 19. Is there anything else you would like to add?
 
-### menu
+#### menu
 
 Here is the hygienic food plan:
 
@@ -77,7 +77,7 @@ Here is the hygienic food plan:
 [*The 80/10/10 Diet*](http://foodnsport.com)
 - if you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.
 
-### bring
+#### bring
 
 - Yes:
     - bedsheets and pillow (if retreating at a center and need these provided, let supporter know ahead of time)

@@ -14,9 +14,9 @@ Darkroom retreating is nothing less than recovery of the lost self. In darkness,
 
 Hygienic darkroom retreating is new, and I am new at it. The final authority in hygiene is life itself. Consider these notes from the field and an invitation to explore an idea whose time has come.
 
-### mechanics
+#### mechanics
 
-#### logistics
+##### logistics
 
 I describe the overall process of retreating in [*format*](/format), especially the 4-day and 8-day retreat sections. Here are the details.
 
@@ -61,7 +61,7 @@ I describe the overall process of retreating in [*format*](/format), especially 
     - finish writing about your retreat
     - pack and exit room by 13:00
 
-#### water and exercise
+##### water and exercise
 
 I make sure I do two things in darkness: 
 
@@ -70,7 +70,7 @@ I make sure I do two things in darkness:
     With all its extra energy, the body is reopening old wounds. It needs water to repair, clean, and revive these tissues. It is shaking toxins loose and needs water to wash them out. It soaks the nerves in water to keep them cool. This makes time in darkness emotionally smoother. 
 - exercise: exercise helps one get to sleep, avoid bed soreness, feel less restless and irritable, retard muscle atrophy, and, interestingly, maintain the psychophysical "space" in which healing occurs. Even three minutes a day makes the difference between a pleasant retreat and constant discomfort. After the first couple days, I find I want to exercise more and more. It becomes a game: how many pushups can I do? I have rarely felt such motivation as an adult. It came as a very pleasant surprise.
 
-#### food
+##### food
 
 Eat meals rather than snacks. When you are hungry, focus on eating until you feel full and satisfied. The human alimentary tract processes food in batches, not continuously. A constant stream of food (often eaten in boredom) disrupts and distresses digestion, thus sleep, attention, and healing.
 
@@ -91,7 +91,7 @@ For more about food, see:
 
 I strongly believe in fasting. It is a cornerstone of hygiene. But I believe in keeping these two processes separate until regaining significant capacity. They seem to have opposite metabolic requirements. At first, healing in darkness is more psychical in nature, in fasting more physical. The activity of one supports the inactivity and resting of the other. I have tried both at the same time and it is very intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive strong clear opposite signals from your organism.
 
-#### conservation
+##### conservation
 
 Here are ways to conserve energy for healing:
 
@@ -103,7 +103,7 @@ Here are ways to conserve energy for healing:
 
     So now the retreat continues after darkness with windows uncovered and doors opened during the day one day for every 2-3 darkened days. This gives time to re-orient to light and gravity. Take a walk, lie in the grass, look at nature, and reflect on what has happened. See [*format*](/format) and, in my blog, [post-retreat protocol](/blog/2012/12/post-retreat-protocol) for more about this.
 
-#### support
+##### support
 
 My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. 
 
@@ -124,11 +124,11 @@ I and my clients generally liked having a supporter for our first retreats. We f
     - a retreatant can call the supporter without leaving the room or being exposed to light
     - see [*design*](/design) and [*make*](/make) chapters for ways to do these
 
-### attitude
+#### attitude
 
 Besides a darkroom, food, and support, a hygienic retreat requires a fourth critical ingredient: knowledge of the hygienic attitude. You don't have to believe it.  Just take it in with you to consider, test, and use when the opportunity arises. It is not something to impose on yourself, to make yourself do, but to recognize in the moment and respond to. It's a chance to let go and let life catch you. In some way, you already know how to do this. These words can help you feel more confident about it.
 
-#### purpose
+##### purpose
 
 - The purpose of a darkroom retreat is to rest deeply. This enables the organism, especially the psyche, to heal itself of the major psychophysical trauma sustained in civilization that causes all suffering, including physical disease.
 - Your principal task is to sleep. Benefits of the deep sleep possible in darkness compound each day. Deep sleep enables the organism to accumulate tremendous vital energy. This energy is necessary to heal deep psychophysical injuries that lie way beyond the reach of will, surgery, or practice.
@@ -140,7 +140,7 @@ Besides a darkroom, food, and support, a hygienic retreat requires a fourth crit
 - This process is as foolproof as possible. Given the conditions of rest---most of which are built into the room itself---you will heal.
 - The organism is the principal actor. Your job is to support its self-healing process through stillness and conserving energy, including the energy expended by attention. (More about attention later.)
 
-#### expectations
+##### expectations
 
 - You will get a distinct break from your regular life. It's best to consider anything more a bonus. While I and some others I supported have experienced amazing occurrences in darkness, I cannot guarantee you will experience them.
 - Your results are up to your whole self, 99.99% of which operates below the level of conscious awareness, beyond your direct control. 
@@ -149,7 +149,7 @@ Besides a darkroom, food, and support, a hygienic retreat requires a fourth crit
 - As when wandering the streets of a foreign city, keep your wits about you. Neither your supporter nor your autonomic self will relieve you of the normal task of watching over your own life. You remain responsible for yourself.
 - If nothing happens, conditions were not met sufficiently. Analyze the points of failure and try again. Several of my early retreats failed because of light leaks, poor air quality, noise, a bad bed, time shortage, and other stressors. While darkness is natural, one still has to learn to arrange and use it. I'm still learning.
 
-#### attention
+##### attention
 
 What do you do in a retreat? 
 
@@ -195,11 +195,11 @@ In a retreat, focus on darkness like this for just 5-10 minutes, concentrating o
 - Swallowing and blinking provide further variety to the show. The tongue normally rests against the roof of the mouth. Of course, if you are congested and must breathe through your mouth, this is impossible.
 - Many have reported occasionally seeing unusual lights and images. These have a highly real, objective quality. It is bracing, awesome, compelling. Vaulted ceilings often figure into this scenery, sometimes low, dark, and grey or brown; sometimes high, airy, lit, and colored. Some consider these hallucinations. Darkness impresses me as a waking portal to the dreamworld, also called [dreamtime](/darkness-conjecture/dreamtime) or [timespace]().
  
-### experience
+#### experience
 
 Reports of retreatants reveal patterns of experience. Resting in darkness affects the foundations of life. 
 
-#### time
+##### time
 
 Many of us in darkness have experienced a strange compulsion to know what time it is. It feels like an addictive craving, even mild panic, though obviously absurd. Darkness gives the best possible opportunity to withdraw from it by avoiding finding out. 
 
@@ -209,7 +209,7 @@ The civilized sense of time is very close to the heart of our psychosis. The ind
 
 In darkness, you may feel a shift from the strange relationship with time we consider so normal.
 
-#### sex
+##### sex
 
 One way or another, sexuality makes its presence known in darkness. If it has been repressed, it stirs, like an animal escaping captivity. If it has run wild, it calms down.
 
@@ -221,7 +221,7 @@ Before his retreat, one of my clients tried to lure his giggling girlfriend into
 
 Traumatized sexuality relates directly to feelings of shame, fear, and guilt; and to rebelliousness and one's sense of purpose. The healing of sexuality leads to recovery of self-esteem and feelings of security and confidence. Darkness will definitely help many people heal from the nightmare of repression and violence that has beset our lifeway for thousands of years. Soon, I hope, an end will come to this madness once and for all.
 
-#### power
+##### power
 
 As an organism, one has a basic power: to live. It enables one to survive, to take shelter, find water and food, handle emergencies, defend oneself, maintain one's place in the world, and provide for others. Power is an ability and the energy to exercise it. It combines the concepts of capacity and vitality.
 
@@ -235,9 +235,9 @@ At profound rest in darkness, power is restored. These symptoms of mass psychopa
 
 On a social scale, such power is irresistable by conventional force. Martin Luther King, Jr and Mohandas Gandhi showed this. From their words and my glimpses in darkness, their demonstrations pale before the potential of a fully restored human being. Our distressed world, kings and peasants alike, awaits such people. Once the dam breaks, 10,000 years of suffering will wash away overnight. This is what I saw. This is my prayer.
 
-### difficulty
+#### difficulty
 
-#### discomfort
+##### discomfort
 
 An uncomfortable period usually occurs somewhere in the middle of the retreat, lasting minutes to hours. It's like a bout of pain while convalescing in a hospital. But now it is the soul that heals.
 
@@ -250,7 +250,7 @@ You might feel tense, like crawling in your skin. You might curl up and cry. It'
 
 In some case, retreating can feel unbearably difficult. It is perfectly alright to not resume darkness at this time. Darkness is natural, but reacquaintance can take time and must not be rushed. Perhaps reflection on your experience will show why you could not proceed. Perhaps something unexpected will change and you can try again later. Perhaps something else is more important for your life now. There is no rush.
 
-#### phobias
+##### phobias
 
 Those with phobias related to darkness (eg, superstition, claustrophobia, fear of the dark) can still retreat using these techniques:
 
@@ -269,7 +269,7 @@ In any case, try. If these methods fail, perhaps you will come up with your own 
 
 *I was raised with many superstitions. I found pp155-170 of _Objectivism: The Philosophy of Ayn Rand_ by Leonard Peikoff extremely helpful in dealing with the conscious part of them. He explains how to identify _arbitrary_ ideas: those for which there is no evidence. He explains the necessity of dismissing them.
 
-#### severe psychosis
+##### severe psychosis
 
 As I have said, I view our entire society and virtually everyone in it as psychotic. This includes me, you, our "leaders", the lady down the block, doctors. Everyone. We are functionally psychotic, surviving long enough in our dysfunction and pain to reproduce. We thus exist on a continuum of psychosis ranging from the temporarily shocked, to the functional, to the disabled, to the severely psychotic.
 
@@ -285,9 +285,9 @@ Begin by removing any light the person has not asked for or replacing it with re
 
 Lots of little changes like this can quickly de-escalate severe psychosis to mere disabled psychosis or even functional psychosis. From there, a person could manage the rest of the way to sanity himself.
 
-### aftermath
+#### aftermath
 
-#### post-retreat
+##### post-retreat
 
 The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks.
 
@@ -299,7 +299,7 @@ This insight is often accompanied by the return of will and focus. Suddenly, I k
 
 I know less about this part of my clients' retreats than the dark part. From what I saw and heard, their aftermaths varied greatly in character. Sometimes they matched the drama of mine, sometimes they were smooth sailing. Remember where you just were and keep your eyes peeled.
 
-#### recapacitation
+##### recapacitation
 
 Regarding some aspects of our own lives, we all know better. I mean things we think we should do for ourselves which, strangely, we do not. Moralism says it is because we will not. Hygiene says it is because we cannot. Stop a moment and consider the relief this idea brings.
 
@@ -309,7 +309,7 @@ The full application of the [**idea**](/darkness-conjecture) behind hygienic dar
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 
-### summary
+#### summary
 
 I have tried to impress you with the idea that you are not the main actor in darkness. But in truth, a part of you is. It is the part we are taught to ignore, deny, and disown: the autonomic self. In darkness, we cease to identify so closely with the conscious self. And it is revealed as the servant of the autonomic self. This corrects the conventional relationship, which mistakenly attempts to harness the unfailing processes of life to the desperate agenda of a crippled will we view as our sole identity.
 

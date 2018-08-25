@@ -10,9 +10,9 @@ We can use darkness in different formats for different reasons. Here, I describe
 
 I recommend you do them in the following order. First make darkness in your own home for sleeping, then for short retreats (mini-retreats of 11--16 hours and regular retreats of 4--8 days). After becoming familiar with extended darkness at home, a dedicated public darkroom works better for medium-length retreats (9--60 days). Furthermore, your experience at home might inspire you to build such a darkroom yourself. The world will need far more than the handful that exist.
 
-### sleep
+#### sleep
 
-#### tonight
+##### tonight
 
 Start like this: 
 
@@ -32,7 +32,7 @@ We all know how it feels to sleep a lot after too many short nights: we feel slu
 
 In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [*make*](/make) [*blackout blinds*](/darkness#blinds), a [*silencer*](/air#silencer) and [*lightproof vents*](/darkness#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
 
-#### nightly
+##### nightly
 
 We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (the [*Law of Vital Accommodation*](/appendix-laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
@@ -48,11 +48,11 @@ Before widespread public lighting, this was a common sleeping pattern. It's call
 
 Many aspects of modern life seem increasingly out of control. Blackout blinds offer the unique thrill of reclaiming control over one of the most basic functions of existence: sleeping and waking. Neither the sun nor streetlighting nor scheduling accidents determine anymore when you wake up. You do, and only when you are good and ready.
 
-### retreat
+#### retreat
 
-#### short
+##### short
 
-##### mini-retreat
+###### mini-retreat
 
 _Note: I do not recommend mini-retreats for everyone, just if you feel strongly called to it and find yourself able to do it without cutting corners and endangering yourself. I cannot do them properly, so I don't try anymore. I just include it because I saw it was possible and I can imagine there are people whose capacity and circumstances make it appropriate._
 
@@ -75,7 +75,7 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
-##### 4-day retreat
+###### 4-day retreat
 
 _Note: Read this section as the 8-day retreat section builds on it. But I no longer recommend 4-day retreats for most people. It is much better to begin with an 8-day retreat. If you really need rest, a 4-day retreat will just get your head above water without beginning to address what put you under in the first place. If you are truly well-rested, a 4-day retreat will be too short for you to have a strong experience of yourself in darkness._ 
 
@@ -93,7 +93,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-##### transition
+###### transition
 
 It takes time to properly readjust to light and ordinary life. So a period of unstressed transition back to it is _just as important as darkness itself_. For every three days of darkness, plan at least 24 hours of identical conditions except with sunlight and walks during the daylight.
 
@@ -107,7 +107,7 @@ Ease back into your regular life. I mean avoid non-routine activities the first 
 
 If your location has no running water, it's no problem. For this short of a period, it is unnecessary. See [*water*](/water) for a short list of requirements.
 
-##### 8-day retreat
+###### 8-day retreat
 
 This is the most beneficial retreat I have yet experienced and the best way for most people to begin retreating. Most people who can retreat for 4 days can go 8 days and benefit more than twice as much. The organism's response to darkness is cumulative; the healing process deepens every day.
 
@@ -120,7 +120,7 @@ An 8-day retreat is like a 4-day retreat except:
 - two days of transition are needed afterward
 - a bathing facility is needed for emotional as well as physical reasons. For remote locations, see plans for a [*portable indoor shower*](/water#deluxe).
 
-#### medium
+##### medium
 
 A medium retreat lasts up to 2 months (including 15 transition days). By all accounts, the process goes really deep. My sense is that the core of one's personal dilemma, the cause of the worst of one's suffering, can heal in a medium retreat. Plenty of problems will remain. But this should be enough to clear a big space inside and restore capacity sufficiently to finally handle them afterward. (At least, that's the basket I've put all my eggs in.)
 
@@ -136,13 +136,13 @@ The benefit of short retreats is impressive but shallow and short-lived. Doing a
 
 Personally, I have been stuck in a rut of short retreats. My goal is to retreat for 20 days (including 5 transition days). In 2008, in my second successful retreat, I had a hunch: in 2 weeks of darkness I will heal from my psychic trauma at the core. This will enable me to put the rest of my life back together afterward. I do not know exactly how long others would have to retreat to reach the same point. One guy I know has been considering this for awhile got a hunch he would need 3 weeks of darkness. I expect it's a pattern. It makes sense that people come to know what they need the more they get of it.
 
-#### long
+##### long
 
 A long retreat lasts two months to a year. I have heard several reports of retreats like this. All had results we would consider miraculous but which are well within the capacity of the human organism. It made itself under difficult circumstances. Under ideal circumstances, it is certainly able to remake itself. Perhaps better than new.
 
 [Stories persist](/reports/365-day-retreat-of-150-year-old-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: recovering lost hair and eyesight; growing new teeth; and even recovering youth itself. It seems worth looking into.
 
-### warning
+#### warning
 
 There are three harmful and dangerous ways to retreat in darkness which I have already mentioned. I learned about them the hard way. The only possible point to what I endured was so I could warn you of these little gateways to hell. I sincerely wish for you to avoid such suffering. 
 
@@ -157,7 +157,7 @@ Just say no to:
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
 
-### future
+#### future
 
 I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
