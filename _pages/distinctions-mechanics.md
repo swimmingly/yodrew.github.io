@@ -1,5 +1,5 @@
 ---
-title: 1 - distinctions and mechanics
+title: 3 - distinctions and mechanics
 permalink: "/distinctions-mechanics/"
 layout: page
 navprev: darkroom-retreating

@@ -6,7 +6,57 @@ navprev: distinctions-mechanics
 navnext: format
 ---
 
-Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects. That changes now. From now on, hygiene is a complete system of health capable of perfectly addressing every illness people face, with none of the costs and failures of medicine and other systems essentially rooted in the doctrine of original sin and the practice of exorcism.
+Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects. That changes now. From now on, hygiene is a complete system of health capable of perfectly addressing every illness people face. No longer need anyone bear the costs and failures of medicine and other systems essentially rooted in the doctrine of original sin and the practice of exorcism. 
+
+#### pathology
+
+
+
+
+
+Pathology is the study of disease, including its nature, causes, and symptoms. Pathology guides our conscious response to disease. Every school of health has a general theory of pathology. In fact, many systems are named for their pathologies because they are basically oriented toward disease: homeopathy, naturopathy, osteopathy, allopathy (medicine). Allopathy's germ theory of disease leads doctors to gloss over causes and get right to symptomology and treatment. By contrast, a benevolent view of disease keeps a hygienist cool as a cucumber. Hygiene makes plenty of time to correct allopathy's imbalance with careful etiology (study of causes). This reveals the simplest and most effective responses.
+
+In the 1930s, hygienist Dr. John Tilden, identified seven stages of all chronic disease. This provides hygiene with a general theory of pathology. Each stage describes what happens as our energy level gets lower and lower. Note that a sick person can move down the steps (become sicker), or up (become well). It is simple cause and effect. Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend.
+
+The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [Victoria Bidwell](http://getwellstaywell.com).
+
+#### seven stages of disease
+
+1. Enervation: Nerve Energy is so reduced or exhausted that all normal bodily functions are greatly impaired, especially the elimination of endogenous and exogenous poisons. Stage One thus begins the progressive and chronic process of “Toxemia Toleration” that continues through all of the following stages. The Toxic Sufferer does not feel his “normal self.” He feels either stimulated or depressed by the poisonous overload.
+2. Toxemia: Nerve Energy is too low to eliminate metabolic wastes and ingested poisons. These toxic substances begin to saturate first the bloodstream and lymphatic fluids and then the cells themselves. The Toxic Sufferer feels inordinately tired, run-down, and “out of it.”
+3. Irritation: Toxic build-up within the blood and lymph and tissues continues. The cells/tissues where build-up occurs are irritated by the toxic nature of the waste, resulting in a low-grade inflammation. The Toxic Sufferer can feel exhausted, queasy, irritable, itchy, even irrational and hostile. During these first 3 stages, if The Toxic Sufferer does consult a medical doctor about the reason for his low energy and irritability, the doctor tells him: “There is nothing wrong with you. These symptoms are ‘all in your head.’ You are perfectly healthy!”
+4. Inflammation: The low-grade, chronic inflammation from Stage Three is leading to the death of cells. An area or organ where toxicants have amassed next becomes fully inflamed. The Toxic Sufferer experiences actual pain, along with pathological symptoms at this point. With the appearance of these symptoms, the medical doctor can finally give The Sufferer’s complaint a name. Traditionally, medical scientists have named many of the 20,000 distinctly different diseases after the site where the toxins have accumulated and precipitated their symptoms. Once the set of symptoms is conveniently named, the doctor can mechanically prescribe the “antidote” from his Physician’s Desk Reference or from his memorized medical/ pharmaceutical repertoire. Standard medical doctors thus commence drugging and treating at this stage.
+5. Ulceration: Tissues are destroyed. The body ulcerates, forming an outlet for the poisonous build-up. The Toxic Sufferer experiences a multiplication and worsening of symptoms while the pain intensifies. Standard medical doctors typically continue drugging and often commence with surgery and other forms of more radical and questionable treatment at this stage.
+6. Induration: Induration is the result of long-standing, chronic inflammation with bouts of acute inflammation interspersed. The chronic inflammation causes an impairment or sluggishness of circulation: and because some cells succumb, they are replaced with scar tissue. This is the way we lose good, normal-functioning cells — by chronic inflammation and death of cells. Toxins may or may not be encapsulated in a tumor, sac, wen, or polyp. The Toxic Sufferer endures even more physical pain, which is intensified by the emotional distress of realizing that he is only getting worse, regardless of his earnest, obedient, even heroic attempts to get well. Standard medical doctors continue with both drugging and surgery and all other kinds of modalities deemed appropriate, both conventional and experimental. (“Induration” means “hardening” or “scarring” of tissues.)
+7. Fungation (cancer): Cellular integrity is destroyed through their disorganization and/or cancerous proliferation. Tissues, organs, and whole systems lose their ability to function normally. Biochemical and morphological changes from the depositing of Endogenous and Exogenous Toxins bring about degenerations and death at the cellular level. The Toxic Sufferer is “a pathological mess”: he is on his deathbed. Standard medical doctors declare at this stage: “There is no hope left. You have just so much longer to live. You need to make preparations accordingly.” Failure of vital organs eventually results in death.
+
+##### comments
+
+Tilden's analysis shows the close relationship between enervation and toxemia as the two most obvious causes of all illness. It explains hygiene's success in supporting the recovery of countless people whose cases allopathy pronounced hopeless.
+
+But a flaw remained in hygiene's pathology, undermining its status and success. It did not acknowledge the importance of trauma and could not deal with it. Hygiene thus surrendered the  allopathic surgery its helplessness with trauma and the resulting dependency on allopathy's reckless embrace of. After all, how could enervation and toxemia begin in healthy mammals with strong, acute instincts? Only the overwhelming disaster of mass major trauma could do it. But this Cause Zero remained invisible to hygiene. This was due to trauma's dissociating, amnesiac effect; its distance in time from later chronic disease; the unconscious denial it induced; the deep pain and fear of approaching it; and the intense moralism of many hygienists, rooted in their great and rebellious efforts to be responsible for their health. 
+
+Also, most hygienic physicians start as allopaths. Their fascination with and awe of surgery seems very hard to shake. It makes people seem powerful on nature's scale. It affirms the civilized fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma.
+
+In short, we seem caught in a strange dream, half-waking and prolonged. But rather than force ourselves awake with discipline, hygienic darkroom retreating allows us to fully sleep it out. Hygiene has always been a kind of physiological judo: calm, understanding, effective. Rather than wait for trauma to replay its disastrous drama in our lives, we can take hygiene's peaceful, reassured approach to resolving it once and for all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### trauma
 
