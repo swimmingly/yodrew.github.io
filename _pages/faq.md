@@ -10,11 +10,11 @@ navnext: bibliography-and-influences
 
 - _Where can I go to retreat?_
  
-Don't go anywhere yet. First make darkness happen in your own home for sleeping, then for short retreats (up to 8 days). Once you've learned the ropes, use a public darkroom for medium retreats (up to a month). About 30 of these exist worldwide. You may need to arrange it yourself. A private cabin is needed for a long retreat (up to a year).
+If you can, I recommend making darkness happen first in your own home for sleeping, then for short retreats (up to 8 days). Once you've learned the ropes, make another darkroom in the countryside or go to a public darkroom for a medium retreat (3-8 weeks). There are 50 of them worldwide and counting. Most are spiritual and therapeutic centers. I think most will support hygienic retreats if you insist and know what you are doing. A private cabin is needed for a long retreat (3-12 months).
 
 - _Do you eat in a retreat?_
 
-    Yes. Food is always available. Fresh fruit and tender leafy green vegetable only, in accordance with the frugivorous nature of human anatomy and physiology.
+    Yes. Food and water are always available. I recommend fresh fruit and tender leafy green vegetables, in accordance with the frugivorous nature of human anatomy and physiology.
 
 - _How many people retreat at once?_
 
@@ -34,23 +34,31 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
 
     It seems that way, but no.
 
-    On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself.
+    On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself. But what goes on inside oneself radically differs. 
 
-    But what goes on inside oneself radically differs. Meditation is active, ie, the will drives the process. Its purpose is to make the unconscious conscious. It is a quiet internal war. Darkroom retreating is passive, ie, the unconscious drives it, with the will secondary, as a servant. Its purpose is to rest so the being can restore itself to wholeness. It is peacemaking. These subtly different drivers and purposes have massive effects on one's experience and results.
+	Meditation is active, ie, the will drives the process. Willed activity is the primary process that goes on. The purpose of meditation is to make the unconscious conscious, or to compel the conscious to submit to the unconscious. It is a quiet internal war. 
+
+	Darkroom retreating is passive, ie, the unconscious drives the process. Unconscious activity is the primary process that goes on. Willed activity is secondary, The will is servant. The purpose of retreating is to rest so the being can restore itself to wholeness naturally. It is peaceful. 
+
+	These subtly different drivers and purposes have massive effects on one's experience and results. As extraordinary as the process and results of meditation and spiritual practice can be, they still pale before the power of the autonomic self.
 
 #### concerns
 
 - _Wouldn't you go crazy staying in darkness that long?_
 
-    No. You would only go crazy in darkness from being _forced_ to be there, as in prison. A retreat is a choice based on reason, and the door is always unlocked.
+    No. You would only go crazy in darkness from being _forced_ or trapped there, as in prison or a mining accident. A retreat is a choice based on reason, and the door is always unlocked.
 
 - _Do you get bored?_
 
     Yes. It is a very good sign. Sometimes your autonomic self works on something so damaged, painful, and draining that the psyche has had to completely shut off feeling to it. It becomes an internal black hole. Boredom means you are approaching it and that recovery of a lost part of yourself is imminent.
     
-- _Four days is a long time to sit around doing nothing._
+- _Four days is a long time to do nothing._
 
-    Something tells me you've never tried it due to prejudice. I mean that civilization has taught us all that will is the only useful driver of activity in the being. This is absurd. Without autonomic activity, we would suffocate in our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that, when it comes to restoring psychic integrity (every animal's greatest value), the will is helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
+	You may not remember, but you are incredibly interesting. You will rediscover this when you finally have enough time in the right place to do next to nothing. Four days will quickly seem too short. 
+
+	Everyone is a little worried about this at first. After days of delicious sleep, few wish to leave after so little time.
+
+    Something tells me you've never tried it due to prejudice. I mean that civilization has taught us all that will is the only useful driver of activity in the being. This is absurd. Without autonomic activity, we would be poisoned to death by our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that, when it comes to restoring psychic integrity (every animal's greatest value), the will is helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
     
     If you mean it sounds pointless or dreadful, in fact a retreat usually begins with a sense of relief. Discomfort may come. But then you make contact with your autonomic self again, and this is extremely meaningful and enjoyable. Generally, people find that four days of sinking deeply into themselves is way too short. It sounds like you would be surprised to discover how interesting you are.
 
@@ -68,17 +76,16 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
 
     Shelter is an instinct that intensifies with trauma. Large uncovered windows came only very recently to popular architecture. Traditional shelter, civilized and indigenous, is dark or easily darkenable. 
 
-    Our obsession with building---the principle activity of civilization for 10,000 years---indicates a people in search of extreme sanctuary to self-heal from mass major trauma. When we get especially frustrated, we even have wars to destroy buildings and build new ones.
+    Our obsession with building---the principle activity of civilization for 10,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars to destroy buildings and build new ones. Nothing could be more natural to us in our damaged state than total darkness.
 
-- _Darkness could be good for some people, but there are many ways people can heal their pain. Nothing works for everyone._
+- _Extended darkness could be good for some people, but there are many ways people can heal their pain. Nothing works for everyone._
     
-    This would mean that:
+	This would mean that:
     
-    - deep healing can occur without deep sleep
-    - deep sleep can occur in light
-    - the human organism has no specific needs for healing from psychic trauma, despite its specific---and universal---need of rest for healing in all other cases. As well as its specific needs of air for breathing, light for seeing, food for eating, etc.
-    
-    Naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
-
-
-
+    - the deep healing necessary can occur without profound rest
+    - profound rest can occur in semi-darkness and other compromised conditions
+    - or psychic trauma is not the primary cause of metaphysical suffering
+	- or the human organism has no specific needs for recovering from such pain, despite its specific---and universal---need of rest for recovery in all other cases. As well as its specific need of air for breathing, light for seeing, food for eating, etc.
+    - the many other ways alluded to all make sense and work
+ 
+    The facts say otherwise, so naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.

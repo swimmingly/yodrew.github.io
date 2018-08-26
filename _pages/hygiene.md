@@ -19,7 +19,7 @@ What is health like according to hygiene?
 
 Euphoria is exactly the sign of long-lost function that my adolescent rapture hinted at. Once tasted, nothing else will do. The thing is to come by it on purpose, not just by chance. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making ordinary observations of life in nature along certain lines. 
 
-So we will learn these lines---these principles---in the first section, which relates the **theory** of hygiene. The second section makes natural observations of the **psyche and darkness**, shows how hygiene applies to them, and fully reveals the secret of exactly why darkroom retreating works. **Distinctions** between hygiene and other approaches further aid understanding. Then I introduce the **logistics** of retreating before heading into its **depths**, the uncharted territory of hygienic psychology.
+So we will learn these lines---these principles---in the first section, which relates the **theory** of hygiene. The second section, **darkroom retreating**, makes natural observations of psyche and darkness; shows how hygiene applies to them; and fully reveals the secret of exactly why darkroom retreating works. **Distinctions** between hygiene and other approaches further aid understanding. Then I introduce the **mechanics** of retreating before heading into its **depths**, the uncharted territory of hygienic psychology.
 
 #### theory
 
