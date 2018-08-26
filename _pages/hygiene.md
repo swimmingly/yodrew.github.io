@@ -425,7 +425,7 @@ If the hygienic view of health and sanity is the brain of my method, and darkroo
 
 ##### causation
 
-Pathology is the study of illness, especially its causation: the chain of cause and effect that leads to symptoms. 
+Pathology is the study of illness, especially its etiology: the chain of cause and effect that leads to symptoms. John Tilden gave the classic statement of hygienic pathology. It is essential to know. Please read it either now or after this section or chapter in [appendix: pathology](/appendix-pathology).
 
 Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions, when harmful ones are present and beneficial ones are absent or in poor proportion. 
 
