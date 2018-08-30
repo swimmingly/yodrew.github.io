@@ -30,7 +30,7 @@ Put dark, dense sheet material over your bedroom windows and doors to get relief
 
 We all know how it feels to sleep a lot after too many short nights: we feel sluggish afterward. Some people call this getting too much sleep, a physiological impossibility. They just do not know how tired people can get and still not get fired from their jobs. In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
-In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [*make*](/make) [*blackout blinds*](/darkness#blinds), a [*silencer*](/air#silencer) and [*lightproof vents*](/darkness#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
+In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [*make*](/make) [*blackout blinds*]{#blinds}, a [*silencer*](/air#silencer) and [*lightproof vents*](/darkness#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
 
 ##### nightly
 
