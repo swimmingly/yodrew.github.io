@@ -417,7 +417,7 @@ I submit, we are actually crazy. We weren't always. Something went terribly wron
 
 What would we recover?
 
-Awareness of the other basic plane of reality. Because it mirrors spacetime, some scientists call it timespace: three dimensions of time---past, present, future---and space compressed to one location. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Dreamtime is perceived through the feeling center of intelligence, not the senses. This is called intuition. With psychic integrity, it can be just as precise as the eyes aided by a microscope.
+Awareness of the other basic plane of reality. Because it mirrors spacetime, some scientists call it timespace: three dimensions of time---past, present, future---and space compressed to one location[^8]. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Dreamtime is perceived through the feeling center of intelligence, not the senses. This is called intuition. With psychic integrity, it can be just as precise as the eyes aided by a microscope.
 
 Our feeling centers, being more fragile, are generally out of commission. So to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite the evidence. Which even most civilized people have a little of. I mean strange experiences that stick in the mind unexplained for decades, like personal x-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it promises to return permanently.
 
@@ -447,7 +447,7 @@ Some kind of super-[catastrophe](/darkness-conjecture/catastrophe) in our distan
 
 If so, then our wars, big and small, are pointless. No one started it. Everyone is essentially innocent. So everyone is free to walk away from the conflict and heal. 
 
-Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^8]
+Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^9]
 
 ##### psychology
 
@@ -460,9 +460,9 @@ In light of the hygienic principle of _conditional self-preservation_, the restf
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
 6. Therefore, by resting in darkness, we are restored to wholeness, health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported. The conscious is helpless in any case. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^9]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported. The conscious is helpless in any case. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^10]
 
-Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping eyes closed during fasts because it reduces the significant work of sensory processing of vision[^10]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting has repaired itself.
+Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping eyes closed during fasts because it reduces the significant work of sensory processing of vision[^11]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting has repaired itself.
 
 In other words, these systems are more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -489,9 +489,10 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^5]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 [^6]: Joseph Chilton Pearce, _Evolution's End_
 [^7]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
-[^8]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
-[^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
-[^10]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
+[^8]: David Wilcock pointed this out in his talk, Enigma 2012. https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/
+[^9]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
+[^10]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
+[^11]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 
 
 
