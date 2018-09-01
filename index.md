@@ -54,7 +54,7 @@ Indigenous and spiritual traditions have used darkness for millennia. This is th
 
 Hygiene began teaching industrial society to appreciate nature's way in 1832. Worldwide massive improvements in public health resulted. Little acknowledged, hygiene remains history’s most successful and influential approach to health. 
 
-A hygienic darkroom retreat provides normal conditions, temporarily extended, of profound rest. The psyche proceeds to heal itself. The conscious self merely supports this _autonomic_ self-healing by maintaining conditions, with reliably miraculous results.
+A hygienic darkroom retreat provides normal conditions, temporarily extended, of profound rest. The psyche proceeds to heal itself. The conscious self merely maintains the conditions of this _autonomic_ self-healing. It is a reliable miracle.
 
 <span style="font-size:.5em">_continue reading online_</span> [&gt;](/dedication)
 {:.arrow}

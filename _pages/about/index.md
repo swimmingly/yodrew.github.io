@@ -21,7 +21,15 @@ email: info {at} andrewdurham.com
 voicemail: 541.210.8470 (in US)  
 Read [services](./services/) beforehand
 
-#### site update logs
+#### site changelogs
+
+2018
+
+September 1
+
+- every plan improved or refined, especially helix vent
+- hygiene chapterdivided into 3: hygiene, darkroom retreat (formerly darkroom retreating, distinctions, and mechanics sections), psychology (formerly depths section);  laws of life and pathology appendices integrated into them; significant revision of psychology chapter and hygiene > false capacity 
+- blurb rewritten according to emerging new concept of darkness
 
 2017
 
