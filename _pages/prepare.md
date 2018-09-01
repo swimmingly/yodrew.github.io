@@ -6,7 +6,7 @@ navprev: protocol
 navnext: design
 ---
 
-I do not offer retreats at present. But these are a few things that will help you prepare for a retreat: the registration form I have used with clients, the food menu, and a list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
+These things will help you prepare for a retreat. When I have offered retreats, I used the following registration form with clients as well as the menu and list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
 
 #### register
 
@@ -23,10 +23,14 @@ Register for your retreat here. Follow instructions carefully.
 ##### terms
 
 - Price: (European example)&euro;40 + &euro;80/day (eg, 4-day retreat=&euro;360)
+	- charge 20% more than you might
+	- the people who can pay, will
+	- negotiate with the rest
+	- use the extra to subsidize worthy people with little money. Find out what they are good at and have them do something for you.
 - Discounts: 
-    - Local, student, or friend: 25% 
-    - Local and student or friend: 50%
-    - Offers of 35% + remainder in trade are gladly considered
+    - Local, student, or friend: 20% 
+    - Local and student or friend: 40%
+    - Offers of 40% + remainder in trade gladly considered
     - No one serious turned away for lack of funds
 - Reserve dates with a 50% deposit. Balance due on arrival.
 - Cancelation fees (% of _total_ price): 
@@ -56,24 +60,99 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 11. Why would you like to retreat?
 12. What will you be doing the week before the retreat? (It should not be especially exhausting or intense for you)
 13. How does the menu sound to you?
-14. Quiz: What heals you in darkness?
-15. Quiz: Where is a good place to put your attention if you feel crazy or tormented?
-16. Would you like to maintain silence during your retreat?
-17. What fears or concerns do you have that might interfere with your retreat? (fear of the dark, claustrophobia, superstition, etc)? How will you handle them? What support might you need?
-18. Assuming I am correct that practically everyone is [psychotic](/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
-19. Is there anything else you would like to add?
+14. Would you like to maintain silence during your retreat?
+15. Quiz:
+	a. What is the purpose of retreating?
+	b. What do I say heals you in darkness?
+ 	c. What does this imply about what to do with your will and attention?
+	d. Where is a good place to put your attention if you feel crazy or tormented by thoughts or imagery?
+16. What fears or concerns do you have that might interfere with your retreat? (fear of the dark, claustrophobia, superstition, etc)? How will you handle them? What support might you need?
+17. Assuming I am correct that practically everyone is [psychotic](/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
+18. Is there anything else you would like to add?
 
 #### menu
 
-Here is the hygienic food plan:
+##### summary
 
-- pure water on tap
+- 3L pure water per day
 - frugivorous menu
-    - fresh fruit and leafy green vegetables (lettuce, celery, spinach, culinary herbs)
-    - whole, raw, ripe, well-washed, and amply provided for eating anytime
-    - green salad: sweet or savory, large, properly combined, served at midday
-    - not served: juice, oil, spices, salt, onions, garlic, ginger, or ferments (like vinegar).
-- if you would like to know more about this menu before trying it, read the food sections in [*hygiene*](/hygiene) and [*protocol*](/protocol) and Dr Douglas Graham's  
+    - fruit: whole, raw, ripe, in season, well-washed, ample for eating anytime
+    - tender leafy greens: romaine, escarole, young spinach
+	- green salad: sweet or savory, large, properly combined, served at midday or evening
+	- treats: 1 smoothie per 4 days, 1/2 avocado or 15 olives per 2 days in salads
+    - no: ferments (eg, vinegar), onions, garlic, ginger, spices, salt, juice, oil, dried food, nuts or seeds
+
+##### guide 
+
+Most of the time, just eat plain fruit. 
+	- eat one fruit until you lose your taste for it
+	- if still hungry, switch to another
+	- eat from the most watery (melons) to the least (bananas, dates)
+
+Some days, have a yummy recipe:
+
+- sweet green salads (midday or evenings)
+	- melon
+		- 1 head romaine, chopped
+		- 2 L watermelon, chopped (only combine one kind of melon with one green, otherwise stomach ache)
+	- banana
+		- 1/2 head romaine, chopped
+		- 3 ribs celery, finely chopped
+		- 4 bananas, ripe
+		- 1 L strawberries or blueberries or chopped nectarines
+	- citrus
+		- 1 head romaine, chopped
+		- 5 sprigs parsley
+		- 3 oranges, peeled, sectioned, cut in half
+		- 2 apples, chopped
+		- 2 slices pineapple, chopped
+- savory salads (evenings)
+	- tomato
+		- 1 head romaine, chopped
+		- 3 ribs celery, finely chopped
+		- 1dL rocket lettuce
+		- 1 orange, chopped very finely (into pulp)
+		- 5dL tomato, chopped
+		- 1/2 avocado or 1dL olives
+	- dry
+		- 1 head romaine, chopped
+		- 10 sprigs parsley or cilantro
+		- 1 orange, chopped very finely 
+		- 2 red bell pepper, chopped finely
+		- 2dL mushrooms OR zuchinni, chopped
+
+Come up with your own based on above patterns. No more than 6 ingredients per recipe. The trick with savory salads (and all combined food, really) is to make sure the 8 main flavors/textures are present in varying proportions:
+
+bitter, sweet, sour, salty, savory, spicy, crunchy, fatty
+
+- bitter: tender greens like romaine and young spinach, mild culinary herbs like parsley, cilantro. Also celery
+- sweet: fruit!
+- sour: orange, grapefruit, pineapple, berries
+- salty: celery, tomatoes (especially dried)
+- savory: tomatoes, olives (rinse off oil)
+- spicy: hot, but just a hint, barely enough to notice. Spicy greens are best, like rocket, arugala, mustard, cilantro
+- crunchy: lots of things
+- fatty
+	- tricky because it is surprisingly easy to overeat fat
+	- 1 time in a 4-day retreat
+	- oiliness of lettuce is usually enough
+	- eat a small quantity once per 2 days: 1/2 avocado, 15 olives
+	- eat only one kind of fatty food at a time
+	- stick mostly to fruits, avocado and olives (rinse off oil). Eat nuts or seeds only 1-2 times/month
+	- eat no more than 10% of your daily calories from fat. 5-6% is fine. Look up calories for a week to learn this.
+
+no: 
+- vinegar or other ferments
+- onions, garlic, ginger
+- salt or spices 
+- juice, oil, dried food, or other fractured foods
+- nuts, seeds
+
+These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes. Good things you hear about vinegar, garlic, and ginger are hype.
+
+If you would like to know more about this menu before trying it, read
+
+- the food sections in [*distinctions & mechanics*](/distinctions-mechanics#food) and [*protocol*](/protocol#food) and Dr Douglas Graham's masterful  
 [*The 80/10/10 Diet*](http://foodnsport.com)
 - if you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.
 
@@ -104,6 +183,4 @@ Here is the hygienic food plan:
     - electronic devices that make sound, light, vibration, or smell: computers, audio players, watches, clocks, vaporizers, oils, massage devices, etc
     - If you must bring any of these things, unless critical for your health, turn them off and store them during the retreat or ask to store them with your supporter.
     - contraband, psychedelics, alcohol: disallowed on the premises
-
-
 

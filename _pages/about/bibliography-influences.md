@@ -25,10 +25,10 @@ layout: page
     - initiated into Natural Hygiene by [Frederic Patenaude](http://fredericpatenaude.com)
     -  [The Science and Fine Art of Natural Hygiene](https://www.dropbox.com/sh/5asoextbr2sa7hv/tx-W0bDql7), Herbert Shelton
     - _The 80/10/10 Diet_, [Dr Douglas Graham](http://foodnsport.com)
-    - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, A. Sterling Voss, for finding this rare work)
+    - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)
 - design and art 
     - my parents and brother, [Paul](http://blacklabworld.com)
-    - grandmaster craftsman and engineer, [Jack Nuckols](http://rockcreekmetalcraft.com)
+    - grandelder and grandmaster craftsman and engineer, [Jack Nuckols](http://rockcreekmetalcraft.com)
     - childhood teacher, Steve Parks (Horizons School, Twin Falls)
     - accompanist and mentor, [Willetta Warberg](http://willettawarberg.com)
     - _The Dark is Rising_, Susan Cooper
@@ -36,15 +36,15 @@ layout: page
     - _Selected Poems_, Robert Bly 
     - _BuckyWorks_, Jay Baldwin (about Buckminster Fuller)
 - experiences
-    - one week of humane society at Sawtooth Methodist Church Camp, Idaho, Joanie Williamson, director, 1985
-    - three months enraptured, Idaho, 1987
+    - 1 week of humane society at Sawtooth Methodist Church Camp, Idaho, Joanie Williamson, director, 1985
+    - 3 months enraptured, Idaho, 1987
     - 23 days fasting in California desert, 1991
-    - one week at Rainbow National Gathering, Idaho, 2001
+    - 1 week at Rainbow National Gathering, Idaho, 2001
     - 60-hour darkroom retreat supported by elder, [Finn Po](http://www.efn.org/~finnpo/info.html), Oregon, 2006
     - 10 days in audience of Advaita grandmaster, [Arnaud Desjardins](http://arnauddesjardinsdvds.com), Montana, 2007
-    - eight seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe), Oregon, 2008
+    - 8 seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe), Oregon, 2008
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
-    - two months of life-altering sex, Sweden, 2012
+    - 2 months of life-altering sex, Sweden, 2012
 
 %(../faq)[&gt;](../acknowledgments)
 {:.arrow}

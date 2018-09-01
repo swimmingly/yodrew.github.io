@@ -6,7 +6,7 @@ navprev: preface
 navnext: hygiene
 ---
 
-Get relief, rest, and recovery:
+Relief. Rest. Recovery.
 
 - instant relief from over-stimulation and distress
 - profound rest from exhaustion
@@ -95,7 +95,7 @@ By this, I mean he got it through my thick skull with his calm, relentless, crys
 
 In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zovluck, who advised people to fast with their eyes closed in a curtained room. Later, this comment would help me connect darkness with hygiene.
 
-Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*hygiene > capacity*](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
+Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*theory > capacity*](/theory#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
 ###### finn
 
