@@ -54,13 +54,13 @@ Hygiene originated in America a generation after the Revolution, in the Age of E
 
 Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health of the 19th century. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
 
-Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
+Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet several times a day with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding self-healing power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
 
 #### laws
 
 Shelton describes hygiene as "the employment of materials, agents, and influences that have a normal relationship to life, in the preservation and restoration of health according to well-defined laws and demonstrated principles of nature."[^2] These laws are the absolute heart of hygiene and thus a great key to understanding it. They follow in the next section.
 
-Hygiene very philosophical. It mirrors the axiomatic concepts found in realist metaphysics that treat the nature of reality. Hygiene is based on the being, identity, and causality of life. Life is. Life is what it is: alive. Life acts in accordance with its nature: it lives. 
+Hygiene is philosophical. It mirrors the axiomatic concepts found in realist metaphysics. Hygiene is based on the being, identity, causality, and consciousness of life. Life is. Life is what it is: alive. Life acts in accordance with its nature: it lives. Life is self-aware and volitional: Life knows and chooses.
 
 Life's defining  characteristic is self-preservation. Life is an assertive presence and active force, not a helpless reaction. This is the first part of hygiene's _Great Law of Life_. Self-preserving means self-generating, self-maintaining, and self-healing. These obtain in every aspect of life and at every scale, from the cells to the organism as a whole. This is part of the _Law of Order_.
 
