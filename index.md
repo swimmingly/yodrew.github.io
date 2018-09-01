@@ -28,14 +28,6 @@ layout: index
 	- [bio & contact](/about)
 {:.submenu}
 
-<!-- #### book contents <span style="color:purple" font-weight="bold">(2nd edition)</span>
-
-blurb &nbsp; [dedication](/dedication) &nbsp; [foreword](/foreword) &nbsp; [preface](/preface) &nbsp; [introduction](/introduction)  
-[1 hygiene](/hygiene) &nbsp; [2 format](/format) &nbsp; [3 protocol](/protocol) &nbsp; [4 prepare](/prepare) &nbsp; [5 design](/design) &nbsp; [6 make](/make) &nbsp; [7 air](/air) &nbsp; [8 darkness](/darkness) &nbsp; [9 water](/water)  
-[appendix–laws of life](/appendix-laws-of-life) &nbsp; [appendix–pathology](/appendix-pathology) &nbsp; [faq](/faq) &nbsp; [about](/about)
-
--->
-
 #### relief, rest, recovery
 
 Hygienic darkroom retreating consists of resting in an absolutely dark room for days, alone, with food. Why do this? 
@@ -83,6 +75,10 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
 <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" style="padding:0">
 </form>
+- Skycoin:
+Y7XW7HY85d36pJFUohtqRyqjtXQAk7M33o
+- Eos:
+ge3dqojzgyge 
 - Bitcoin:  
 1CFdob7YqaF1wj6ForPpCzYF5JvakStdzx
 - Ether:  
