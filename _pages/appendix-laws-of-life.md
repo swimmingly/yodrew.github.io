@@ -4,7 +4,7 @@ permalink: "/appendix-laws-of-life/"
 layout: page
 ---
 
-See [theory > laws of life](/theory#laws-of-life)
+See [*hygiene > laws of life*](/hygiene#laws-of-life)
 
 
 

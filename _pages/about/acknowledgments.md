@@ -39,9 +39,9 @@ Trimurti: my second family, torn away as soon as I noticed, for helping further 
 - Jack Nuckols: a giant and first among my elders, you took care of me till I found my way. RIP.
 - Willetta Warberg: you poured your heart and soul into me through your piano, kindness, and huge personality
 - John Boyer: you fed me with so much of your _time_
-- Purna Steinitz: you kept your terrible promise
+- Purna Steinitz: you destroyed my sentimentality and kept your terrible promise. Shiva Shambo.
 - DeWaynn Rogers: you helped me up and kept me from the system's clutches. RIP.
-- Finn Po: elder, master job trainer, pioneer of the way of the future, you could not have done more
+- Finn Po: elder, master job trainer, and pioneer of the way of the future, you could not have done more
 
 Each of you gave me the world.
 

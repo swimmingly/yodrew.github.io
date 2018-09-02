@@ -20,4 +20,4 @@ layout: page
 [Sweden](http://www.lyfjabergt.es/welcome/home): Lyfjabergt. Seems ok. Friendly guy. Medium-high price.
 
 -->
-My new friend, Marion Abbott, is keeping good track of this, amassing a [long list of centers](http://darknessretreats.wordpress.com) at her new blog about darkroom retreating.
+My friend, Marion Abbott, is keeping good track of this, amassing a [long list of centers](http://darknessretreats.wordpress.com) at her new blog about darkroom retreating. She also [mapped them](https://www.zeemaps.com/map?group=2075542).

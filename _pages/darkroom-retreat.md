@@ -185,7 +185,7 @@ Attention to diet and nutrition have always been a big part of Natural Hygiene. 
 
 This is why I serve and recommend only fresh fruit and greens to retreatants. This is the frugivorous diet, common to all anthropoid primates like us. Being perfectly appropriate for human anatomy and physiology, these foods only nourish us. They don't medicate us. They neither stimulate or intoxify the system, nor overtax digestion, nor suppress feeling or memory.
 
-For more about frugivorous diet, I recommend [The 80/10/10 Diet](http://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, 30-year frugivore, former Olympic athlete and trainer to professional athletes. Also, watch some videos of [Loren Lockman](https://www.youtube.com/user/LorenLockman), another master hygienist and 30-year frugivore, apparently sent from the future to show us how to eat and relate to food.
+For more about frugivorous diet, I recommend [The 80/10/10 Diet](http://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, 30-year frugivore, former Olympic athlete and trainer to professional athletes. Also, watch some videos of [Loren Lockman](https://www.youtube.com/user/LorenLockman), another master hygienist and 30-year frugivore, apparently sent from the future to show us how to eat and relate to food. 
 
 If the prospect of eating just fruits and vegetables utterly stops you from retreating, then plan to eat as simply and naturally as you know how. Feel free to write me with your limitations; I am happy to help you avoid toxins often regarded as healthy. Reversing illness and suffering is a process with its own logic. Darkness is a starting point. Then it's one step at a time.
 

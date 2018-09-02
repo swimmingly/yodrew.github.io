@@ -176,6 +176,8 @@ Sixteen laws is too great a number for the mind to apprehend at once. So over ti
 
 This is the theory of hygiene as regards our subject. Let us see more precisely what it means in practice.
 
+[Editor's note: this chapter was getting long so I divided it in three: hygiene, darkroom retreat, psychology]
+
 &nbsp;
 
 [^1]: TC Fry, [*The Life Science Health System*](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), a paraphrase of original quote by Herbert Shelton in  [*Natural Hygiene: Man's Pristine Way of Life*](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)

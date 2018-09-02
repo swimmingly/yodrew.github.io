@@ -6,12 +6,13 @@ navprev: preface
 navnext: hygiene
 ---
 
-Experience relief, rest, recovery:
+In our cities and economies, we are over-stimulated and distressed. We need relief.
 
-- instant relief from over-stimulation and distress
-- profound rest from exhaustion
-- complete recovery from illness and injury
-- an end to metaphysical suffering itself 
+We are exhausted. We need rest.
+
+We are hurt and sick. We need recovery.
+
+Deep in our souls, we struggle and suffer. We need peace and joy.
 
 How? By _hygienic darkroom retreating:_ profound psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
@@ -23,27 +24,39 @@ How? By _hygienic darkroom retreating:_ profound psychic rest in total physical 
 2. The primary condition of healing is rest. 
 3. Profound psychic rest occurs in extended total darkness _as a physiological response_
 
-This is fully developed in chapter one, _hygiene_. Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. This includes designs for darkroom components precise to the millimeter.
+This is fully developed in [*hygiene > secret*](/hygiene#secret) and [*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. 
+
+This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing. This is the miracle we need to get out of our trap. When you are ready, you can walk through. The book also includes designs for darkroom components precise to the millimeter so even amateurs can get them right.
 
 ##### terminology
 
-**hygiene:** hygienism<!-- hygienics? -->; caring for health by respecting life's self-preserving nature and providing its normal conditions  
-**Natural Hygiene:** the 185 year-old school of health that exemplifies hygiene  
-**normal:** what is biologically appropriate (not merely usual or average)  
-**psyche:** the faculty of consciousness, including:
+**hygiene**: the science of health, a branch of biology. Also, the philosophy of hygienism<!-- hygienics? -->; caring for health by respecting life's self-preserving nature and providing its normal conditions. Also, Natural Hygiene
 
-- sensation, perception, conception
-- forms of intelligence
-    - physical/moving/instinctive
-    - emotional/feeling/intuitive
-    - intellectual/thinking/intellectual 
-- levels or parts
-    - unconscious: autonomic processes which cannot be made conscious (short of intense yogic practices), like regulating cell division or blood oxygen levels
-    - subconscious: acquired automatized knowledge, which can be made conscious, like cognizing words or walking
-    - conscious: ordinary waking awareness, as when reading this book or running an errand
+**Natural Hygiene**: the 185 year-old school of health that champions and exemplifies hygiene 
 
-**psychic:** of or relating to the psyche in general (not occult powers). For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
-**lifeway:** a way of life; everything that happens with people in a given group in the course of living. I once used the word, culture, for this. Then I learned culture is recent: an invention of civilization. I wanted a bigger word which would include all approaches to human existence. Lifeway is a nicely compressed term common in anthropology.
+**normal**: what is biologically appropriate (not merely usual or average)  
+
+**psyche**: the faculty of consciousness, including:
+
+	- forms: related intelligences
+		- sensation: physical / moving / instinctive
+		- perception: emotional / feeling / intuitive
+		- conception: mental / thinking / intellectual 
+	- parts
+		- unconscious: autonomic processes which cannot be made conscious (short of intense yogic practices), like regulating cell division or blood oxygen levels
+		- subconscious: acquired automatized knowledge, which can be made conscious, like cognizing words or walking
+		- conscious: ordinary waking awareness, as when reading this book or running an errand
+	- scales
+		- cells
+		- organs
+		- systems
+		- the organism as a whole
+	
+**psychic**: of or relating to the psyche in general (not occult powers). 
+  For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
+
+**lifeway**: a way of life; everything that happens with people in a given group in the course of living. 
+  I once used the word, culture, for this. Then I learned culture is recent: an invention of civilization. I wanted a bigger word which would include all approaches to human existence. Lifeway is a nicely compressed term common in anthropology.
 
 ##### darkroom
 
@@ -89,7 +102,7 @@ Natural Hygiene came knocking three times. Once in 1989 through my dad's second 
 
 ###### frederic
 
-I worked and was housemates with Frederic Patenaude a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
+I worked and was housemates with [Frederic Patenaude](http://fredericpatenaude.com) a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
 
 By this, I mean he got it through my thick skull with his calm, relentless, crystalline arguments. I was challenging but sympathetic, so I kept asking and he kept answering. It took time because I started out quite lost in the mess of alternative dietary ideas floating around my head since childhood. Something finally clicked and I started studying hygiene on my own.
 
@@ -101,7 +114,7 @@ Frederic's dedication and great knowledge made him immovable where I was merely 
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
-A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man, a hippy-from-birth (since his dad was a beatnik). Name of Finn Po. Scrawny guy. Lots of energy. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
+A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man, a hippy-from-birth (since his dad was a beatnik). Name of [Finn Po](. Scrawny guy. Lots of energy. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
 
 Naturally, Finn also had a darkroom.
 
@@ -129,9 +142,11 @@ But as Finn says, I was just getting started. It would take two more years, the 
 
 How did all this begin?
 
-At age 15, I felt morose and alienated. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this banal advice was like Luke Skywalker's photon torpedo.
+My parents are far out. They taught me a lot of what they knew: mainly philosophy (including a big dose of politics), health, and design. I worshiped them and took all of it seriously. My intense older brother did, too, and he was as big a force in my life as they. Like a lot of families, we had our problems. Other [*influences*](bibliography-influences) and [*people*](/acknowledgments) smoothed some of it out.
 
-In a moment, I was spontaneously overcome by [rapture](/darkness-conjecture/rapture): sublime joy in perceiving and being part of a perfect, beautiful universe. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. I wanted more than anything to understand the cause of rapture---in order to recover it. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+By age 15, I felt morose and alienated. But something from childhood was stirring in me. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this advice was like Luke Skywalker's photon torpedo.
+
+In a moment, I was spontaneously overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending the perfect, beautiful universe I was a part of. It was even greater than when I was 3 and 4 years old. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
@@ -160,7 +175,7 @@ However, darkness is no escape. Sometimes illness needs to be addressed in other
 
 Above all, this book presents an idea for consideration. For now, doing it is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief, which comes from knowledge. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
-Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the [companion zip file](/darkroom-retreat.zip) to get all the plans for components as well as some reference reading.
+Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the [companion zip file](/darkroom-retreat.zip) to get all the plans for components as well as some reference reading. Or find a retreat center. See [prepare](/prepare) for resources.
 
 Help from others may or may not come. You are the one you have been waiting for. The need for self-reliance applies to darkness more than anything else I've ever gotten involved with. It has been hard for me to recover enough of a self to rely on, to ferret out remnants of it I didn't know I had. But bit by bit, "a little here, a little there", the task is being accomplished.
  
@@ -170,19 +185,20 @@ The full application of the idea of hygienic darkroom retreating consists of doi
 
 Chapters are mostly practical with a dose of theory to start with. 
 
-1. hygiene: the theory underlying the restful use of darkness
+1. hygiene: the general theory underlying the restful use of darkness
+2. darkroom retreat: the inner workings of profound rest
+3. psychology: the further radicalization of hygiene 
 2. format: ways to use darkness in retreats and daily life
-3. protocol: what little there is to do in a hygienic darkroom retreat
-4. prepare: orientation
+3. protocol: what to do in a retreat
+4. prepare: orientation, menu, packing list
 5. design: darkroom specifications
-6. make: first of 4 chapters of instructions and plans for darkrooms, covering the basics
+6. make: general descriptions, plans, and instructions for building darkrooms
 7. air: ventilating, silencing, and heating a darkroom
-8. darkness: sleeping mask + room darkening techniques
+8. darkness: refined darkening techniques
 9. water: simple kitchens and bathrooms for darkrooms
 
 Then:
 
-- appendices: hygiene's laws of life and pathology
 - faq: frequently asked questions
 - bibliography and influences
 <!-- - URLs of external links -->

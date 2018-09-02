@@ -6,9 +6,9 @@ navprev: make
 navnext: darkness
 ---
 
-The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
+Ventilating a darkroom is trickier than darkening it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
-Ventilation also affects silence and temperature. Let's examine each condition and see how they work together in a mechanical system.
+Even trickier is making it quiet. With noise, we are usually at the mercy of our neighbors whereas we could buy an air purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
 
 #### ventilation
 
@@ -32,7 +32,7 @@ This means either:
 4. using [oxygen producing plants](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)
 5. a combination of these
 
-Somehow, it must be done. Forget darkness a moment. Along with not freezing to death and being safe from injury, we have no greater concern in life than arranging to breathe fresh air continuously and comfortably.
+Somehow, it must be done. Forget darkness a moment. We have no more urgent concern in life than arranging to breathe fresh air continuously and comfortably. Not freezing to death and keeping safe from injury present only rare exceptions to this rule. Keeping it foremost in your thinking about darkroom design construction will help ensure a successful retreat.
 
 ##### constraints
 
@@ -316,9 +316,13 @@ A heat recovery ventilator requires two fans. The only trouble with case fans is
 
 It would be nice to have cheap, quiet fans for this: large, low RPM [homemade centrifugal fans](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. And air friction in the fan across the blades caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise while producing high volume. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
 
+##### purity
+
+In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. The main types I have heard of are HEPA filtering, ionizing, and ozonating purifiers. I have never used one and it requires more research, but it could be integrated with your ventilation system. For example, I have seen ionizing units small enough to fit inside the silencer. If air quality at your home is bad enough, consider moving. There's lots of space left in the countryside and it doesn't have to be costly or complicated.
+
 ~~
 
-That's it for ventilation, silence, power, and heat. On to lightproofing doors and windows.
+That's it for ventilation, silence, power, heat, and purification. On to lightproofing doors and windows.
 
 
 

@@ -208,7 +208,7 @@ If so, then our wars, big and small, are pointless. No one started it. No one ne
 
 Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^4]
 
-#### psychology
+#### hygienic psychology
 
 In light of the essence of hygiene, _conditional self-preservation_; the restful use of darkness; and the cataclysmic origin of disease, a hygienic psychology can now be outlined:
 

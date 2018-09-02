@@ -82,14 +82,18 @@ A minimum of 90% of your food, by mass, should be seeded fruit, sweet and non-sw
 
 Our need for fat is tiny and easily met with the above food types. Fat is very complex and difficult to digest. Too much interferes with resting and healing. So eliminate oils and minimize fatty foods. Forego nuts and seeds altogether. One small to medium avocado during a 4-day retreat in a savory salad is very pleasant.
 
-Most of what you consume in fruit and leafy greens is water. So you must eat 3-5 times more volume for the same sense of fullness and satisfaction. Eating this much can take getting used to. Practice it before the retreat.
+Most of what you consume in fruit and leafy greens is water. So you must eat 3-5 times more volume for the same sense of fullness and satisfaction. Eating this much, like 5 apples instead of one or half a watermelon instead of a slice, can take getting used to. Practice it before the retreat.
 
 For more about food, see:
 
-- [*distinctions & mechanics> food*](/distinctions-mechanics#food) and [*prepare > menu*](/prepare#menu)
+- [*darkroom retreat> food*](/darkroom-retreat#food) and [*prepare > menu*](/prepare#menu)
 - [*The 80/10/10 Diet*](http://foodnsport.com) by Dr Douglas Graham, and [Loren Lockman's videos](http://youtube.com/user/LorenLockman).
 
-I strongly believe in fasting. It is a cornerstone of hygiene. But I believe in keeping these two processes separate until regaining significant capacity. They seem to have opposite metabolic requirements. At first, healing in darkness is more psychical in nature, in fasting more physical. The activity of one supports the inactivity and resting of the other. I have tried both at the same time and it is very intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive strong clear opposite signals from your organism.
+###### fasting
+
+I strongly believe in fasting. It is a cornerstone of hygiene. But I believe in keeping these two processes separate until regaining significant capacity. They seem to have opposite metabolic requirements. At first, healing in darkness is more psychical in nature, in fasting more physical. The activity of one supports the inactivity and resting of the other. 
+
+I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism. I recommend Shelton's books on it, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [The Fast: Nature's Best Remedy](/other-writings/mosseri).
 
 ##### conservation
 
