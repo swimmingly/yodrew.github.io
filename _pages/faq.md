@@ -2,8 +2,8 @@
 title: faq
 permalink: "/faq/"
 layout: page
-navprev: appendix-pathology
-navnext: bibliography-and-influences
+navprev: water
+navnext: about/bibliography-influences
 ---
 
 #### mechanics

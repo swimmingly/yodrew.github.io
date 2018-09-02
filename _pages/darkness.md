@@ -1,5 +1,5 @@
 ---
-title: 8 - darkness
+title: 10 - darkness
 permalink: "/darkness/"
 layout: page
 navprev: air
@@ -334,11 +334,8 @@ Thus, these (untested) improvements should make it work.
 ##### roller blind
 
 ![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)
-
 ![photo: roller blind, panel and joint](/img/photo/roller-blind-panel&joint.jpg)
-
 ![photo: roller blind, frame and parts](/img/photo/roller-blind-frame&parts.jpg)
-
 ![photo: roller blind, rail section](/img/photo/roller-blind-rail-section.jpg)
 
 This design takes considerable time. I've built it only once. The price of manufactured fully sealed blackout roller blinds annoyed me so much, I wanted to see if it could be done for a tenth the price.

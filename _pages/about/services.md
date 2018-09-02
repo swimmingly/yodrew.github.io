@@ -2,6 +2,8 @@
 title: services
 permalink: "/about/services/"
 layout: page
+navprev: about/license
+navnext: about
 ---
 
 I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build. 
@@ -35,20 +37,19 @@ I will respond in detail, by email or skype, to all your questions and concerns 
 
 My responses will be based on my experience. Over the past ten years, I have:
 
-- done 20 retreats from 2-6 days long
+- done 25 retreats from 2-6 days long
 - facilitated 25 retreats for others
 - designed and built 15 working darkrooms, operating three of them
-- written 100,000 words about darkroom retreating for web, email, and print
+- written 150,000 words about darkroom retreating for web, email, and print
 - given 14 public talks
 
 #### design-build
 
 Have me design and build your darkroom in an existing building or from scratch.
 
-(&euro;15/hr + materials, travel, & shelter)
+(&euro;15/hr + materials, travel, and shelter)
 
-%(../license)[&gt;](../)
-{:.arrow}
+
 
 <!--
 booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/about/license) for an alternative.

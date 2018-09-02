@@ -2,6 +2,8 @@
 title: bibliography and influences
 permalink: "/about/bibliography-influences/"
 layout: page
+navprev: faq
+navnext: about/acknowledgments
 ---
 
 - indigeny vs industry 
@@ -45,7 +47,3 @@ layout: page
     - 8 seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe), Oregon, 2008
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - 2 months of life-altering sex, Sweden, 2012
-
-%(../faq)[&gt;](../acknowledgments)
-{:.arrow}
-

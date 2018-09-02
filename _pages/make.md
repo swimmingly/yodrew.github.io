@@ -1,5 +1,5 @@
 ---
-title: 6 - make
+title: 8 - make
 permalink: "/make/"
 layout: page
 navprev: design

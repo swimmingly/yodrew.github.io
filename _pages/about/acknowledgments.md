@@ -2,6 +2,8 @@
 title: acknowledgments
 permalink: "/about/acknowledgments/"
 layout: page
+navprev: about/bibliography-influences
+navnext: about/disclaimer
 ---
 
 Thanks to hundreds of people in 8 countries on 2 continents over 28 years, who morally and materially aided me during my prodigal search, especially my:
@@ -105,5 +107,3 @@ I also made enemies and hurt some people along the way. I'm sorry it didn't go t
 
 Acknowledgments in books usually bore me. This one I cannot reread without weeping. Onward, then, till the task is complete.
 
-%(../bibliography-influences)[&gt;](../disclaimer)
-{:.arrow}

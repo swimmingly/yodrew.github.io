@@ -2,6 +2,8 @@
 title: license
 permalink: "/about/license/"
 layout: page
+navprev: about/disclaimer
+navnext: about/services
 ---
 
 Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't.
@@ -24,5 +26,3 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
-%(../disclaimer)[&gt;](../services)
-{:.arrow}

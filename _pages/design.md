@@ -1,5 +1,5 @@
 ---
-title: 5 - design
+title: 7 - design
 permalink: "/design/"
 layout: page
 navprev: prepare

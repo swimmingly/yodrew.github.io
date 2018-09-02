@@ -1,5 +1,5 @@
 ---
-title: 4 - prepare
+title: 6 - prepare
 permalink: "/prepare/"
 layout: page
 navprev: protocol

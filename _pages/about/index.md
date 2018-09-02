@@ -2,9 +2,11 @@
 title: about
 permalink: "/about/"
 layout: index
+navprev: about/services
+navnext: about/bibliography-influences
 ---
 
-[bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [license](./license/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [services](./services/)
+[bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [license](./license/) &nbsp; [services](./services/)
 
 Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.
 

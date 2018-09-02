@@ -1,9 +1,9 @@
 ---
-title: 9 - water
+title: 11 - water
 permalink: "/water/"
 layout: page
 navprev: darkness
-navnext: appendix-laws-of-life
+navnext: faq
 ---
 
 If you have a bathroom and kitchen you can easily darken or use with a blindfold, great. 
@@ -55,11 +55,9 @@ A 20L bucket sits inside a box with a hole in the top. The return duct attaches 
 
 Dimensions: 35cmH x 60W x 60D
 
-[![plan: toilet top](/img/plan/image/toilet-top.png)](/img/plan/toilet-top.pdf)
-
-[![plan: toilet frame](/img/plan/image/toilet-frame.png)](/img/plan/toilet-frame.pdf)
-
-[![plan: toilet liner](/img/plan/image/toilet-liner.png)](/img/plan/toilet-liner.pdf)
+[![plan: toilet top](/img/plan/image/toilet-top.png)](/img/plan/toilet-top.pdf)  
+[![plan: toilet frame](/img/plan/image/toilet-frame.png)](/img/plan/toilet-frame.pdf)  
+[![plan: toilet liner](/img/plan/image/toilet-liner.png)](/img/plan/toilet-liner.pdf)  
 
 - top
     - platform made of 15--20 tongue and groove boards or 12--20 plywood
