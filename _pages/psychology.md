@@ -15,7 +15,7 @@ This limitation disappears with two changes:
 
 Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other semi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
 
-By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. Medicine can only treat trauma It's really that simple. We are all moments from relief, days from restedness, weeks from healing, months from total recovery from ten millennia of abysmal problems, failure, disease, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
+By healing from trauma, we not only end dysfunction and suffering. Wheres medicine can only treat trauma after the fact, we can prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. It is really that simple. We are all moments from relief, days from restedness, weeks from healing, and months from total recovery from ten millennia of abysmal problems, failure, disease, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
 
 Safe and comfortable in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive pathology. Then we will go beyond it in frank discussions of trauma, psychosis and their deeper social and natural causes. We will finish with an outline of a new and hygienic psychology, which promises to unleash hygiene's power and lift humanity from its debilitated state.
 
@@ -244,8 +244,8 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 
 [^1]: Joseph Chilton Pearce, _Evolution's End_
 [^2]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
- [^3]: David Wilcock, "Enigma 2012". https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/
-[^4]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
-[^5]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
-[^6]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
+[^3]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
+[^4]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
+[^5]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^6]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html
 
