@@ -15,9 +15,13 @@ This limitation disappears with two changes:
 
 Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other semi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
 
-By healing from trauma, we not only end dysfunction and suffering. Whereas medicine can only treat trauma after the fact, we can prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. It is really that simple. We are all moments from relief, days from restedness, weeks from healing, and months from total recovery from ten millennia of abysmal problems, failure, disease, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
+By healing from trauma, we not only end dysfunction and suffering. We can prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. It is that simple. 
 
-Safe and comfortable in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive pathology. Then we will go beyond it in frank discussions of trauma, psychosis and their deeper social and natural causes. We will finish with an outline of a new and hygienic psychology, which promises to unleash hygiene's power and lift humanity from its debilitated state.
+Medicine can only deal with trauma after the fact. Its tricks for treating it impress us, and we respect the willingness of doctors to try. Though if medicine we science, it could explain, predict, and prevent further trauma. But look at all the attention it puts on treatment. It represents a declaration of failure to understand and of helplessness to eliminate the cause of our recurring disasters.
+
+We are all a moment from relief, days from restedness, weeks from healing, and months from total recovery from ten millennia of abysmal problems, failure, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
+
+Safe in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive **pathology**. Then we will go beyond it in frank discussions of **trauma**, **psychosis** and their deeper social and natural causes (**cataclysm**). We will finish with an outline of a new and **hygienic psychology**, which promises to unleash hygiene's power and lift humanity from its debilitated state.
 
 #### pathology
 
