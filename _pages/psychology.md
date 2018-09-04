@@ -223,7 +223,9 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
 6. Therefore, by retreating in darkness, we gain relief, rest, and restoration to health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported. The conscious is helpless in any case. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^5]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^5]
+
+##### fasting
 
 Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^6]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
 
@@ -233,15 +235,17 @@ Furthermore, darkroom retreating is inherently much safer to do alone. In darkne
 
 Professional hygienic fasting supervisors attempt to substitute themselves for these prerequisites of fasting or teach them in the usual slow, incomplete way. Consequently, only hundreds of people fast per year in a remotely proper way, not the billions who need to. Hygienic darkroom retreating recontexualizes the work of fasting supervisors. Retreating in darkness themselves, they will regain the capacity to operate at a global scale, not just with the lucky few.
 
+##### miracle
+
 As in fasting, one hardly knows in darkness what the organism is doing at its deepest levels. Occasionally there is a chance to consciously participate in the process. Or to find out _why_ things have gone wrong if it is important to change ideas and behavior related to it. At mostly one feels discomfort or a strange subterranean rumbling.
 
 But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants a miracle, one need only provide its conditions.
 
-And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed.
+And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
-The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
+The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, you can study further. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
+I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
 [*The Science and Fine Art of Natural Hygiene*](https://darkroomretreat.com/nhs.pdf).
 
 &nbsp;

@@ -30,28 +30,6 @@ body
   width: 100%;
   }
 
-.submenu
-  {
-  float: right;
-  margin: 45px 10px;
-  list-style-type: none;
-  font-size:90%;
-  a
-    {
-    color: $blue2;
-    }
-
-  }
-
-.arrow
-	{
-    padding-top: 20px;
-	font-size: 3em;
-	font-weight: 600;
-	text-decoration: none;
-    text-align: center;
-	}
-
 h1, h2, h3, h4, h5, h6
   {
   font-family: $helveticaNeue;
@@ -171,6 +149,33 @@ img
   }
 
 
+dl 
+  {
+  width: 100%
+  }
+
+dt 
+ {
+  float: left;
+  margin-right: 5%;
+  max-width: 20%;
+  font-weight: bold;
+  }
+
+dd 
+  {
+  color: grey;
+  margin-left: 25%;
+  margin-bottom: .5em;
+  }
+
+dd::after 
+  {
+  content: " ";
+  display: block;
+  clear: left;
+  }
+
 // Fix images Google Translate popup boxes
 .gmnoprint img
   {
@@ -277,6 +282,29 @@ img
     margin: 3px 0;
     }
   }
+
+.submenu
+  {
+  float: right;
+  margin: 45px 10px;
+  list-style-type: none;
+  font-size:90%;
+  a
+    {
+    color: $blue2;
+    }
+
+  }
+
+.arrow
+	{
+    padding-top: 20px;
+	font-size: 3em;
+	font-weight: 600;
+	text-decoration: none;
+    text-align: center;
+	}
+
 
 nav
   {

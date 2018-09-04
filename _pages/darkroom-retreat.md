@@ -189,7 +189,7 @@ For more about frugivorous diet, I recommend [The 80/10/10 Diet](http://foodnspo
 
 If the prospect of eating just fruits and vegetables utterly stops you from retreating, then plan to eat as simply and naturally as you know how. Feel free to write me with your limitations; I am happy to help you avoid toxins often regarded as healthy. Reversing illness and suffering is a process with its own logic. Darkness is a starting point. Then it's one step at a time.
 
-Please note that just because the frugivorous diet consists of all raw food does not make it "the raw food diet". Frugivorism has a rich set of criteria about food: timing, quantity, proportion, combination, season, source, one's _feeling_, etc. It is a biological description, not an ideology like fruitarianism or veganism. Raw foodism is an ideology. It only has one criterion: no high-heating of food. Otherwise, anything goes! It lacks depth and seriousness. It is reductive fanaticism, not a whole relationship with food. I strongly recommend against raw foodism and the quasi-cults that grow up around it.
+Please note that just because the frugivorous diet consists of all raw food does not make it the "raw food diet". Frugivorism has a rich set of criteria about food: timing, quantity, proportion, combination, season, source, one's _feeling_, etc. It is a biological description, not an ideology like fruitarianism or veganism. Raw foodism is an ideology. It only has one criterion: no high-heating of food. Otherwise, anything goes! It lacks depth and seriousness. It is reductive fanaticism, not a whole relationship with food. I strongly recommend against raw foodism and the quasi-cults that grow up around it.
 
 ##### preparation
 
