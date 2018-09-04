@@ -149,32 +149,78 @@ img
   }
 
 
-dl 
+
+
+
+
+
+
+
+
+
+
+
+
+
+dl:after {content:"";display:table;clear:both;}
+dd {
+    padding:.5em 0;}
+dl {
+    width:100%;}
+dt, dd {
+    display:inline-block;
+    width:25%;}
+dt {
+    text-align:right;
+    font-weight:bold;
+    clear:left;
+    float:left;}
+dd {
+    width:75%;
+    padding-left:1em;
+    clear:right;}
+dt:first-child {
+    padding-top:.5em;}
+dd + dt {
+   clear:both;
+    padding-top:.5em;}
+
+
+
+/*
+dl
+  {	
+  width: 100%;  }
+dt
   {
-  width: 100%
-  }
-
-dt 
- {
   float: left;
-  margin-right: 5%;
-  max-width: 20%;
-  font-weight: bold;
-  }
+  text-align: right;
+  width: 25%;
+  font-weight: bold;  }
 
-dd 
+dt::after
+ {
+    content: ":";  }
+
+dd
   {
   color: grey;
-  margin-left: 25%;
-  margin-bottom: .5em;
-  }
+  margin-left: 30%;  }
+*/
 
-dd::after 
-  {
-  content: " ";
-  display: block;
-  clear: left;
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Fix images Google Translate popup boxes
 .gmnoprint img

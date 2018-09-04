@@ -26,19 +26,25 @@ How? By _hygienic darkroom retreating:_ profound psychic rest in total physical 
 
 This is fully developed in [*hygiene > secret*](/hygiene#secret) and [*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. 
 
-This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing. This is the miracle we need to get out of our trap. When you are ready, you can walk through. The book also includes designs for darkroom components precise to the millimeter so even amateurs can get them right.
+This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book also includes designs for darkroom components precise to the millimeter so even amateurs can get them right.
 
 ##### terminology
 
-**hygiene**: the science of health, a branch of biology. Also, the philosophy of hygienism<!-- hygienics? -->; caring for health by respecting life's self-preserving nature and providing its normal conditions. Also, Natural Hygiene
+hygiene
+: 1&#46; caring for health by respecting life's self-preserving nature and providing its normal conditions.  
+2&#46; the biological science of health  
+3&#46; hygienism; Natural Hygiene
 
-**Natural Hygiene**: the 185 year-old school of health that champions and exemplifies hygiene 
+Natural Hygiene
+: the 185 year-old school of health that champions and exemplifies hygiene
 
-**normal**: what is biologically appropriate (not merely usual or average)  
+normal
+: what is biologically appropriate (not merely usual or average)  
 
-**psyche**: the faculty of consciousness, including:
+psyche
+: the faculty of consciousness, including:
 
-	- forms: related intelligences
+	- forms and related centers of intelligence
 		- sensation: physical / moving / instinctive
 		- perception: emotional / feeling / intuitive
 		- conception: mental / thinking / intellectual 
@@ -52,15 +58,17 @@ This book describes, explains, and shows how to provide them, from abstract theo
 		- systems
 		- the organism as a whole
 	
-**psychic**: of or relating to the psyche in general (not occult powers). 
-  For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
+psychic
+:	of or relating to the psyche in general (not occult powers).  
+&nbsp; &nbsp; For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
 
-**lifeway**: a way of life; everything that happens with people in a given group in the course of living. 
-  I once used the word, culture, for this. Then I learned culture is recent: an invention of civilization. I wanted a bigger word which would include all approaches to human existence. Lifeway is a nicely compressed term common in anthropology.
+lifeway
+:	a way of life; everything that happens with people in a given group in the course of living.  
+&nbsp; &nbsp; I once used the word, culture, for this. Then [John Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
 
 ##### darkroom
 
-A darkroom is a bedroom that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
+A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
 
 Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 

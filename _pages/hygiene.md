@@ -6,7 +6,7 @@ navprev: introduction
 navnext: darkroom-retreat
 ---
 
-Hygiene is a complete system of health and healing based on the self-preserving nature of life and an appreciation for its normal conditions. More than mere cleanliness, hygiene is a 200 year-old, globally established health care system. We hardly discuss it because it's just how things are done. Almost unknown in its fullness, its depth and details strike newcomers as oddly familiar.
+Hygiene is a complete system of health and healing based on the self-preserving nature of life and an appreciation for its normal conditions. More than mere cleanliness, hygiene is a 185 year-old, globally embedded health care system. We hardly discuss it because it's just how things are done. Almost unknown in its fullness, its details strike newcomers as oddly familiar.
 
 Hygiene provides a comprehensive context for the restful use of darkness in support of the self-healing psyche. Hygiene enables us to understand what darkness is and how to relate to it for the purpose of health.
 
@@ -27,7 +27,7 @@ Hygiene is the science of health, a branch of biology. Here is Webster's definit
 
 > **hygiene:** conditions and practices conducive to the preservation of health
 
-In common usage, hygiene means vigilant cleanliness against germs and use of safety equipment to protect against a hostile environment. Actually, hygiene includes all healthy conditions and practices. It is fearless, relaxed, and respectful of life's resilience.
+In common usage, hygiene means vigilant cleanliness against germs and use of safety equipment to protect against a hostile environment. Actually, hygiene includes all healthy conditions and practices. It is fearless and relaxed. It respects life's resilience.
 
 Natural Hygiene makes all this explicit. It identifies "preservation" with life's defining characteristic of self-preservation. And it identifies "conditions and practices conducive" to health with the normal conditions of life. Thus it recognizes the self-preserving organism and seeks to provide it with normal conditions of life in both sickness and health. This originates in hygiene's observation of ubiquitous health in nature, where organisms also get injured and sick, yet only normal conditions of life exist. For humans, these conditions and practices, both physiological and social, include:
 
