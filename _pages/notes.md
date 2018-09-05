@@ -12,11 +12,9 @@ You needn't read this whole book just to get the idea. I present it in layers: i
 
 The book is an integrated whole, best read cover to cover, including the blurb, foreword, etc. Each section builds upon the last. Every word contributes to understanding.
 
-Ebook:
+Ebook:  
 [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat) or  
 [darkroomretreat.com/ebook](/ebook).  
-Online book:
+Online book:  
 [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read) (all on one page) or  
 [darkroomretreat.com](http://darkroomretreat.com) (a chapter per page).
-
-

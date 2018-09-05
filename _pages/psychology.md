@@ -255,5 +255,5 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 [^3]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^4]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
 [^5]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^6]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html
+[^6]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 

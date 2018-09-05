@@ -24,7 +24,8 @@ How? By _hygienic darkroom retreating:_ profound psychic rest in total physical 
 2. The primary condition of healing is rest. 
 3. Profound psychic rest occurs in extended total darkness _as a physiological response_
 
-This is fully developed in [*hygiene > secret*](/hygiene#secret) and [*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. 
+This is fully developed in [*hygiene > secret*](/hygiene#secret) and  
+[*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. 
 
 This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book also includes designs for darkroom components precise to the millimeter so even amateurs can get them right.
 
