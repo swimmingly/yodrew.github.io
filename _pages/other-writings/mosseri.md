@@ -1,5 +1,5 @@
 ---
-title: The Fast - Nature's Best Remedy
+title: Fasting - Nature's Best Remedy
 permalink: "/other-writings/mosseri"
 layout: page
 navprev: other-writings/mosseri-discovery
@@ -23,7 +23,7 @@ Everything is explained in detail.</p>
 
     <h1>Albert Mosséri</h1>
 ##### &nbsp;</strong></p>
-    <h2><strong>T H E&nbsp;&nbsp; F A S T</strong></h2>
+    <h2><strong> F A S T I N G</strong></h2>
     <h3>Nature’s Best Remedy </h3>
     <p>Completes</p>
     <h4>`RADIANT HEALTH THROUGH FASTING’</h4>
@@ -6278,7 +6278,7 @@ Discovery of food  combinations<em>-A study limited to specific food - How to  h
     </span></div>
   
   <div id="footer">
-    <p>The Fast--Nature's Best Remedy, by Dr. Albert Mosseri's Le Jeune</p>
+    <p>Fasting--Nature's Best Remedy, by Dr. Albert Mosseri's Le Jeune</p>
   </div>
 </div>
 

@@ -144,16 +144,19 @@ A long retreat lasts two months to a year. I have heard several reports of retre
 
 #### warning
 
-There are three harmful and dangerous ways to retreat in darkness which I have already mentioned. I learned about them the hard way. The only possible point to what I endured was so I could warn you of these little gateways to hell. I sincerely wish for you to avoid such suffering. 
+There are five harmful and dangerous ways to retreat in darkness which I have already mentioned. I learned about them the hard way. The only possible point to what I endured was so I could warn you of these little gateways to hell. I sincerely wish for you to avoid such suffering. 
 
 Fortunately, it is easy once you know. I will just list them here and point you to longer discussions of them elsewhere in the book.
 
 Just say no to:
 
-1. Mini-retreating behind schedule. See mini-retreat section above.
+1. Mini-retreating behind schedule. See [mini-retreat*](#mini-retreat) section above.
 2. Ending a retreat without transition days. See [*4-day retreat*](#4-day-retreat) above and [*protocol > post-retreat*](/protocol#post-retreat).
-3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see [*4-day retreat*](#4-day-retreat) above and [*hygiene > false capacity*](/hygiene#false-capacity), where I have understated the matter because it cannot be overstated.
-4. I know I said three dangerous ways, but maybe there are more. And worse. Why find out? Stick to the tried and true. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
+3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see  
+_4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity), where I have understated the matter because it cannot be overstated.
+4. Retreating with hostile support or hostile people in the same house. Say no to abusive relationships.
+5. Not having sufficient sympathetic support for medium or long retreats.
+6. I know I said five dangerous ways, but maybe there are more. And worse. Why find out? What is the penalty for following the guidelines? Stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
 

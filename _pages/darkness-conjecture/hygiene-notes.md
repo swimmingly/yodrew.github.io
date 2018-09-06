@@ -53,7 +53,7 @@ One trouble is that Natural Hygiene is so effective it embarrasses medicine. So 
 
 Before targeting non-medical physicians of all kinds, the AMA first gained legal privilege for doctors and propagandized the public. In a lull of Hygienic activity caused by the Civil War; the economic crash a decade later; and the death of its foremost exponent, Russell Trall; allopathy laid claim to Hygiene's widely-accepted teachings---and the massive improvements to public health that resulted. The rest of the teachings, it smeared.
 
-For an unmatched introduction to the basic ideas of Natural Hygiene, including its history, read _The Science and Fine Art of Natural Hygiene_ by Herbert Shelton. For a radical critique of medicine as nothing more than modernized exorcism, see his book, _Rubies in the Sand_.
+For an unmatched introduction to the basic ideas of Natural Hygiene, including its history, read [*The Science and Fine Art of Natural Hygiene*](/nhs/pdf) by Herbert Shelton. For a radical critique of medicine as nothing more than modernized exorcism, see his book, _Rubies in the Sand_.
 
 As formidible an opponent as the AMA is, one's greatest foe is always oneself. So I have two innovations for Natural Hygiene and one prediction. I am not proposing or suggesting them, because there is no central authority in Natural Hygiene, only nature and reason. So I am just making them, expecting that over time, actively-minded Hygienists will see their logic and value. 
 

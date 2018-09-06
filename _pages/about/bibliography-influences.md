@@ -25,7 +25,7 @@ navnext: about/acknowledgments
 - health
     - my parents
     - initiated into Natural Hygiene by [Frederic Patenaude](http://fredericpatenaude.com)
-    -  [The Science and Fine Art of Natural Hygiene](https://www.dropbox.com/sh/5asoextbr2sa7hv/tx-W0bDql7), Herbert Shelton
+    -  [The Science and Fine Art of Natural Hygiene](/nhs.pdf), Herbert Shelton
     - _The 80/10/10 Diet_, [Dr Douglas Graham](http://foodnsport.com)
     - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)
 - design and art 

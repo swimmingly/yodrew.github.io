@@ -17,7 +17,8 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Nothing to Fear, Even Fear Itself](./nothing-to-fear) big brother's achilles' heel
 - Health
     - [Sanity and Health](./sanity-and-health/) intro  
-(this led to [the darkness conjecture](../darkness-conjecture/) and [darkroom retreat](/))
+    - See "By Others", below
+(this led to [the darkness conjecture](../darkness-conjecture/) then [hygienic darkroom retreat](/))
 - Design
     - [Just Living](./just-living) a meditation on design
     - [Mechanics of Mass Slavery](./mechanics-of-mass-slavery/) a drive-by analysis
@@ -34,5 +35,6 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Links](./links/) others' good designs &etc to learn and sing
     - [Origins of Agriculture](./origins-of-agriculture/) a stunning _What if…?_
     - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
-<!--    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri, French hygienic master -->
+    - [A Prodigious Discovery]](./mosseri-discovery) by Albert Mosseri, French hygienic master. This is an excerpt from:
+    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri
     - [QWERTY to Dvorak](./d/) typing translator

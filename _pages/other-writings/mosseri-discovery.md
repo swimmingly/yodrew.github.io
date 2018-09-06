@@ -6,9 +6,8 @@ navprev: fukuoka
 navnext: mosseri
 ---
 
-[_The Fast: Nature’s Best Remedy_](/other-writings/mosseri)
-by Albert Mosséri 
-p136, ch19, "A Prodigious Discovery"
+from Albert Mosséri's
+[_Fasting: Nature’s Best Remedy_](/other-writings/mosseri), p136, ch19, "A Prodigious Discovery"
 
 ~~
 
@@ -65,7 +64,8 @@ As soon as we switch to the half-fast, rekindling elimination, we must examine t
 
 It does not matter if, in the meantime, hunger comes back or not, because this Instinct is usually defective amongst civilized people.
 
-**End of excerpt. Read the** [**whole book**](/other-writings/mosseri)
+**End of excerpt.**
+Read the whole book, [**_Fasting: Nature's Best Remedy_**](/other-writings/mosseri)
 
 &nbsp;
 

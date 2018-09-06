@@ -41,7 +41,7 @@ This reveals the poor conditions and the ordinary ways to correct them. Indeed, 
 
 In the 1930s, with a century of prior art to work from, hygienist Dr John Tilden formulated the seven stages of all chronic disease.  Each stage describes what happens as our energy level declines ever lower. Note that a sick person can move down the steps and become sicker, or up and become well. It is simple cause and effect. Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend.
 
-We have [Victoria Bidwell](http://getwellstaywell.com), a tireless contemporary hygienist, to thank for the following cogent [summary of Tilden's analysis of disease](http://naturalhygienesociety.org/past3.html), originally from her work, _The Health Seekers Yearbook_.
+We have [Victoria Bidwell](http://getwellstaywell.com), a tireless contemporary hygienist, to thank for the following cogent summary of [Tilden's analysis](http://naturalhygienesociety.org/past3.html) of disease, originally from her work, _The Health Seekers Yearbook_.
 
 ##### seven stages of disease
 
@@ -246,7 +246,7 @@ And then? Healed from trauma, one will no longer be compelled to repeat it. One 
 The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
 I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
-[*The Science and Fine Art of Natural Hygiene*](https://darkroomretreat.com/nhs.pdf).
+[*The Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 
 &nbsp;
 
