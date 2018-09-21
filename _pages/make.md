@@ -134,8 +134,8 @@ All plans can be reused except [sleeping mask](/darkness/sleeping-mask) plan, wh
 
 Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Click each image to open the corresponding full-size plan as an individual PDF.
 
-1. download all plans at once with the [darkroom retreat zip file](/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
-    - a complete set of PDF plans
+1. download all plans at once with the darkroom retreat [zip file](/darkroom-retreat.zip). Extract (decompress) the file. Contents:
+    - plans: a complete set of PDF plans
     - all photos below plus extras from website
     - SVG source files of plans for modifying them, originally drawn in [Inkscape](http://inkscape.org). Use v0.92.3.
     - I would love it if someone made 

@@ -89,13 +89,13 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### helix vent
 
-![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)
-![photo: helix vent core, exploded](/img/photo/helix-vent-core-exploded.jpg)
-[![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
-[![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)
-[![plan: helix vent, inner wall](/img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)
-[![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)
-[![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
+![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)  
+![photo: helix vent core, exploded](/img/photo/helix-vent-core-exploded.jpg)  
+[![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
+[![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
+[![plan: helix vent, inner wall](/img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)  
+[![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
+[![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)  
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -164,8 +164,7 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [removable partition](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
-
+[![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)  
 [![plan: threshold vent](/img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
 
 1. materials

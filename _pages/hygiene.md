@@ -40,19 +40,26 @@ The extent and organization of this list are somewhat arbitrary. It simply helps
 
 #### rest
 
-This book mainly deals with the condition of rest, which is half of life. In our action-obsessed lifeway, we disdain and resist it, viewing it as a waste of time. Not only is it an end in itself, another equal aspect of living, but nothing else is possible without it, neither action nor healing.
+This book mainly deals with the condition of rest, which is half of life. In our action-obsessed lifeway, we disdain and resist it, viewing it as a waste of time. Not only is rest an end in itself, another equal aspect of living, but nothing else is possible without it, neither action nor healing.
 
 Rest is of two kinds: ordinary and profound. 
 
 Ordinary rest includes nightly sleep, naps, and relaxation, alternated with daily activity in light. It is for maintenance of health.
 
-Profound rest means extended retreat lasting days, weeks, even months. It is for recovery from major trauma and sickness, including aging. It is gained in darkness and by fasting. Its benefits accumulate day by day. It shows that a good night's sleep, even several in a row, are simply not enough to recover from what really ails us. And this is a much greater problem than we have imagined.
+Profound rest means extended retreat lasting days, weeks, even months. It is for recovery from major trauma and sickness, including aging. It is gained in four ways (in ascending order of intensity):
+
+- silence
+- solitude
+- fasting
+- darkness
+
+The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. It shows that a good night's sleep, even several in a row, is simply not enough to recover from what really ails us. 
 
 #### history
 
-Hygiene originated in America a generation after the Revolution, in the Age of Enlightenment. With the lectures of Sylvester Graham, physiologist and namesake of Graham (whole) flour, hygiene became a mass movement in 1832. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. Mary Gove helped bring hygiene to women of the 19th century, whose increasing independence it matched. Florence Nightingale transmitted its rudiments internationally through nursing (before medicine co-opted nursing). John Tilden innovated and buoyed hygiene after the untimely death of Trall. Herbert Shelton revived and systematized it for the 20th century. He formalized it as "Natural Hygiene" to strike the imagination and distinguish it from narrow medical usage.
+Hygiene originated in America a generation after the Revolution, in the Age of Enlightenment. Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist and namesake of Graham (whole) flour. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. Mary Gove helped bring hygiene to women of the 19th century, whose increasing independence it matched. Florence Nightingale transmitted its rudiments internationally through nursing (before medicine co-opted nursing). John Tilden buoyed and innovated in hygiene after the untimely death of Trall. Herbert Shelton revived and systematized it for the 20th century. He formalized it as "Natural Hygiene" to strike the imagination and distinguish it from narrow medical usage.
 
-Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health of the 19th century. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
+Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health then. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution, nearly destroying hygiene. Medicine covered its tracks by using hygiene's mistaken emphasis on toxemia to reduce hygiene to the idea of cleanliness. Thus few know the real story.
 
 Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet several times a day with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding self-healing power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
 
@@ -103,7 +110,7 @@ One of hygiene's most striking insights regards disease. In disease, the symptom
 
 Loss of appetite conserves energy from the immense effort of digestion. Pain, nausea, weakness, and exhaustion immobilize the organism, enabling all vital force to be used for healing. Every one of these is a biological virtue. None should be feared or suppressed. All should be viewed as vital victories to be trusted, observed---to continue correcting poor conditions---and supported, not fought. All occur in the most efficient possible way for the purpose of restoring health. Disease is our friend.
 
-In the relationship between food and nerve energy lies another example of vital relations. Food does not actually give energy to the body directly. Food takes nerve, chemical, and muscular energy to eat and digest. Otherwise, we could just eat to restore our vigor, even when sleepy. Food provides sugar, which refuels everything from large muscle movement to thinking to cell operation. Some of this refueling can occur within seconds of eating easily digested food like fruit. But the body only transforms sugar into reserve electrical potential of the nerves during sleep. It only eliminates toxins from tissues and repairs them completely while they are unused. 
+In the relationship between food and nerve energy lies another example of vital relations. Food does not actually give energy to the body directly. Food takes nerve, chemical, and muscular energy to eat and digest. Otherwise, we could just eat to restore our vigor, even when sleepy. Food provides sugar, which refuels everything from large muscle movement to thinking to cell operation. Some of this refueling can occur within seconds of eating easily digested food like fruit. But the body only transforms sugar into reserve electrical potential of the nerves during sleep. It only repair and eliminates toxins from tissues completely while they are unused. 
 
 So again we see that no external force has power to act for life, only life itself. Life is the doer. Hygiene helps us redirect to the _autonomic self_ the vast attention paid in our lifeway to the volitional self. Volition plays a critical yet small part in the whole process of life. Now, hygiene can offer darkness as a means of caring for the autonomic self in its primary system.
 
