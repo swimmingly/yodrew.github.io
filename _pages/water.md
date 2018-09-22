@@ -6,9 +6,9 @@ navprev: darkness
 navnext: faq
 ---
 
-If you have a bathroom and kitchen you can easily darken or use with a blindfold, great. 
 
-For short retreats in buildings without plumbing, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
+
+If you have a bathroom and kitchen you can easily darken and get to, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
 
 #### sink
 
@@ -43,11 +43,11 @@ It's a 20L bucket with a toilet seat on top. No kidding.
     - let it sit for a year before use
     - cover with dirt and plenty of carbonaceous material
 - replace toilet paper with water to ensure cleanliness and prevent abrasion and infection
-    - fill a .75L soda bottle with water
+    - fill a plastic soda bottle with water
     - loosen the lid slightly
-    - hold upside down, lid against lower back
-    - squeeze to get a small stream of water that runs straight down
-    - wash anus with wetted fingers of other hand
+    - hold upside down, with lid against lower back
+    - squeeze to get a small stream of water that runs straight down crack over anus
+    - wet fingers of other hand  in stream and wash anus
 
 ##### upgrade
 
@@ -58,6 +58,8 @@ Dimensions: 35cmH x 60W x 60D
 [![plan: toilet top](/img/plan/image/toilet-top.png)](/img/plan/toilet-top.pdf)  
 [![plan: toilet frame](/img/plan/image/toilet-frame.png)](/img/plan/toilet-frame.pdf)  
 [![plan: toilet liner](/img/plan/image/toilet-liner.png)](/img/plan/toilet-liner.pdf)  
+
+&nbsp;
 
 - top
     - platform made of 15--20 tongue and groove boards or 12--20 plywood
@@ -122,7 +124,7 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See  
 [*introduction > open-source*](/introduction#open-source).
 
-That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
+Thank you for reading my book. I hope it helps you feel joy.
 
 
 

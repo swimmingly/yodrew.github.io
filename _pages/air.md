@@ -97,9 +97,11 @@ Here are further design constraints, photos, plans, and instructions for making 
 [![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
 [![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)  
 
+&nbsp;
+
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
-The helix vent can go anywhere. Flaps of either its edge or face opening poke through a slot and get taped or glued down. 
+The helix vent can go anywhere. Flaps of either its edge or face opening poke through a slot and get taped or glued down to the other side. 
 
  - window: attach it to the back of a blind and crack the window behind it. 
  - door: cut slot(s) in it and use helix vent instead of a threshold vent. 
@@ -167,6 +169,8 @@ Block light that reaches the door from the outside as much as possible. For exam
 [![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)  
 [![plan: threshold vent](/img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
 
+&nbsp;
+
 1. materials
     - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
     - muslin fabric, black
@@ -225,6 +229,8 @@ Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions
 
 [![plan: silencer](/img/plan/image/silencer.png)](/img/plan/silencer.pdf)
 
+&nbsp;
+
 The plan is straightforward. It is just a wooden box with two baffles (internal half walls). The resulting zig-zag channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations.
 
 The box is lined with porous non-toxic insulation. Pillow filling, quilt batting, cellulose, clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. I feel hesitant to use acoustic foam because I don't know what chemicals are in it. Fiberglass and rockwool are unpleasant to work with and fiberglass often smells of chemicals. Closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, is not porous so will not work.
@@ -257,6 +263,8 @@ More about an [ideal fan](#fan-idea), below.
 ##### fan mount
 
 [![plan: fan mount](/img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)  
+
+&nbsp;
 
 This mounting design totally dampens vibration from the fan. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 

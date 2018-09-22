@@ -11,13 +11,13 @@ navnext: air
 
 &nbsp;
 
-Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom. Since darkrooms are uncommon, these last four chapters explain how to build darkrooms inside existing buildings. 
+Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom. Since darkrooms are uncommon, these last four chapters explain how to build darkrooms, usually inside existing buildings. 
 
 This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.
 
-A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. Not too much, but a reasonable degree.
+A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. 
 
-These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Consider your time has come.
+These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
 I suggest that, your first time through these chapters, you read everything in this one but just the prose parts of the last three. Save the lists of instructions for when it comes time to build. They make dense reading. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me.
 
