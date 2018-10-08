@@ -6,8 +6,6 @@ navprev: darkness
 navnext: faq
 ---
 
-
-
 If you have a bathroom and kitchen you can easily darken and get to, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
 
 #### sink
