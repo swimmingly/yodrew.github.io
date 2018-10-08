@@ -149,9 +149,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="104.2992"
-     inkscape:cy="391.29834"
+     inkscape:zoom="0.5"
+     inkscape:cx="1147.5715"
+     inkscape:cy="317.36636"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -169,7 +169,7 @@
      fit-margin-bottom="0"
      inkscape:measure-start="2606,878"
      inkscape:measure-end="2822.08,956.24"
-     showborder="false"
+     showborder="true"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid

@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-assembly-s.svg"
-   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-assembly.png"
+   sodipodi:docname="helix-vent-sr-assembly.svg"
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-sr-assembly.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72">
   <defs
@@ -134,8 +134,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="56.958155"
-     inkscape:cy="370.95987"
+     inkscape:cx="348.95816"
+     inkscape:cy="338.95987"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -388,39 +388,41 @@
          style="font-size:5.64444447px;stroke-width:0.26458332">outer wall</tspan></text>
     <text
        id="text56"
-       y="251.55722"
-       x="855.92963"
+       y="246.55722"
+       x="877.92963"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38665676px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222141"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="48.002972"
+       inkscape:export-ydpi="48.002972"><tspan
          style="font-style:normal;font-weight:bold;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
          id="tspan42"
-         y="251.55722"
-         x="855.92963"
-         sodipodi:role="line">helix vent for silencer assembly </tspan><tspan
+         y="246.55722"
+         x="877.92963"
+         sodipodi:role="line">helix vent sr assembly </tspan><tspan
          style="font-style:normal;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
-         y="258.61276"
-         x="855.92963"
+         y="253.61278"
+         x="877.92963"
          sodipodi:role="line"
          id="tspan109">107 x 188</tspan><tspan
          style="font-style:normal;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
-         y="261.02792"
-         x="855.92963"
+         y="256.02792"
+         x="877.92963"
          sodipodi:role="line"
          id="tspan126" /><tspan
          style="font-style:normal;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
-         y="265.66833"
-         x="855.92963"
+         y="260.66833"
+         x="877.92963"
          sodipodi:role="line"
-         id="tspan5060">paper core 87 x 148 x 261</tspan><tspan
+         id="tspan5060">paper core 87 x 148 x 260</tspan><tspan
          id="tspan48"
          style="font-style:italic;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
-         y="272.72388"
-         x="855.92963"
+         y="267.72388"
+         x="877.92963"
          sodipodi:role="line">paper, cardboard, fleece</tspan><tspan
          id="tspan54"
          style="font-style:normal;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
-         y="275.13904"
-         x="855.92963"
+         y="270.13904"
+         x="877.92963"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"

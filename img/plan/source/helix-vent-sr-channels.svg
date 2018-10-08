@@ -15,8 +15,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-channels-s.svg"
-   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-channels.png"
+   sodipodi:docname="helix-vent-sr-channels.svg"
+   inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-sr-channels.png"
    inkscape:export-xdpi="48.007206"
    inkscape:export-ydpi="48.007206">
   <defs
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,14 +113,14 @@
     <text
        id="text415"
        y="-85.883644"
-       x="197.7168"
+       x="190.7168"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222188"
        xml:space="preserve"><tspan
          id="tspan413"
          style="font-style:normal;font-weight:bold;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222188"
          y="-85.883644"
-         x="197.7168"
-         sodipodi:role="line">inner channel</tspan></text>
+         x="190.7168"
+         sodipodi:role="line">outer channel sr</tspan></text>
     <path
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
@@ -233,7 +233,7 @@
          id="tspan601"
          y="143.97264"
          x="362.34912"
-         sodipodi:role="line">middle channel</tspan><tspan
+         sodipodi:role="line">middle channel sr</tspan><tspan
          id="tspan603"
          style="font-style:italic;font-weight:normal;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222188"
          y="159.84764"
@@ -565,7 +565,7 @@
          x="360.27289"
          y="-84.859016"
          style="font-style:normal;font-weight:bold;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222188"
-         id="tspan712">middle channel</tspan></text>
+         id="tspan712">middle channel sr</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.40004951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 298.24643,11.396618 h 209.9999 V -262.60349 l -209.9999,1.9e-4 z"
@@ -737,37 +737,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222188"
-       x="327.90576"
-       y="-199.52844"
+       x="145.43024"
+       y="-208.75473"
        id="text5435"><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-199.52844"
+         x="145.43024"
+         y="-208.75473"
          id="tspan14819"
-         style="font-style:normal;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">CHANNELS, SHELL SEALS</tspan><tspan
+         style="font-style:normal;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">CHANNELS SR</tspan><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-185.41733"
+         x="145.43024"
+         y="-194.64362"
          id="tspan7488"
          style="font-style:italic;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">paper</tspan><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-171.30621"
+         x="145.43024"
+         y="-180.5325"
          id="tspan7486"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">black, acid-free bond</tspan><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-157.19511"
+         x="145.43024"
+         y="-166.4214"
          id="tspan7494"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">160-220gsm</tspan><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-143.084"
+         x="145.43024"
+         y="-152.31029"
          id="tspan9903"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">430 x 588</tspan><tspan
          sodipodi:role="line"
-         x="327.90576"
-         y="-136.34761"
+         x="145.43024"
+         y="-145.5739"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188"
          id="tspan193" /></text>
     <path
@@ -833,16 +833,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222191"
-       x="198.74194"
+       x="190.74194"
        y="143.60155"
        id="text2718"><tspan
          sodipodi:role="line"
-         x="198.74194"
+         x="190.74194"
          y="143.60155"
          id="tspan2714"
-         style="font-weight:bold;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222191">outer channel</tspan><tspan
+         style="font-weight:bold;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222191">inner channel sr</tspan><tspan
          sodipodi:role="line"
-         x="198.74194"
+         x="190.74194"
          y="159.47655"
          style="font-style:italic;font-weight:normal;font-size:12.69999981px;line-height:1.25;stroke-width:0.28222191"
          id="tspan2716">249 x 220</tspan></text>
