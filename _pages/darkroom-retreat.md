@@ -195,9 +195,10 @@ Please note that just because the frugivorous diet consists of all raw food does
 
 Since one can do nothing directly in a retreat to cause healing, preparing for it consists of providing its simple conditions:
 
+- read the rest of this book
+	- learn the idea of the hygienic (passive) attitude toward healing. No need to believe it before seeing its truth for yourself in darkness.
+	- assimilate my discoveries and avoid my many errors
 - [*design*](/design) and [*make*](/make) a darkroom (1-30 days) 
-- learn the idea of the hygienic (passive) attitude toward healing. No need to believe before seeing for yourself.
-- assimilate my discoveries and avoid my many errors by reading the rest of this book
 - learn enough about eating frugivorously to feel satisfied (1 month to read and apply Graham's book)
 - schedule a retreat, arrange support, and obtain food
 

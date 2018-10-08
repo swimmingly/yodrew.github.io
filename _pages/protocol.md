@@ -110,19 +110,27 @@ Here are ways to conserve energy for healing:
 
 ##### support
 
-My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. 
+Support should be passive. This means
 
-Then a client wanted to communicate with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted mechanical support.
+My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. I, then my clients generally liked having such active support for our first retreats. We found it reassuring to say a few words to someone each day. 
 
-I liked this a lot. It eased my worries and helped me trust in life more. I started thinking of myself as a supporter. I later retreated without support and much preferred the solitude and lack of interruption
+For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. Then a client wanted to communicate with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted logistical support and the passive psychic support of my simply being around.
 
-I and my clients generally liked having a supporter for our first retreats. We found it reassuring to say a few words to someone each day. But then, none of us had this book! You only need someone to bring you food if you retreat longer than four days; with good planning, maybe you could go eight. It's common sense to have a fully charged cellphone or walkie-talkie and someone nearby to call in case of emergency. This is a minimal level of support. If you have an active supporter, here are the conditions:
+I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. I later tried retreating without support and much preferred the solitude and lack of interruption.
 
-- duties and qualifications. A supporter:
+However, that was only a 4-day retreat, and I was in a small village of friends. For 8-day retreats, I have found that having someone nearby, on call, is critical. A retreatant is in a kind of womb. Supporters are like parents. They go about their regular lives, but remain available and create constant psychic shielding for the retreatant. Weird forces exist in the world. We need to rest from them, too. A little team of supporters makes this possible.
+
+A retreatant can get a supporter's attention from inside the darkroom with an operable flag or a bell at the end of a cord. A fully charged cellphone or walkie-talkie works in case of emergency.
+
+Here are the attributes of good support:
+
+- supporter's duties and qualifications:
     - has read this book, understanding the basic ideas of hygiene; expertise is not required
+    - has retreated or will soon. No neutral or tacitly negative supporters!
     - is reliable; and has a modicum of common sense
     - brings food and checks for notes or says hello according to an agreed schedule (noon works well). Saying hello can happen once a day, once in the middle of the retreat, or not at all
-    - has retreated or will soon. No neutral or tacitly negative supporters!
+    - stays nearby and keeps the retreatant in the back of his mind while going about daily life. 
+    - has back-up support, at least one other person.
 - design
     - a supporter can deliver food and talk to the retreatant in a normal voice without opening the darkroom's door
     - a supporter can enter the darkroom without letting in light. Or, the retreatant covers her eyes till the door is shut again
@@ -294,7 +302,9 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 ##### post-retreat
 
-The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks.
+The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
+
+> __CAUTION__: Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. Storms are endurable. Hell may not be. 
 
 For about a week after your retreat, plan only usual things: job, school, family. This most quickly returns you to functional stability, minimizes exposure to disturbance, and maximizes your chance of absorbing the value of the retreat. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 

@@ -25,7 +25,7 @@ Vinay Gupta's 3-hour, $200, portable pop-up shelter + autonomous infrastructure
 [Superadobe](http://www.calearth.org/) (weeks)  
 Nadir Khalili's giant upside down coil pot shelters elegantly made from war materials
 
-[Straw Bale Dome](http://andrewdurham.shutterfly.com/355) (weeks)  
+[Straw Bale Dome](http://andrewdurham.shutterfly.com/355#355) (weeks)  
 my design for a frameless, superinsulated, catenary, corbelled, _cheap_ shelter, based on superadobe
 
 [Cardboard Geodesic Dome](http://www.cccoe.net/stars/) (days)  
