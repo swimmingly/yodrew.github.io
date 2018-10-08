@@ -76,12 +76,12 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### constraints
 
-(helix vent specifications in parentheses){threshold vent specifications in curly braces}:
+(helix vent specifications in parentheses / helix sr version){threshold vent specifications in curly braces}:
 
 - durable (protective cardboard shell or inside silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
 - cross-sectional area >75cm<sup>2</sup> (90cm<sup>2</sup>){60--120cm<sup>2</sup>}
-- fully traps light, sending light around at least 5 corners (7 corners){6 corners} 
+- fully traps light, sending light around at least 5 corners (7 corners / 5 corners){6 corners} 
 - short airway (240mm / in-silencer version, 160){140mm} 
 - minimal size (87 x 220 x 216 / in-silencer version 87 x 148 x 260){fits under door, sticks out 20mm each side and up 60mm}
 - easy to make (so-so){yes}
@@ -109,7 +109,11 @@ The helix vent can go anywhere. Flaps of either its edge or face opening poke th
 - wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
 - silencer
     - outside: with shell, attached at face opening
-    - inside: without shell, attached at face or edge. Also, in the [zip file](/darkroom-retreat.zip), find a simplified, more efficient "sr" version with higher capacity that attaches at the edge.
+    - inside: without shell, attached at face or edge. I also made a second "sr" version. It is simpler, more efficient, higher capacity that attaches at the edge. It has fewer light stopping corners and no shell, so it is only for installing inside the silencer or other enclosure with two or more corners.
+
+[![plan: helix vent sr, assembly](/img/plan/image/helix-vent-sr-assembly.png)](/img/plan/helix-vent-sr-assembly.pdf)
+
+Find channel and wall drawings in the [zip file](/darkroom-retreat.zip)
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
