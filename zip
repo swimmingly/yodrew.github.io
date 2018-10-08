@@ -1,0 +1,14 @@
+#!/bin/bash
+# from ~/Dropbox/write/darkness/darkroomretreat
+
+# collect images
+cd img
+rsync -auv book-cover.png ../../darkroom-retreat/
+rsync -auv photo/*.jpg ../../darkroom-retreat/photo
+# rsync -auv photo/book/*.jpg ../../darkroomretreat/manuscript/images
+rsync -auv plan/*.pdf ../../darkroom-retreat/plan
+rsync -auv plan/source/*.svg ../../darkroom-retreat/plan/source
+cd ../
+zip -r darkroom-retreat ../darkroom-retreat/
+echo -zip done
+

@@ -197,14 +197,14 @@ Chapters are mostly practical with a dose of theory to start with.
 1. hygiene: the general theory underlying the restful use of darkness
 2. darkroom retreat: the inner workings of profound rest
 3. psychology: the further radicalization of hygiene 
-2. format: ways to use darkness in retreats and daily life
-3. protocol: what to do in a retreat
-4. prepare: orientation, menu, packing list
-5. design: darkroom specifications
-6. make: general descriptions, plans, and instructions for building darkrooms
-7. air: ventilating, silencing, and heating a darkroom
-8. darkness: refined darkening techniques
-9. water: simple kitchens and bathrooms for darkrooms
+4. format: ways to use darkness in retreats and daily life
+5. protocol: what to do in a retreat
+6. prepare: orientation, menu, packing list
+7. design: darkroom specifications
+8. make: general descriptions, plans, and instructions for building darkrooms
+9. air: ventilating, silencing, and heating a darkroom
+10. darkness: refined darkening techniques
+11. water: simple kitchens and bathrooms for darkrooms
 
 Then:
 
