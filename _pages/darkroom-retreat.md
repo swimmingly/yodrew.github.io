@@ -198,9 +198,11 @@ Since one can do nothing directly in a retreat to cause healing, preparing for i
 - read the rest of this book
 	- learn the idea of the hygienic (passive) attitude toward healing. No need to believe it before seeing its truth for yourself in darkness.
 	- assimilate my discoveries and avoid my many errors
-- [*design*](/design) and [*make*](/make) a darkroom (1-30 days) 
+- [*design*](/design) and [*make*](/make) a darkroom (1 month) 
 - learn enough about eating frugivorously to feel satisfied (1 month to read and apply Graham's book)
-- schedule a retreat, arrange support, and obtain food
+- schedule a retreat
+- arrange support. This is important for mechanical and psychical reasons. See [*protocol > support*](/protocol#support)
+- obtain food
 
 Deeper preparation than that is made the same way you prepare for weeks in traction in a hospital bed following a disastrous car crash. Ie, it is too late. You are already prepared.
 
