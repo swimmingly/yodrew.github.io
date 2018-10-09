@@ -155,9 +155,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1979899"
-     inkscape:cx="1878.6434"
-     inkscape:cy="1065.9195"
+     inkscape:zoom="0.14"
+     inkscape:cx="2067.6118"
+     inkscape:cy="2289.9726"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -342,16 +342,16 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <text
        id="text5003"
-       y="-416.42429"
+       y="-424.42429"
        x="44.471954"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-416.42429"
+         y="-424.42429"
          x="44.471954"
          sodipodi:role="line"
          style="font-size:19.7555542px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
          id="tspan3100">hole</tspan><tspan
-         y="-408.32913"
+         y="-416.32913"
          x="44.471954"
          sodipodi:role="line"
          style="font-size:19.7555542px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
@@ -433,17 +433,17 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="193.35959"
-       y="521.52124"
+       y="535.52124"
        id="text4001"><tspan
          id="tspan3999"
          style="font-size:19.7555542px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
          sodipodi:role="line"
          x="193.35959"
-         y="521.52124">hole</tspan><tspan
+         y="535.52124">hole</tspan><tspan
          style="font-size:19.7555542px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
          sodipodi:role="line"
          x="193.35959"
-         y="529.61639"
+         y="543.61639"
          id="tspan184" /></text>
     <text
        xml:space="preserve"
