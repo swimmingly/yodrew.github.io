@@ -14,7 +14,7 @@ We are exhausted. We need rest.
 
 We are hurt and sick. We need recovery.
 
-We struggle and suffer in our souls. We need peace and joy.
+And in our souls, we struggle and suffer. We need peace and joy.
 
 How? By _hygienic darkroom retreating:_ profound psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
