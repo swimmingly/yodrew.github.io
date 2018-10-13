@@ -10,7 +10,7 @@ navnext: about/bibliography-influences
 
 - _Where can I go to retreat?_
  
-If you can, I recommend making darkness happen first in your own home for sleeping, then for short retreats (up to 8 days). Once you've learned the ropes, make another darkroom in the countryside or go to a public darkroom for a medium retreat (3-8 weeks). There are 50 of them worldwide and counting. Most are spiritual and therapeutic centers. I think most will support hygienic retreats if you insist and know what you are doing. A private cabin is needed for a long retreat (3-12 months).
+If you can, I recommend making darkness happen first in your own home for sleeping, then for a 4-day retreat, maybe 8. Once you've learned the ropes, make another darkroom in the countryside or go to a public darkroom for a medium retreat (3-8 weeks). There are 50 of them worldwide and counting. Most are spiritual and therapeutic centers. I think most will support hygienic retreats if you ask and know what you are doing.
 
 - _Do you eat in a retreat?_
 
@@ -24,7 +24,7 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
     Very slowly. And after becoming familiar with the room and making memorable places for your belongings before turning out the lights.
 
-- _Couldn't you just retreat with a sleeping mask?_
+- _Could you just retreat with a sleeping mask?_
 
     No. The skin has enough light receptors to awaken you from sleep. Masks do not stay in place, so they leak light. They are not comfortable for extended use. And you still need a properly ventilated room, minimally furnished to eliminate dangers, distractions, and associations. 
 	
@@ -32,9 +32,7 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
 - _Is it like meditation?_
 
-    It seems that way, but no.
-
-    On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself. But what goes on inside oneself radically differs. 
+    In essence, no. On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself. But what goes on inside oneself radically differs. 
 
 	Meditation is active, ie, the will drives the process. Willed activity is the primary process that goes on. The purpose of meditation is to make the unconscious conscious, or to compel the conscious to submit to the unconscious. It is a quiet internal war. 
 
@@ -46,7 +44,7 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
 - _Wouldn't you go crazy staying in darkness that long?_
 
-    No. You would only go crazy in darkness from being _forced_ or trapped there, as in prison or a mining accident. A retreat is a choice based on reason, and the door is always unlocked.
+    No. You would only go crazy in darkness from being _forced_ or trapped there, as in prison or a mining accident. A retreat is a choice based on reason. The door is always unlocked. Supporters are at hand. The room is comfortable.
 
 - _Do you get bored?_
 
@@ -54,13 +52,11 @@ If you can, I recommend making darkness happen first in your own home for sleepi
     
 - _Four days is a long time to do nothing._
 
-	You may not remember, but you are incredibly interesting. You will rediscover this when you finally have enough time in the right place to do next to nothing. Four days will quickly seem too short. 
+	You may not remember, but you are incredibly interesting. You will rediscover this when you finally have enough time in the right place to do next to nothing. 	Everyone is a little worried about this at first. After days of delicious sleep, few wish to leave after so little time.
 
-	Everyone is a little worried about this at first. After days of delicious sleep, few wish to leave after so little time.
-
-    Something tells me you've never tried it due to prejudice. I mean that civilization has taught us all that will is the only useful driver of activity in the being. This is absurd. Without autonomic activity, we would be poisoned to death by our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that, when it comes to restoring psychic integrity (every animal's greatest value), the will is helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
+    Something tells me you've never tried it due to prejudice. I mean that civilization has taught us all that will is the only useful driver of activity in the being. But without autonomic activity, we would be poisoned to death by our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that when it comes to restoring psychic integrity (every animal's greatest value), the will is helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
     
-    If you mean it sounds pointless or dreadful, in fact a retreat usually begins with a sense of relief. Discomfort may come. But then you make contact with your autonomic self again, and this is extremely meaningful and enjoyable. Generally, people find that four days of sinking deeply into themselves is way too short. It sounds like you would be surprised to discover how interesting you are.
+    If you mean it sounds pointless or dreadful, in fact a retreat usually begins with a sense of relief. Discomfort may come. But then you make contact with your autonomic self again, and this is extremely meaningful and enjoyable. 
 
 #### objections
 
@@ -82,10 +78,10 @@ If you can, I recommend making darkness happen first in your own home for sleepi
     
 	This would mean that:
     
-    - the deep healing necessary can occur without profound rest
+    - the deep healing necessary in cases of major trauma can occur without profound rest
     - profound rest can occur in semi-darkness and other compromised conditions
     - or psychic trauma is not the primary cause of metaphysical suffering
 	- or the human organism has no specific needs for recovering from such pain, despite its specific---and universal---need of rest for recovery in all other cases. As well as its specific need of air for breathing, light for seeing, food for eating, etc.
     - the many other ways alluded to all make sense and work
  
-    The facts say otherwise, so naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
+    The evidence indicates otherwise. Relativism makes fashionable philosophy but poor physiology.
