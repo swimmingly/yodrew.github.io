@@ -266,8 +266,5 @@ These instructions apply to all components, or as indicated. Read special instru
     		- to diameter indicated in plan
         	- use a pointed dowel of appropriate diameter
         	- spin it with your fingers or a power drill as you gently push it into hole
-	5. voila
-	
-~~
 
-Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.
+Voila. Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.

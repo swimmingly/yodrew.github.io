@@ -6,7 +6,9 @@ navprev: preface
 navnext: hygiene
 ---
 
-In our cities and economies, we are over-stimulated and distressed. We need relief.
+#### relief, rest, recovery
+
+In our way of life---our media blitz, cities, and economy---we are over-stimulated and distressed. We need relief.
 
 We are exhausted. We need rest.
 
@@ -73,7 +75,7 @@ A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room 
 
 Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 
-Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More about this in the [*design*](/design) chapter
+Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [*design*](/design).
 
 #### background
 
