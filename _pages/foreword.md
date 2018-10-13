@@ -8,7 +8,7 @@ navnext: preface
 
 This book comes out of a long investigation into the cause of joy. 
 
-At 15, great joy spontaneously overcame me. It felt normal. It eclipsed my other concerns. When it disappeared after three heavenly months, I felt gripped by the need to solve its mystery.
+At 15, great joy spontaneously overcame me. It felt normal. It disappeared after three heavenly months. I felt gripped by the need to solve its mystery. It eclipsed my other concerns.
 
 After 21 years of investigation, I did. I discovered the way nature provides us to heal from major trauma, joy's destroyer. Four years of testing followed, then four more of refinement and documentation.
 
