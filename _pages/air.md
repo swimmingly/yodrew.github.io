@@ -92,7 +92,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)  
 
-This photo is of the old helix vent. The new one is shorter, narrower, thicker, but otherwise the same.
+This photo is of the old helix vent. The new one is shorter, narrower, thicker. At the edge opening, the cardboard has a lip and the core has flaps.
 
 [![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
 [![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
