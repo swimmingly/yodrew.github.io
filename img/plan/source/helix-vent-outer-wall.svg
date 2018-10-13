@@ -226,12 +226,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.44863271"
      inkscape:cx="563.61895"
-     inkscape:cy="765.91165"
+     inkscape:cy="1060.139"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="743"
+     inkscape:window-height="745"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -259,7 +259,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -304,7 +304,7 @@
          x="-495.55054"
          y="-78.988464"
          id="tspan7819"
-         style="font-style:normal;font-weight:bold;font-size:7.90219831px;line-height:1;stroke-width:0.28222141">outer wall</tspan><tspan
+         style="font-style:normal;font-weight:bold;font-size:7.90219831px;line-height:1;stroke-width:0.28222141">helix vent outer wall</tspan><tspan
          sodipodi:role="line"
          x="-495.55054"
          y="-71.086266"

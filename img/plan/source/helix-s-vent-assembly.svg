@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-sr-assembly.svg"
+   sodipodi:docname="helix-s-vent-assembly.svg"
    inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-sr-assembly.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72">
@@ -140,7 +140,7 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="743"
+     inkscape:window-height="745"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -398,7 +398,7 @@
          id="tspan42"
          y="246.55722"
          x="877.92963"
-         sodipodi:role="line">helix vent sr assembly </tspan><tspan
+         sodipodi:role="line">helix-s vent assembly </tspan><tspan
          style="font-style:normal;font-size:7.05555534px;line-height:1;stroke-width:0.28222141"
          y="253.61278"
          x="877.92963"

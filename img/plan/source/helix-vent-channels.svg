@@ -43,7 +43,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="743"
+     inkscape:window-height="745"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -961,30 +961,35 @@
          x="337.13208"
          y="-84.673576"
          id="tspan14819"
-         style="font-style:normal;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">CHANNELS, SHELL SEALS</tspan><tspan
+         style="font-style:normal;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">HELIX VENT </tspan><tspan
          sodipodi:role="line"
          x="337.13208"
          y="-70.562469"
+         style="font-style:normal;font-size:14.11111069px;line-height:1;stroke-width:0.28222188"
+         id="tspan384">CHANNELS, SHELL SEALS</tspan><tspan
+         sodipodi:role="line"
+         x="337.13208"
+         y="-56.451355"
          id="tspan7488"
          style="font-style:italic;font-size:14.11111069px;line-height:1;stroke-width:0.28222188">paper</tspan><tspan
          sodipodi:role="line"
          x="337.13208"
-         y="-56.451355"
+         y="-42.340244"
          id="tspan7486"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">black, acid-free bond</tspan><tspan
          sodipodi:role="line"
          x="337.13208"
-         y="-42.340244"
+         y="-28.229134"
          id="tspan7494"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">160-220gsm</tspan><tspan
          sodipodi:role="line"
          x="337.13208"
-         y="-28.229134"
+         y="-14.118023"
          id="tspan9903"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188">498 x 637</tspan><tspan
          sodipodi:role="line"
          x="337.13208"
-         y="-21.492741"
+         y="-7.3816299"
          style="font-size:14.11111069px;line-height:1;stroke-width:0.28222188"
          id="tspan193" /></text>
     <path

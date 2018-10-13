@@ -7,7 +7,7 @@ navnext: air
 ---
 
 > "The time for half-measures and talk is over."  
---Maximus in _Gladiator_
+ -- Maximus in _Gladiator_
 
 &nbsp;
 
@@ -23,9 +23,9 @@ I suggest that, your first time through these chapters, you read everything in t
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
-[7&nbsp; air](/air)  
-[8&nbsp; darkness](/darkness)  
-[9&nbsp; water](/water)  
+>> [9&nbsp; air](/air)  
+[10&nbsp; darkness](/darkness)  
+[11&nbsp; water](/water)  
 
 After improvising darkness to sleep in [*tonight*](/format#tonight), the [*instant sleeping mask*](/darkness#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
 

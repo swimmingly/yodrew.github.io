@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="helix-vent-sr-outer-wall.svg"
+   sodipodi:docname="helix-s-vent-outer-wall.svg"
    inkscape:export-filename="/home/hill/Dropbox/write/darkness/yodrew.github.io/img/plan/source/helix-vent-sr-outer-wall.png"
    inkscape:export-xdpi="48.002972"
    inkscape:export-ydpi="48.002972">
@@ -239,7 +239,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="743"
+     inkscape:window-height="745"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -268,7 +268,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -312,13 +312,15 @@
          sodipodi:role="line"
          x="-499.55054"
          y="-114.98846"
-         id="tspan7819"
-         style="font-style:normal;font-weight:bold;font-size:7.90219831px;line-height:1;stroke-width:0.28222141">outer wall sr</tspan><tspan
+         id="tspan5680"
+         style="font-style:normal;font-size:7.90219831px;line-height:1;stroke-width:0.28222141"><tspan
+   id="tspan339"
+   style="font-style:normal;font-weight:bold;font-size:7.90219831px;line-height:1;stroke-width:0.28222141">helix-s vent outer wall </tspan></tspan><tspan
          sodipodi:role="line"
          x="-499.55054"
          y="-107.08626"
-         id="tspan5680"
-         style="font-style:normal;font-size:7.90219831px;line-height:1;stroke-width:0.28222141">435 x 222</tspan><tspan
+         style="font-style:normal;font-size:7.90219831px;line-height:1;stroke-width:0.28222141"
+         id="tspan341">435 x 222</tspan><tspan
          sodipodi:role="line"
          x="-499.55054"
          y="-99.184059"

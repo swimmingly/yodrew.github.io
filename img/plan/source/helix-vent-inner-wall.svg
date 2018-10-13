@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="213.40004mm"
-   height="317.40012mm"
-   viewBox="0 0 213.40004 317.40011"
+   height="312.40012mm"
+   viewBox="0 0 213.40004 312.40011"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.34103623"
      inkscape:cx="420.87761"
-     inkscape:cy="821.46849"
+     inkscape:cy="821.46848"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,12 +46,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid29"
-       originx="-3.6839796e-07"
-       originy="0" />
+       originx="-5.3031908e-07"
+       originy="-3.6194249e-06" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(340.26815,-254.38296)">
+     transform="translate(340.26815,-259.38296)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:-0.26458332px;word-spacing:-0.52916664px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222132"
@@ -99,31 +99,31 @@
     <text
        id="text5719"
        y="350.30426"
-       x="-308.79501"
+       x="-303.79501"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38665557px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222132"
        xml:space="preserve"><tspan
          style="font-style:normal;font-weight:bold;font-size:7.90219641px;line-height:1;stroke-width:0.28222132"
          id="tspan5721"
          y="350.30426"
-         x="-308.79501"
-         sodipodi:role="line">inner wall</tspan><tspan
+         x="-303.79501"
+         sodipodi:role="line">helix vent inner wall</tspan><tspan
          y="358.20645"
-         x="-308.79501"
+         x="-303.79501"
          sodipodi:role="line"
          id="tspan7094"
          style="font-style:normal;font-size:7.90219641px;line-height:1;stroke-width:0.28222132">312 x 213mm</tspan><tspan
          y="366.10864"
-         x="-308.79501"
+         x="-303.79501"
          sodipodi:role="line"
          id="tspan7103"
          style="font-style:italic;font-size:7.90219641px;line-height:1;stroke-width:0.28222132">paper</tspan><tspan
          y="374.01086"
-         x="-308.79501"
+         x="-303.79501"
          sodipodi:role="line"
          id="tspan7123"
          style="font-style:normal;font-size:7.90219641px;line-height:1;stroke-width:0.28222132">black, acid-free bond</tspan><tspan
          y="381.91306"
-         x="-308.79501"
+         x="-303.79501"
          sodipodi:role="line"
          id="tspan7127"
          style="font-size:7.90219641px;line-height:1;stroke-width:0.28222132">160-300gsm</tspan></text>
