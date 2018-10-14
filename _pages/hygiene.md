@@ -181,7 +181,7 @@ Sixteen laws is too great a number for the mind to apprehend at once. So over ti
 
 ~~
 
-This is the theory of hygiene as regards our subject. Let us see more precisely what it means in practice.
+This is the general theory of hygiene. Let us see more precisely what it means as regards our subject.
 
 &nbsp;
 
