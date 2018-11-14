@@ -18,7 +18,7 @@ Below, I will give design constraints and describe various systems of ventilatio
 
 I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of constant fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for other appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
 
-Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, pentillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
+Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, quintillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
 
 Just like food, air becomes a part of one's organism with every breath. This affects quality of life to a very great degree. Though it weighs little, the amount of air you breathe weighs twice as much as the food you eat. In a darkroom, you have little to do all day besides breathe. So if you haven't usually paid attention to air quality, you will likely notice it in darkness. 
 

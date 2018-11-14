@@ -73,7 +73,7 @@ Each of you gave me the world.
     - All my clients in Guatemala: for exploring darkness with me
 - Europe
     - Kostas: fast friend, host, and shepherd from Greece to Northern Europe
-    - David Friman and Erika , for darkroom design test space
+    - David Friman and Erika Hedstrom, for darkroom design test space
     - Oscar, Limme, and Max at Kulturforeningen Gryning of Helsingborg: friends and supporters. Cheers!
     - Anna Ericksson: supporter and darkness experimenter
     - Sanna Aatig: friend, supporter, host, and nurse in my darkest days

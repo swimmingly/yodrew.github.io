@@ -31,7 +31,7 @@ The doctrine of original sin says life is inherently corrupt and impotent. Accor
 
 This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look another level of causation down in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, germ theory of disease in hand.
 
-The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, and they aren't always present in it. So much for the germ theory. 
+The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, they aren't always present in it, and getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
 On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^1], so this often works better.
 
@@ -53,15 +53,15 @@ We have [Victoria Bidwell](http://getwellstaywell.com), a tireless contemporary 
 6. Induration: Induration is the result of long-standing, chronic inflammation with bouts of acute inflammation interspersed. The chronic inflammation causes an impairment or sluggishness of circulation: and because some cells succumb, they are replaced with scar tissue. This is the way we lose good, normal-functioning cells — by chronic inflammation and death of cells. Toxins may or may not be encapsulated in a tumor, sac, wen, or polyp. The Toxic Sufferer endures even more physical pain, which is intensified by the emotional distress of realizing that he is only getting worse, regardless of his earnest, obedient, even heroic attempts to get well. Standard medical doctors continue with both drugging and surgery and all other kinds of modalities deemed appropriate, both conventional and experimental. ("Induration" means "hardening" or "scarring" of tissues.)
 7. Fungation (cancer): Cellular integrity is destroyed through their disorganization and/or cancerous proliferation. Tissues, organs, and whole systems lose their ability to function normally. Biochemical and morphological changes from the depositing of Endogenous and Exogenous Toxins bring about degenerations and death at the cellular level. The Toxic Sufferer is "a pathological mess": he is on his deathbed. Standard medical doctors declare at this stage: "There is no hope left. You have just so much longer to live. You need to make preparations accordingly." Failure of vital organs eventually results in death.
 
-##### comments
+##### revision
 
-Tilden's analysis shows the close relationship between enervation and toxemia as the two most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It explains hygiene's success for two centuries in supporting the recovery of countless people whose cases allopathy had pronounced hopeless merely by putting them to bed with plenty of water and fresh air, and not poisoning them with drugs. 
+Tilden's analysis shows the close relationship between enervation and toxemia as two of the most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It explains hygiene's success for two centuries in supporting the recovery of countless people whose cases allopathy had pronounced hopeless merely by putting them to bed with plenty of water and fresh air, and not poisoning them with drugs. 
 
-If afterward, they could quit the ultra-toxins of coffee, tea, tobacco, cut back on activity and stress, increase rest, fast sometimes, move away from polluted areas, learn to eat better, take up exercise, then they would heal. It happens every day without media fanfare.
+If afterward, they could quit the ultra-toxins of coffee, tea, tobacco, cut back on activity and stress, increase rest, fast sometimes, move away from polluted areas, learn to eat better, take up exercise, then they would heal and stay healthy. It continues to happen every day  without media fanfare as millions in each generation discover hygiene.
 
 But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky. The rest find ways to cope with semi-recovery or perish quietly. 
 
-We note the text's emphasis on toxemia: internal uncleanliness. This characterizes both hygiene's Puritanical character and Tilden's focus. It is the box canyon medicine trapped hygiene in by reducing it to cleanliness. Its pathology has had a missing link in trauma, undermining hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They viewed it as unrelated to the more important issue of chronic illness, as mere mechanics best left to surgeons. Hygiene unwittingly lent allopathy mythic power by surrendering to it the imperative of trauma.
+We note the text's emphasis on toxemia: internal uncleanliness. This characterizes both hygiene's Puritanical character and Tilden's focus. It is the box canyon medicine trapped hygiene in by reducing it to cleanliness. Its pathology has had a missing link, undermining hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They viewed it as unrelated to the more important issue of chronic illness, as mere mechanics best left to surgeons. Hygiene unwittingly lent allopathy mythic power by surrendering to it the imperative of trauma.
 
 Most hygienic physicians start as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. With their little swords, doctors acquire the status of gods for engaging the dragon of trauma, the source of all pain, the repository of all power.
 
@@ -77,7 +77,7 @@ Why are these things so deeply buried?
 
 Trauma causes the first four stages of disease immediately. The organism surges into action with the shock and sudden demand for energy, nutrients, circulation, and hormones to manage pain and awareness. Meanwhile, incapacity and malfunction snowball.
 
-Consciousness contracts with trauma. It withdraws from the world and higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia and denial: the inabilities to remember and to admit.
+Consciousness contracts with trauma. It withdraws from the world and higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia, denial, and stupidity, callousness, clumsiness: the inabilities to remember, to admit, to know, to feel, to move.
 
 Many movies have an amnesiac premise, the protagonist is injured, cannot remember his old life, and has a new adventure. Few of us have personal experience of anyone like this. Why do such movies continue to draw crowds? It is because we all suffer a kind of amnesia and recognize ourselves in these stories. 
 
@@ -85,7 +85,9 @@ In fact, our amnesia is called infant or childhood amnesia. Who remembers his bi
 
 Denial is not moral failure. It is unconscious success. Devastating trauma usually occurs in infancy. It overwhelms the fragile structure of an infant's consciousness. Denial locks down basic functions, preventing trauma from shattering psychic integrity. Otherwise it would cause death, as with SIDS---Sudden Infant Death Syndrome. Escaping with autism or blindness, for example, beats dying. Denial is biologically maintained until the psyche heals enough for to bear witness to the horror of what was denied. 
 
-In darkness, damage begins to heal. Denial begins to lift and traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
+Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsiness. Psychic damage causes decreases in thinking, feeling, and moving intelligence. The normal brightness, love, and grace of many children gives way, and we marvel day in and day out at the results in others, even as they marvel at them in us.
+
+In darkness, damage begins to heal. Denial begins to lift and traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. Stupidity and uncoordination lift. The energy to recover strength seeps back in. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
 Gaining confidence in this capacity take a little time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. In a series of [*reports*](/reports), I have recorded my experiences in darkness of beginning to heal from major trauma.
 
@@ -106,7 +108,7 @@ I'm going to list common examples of the plague of polite violence I refer to. O
 - factory food (including unripe harvesting, chemical farming, genetic modification, irradiation) 
 - and finally, the last nail so big it splinters the coffin: _school_. 
 
-The violence of job, military, hospital, the street, and prison go without saying. My point is that things just as bad are happening to people with a thousandth the strength to endure them.
+The violence of job, military, hospital, the street, and prison go without saying. My point is that things just as bad are happening to people with a millionth the capacity to endure them, ie, infants.
 
 Of exactly what brutalized _you_, you may already have some idea. I invite you to find out for sure in darkness, where you have a real chance to recover from it once and for all. Between retreats, the depth psychologists mentioned below can also help provide words for what you are going through.
 
@@ -120,7 +122,7 @@ Lastly, unconscious psychic trauma often expresses itself somatically: as physic
 
 Until now, hygienists have regarded the primary causes of disease as enervation, an excessive lowering of vitality, and toxemia, a general poisoning, mostly from internal waste but also food and environmental poisons. These, hygienists have asserted, come from poor habits.
 
-But whence came poor habits? Why would a healthy creature engage in anything less than the perfectly suitable without cause, out of the blue, and persistently? It doesn't make sense. In light of the awesome influence of trauma, it is obviously a deficient explanation.
+But whence came poor habits? Why would a healthy creature engage in anything less than perfectly suitable behavior persistently, without cause? It makes no sense. In light of the awesome influence of trauma, poor habits is obviously a deficient explanation.
 
 Much of this comes straight out of modern depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
 
@@ -144,7 +146,7 @@ Some of us, however, find this delusional. We have experienced joy. And on the o
 - controls in the name of freedom
 - poverty amidst mind-boggling wealth
 - useless work and wearisome recreation
-- undernourishing overfeeding
+- undernourishing over-feeding
 - confusing philosophy and soulless religion
 - alienation---civilization's calling card
 - mass depression, anxiety, schizophrenia
@@ -168,7 +170,7 @@ The feeling center, being more fragile than the sensorium and less aggressive th
 
 I will not dwell on something you must see for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. It is stupid and embarrassing. The academy likes to ignore the two other great bodies of human knowledge: the spiritual and the indigenous. We will not.
 
-I figure we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to reproduce. To embellish the idea, at 1%, you're institutionalized, 0%, dead. 3%, a local hero. 4%, somewhat famous. 5%, a national star. 10%, a genius. 20%, a saint. 30-40%, a messiah. 
+I figure we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to raise children to reproductive age. To embellish the idea, at 1%, you're institutionalized, 0%, dead. 3%, a local hero. 4%, somewhat famous. 5%, a national star. 10%, a genius. 20%, a saint. 30-40%, a messiah. 
 
 The greatest people in our history had to lower their level of functioning from a normal 90-100% just so we could stand their otherwise overwhelming presence. But what did each of them say, one way or another? _All this and more ye shall do._ This is our task. And the first person to raise from the dead is oneself.
 
