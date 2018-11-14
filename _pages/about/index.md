@@ -69,7 +69,8 @@ Two years of work on new edition of book finally finished!
     - make: 19 new CADD-generated designs for vents, blinds, sleeping mask + color photos of some prototypes
     - new appendices of hygiene's pathology and laws of life
 
-#### site powered by [jekyll](https://jekyllrb.com) static site generator, free hosting at [github](https://github.com)
+**site: [jekyll](https://jekyllrb.com)  
+hosting: [github](https://github.com)**
 
 <!--
 - [bibliography-influences](./bibliography-influences)
