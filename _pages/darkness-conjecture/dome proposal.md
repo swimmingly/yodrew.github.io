@@ -2,8 +2,8 @@
 title: dome proposal
 permalink: "/darkness-conjecture/dome-proposal/"
 layout: page
-navprev: project
-navnext: geodesic-dome
+navprev: 
+navnext: 
 ---
 
 #### get shelter, support research

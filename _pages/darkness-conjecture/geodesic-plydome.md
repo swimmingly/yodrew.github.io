@@ -2,8 +2,8 @@
 title: geodesic plydome
 permalink: "/darkness-conjecture/geodesic-plydome/"
 layout: page
-navprev: dome-proposal
-navnext: health-proposal
+navprev: 
+navnext: 
 ---
 
 ![12 geodesic plydome, size I intend to build, except without conical cap][1]

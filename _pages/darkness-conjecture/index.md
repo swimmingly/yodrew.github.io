@@ -23,9 +23,10 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
     - [strifeless](./strifeless/)
 - Healing
     - see [hygienic darkroom retreat](/)
-- Proposals
     - [project](./project/)
+<!--
+- Proposals
     - [dome proposal](./dome-proposal)
     - [geodesic dome](./geodesic-dome)
     - [health proposal](./health-proposal)
-
+-->

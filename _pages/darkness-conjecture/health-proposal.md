@@ -2,7 +2,7 @@
 title: health proposal
 permalink: "/darkness-conjecture/health-proposal/"
 layout: page
-navprev: geodesic-dome
+navprev: 
 navnext: 
 ---
 
@@ -37,6 +37,6 @@ We will regularly reassess our efforts until not just noticeable, but significan
 
 Everyone is encouraged to inquire: regular folks and health adventurers; incurables and hypochondriacs; discontented, uninsured, and “problem” people alike. Your body hasn’t given up. Don’t you, either.
 
-For more information, or for a free consultation, [write or call](/about/)now.
+For more information, or for a free consultation, [write or call](/about/) now.
 
 2009-09-09 08:53:41
