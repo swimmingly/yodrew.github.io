@@ -3,7 +3,7 @@ title: QWERTY to Dvorak translator
 permalink: "/d/"
 layout: page
 navprev: other-writings/mosseri
-navnext:
+navnext: 
 ---
 
 [zip file](http://www.andrewdurham.com/f/d.zip)

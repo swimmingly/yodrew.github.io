@@ -3,7 +3,7 @@ title: Fasting - Nature's Best Remedy
 permalink: "/other-writings/mosseri"
 layout: page
 navprev: mosseri-discovery
-navnext: ../d
+navnext: "../d"
 ---
 
 by Dr. Albert Mosséri
