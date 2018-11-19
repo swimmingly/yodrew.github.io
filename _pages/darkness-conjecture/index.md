@@ -22,8 +22,8 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
     - [catastrophe](./catastrophe/)
     - [strifeless](./strifeless/)
 - Healing
-    - see [hygienic darkroom retreat](/)
     - [project](./project/)
+    - [hygienic darkroom retreat](/)
 
 <!---
 - Proposals
