@@ -6,8 +6,6 @@ navprev: other-writings/mosseri
 navnext: 
 ---
 
-[zip file](http://www.andrewdurham.com/f/d.zip)
-
 <script language="Javascript">
 <!--
 // PL
@@ -66,4 +64,6 @@ copy and paste! <b>Note:</b> Program switches _ and " symbols. <input name="imm"
 
 </font>
 </form>
+
+Dvorak Portable Keyboard Layout for Windows [zip file](http://www.andrewdurham.com/f/d.zip)
 
