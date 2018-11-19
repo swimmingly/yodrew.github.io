@@ -6,6 +6,8 @@ navprev: darkroom-retreat
 navnext: format
 ---
 
+#### intro
+
 Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Trauma doesn't happen every day. It lies beyond one's control. Change of habit affects it little. It just strikes. Suddenly it incapacitates whole systems, distorting their character and behavior beyond recognition. Trauma is the most influential force in our lives besides life itself. Hygiene was helpless. All it could do was pass the buck to doctors or priests.  This subordinated hygiene to medicine and religion for over a century.
 
 This limitation disappears with two changes: 
@@ -216,7 +218,7 @@ What if we are the butt of a cosmic joke?
 
 If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent, thus free to walk away from the conflict and heal. 
 
-Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^5]
+Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^5][^6]
 
 #### hygienic psychology
 
@@ -229,11 +231,11 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
 6. Therefore, by retreating in darkness, we gain relief, rest, and restoration to health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^6]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^7]
 
 ##### fasting
 
-Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^7]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
+Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -263,7 +265,7 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 [^3]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
 [^4]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
-[^6]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^7]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
+[^6]: Earlier, I wrote an longer piece about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
+[^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^8]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 
-	

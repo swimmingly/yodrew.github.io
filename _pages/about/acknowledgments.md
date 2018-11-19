@@ -2,8 +2,8 @@
 title: acknowledgments
 permalink: "/about/acknowledgments/"
 layout: page
-navprev: about/bibliography-influences
-navnext: about/disclaimer
+navprev: bibliography-influences
+navnext: license
 ---
 
 Thanks to hundreds of people in 8 countries on 2 continents over 28 years, who morally and materially aided me during my prodigal search, especially my:

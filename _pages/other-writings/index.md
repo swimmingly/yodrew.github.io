@@ -2,6 +2,8 @@
 title: other writings
 permalink: "/other-writings/"
 layout: index
+navprev: 
+navnext: other-writings/existence-isnt-everything
 ---
 
 _This is a collection of my earlier writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities._
@@ -16,9 +18,8 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [From Where?](./from-where/) understanding Daniel Quinn
     - [Nothing to Fear, Even Fear Itself](./nothing-to-fear) big brother's achilles' heel
 - Health
-    - [Sanity and Health](./sanity-and-health/) intro  
+    - [Sanity and Health](./sanity-and-health/) intro (this led to [the darkness conjecture](../darkness-conjecture/) then [hygienic darkroom retreat](/))
     - See "By Others", below
-(this led to [the darkness conjecture](../darkness-conjecture/) then [hygienic darkroom retreat](/))
 - Design
     - [Just Living](./just-living) a meditation on design
     - [Mechanics of Mass Slavery](./mechanics-of-mass-slavery/) a drive-by analysis
@@ -26,15 +27,16 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Tribal Housing](./tribal-housing/) a design for a full life on $250 a month
     - [Gallery](http://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)
 - Misc
-    - [Myths](./myths)
-    - [Poems](./poems)
-    - [Lyrics](./lyrics)
-    - [The Ashers, a River, and I](./ashers)
+    - [Myths](./myths/)
+    - [Poems](./poems/)
+    - [Lyrics](./lyrics/)
+    - [The Ashers, a River, and I](./ashers/)
 - By Others
-    - [Bibliography](./bibliography) five cranial supernovas
+    - [Bibliography](./bibliography/) five cranial supernovas
     - [Links](./links/) others' good designs &etc to learn and sing
     - [Origins of Agriculture](./origins-of-agriculture/) a stunning _What if…?_
     - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
-    - [A Prodigious Discovery]](./mosseri-discovery) by Albert Mosseri, French hygienic master. This is an excerpt from:
-    - [Fasting: Nature's Best Remedy](./mosseri) by Albert Mosseri
-    - [QWERTY to Dvorak](./d/) typing translator
+    - [A Prodigious Discovery]](./mosseri-discovery/) by Albert Mosseri, French hygienic master. This is an excerpt from:
+    - [Fasting: Nature's Best Remedy](./mosseri/) by Albert Mosseri
+    - [QWERTY to Dvorak](/d/) typing translator
+

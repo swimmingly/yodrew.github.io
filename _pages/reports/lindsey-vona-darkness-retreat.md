@@ -86,7 +86,7 @@ Lindsey
 ~~
 
 [Lindsey Vona](http://lindseyvona.com) is a [graphic artist](http://poeticwonderproductions.com) and [musician](http://lindseyvona.bandcamp.com/).
-Her full account has become difficult to find, so I’m republishing it here from the [archived website of Sierra Obscura Darkness Retreats](http://web.archive.org/web/20100110094324/http://sierraobscura.wordpress.com/). County inspectors closed the center after six months due to civilization’s sheer insanity a harmless zoning violation. Its founder, Danielle Dao, started an art studio and is studying permaculture abroad and plans to build another retreat.
+Her full account has become difficult to find, so I’m republishing it here from the [archived website of Sierra Obscura Darkness Retreats](http://web.archive.org/web/20100110094324/http://sierraobscura.wordpress.com/). County inspectors closed the center after six months due to <del>civilization’s sheer insanity</del> a harmless zoning violation. Its founder, Danielle Dao, started an art studio and is studying permaculture abroad and plans to build another retreat.
 
 James Fadiman excerpted the dazzling parts of this account in [_The Psychedelic Explorers_](http://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [an engaging interview](http://www.hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).
 

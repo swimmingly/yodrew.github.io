@@ -2,6 +2,8 @@
 title: the darkness conjecture
 permalink: "/darkness-conjecture/"
 layout: page
+navprev: 
+navnext: darkness-conjecture/conjecture
 ---
 
 #### a strifeless recovery of rapture
@@ -20,6 +22,6 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
     - [catastrophe](./catastrophe/)
     - [strifeless](./strifeless/)
 - Healing
-    - see [darkroom retreat](/)
-<!--    - [project](./project/) -->
+    - [project](./project/)
+    - see [hygienic darkroom retreat](/)
 

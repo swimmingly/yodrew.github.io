@@ -2,11 +2,11 @@
 title: Fasting - Nature's Best Remedy
 permalink: "/other-writings/mosseri"
 layout: page
-navprev: other-writings/mosseri-discovery
-navnext: other-writings
+navprev: mosseri-discovery
+navnext: ../d
 ---
 
-by Dr. Albert Mosséri</h3>
+by Dr. Albert Mosséri
 completes _RADIANT HEALTH THROUGH  FASTING_
 translated from the French, _Le Jeune: Meilleur Remede de la Nature_
 
@@ -18,37 +18,37 @@ The author begins by presenting us  several real life experiences of people who 
 
 In the second part of the book the  author describes in detail the proven <strong>technique </strong>to be respected  in order to bring the process to a successful conclusion&nbsp; : adequate  preparation and the precautions to take. What are the crises one can  encounter during a fast?&nbsp; How to deal with them?&nbsp; Daily weighing and  what is indicated by the loss of, or an unchanging weight?&nbsp; Who should not  fast?
 
-Everything is explained in detail.</p>
+Everything is explained in detail.
 
 
     <h1>Albert Mosséri</h1>
-##### &nbsp;</strong></p>
+##### &nbsp;</strong>
     <h2><strong> F A S T I N G</strong></h2>
     <h3>Nature’s Best Remedy </h3>
-    <p>Completes</p>
+    Completes
     <h4>`RADIANT HEALTH THROUGH FASTING’</h4>
-    <p>__________________________________
+    __________________________________
 
-(Photo)</p>
+(Photo)
 
 
-    <p>___________________________________
+    ___________________________________
 
 The author during a 12 day  fast<br>
-    <em>Preface by Dr. C. Banuls</em></p>
+    <em>Preface by Dr. C. Banuls</em>
 
-    <p><span lang="fr" xml:lang="fr"> Author&nbsp; <i>Albert Mosseri,</i></span>
+    <span lang="fr" xml:lang="fr"> Author&nbsp; <i>Albert Mosseri,</i></span>
 
 <span lang="fr" xml:lang="fr"> 25 Rue du Grand Pre 10290 <br>
       Rigny La Nonneuse,   France</span>
 
 <span lang="fr" xml:lang="fr">&nbsp;</span>
 
-&nbsp;</p>
+&nbsp;
 
 
 
-    <p>_________________________________________________________
+    _________________________________________________________
 
 The author’s recent research has led him to a  different point of view on<br>
   certain points detailed in his first book  “Re-living through fasting”. This<br>
@@ -56,14 +56,14 @@ The author’s recent research has led him to a  different point of view on<br>
       due to actual life experiences as well as  reflection and trial and error.<br>
       In any case the essential details remain  unchanged.
 
-________________________________________________________</p>
+________________________________________________________
 
 
 
 
 
     <h5>CONTENTS </h5>
-##### &nbsp;
+##### 
 
 THE QUEST FOR GOOD HEALTH NATURALLY  ……………….…………....…9<br>
       FANTASTIC ADVENTURES…………………………………………….…….…..9
@@ -137,9 +137,9 @@ Ch. 13-&nbsp; GUIDELINES DURING A  FAST…………………………………�
 Ch. 14-&nbsp; STIMULATION AND  EXCRETION……………………………………<br>
       Methods of stimulation……………………………………………………………..<br>
       The dangers of  stimulation………………………………………………………….<br>
-      How to speed up  excretion………………………………………………………….</p>
+      How to speed up  excretion………………………………………………………….
 
-    <p>Ch. 15-&nbsp; PURGES AND  ENEMAS…………………………………………………
+    Ch. 15-&nbsp; PURGES AND  ENEMAS…………………………………………………
 
 Ch. 16-&nbsp; CRISES &amp; SYMPTOMS  DURING OR AFTER A FAST………………….<br>
       Dizziness……………………………………………………………………………..<br>
@@ -152,9 +152,9 @@ Ch. 16-&nbsp; CRISES &amp; SYMPTOMS  DURING OR AFTER A FAST…………………
       Palpitations, the  pulse…………………………………………………………………<br>
       Vomiting bile………………………………………………………………………….
 
-III</p>
+III
 
-    <p>Delerium, hallucinations,coma, fainting, fits  of madness……………………………..<br>
+    Delerium, hallucinations,coma, fainting, fits  of madness……………………………..<br>
       Sand in the urine, coloured  urine………………………………………………………<br>
       Tetany, convulsions……………………………………………………………………<br>
       Sensitivity to  light………………………..…………………………………...……….<br>
@@ -195,11 +195,11 @@ Ch. 20-&nbsp; THE FIRST MOTION AFTER A  FAST………………………………
       How to know if the stool is  attached………………………………………………….<br>
       The rubber glove………………………………………………………………………
 
-Ch. 21-&nbsp; THE MENU AFTER A  FAST……………………………………………….</p>
+Ch. 21-&nbsp; THE MENU AFTER A  FAST……………………………………………….
 
-    <p>IV</p>
+    IV
 
-    <p>Can you feast after a fast………………………………………………………………<br>
+    Can you feast after a fast………………………………………………………………<br>
       Rich foods……………………………………………………………………………..<br>
       Proteins after a  fast………………………………………………………………….....<br>
       True and false  hunger……………………………………………………………...…..<br>
@@ -240,21 +240,21 @@ Ch. 24-&nbsp; HOPELESS CASES &amp; LIFE  THREATENING COMPLICATIONS………..<br
       Those who die in hospital………………………………………………………...…….
 
 AT THE AUTHOR’S HOME…………………………………………………………..<br>
-      Summary of works by the same author.</p>
+      Summary of works by the same author.
 
-    <p>V</p>
-
-
-
-    <p>Photo of tongue</p>
-
-    <p>&nbsp;&nbsp; Dr. Alexandra P. underwent a 15  day fast at the author’s home. During the half-fast of 8 days that  followed, she noticed three black lines on her tongue which are easily visible  in this photo. This is a symptom of radical cellular excretion.</p>
+    V
 
 
 
+    Photo of tongue
+
+    &nbsp;&nbsp; Dr. Alexandra P. underwent a 15  day fast at the author’s home. During the half-fast of 8 days that  followed, she noticed three black lines on her tongue which are easily visible  in this photo. This is a symptom of radical cellular excretion.
 
 
-    <p>VI</p>
+
+
+
+    VI
 
 ##### PREFACE</strong><br>
     <strong>BY DR&nbsp;  C. BANULS
@@ -349,13 +349,13 @@ The reactions of  those around us are sometimes unpredictable. Remain discreet a
 ###### IN SEARCH OF</strong><br>
     <strong>TRUE HEALTH  NATURALLY
 
-FANTASTIC ADVENTURES</p>
+FANTASTIC ADVENTURES
 
 
 
-    <p>9</p>
+    9
 
-    <p><u>&nbsp;</u>
+    <u>&nbsp;</u>
 
 <u>&nbsp;</u>
 
@@ -421,7 +421,7 @@ I am 1.62m tall and  weigh 50 kilos. You also ask me about my diet. It varies ac
 On the whole I try to  be reasonable, but that depends totally on my state of mind. When I have  deviated too often I return to a strict diet and I miss breakfast, which does  me good. My primary consideration is to eat as much fresh food as  possible and consequently the maximum of seasonal produce.
 
 I have not recovered  all my energy to the point of recommencing strenuous exercise such as running  or jumping, but I practice gentler sports. Furthermore I have seen the  last of colds, constipation, and spots on my face and I feel totally in harmony  with myself. – CHRISTINE.<br>
-  <em>&nbsp;&nbsp;&nbsp;&nbsp; This is the account  she wrote for me </em>:</p>
+  <em>&nbsp;&nbsp;&nbsp;&nbsp; This is the account  she wrote for me </em>:
 
 ##### HER ACCOUNT
 
@@ -432,9 +432,9 @@ By instinct I had  always rejected meat, but cereals and bread never appeared to
 I had heard about the  benefits of fasting and following an episode of tonsilitis I decided to  try. I should say that this tonsilitis developped after an Easter holiday  with friends where each meal was a feast, and where there was chocolate at  every corner of the table.
 
 So having tried a fast, I  noted to what point it prevented my temperature from rising, as well as a state  of fatigue from lasting too long. At this time I was practising yoga with  a teacher who knew Mr. Mosseri’s books. He lent them to me one by one,  and in reading them <br>
-      11</p>
+      11
 
-    <p>&nbsp;I had the impression of confronting a  profound truth. I procured them immediately and in the<br>
+    &nbsp;I had the impression of confronting a  profound truth. I procured them immediately and in the<br>
 &nbsp;space of&nbsp; two weeks I decided to try  the natural hygiene diet.
 
 ###### FOODS IN THEIR NATURAL STATE
@@ -463,9 +463,9 @@ Having retained what  Mr. Mosseri explains in his books on fasting and food, I t
 
 During the day I had no strength,  but I quickly recovered a certain dynamism if I was able to lie down for a  while. This ability to be able to recuperate a maximum of tonus after a  short rest, is one of the things that strikes me the most since I have started  eating in this way. This also holds for physical exercise, as if&nbsp; I  had recovered while asleep. A short period lying
 
-12</p>
+12
 
-    <p>down can make me totally prepared for an effort  which follows, even if I was exhausted before my rest. That didn’t use to  happen. In fact, if, at the beginning I was so exhausted and incapable of  physical exertion of limited intensity, such as running for a bus for example,  I soon noticed, that my heart didn’t race at the time I was making the effort,  or that it&nbsp; recovered a much slower rhythm than before very quickly.
+    down can make me totally prepared for an effort  which follows, even if I was exhausted before my rest. That didn’t use to  happen. In fact, if, at the beginning I was so exhausted and incapable of  physical exertion of limited intensity, such as running for a bus for example,  I soon noticed, that my heart didn’t race at the time I was making the effort,  or that it&nbsp; recovered a much slower rhythm than before very quickly.
 
 I can say now  that it took me 3 years to recover the capacity to build up my  muscles.&nbsp;&nbsp; I didn’t put on any weight for a year, but I eventually  regained my former weight during the following 2 years.
 
@@ -485,9 +485,9 @@ One thing that really  changed my life was the disappearance of the constipation
 
 ###### THE&nbsp; FAST</strong><br>
   Initially I had envisaged 2 weeks of fasting,  but my loss in weight, and tiredness on top of this, meant I could not exceed 7  days, followed by a very slow return to eating. After this I was  exhausted.&nbsp;&nbsp; <br>
-      13</p>
+      13
 
-    <p>During the fast I had  a profound experience. The absence of food presented no problem at all,  but on the other hand it was very testing psychologically. In fact I felt  as though I was plunging deep into myself, and there were significant changes  in my inner vision.
+    During the fast I had  a profound experience. The absence of food presented no problem at all,  but on the other hand it was very testing psychologically. In fact I felt  as though I was plunging deep into myself, and there were significant changes  in my inner vision.
 
 Fortunately I was  being surveyed by Mr. Mosseri and only one person was looking after me. I  needed this moral support and security to allow things to take their  course. I felt to what extent the fast encouraged the detoxification  process already started. Now I have periodss of tiredness similar to  those during the first 3 years, but nevertheless more rarely, and I always come  out of these periods stronger.
 
@@ -499,17 +499,17 @@ Of course I cannot say  anything about my future, but I really do feel that I am
 
 Going shopping,  gathering my own vegetables when it is possible, have become a real pleasure  for my mind and body. I feel&nbsp; I am respecting and treating myself  carefully by eating in this way. I think a lot of people feel the same,  but you need real motivation to get to the point of applying this approach in  day to day living, especially those who often eat out. For me, in any  case, it is a step towards a greater well-being at all levels, and I have not  yet had the desire to go back to my old ways.
 
-At the end of the day  what a pleasure is would be if more and more people adopted this healthy way of  life! – Christine A. 16  av&nbsp;; F. Faure, 75015 PARIS.</p>
+At the end of the day  what a pleasure is would be if more and more people adopted this healthy way of  life! – Christine A. 16  av&nbsp;; F. Faure, 75015 PARIS.
 
 
 
-    <p>14</p>
+    14
 
-    <p>Ch 2
+    Ch 2
 
-###### MY BABY HAD A FEVER</strong></p>
+###### MY BABY HAD A FEVER</strong>
 
- &nbsp;The  introduction of a virus into a healthy body will inevitably make it  sick.  Here is the biological truth against&nbsp; which no official&nbsp; (medical)  lie can have any influence. – Dr; C.V. d’Autrec</p>
+ &nbsp;The  introduction of a virus into a healthy body will inevitably make it  sick.  Here is the biological truth against&nbsp; which no official&nbsp; (medical)  lie can have any influence. – Dr; C.V. d’Autrec
 
     Dr. V.V. Vetrano, who assisted Dr.  Shelton for 15 years is now retired. She studied medicine and obtained a  doctorate in medicine, which did not serve much purpose for her. Below  she recounts the story of one of her two daughters, when she was a baby and had  a fever. –
 
@@ -527,9 +527,9 @@ To refuse to see a  medical doctor when a baby is ill is a crime, they say, and 
 
 I was just as  concerned for my baby as they were, but to let my concern or lack of faith show  would have been the end of her Hygiene care. I waited it out  patiently knowing that Nature heals. I took her temperature daily, kept  her warm, permitted her to rest quietly, and prevented people from smoking in  the room, or from waking her up to see if she was alive. I kept the place  so she could sleep and did nothing else.
 
-15</p>
+15
 
-    <p>It’s hard to stand up  to the whole world but it’s even harder to sit back and wait for the day when  the fever will fall. Every day you watch; listen, and hope. Infants  that are fasting and who have a fever are very quiet. They sleep a lot  and this is also disquieting when you are a newly converted&nbsp; Hygienist and  not a doctor. All sorts of fears enter your head. “Is she okay,”  you keep wondering. “Is she breathing ?&nbsp; “Is she still alive?”&nbsp;  You are scared to death. You want to shake the child or awaken it, or do  just anything to reassure yourself that everything is fine. But I didn’t  do anything rash. I had to have patience and wait for Nature to complete  her wonderful healing process. I was very worried, but I had faith in the  living organism. Finally, her fever broke about mid-day on the fifth day  of her fast, and there were sighs of relief all round. Her father was no  longer tense and worried and her great-aunt stopped hovering over her wringing  her hands and saying “Elle n’est pas bien dans son assiette.”&nbsp; (She’s not  right). In fact, we all relaxed. That was the only time my daughter  was sick in her life. Thank goodness !&nbsp; I had weathered the  storm. But I know how hard it is to sit and wait, and do absolutely  nothing, intelligently.
+    It’s hard to stand up  to the whole world but it’s even harder to sit back and wait for the day when  the fever will fall. Every day you watch; listen, and hope. Infants  that are fasting and who have a fever are very quiet. They sleep a lot  and this is also disquieting when you are a newly converted&nbsp; Hygienist and  not a doctor. All sorts of fears enter your head. “Is she okay,”  you keep wondering. “Is she breathing ?&nbsp; “Is she still alive?”&nbsp;  You are scared to death. You want to shake the child or awaken it, or do  just anything to reassure yourself that everything is fine. But I didn’t  do anything rash. I had to have patience and wait for Nature to complete  her wonderful healing process. I was very worried, but I had faith in the  living organism. Finally, her fever broke about mid-day on the fifth day  of her fast, and there were sighs of relief all round. Her father was no  longer tense and worried and her great-aunt stopped hovering over her wringing  her hands and saying “Elle n’est pas bien dans son assiette.”&nbsp; (She’s not  right). In fact, we all relaxed. That was the only time my daughter  was sick in her life. Thank goodness !&nbsp; I had weathered the  storm. But I know how hard it is to sit and wait, and do absolutely  nothing, intelligently.
 
 I am pleased I held  out and waited patiently for nature to heal my little baby. But others  don’t.
 
@@ -549,7 +549,7 @@ It took six months for  this baby to recover from the medical abuse called “di
 
 Their main error was  to seek a name for the illness. They were under the impression that if  they knew what was wrong with their baby they would be reassured. They  couldn’t do without the diagnosis, and just wait and rely on the natural  healing powers of the body.
 
-16</p>
+16
 
 ##### ANOTHER CASE&nbsp;&nbsp;&nbsp;&nbsp; 
 
@@ -578,9 +578,9 @@ So, the child had a  high temperature, was weak and becoming weaker, with no sig
 
 As the child had not  vomited we know that the dog food was at least digested enough to pass from the  stomach to the small intestine. By the time it reached the colon most of  it had been digested. The preservatives, other poisonous chemicals, and  decomposition products would have been absorbed from the small intestine.
 
-The time to have done  something was when the child had first eaten the dog food. Vomiting could  have been induced when the food was still in the child’s stomach (by giving him  a lot of warm water to drink or putting a finger in his throat – A.M.), but  perhaps they did not realize just how much the child had eaten, and he was not  yet sick.</p>
+The time to have done  something was when the child had first eaten the dog food. Vomiting could  have been induced when the food was still in the child’s stomach (by giving him  a lot of warm water to drink or putting a finger in his throat – A.M.), but  perhaps they did not realize just how much the child had eaten, and he was not  yet sick.
 
-    <p>17</p>
+    17
 
 ##### ENEMAS
 
@@ -604,9 +604,9 @@ To do nothing, I repeat, <strong>to do  nothing, intelligently, </strong>at such
 
 A fever may last for  more than three days when there is a need for it. Fasting, of course, is  the quickest means to help the body rid itself of irritants that are  occasioning the fever, but it sometimes takes more than three days. We  must not panic if the fever does not subside more quickly. Children today  are developing fevers that last longer than in former decades.
 
-18</p>
+18
 
-    <p>I have cared for  several children recently and have noticed that the fevers don’t seem to want  to go away. Our children are less robust than those of previous  generations for several reasons. We will have to expect more acute  illness until we clean up the environment and correct our methods of growing  and processing food. Our race is slowly but surely committing suicide.
+    I have cared for  several children recently and have noticed that the fevers don’t seem to want  to go away. Our children are less robust than those of previous  generations for several reasons. We will have to expect more acute  illness until we clean up the environment and correct our methods of growing  and processing food. Our race is slowly but surely committing suicide.
 
 Meanwhile, we must  work more in harmony with Nature than ever before. We must not needlessly  cause the expenditure of vital energy of any sick person, child or  adult.. We must learn to conserve energy as we have never before  conserved it, simply because there is less vitality and less functioning  capacity than ever before.
 
@@ -632,7 +632,7 @@ How can people  actually think that they are wiser than the living organism?&nbs
 
 It is well known that  all irritating subsances are carried out of the intestinal tract very  quickly. Much watery mucus is secreted by the mucous cells of the  intestinal tract to dilute and wash away irritants rapidly with a diarrhoea.
 
-19</p>
+19
 
 In this case,  innocent faeces were lying in the colon, doing no harm. The body was  conserving its energy until such a time when it had extra energy for a bowel  movement, and we wise men come along thinking we know best and upset the  processes of nature. Our reasoning is based on fallacy; upon subsidized  and biased&nbsp; “science” , which is not science. (It is a question of  Medicine – A.M.)&nbsp;&nbsp; Science is the whole truth and nothing but the  truth. Let us forever stick to principles. They are the only thing  valid we have left in this world.. – Dr. V.V. Vetrano. December  1978. <em>Dr. Shelton’s Hygienic Review
 
@@ -675,7 +675,7 @@ Ch. 3<br>
 ###### I HAD AN INFECTION  OF THE UTERUS
 
 
-    <p>&nbsp;&nbsp;&nbsp;  Man does not die; he kills himself. – A GREEK PHILOSOPHER<br>
+    &nbsp;&nbsp;&nbsp;  Man does not die; he kills himself. – A GREEK PHILOSOPHER<br>
       <strong>CONTRACEPTIVES</strong><br>
       <strong>&nbsp; F</strong><em>&nbsp; ive years ago I was a  beautiful blonde and I married my Prince Charming. I was perfectly  happy. We didn’t want children and I had chosen the contraceptive the  Copper VII IUD because it was supposed to produce the least number of  side-effects.
 
@@ -701,7 +701,7 @@ If I had not  discovered Natural Hygiene the story could have ended in any numbe
 3) She could  have developed lumps in the breast that would have ended in cancer.
 4) A clot could  have formed in the brain producing a “stroke”, which usually ends in paralysis  or death.
 5) Otherwise,  the clot could have developed in the heart and she may have died of a heart  “attack”.<br>
-      21</p>
+      21
 
 6) Worse still,  a series of complications could have occurred. She may have developed the  lumps in the breast and uterus first, had several operations for their removal,  and still developed clots and died either of a stroke, a heart attack, or of  pulmonary embolism after undergoing several horrible operations.”
 
@@ -729,7 +729,7 @@ If the cause of the  young woman’s pain was indeed inflammation, then the logi
 
 Medicines do not  remove the cause. On the contrary, they increase it, because the body is  continually fatigued and enervated by the necessity of excreting an extra load  of female hormones every day. The young woman’s breasts were swollen and  painful all the time, and indeed, had she continued taking the Pill it is  probable that she would eventually have developed lumps in the breast.
 
-22</p>
+22
 
 ##### &nbsp;
 
@@ -752,11 +752,11 @@ Women who have  undergone an ovariectomy fear they will age overnight if they do
 The change in the  vagina that causes discomfort during and after intercourse in some menopausal  women is also attributed to a lack of female hormones. In reality it is  simply a vaginitis which readily clears up while fasting. It is called  “atrophic vaginitis”. (Shrinking of the vagina after the menopause seems  to me to be natural and signifies that one closes up shop due to old age.  From the moment a woman can no longer conceive, for Nature there is no longer  any reason for sexual relationships. Nature ignores our emotional need for  this.– A.M.)
 
 Perhaps Nature would  force many women to breastfeed to relieve themselves of engorgement and pain  after delivery if there were no drugs to dry them up. At any rate, the  dose necessary to prevent pain and swelling of the breasts is much larger than  the dose needed to treat menopausal symptoms. <em>Ayerst Laboratories</em>,  the producers of many oestrogen tablets, warn their users that this dosage may <br>
-&nbsp;&nbsp;&nbsp;“increase the risks  of developing blood clots in the legs or lungs.”</p>
+&nbsp;&nbsp;&nbsp;“increase the risks  of developing blood clots in the legs or lungs.”
 
-    <p>23</p>
+    23
 
-    <p>When the manufacturer  of a drug warns the users that they have roughly five to ten times as great a  chance of getting endometrial cancer (cancer of the lining of the uterus) as  women who take no oestrogens, it is time to forget the treatment and rely on  Nature.
+    When the manufacturer  of a drug warns the users that they have roughly five to ten times as great a  chance of getting endometrial cancer (cancer of the lining of the uterus) as  women who take no oestrogens, it is time to forget the treatment and rely on  Nature.
 
 We receive women at  the Health School who have been taking oestrogens  for several years. <strong>How can doctors keep handing out prescriptions for  oestrogens, knowing the dangerous side-effects, especially after long-term  treatment ?
 
@@ -788,9 +788,9 @@ They are also used to  treat cancer of the breast in women. But, is they cause c
 If you want your child  to be born with a diathesis to cancer of the cervix or vagina in her teens or  early twenties, just take oestrogens while pregnant.
 
 Indeed, <em>Ayerst</em> warns again here that…<br>
-      24</p>
+      24
 
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You should not receive  oestrogens if you are pregnant. If this should occur there is a greater than usual chance that the developing child will be born with a birth defect,  although the possibility remains fairly small. A female child may&nbsp; have an increased risk of  developing cancer of the vagina or cervix later in life (in the teens or twenties). Every possible effort  should be made to avoid exposure to oestrogens during pregnancy. If exposure occurs, see your  doctor.”
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“You should not receive  oestrogens if you are pregnant. If this should occur there is a greater than usual chance that the developing child will be born with a birth defect,  although the possibility remains fairly small. A female child may&nbsp; have an increased risk of  developing cancer of the vagina or cervix later in life (in the teens or twenties). Every possible effort  should be made to avoid exposure to oestrogens during pregnancy. If exposure occurs, see your  doctor.”
 
 But what can your  doctor do once the oestrogen has been taken?&nbsp; He can’t eradicate&nbsp; it  from your system <em>before</em> it reaches the placenta. All he can do is  to warn you and tell you to avoid future exposure.
 
@@ -822,9 +822,9 @@ So, why take risks  ?&nbsp; Why take a poisonous drug until an abnormal symptom 
 
 Pains in the calves or  chest, sudden shortness of breath, or coughing of blood, may indicate that you  already have a clot somewhere in the body.
 
-25</p>
+25
 
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;  _____________________________________________________________
+    &nbsp;&nbsp;&nbsp;&nbsp;  _____________________________________________________________
 
 ###### HOW TO RECOGNISE A BLOOD CLOT
 
@@ -857,19 +857,19 @@ Why take the risk of  developing a lump in the breast or uterus ?&nbsp; Why run 
 
 When a simple Hygienic way of life will permit the body to heal and recover, and you can have the  superior health you never thought possible, why should you ever desire to take  any kind of pill ?
 
-The heroine of this  story made the right choice – not drugs and disease, but Hygiene and  health.” – Dr; V.V. Vetrano, B.S., D.C., from <em>Dr. Shelton’s Hygienic Review,</em> February 1979.-</p>
+The heroine of this  story made the right choice – not drugs and disease, but Hygiene and  health.” – Dr; V.V. Vetrano, B.S., D.C., from <em>Dr. Shelton’s Hygienic Review,</em> February 1979.-
 
 
 
-    <p>26</p>
+    26
 
-    <p>Ch. 4
+    Ch. 4
 
 ##### How I recovered</em> 
 
-###### MY FEVER AND MY  PHARYNGITIS</strong></p>
+###### MY FEVER AND MY  PHARYNGITIS</strong>
 
-    <p>&nbsp;&nbsp;  “Healing  is a biological process which is not accomplished
+    &nbsp;&nbsp;  “Healing  is a biological process which is not accomplished
 
  &nbsp;&nbsp;&nbsp;&nbsp;with  remedies, but with the processes of life.” 
 
@@ -893,9 +893,9 @@ Since Christmas 1986 I hadn’t been  feeling on top form. At bedtime I was shiv
 
 On the other hand,  today I am better, and 3 months after all those health problems I am 
 
-27</p>
+27
 
-    <p>planning for the summer, and really looking  forward to it. But I must first tell you about all the ups and downs I  had to go through before I recovered.
+    planning for the summer, and really looking  forward to it. But I must first tell you about all the ups and downs I  had to go through before I recovered.
 
 It all began on  Tuesday, 17th February 1987. I had a sore throat, like a lump,  that made swallowing painful, and my throat was dry. Nevertheless, I went  to work, once I had done my morning ablutions and had a standard breakfast of  two slices of toast and coffee. When I returned home in the evening I had  a temperature.
 
@@ -922,11 +922,11 @@ It was then that I  began to understand that suppressing symptoms, which is the 
 ###### NATURAL HYGIENE TREATMENT</strong> <br>
   Next I sought hel
 
-p from Madame J.  Lacroix, who is a Natural Hygienist. This is how I</p>
+p from Madame J.  Lacroix, who is a Natural Hygienist. This is how I
 
-    <p>28</p>
+    28
 
-    <p>began a fasting cure, ceased all the remedies,  and stayed in bed for a total rest. My temperature went up to 39°C  (102.2°F).
+    began a fasting cure, ceased all the remedies,  and stayed in bed for a total rest. My temperature went up to 39°C  (102.2°F).
 
 That night I had a  strange dream. In the dressing table mirror I saw myself all huddled up  in the shape of an S, as if there were three sections : the legs, body, and  bust. And I was saying to myself that I would never be able to sleep as  long as these three sections were not joined.
 
@@ -944,11 +944,11 @@ The following day I  ate an orange and half a grapefruit during the day, a few l
 
 Next I started eating  properly, but my temperature rose a little, and I was obliged to fast  again. I followed the directions in ANTIMEDICINE relating to a  fever. Now everything is back to normal and I have resumed my regular  activities. I have lots of plans and have once again the ‘joie de vivre’.
 
-In conclusion, I note  that I wasted 4 weeks by trying to cure myself with antibiotics and other  medicines. And, I am astonished to observe how quickly my strength  returned in spite of my loss in weight. I also feel so much more  cheerful. It all passed exactly as the Natural Hygienists told me. –  Account by J. Lacroix and written by A.M. –</p>
+In conclusion, I note  that I wasted 4 weeks by trying to cure myself with antibiotics and other  medicines. And, I am astonished to observe how quickly my strength  returned in spite of my loss in weight. I also feel so much more  cheerful. It all passed exactly as the Natural Hygienists told me. –  Account by J. Lacroix and written by A.M. –
 
-    <p>29</p>
+    29
 
-    <p>Ch. 5
+    Ch. 5
 
 ###### &nbsp;
 
@@ -976,9 +976,9 @@ In spite of all this  my colitis was still there, tenacious as ever, with, in ad
 
 On the other hand, as  well as the colitis, I began suffering serious pains in both kidneys
 
-30</p>
+30
 
-    <p>and that worried me, as I was aware of the  large number of people already having dialysis at that time. I returned  to see a doctor friend, who couldn’t advise any other other remedies than those  I had already taken.
+    and that worried me, as I was aware of the  large number of people already having dialysis at that time. I returned  to see a doctor friend, who couldn’t advise any other other remedies than those  I had already taken.
 
 Finally, one day, I  came across a small ad entitled : “<em>Supervised Fast”, </em>in the magazineNATURE  AND PROGRESS;&nbsp; I wrote and received a reply from Mr. Mosseri, who invited  me to come and fast at his home. That was in 1979.
 
@@ -1008,11 +1008,11 @@ At the beginning I  weighed 82 kg (180 lbs); I was 72 kg&nbsp; (158 lbs) when I 
 
 With hindsight I can  see that Saury’s book, written by someone incompetent, had misled me. In  fact, it had encouraged me to waste my energy, instead of preserving it with  total rest. (In fact, this author allowed those fasting to smoke  and he welcomed them with champagne !&nbsp; He has just died from bone cancer –  naturally. – A.M.)
 
-After a week of eating  again I returned home, where I remained in bed for a further 10-15 days so as  to fully recover. For a few weeks I still followed the strict diet  recommended by Mr. Mosseri in his books. I stopped eating breakfast and  drinking coffee, and I ate a lot of salad, and cooked vegetables in the  evening.</p>
+After a week of eating  again I returned home, where I remained in bed for a further 10-15 days so as  to fully recover. For a few weeks I still followed the strict diet  recommended by Mr. Mosseri in his books. I stopped eating breakfast and  drinking coffee, and I ate a lot of salad, and cooked vegetables in the  evening.
 
-    <p>31</p>
+    31
 
-    <p>I realised, then, that  I had recovered, and that my eyesight had improved, for I could no longer wear  my old glasses. Furthermore, the arthritic pains in my spine had disappeared  and they have never come back again.
+    I realised, then, that  I had recovered, and that my eyesight had improved, for I could no longer wear  my old glasses. Furthermore, the arthritic pains in my spine had disappeared  and they have never come back again.
 
 In the meantime, faced  with the family’s opposition to my diet, the old temptations have returned –  except for breakfast and coffee. I have also thrown myself headlong into  my work, as well as numerous related activities.
 
@@ -1042,9 +1042,9 @@ During this fast I had  pains in the whole of my body that were quite tolerable,
 
 During&nbsp; the fast  my tongue became white&nbsp; and I had a slight tast&nbsp; of acetone in&nbsp;  my mouth, 
 
-32</p>
+32
 
-    <p>but much less than in 1979. Then, as soon  as I had begun the half-fast which follows the fast (consisting of a pound of  fruit in the afternoon, and a pound of raw vegetables in the evening), my  tongue turned a yellowy-orange. This showed that the elimination process  had started up again during these last few days.
+    but much less than in 1979. Then, as soon  as I had begun the half-fast which follows the fast (consisting of a pound of  fruit in the afternoon, and a pound of raw vegetables in the evening), my  tongue turned a yellowy-orange. This showed that the elimination process  had started up again during these last few days.
 
 Eleven days after  starting the half-fast my tongue is still yellow, and as I must soon&nbsp;  return home, I am going to continue until my tongue has recovered its normal  pink colour, - a sign that the elimination process is finished.
 
@@ -1052,31 +1052,31 @@ As for the rest of my  body, this elimination is manifested in slight pains in t
 
 ###### THERE IS FASTING AND FASTING, ACCORDING TO THE  METHOD
 
-On hindsight, comparing the two  stays here, I can say that there are several points which seem extremely  important to me :</p>
+On hindsight, comparing the two  stays here, I can say that there are several points which seem extremely  important to me :
     <ol>
       <li>the  necessity of being supervised by a competent&nbsp; natural hygienist such as  Mr.</li>
     </ol>
-    <p>Mosseri.</p>
+    Mosseri.
     <ol>
       <li>the  importance of total bed rest with just a radio to alleviate the periods of  insomnia.</li>
       <li>the  extraordinary nature of&nbsp; Mr. Mosseri’s discovery&nbsp; which makes  fasting safer than it</li>
     </ol>
-    <p>was before. This is a major argument when  faced with those who fear ‘starvation’ while fasting</p>
+    was before. This is a major argument when  faced with those who fear ‘starvation’ while fasting
     <ol>
       <li>the  degree of&nbsp; personal&nbsp; comfort&nbsp; provided by the half-fast which,  while&nbsp; prolonging the</li>
     </ol>
-    <p>&nbsp;elimination process, diminishes the  extent of deficiencies in the body, as well as its reactions.
+    &nbsp;elimination process, diminishes the  extent of deficiencies in the body, as well as its reactions.
 
 ###### NO POINT IN STUFFING THE BOILER
 
 After 11 days of this  half-fast my weight is 68.5 kg (151 lbs), a small loss of 1.5 kg (3.30  lbs). But I can already feel in myself a renewed vigour, in spite of  having consumed so little food. It is therefore the sign that the  assimilation of food by the organism is better than it was before. This  confirms for me what Mr. Mosseri said : “<em>There is no point in eating a lot  to obtain energy for the body. It is much more important – vital even –  to properly assimilate what is consumed.
 
-To use an image, I  would say that stuffing the boiler if it doesn’t draw well is done in  vain. It is preferable to have the pipes swept (detoxified) beforehand. –  Edward J., Engineer at Sarrebourg.</p>
+To use an image, I  would say that stuffing the boiler if it doesn’t draw well is done in  vain. It is preferable to have the pipes swept (detoxified) beforehand. –  Edward J., Engineer at Sarrebourg.
 
-    <p>33</p>
+    33
 
 
-    <p>Ch. 6
+    Ch. 6
 
 ###### THE TUMOUR ON THE  GANGLIONS IN MY NECK
 
@@ -1105,24 +1105,24 @@ Mr. Mosseri then explained  to my wife that the swollen ganglion resembled an ab
 <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></em><br>
       <strong>TRAGIC NOTE&nbsp;&nbsp; by&nbsp; A.M.
 
-At this point in the story I learned  from his wife that the patient had opted for the operation. No doubt the  pressure exerted on him by the doctors was too strong and he gave way, not  daring to stray off the beaten track. After the operation it will be a  question of radiotherapy and chemotherapy, then an agonising death after  several months, or perhaps a year or two if he is very resistant. And the  doctors will say that he died&nbsp; of another illness, so </p>
+At this point in the story I learned  from his wife that the patient had opted for the operation. No doubt the  pressure exerted on him by the doctors was too strong and he gave way, not  daring to stray off the beaten track. After the operation it will be a  question of radiotherapy and chemotherapy, then an agonising death after  several months, or perhaps a year or two if he is very resistant. And the  doctors will say that he died&nbsp; of another illness, so 
 
-    <p>34</p>
+    34
 
-    <p>as not to shoulder the responsibility for their  erroneous treatment.
+    as not to shoulder the responsibility for their  erroneous treatment.
 
-If he had accepted  Natural Hygiene treatment, the tumour would have been re-absorbed naturally and  he would have recovered without further problems. But he wouldn’t&nbsp;  accept a natural method and his family didn’t want to take the responsibility  of sending him to me against his will. –</p>
-
-
+If he had accepted  Natural Hygiene treatment, the tumour would have been re-absorbed naturally and  he would have recovered without further problems. But he wouldn’t&nbsp;  accept a natural method and his family didn’t want to take the responsibility  of sending him to me against his will. –
 
 
 
 
 
 
-    <p>35</p>
 
-    <p>Ch . 7
+
+    35
+
+    Ch . 7
 
 How I cured myself
 
@@ -1157,9 +1157,9 @@ Like many boys, I was  quite mischievous and headstrong. I was very bright, and 
 
 My&nbsp; schooling  properly began at the age of 6 yrs, but&nbsp; I was incapable of learning; and 
 
-36</p>
+36
 
-    <p>remained passive, and allergic to  studying. I was shy, blocked, and deceited, sexually overexcited and  masturbated, and I stole.
+    remained passive, and allergic to  studying. I was shy, blocked, and deceited, sexually overexcited and  masturbated, and I stole.
 
 In short, I had all  the human defaults possible. It was like this throughout my primary  schooling. I learned as well as could be expected, and more or less  subconsciously, to read and write, and then to do a few exercises of  arithmetic.
 
@@ -1185,9 +1185,9 @@ I began with  allopathy; that is, with the&nbsp; chemical medicine that everyone
 
 Next, my mother took  me to a homeopath who was of the opinion that the chemical 
 
-37</p>
+37
 
-    <p>treatment had poisoned my body, and he  prescribed homeopathic remedies. My state of health gradually improved,  but I then relapsed into a depression that was worse than the first – I suppose  because of the&nbsp; poisoning by the insecticide gases and the allopathic  drugs.
+    treatment had poisoned my body, and he  prescribed homeopathic remedies. My state of health gradually improved,  but I then relapsed into a depression that was worse than the first – I suppose  because of the&nbsp; poisoning by the insecticide gases and the allopathic  drugs.
 
 That was how I came to  spend four whole years in hospital.
 
@@ -1213,19 +1213,19 @@ I can say, then,  that it is a complete success and I thank Mr. Mosseri for havi
 
  -----------------------
 
-<strong>Note by A.M. :-</strong> A little while afterwards, I received 1,200 F from this follower, to support me  in my struggle and my different medical legal proceedings.</p>
+<strong>Note by A.M. :-</strong> A little while afterwards, I received 1,200 F from this follower, to support me  in my struggle and my different medical legal proceedings.
 
-    <p>38</p>
+    38
 
 
-    <p>Ch. 8
+    Ch. 8
 
 ###### MY MULTIPLE  SCLEROSIS</strong><br>
     <strong>**********
 
- Doctors  who are ill, and incapable of curing themselves, should be struck  off the medical register. –</p>
+ Doctors  who are ill, and incapable of curing themselves, should be struck  off the medical register. –
 
-    <p><em>&nbsp;&nbsp;&nbsp;&nbsp; <strong>H&nbsp;&nbsp; </strong>ere is the  story of a patient suffering from multiple sclerosis. The destruction of  his
+    <em>&nbsp;&nbsp;&nbsp;&nbsp; <strong>H&nbsp;&nbsp; </strong>ere is the  story of a patient suffering from multiple sclerosis. The destruction of  his
 
  &nbsp;&nbsp;intestinal flora over several years has  evidently been the cause of the slow and insidious evolution of this terrible  paralysis.
 
@@ -1240,11 +1240,11 @@ __________________
 
 Around the age  of 8/10 yrs I&nbsp; suffered a burning sensation on my thighs and forearms, on  the inside of the limbs. &nbsp;It lasted two to three days and was like shingles. 
 
-At about  12/13 yrs I had a series of episodes of chronic bronchitis, 4 to 5 times every  winter. Each time, our highly esteemed family doctor was called, and he  prescribed antibiotics by injection, which are more powerful than in tablet  form. He had the bad habit of prescribing too many drugs and he seemed to  be conscious of it, as, at the same time he prescribed yeast to renew the flora  destroyed by the antibiotics.</p>
+At about  12/13 yrs I had a series of episodes of chronic bronchitis, 4 to 5 times every  winter. Each time, our highly esteemed family doctor was called, and he  prescribed antibiotics by injection, which are more powerful than in tablet  form. He had the bad habit of prescribing too many drugs and he seemed to  be conscious of it, as, at the same time he prescribed yeast to renew the flora  destroyed by the antibiotics.
 
-    <p>39</p>
+    39
 
-    <p>When I was 15 yrs I  played billiards every Saturday, but each time I developed a headache at the  end of the evening. That lasted two years, and only ceased when I stopped  playing billiards. I think they must have been provoked by the intense  concentration needed.
+    When I was 15 yrs I  played billiards every Saturday, but each time I developed a headache at the  end of the evening. That lasted two years, and only ceased when I stopped  playing billiards. I think they must have been provoked by the intense  concentration needed.
 
 At 18 yrs I had my  appendix removed, and after a week, when I got out of bed my limbs were all  stiff and I stooped a little when I walked. Once I had returned home everything  returned to normal and I soon went back to work.
 
@@ -1266,11 +1266,11 @@ Mt disturbed vision  lasted for about 3 weeks, but it took 6 months for me to co
 
 ###### DOUBLE VISION
 
-Last year I felt  another unusual phenomen, but different from the two preceeding ones. I was  travelling in my lorry to exhibit equipment at a fair, when suddenly I saw two  cars in&nbsp;&nbsp; </p>
+Last year I felt  another unusual phenomen, but different from the two preceeding ones. I was  travelling in my lorry to exhibit equipment at a fair, when suddenly I saw two  cars in&nbsp;&nbsp; 
 
-    <p>40</p>
+    40
 
-    <p>front of me. The cars were identical, which I  found strange. I then thought of closing an eye and I saw only one car. I  understood then that I had double vision.
+    front of me. The cars were identical, which I  found strange. I then thought of closing an eye and I saw only one car. I  understood then that I had double vision.
 
 At the fair I felt  terribly tired, but I took a grip on myself all the same. When I woke up in the  morning I didn’t have the courage to put my feet on the ground. My head felt  blocked. Once dressed, I went to work, stooping like a grandfather. That lasted  for a month, and each day the double vision worsened. I had more and more  difficulty getting up, and had the impression of having become like a very  stooped old man of 90 yrs. After a month I decided to go and see a doctor, who  sent me for an electro-encephalogram.
 
@@ -1290,13 +1290,13 @@ In 1982 my general  state of health left much to be desired, and I went into hos
 
 According to the great  professor, this drug is used to check new attacks of multiple sclerosis. I  underwent the treatment for 3 years, with a check-up every six months.
 
-For a long time the  doctors told me that the illness was an inflammation of the spinal chord, as if  they wanted to hide the truth from me. But, following my persistent  questioning, they finally acknowledged that it was multiple sclerosis. I also  succeeded in getting them to say what the future held for me : paralysed limbs,  a wheelchair, and my sight affected.</p>
+For a long time the  doctors told me that the illness was an inflammation of the spinal chord, as if  they wanted to hide the truth from me. But, following my persistent  questioning, they finally acknowledged that it was multiple sclerosis. I also  succeeded in getting them to say what the future held for me : paralysed limbs,  a wheelchair, and my sight affected.
     <ol>
       <li>Continue  taking the <em>Immurel</em> and lead a normal life, they said each time.</li>
     </ol>
-    <p>But how could I lead a  normal life when I was seeing double, my limbs trembled, and I had a variety of  symptoms which reminded me at every moment of my life that my state of health  wasn’t normal ?&nbsp; It was more like a life of hell.
+    But how could I lead a  normal life when I was seeing double, my limbs trembled, and I had a variety of  symptoms which reminded me at every moment of my life that my state of health  wasn’t normal ?&nbsp; It was more like a life of hell.
 
-41</p>
+41
 
 ##### NO HOPE
 
@@ -1304,12 +1304,12 @@ When I understood that  medicine gave me no hope, I began, in desperation, to go
 
 It was then that I  began to suspect that the cause of my multiple sclerosis should be sought in  medicines, antibiotics, and food. I spoke to some of my friends, who didn’t  necessarily think I was wrong, but wouldn’t take the risk of asserting it.
 
-In following this line  I was instinctively attracted to health food shops. I have always been  curious by nature, and I didn’t hesitate in asking questions, to which the  dieticians replied to the best of their ability. I asked all kinds of  questions to find out if such and such a product contained a certain element or  other.</p>
+In following this line  I was instinctively attracted to health food shops. I have always been  curious by nature, and I didn’t hesitate in asking questions, to which the  dieticians replied to the best of their ability. I asked all kinds of  questions to find out if such and such a product contained a certain element or  other.
     <ol>
       <li>Do  you have a particular problem ? - they ended up by asking me.</li>
       <li>Yes,  of course, I replied without the slightest difficulty. I have multiple  sclerosis.</li>
     </ol>
-    <p>Contrary to other illnesses, I  wasn’t ashamed to talk about it, and that helped me, as you will see.
+    Contrary to other illnesses, I  wasn’t ashamed to talk about it, and that helped me, as you will see.
 
 By dint of  questioning people, one day someone offered me a book called : <em>“Multiple</em><br>
   <em>&nbsp;Sclerosis is curable”, </em>by Dr. Kousmine. That was at the end  of 1986.<br>
@@ -1322,7 +1322,7 @@ I next sought to read  all the books I could find which dealt with the subject o
 
 Every 6 months I go to  hospital T., for a check-up with Dr. L.; a question of seeing if my condition  has improved or deteriorated. At first the examinations were very  thorough : blood pressure, eye tests, how I walked, etc. I was also questioned.  But after 2/3 years the doctor only looked at my walking and my eyes. All the  rest was abandoned, perhaps indicating the pointlessness of these examinations  and the limited hope the doctors had for my future.
 
-So, during my last  appointment, I dared to ask the doctor some embarrassing questions. Not wanting  to appear offensive, I pretended to be an idiot, at the same time as discreetly  noting his reactions.</p>
+So, during my last  appointment, I dared to ask the doctor some embarrassing questions. Not wanting  to appear offensive, I pretended to be an idiot, at the same time as discreetly  noting his reactions.
     <ol>
       <li>Doctor,  how is my illness progressing ? Do you think I am getting better ?</li>
       <li>You  are the one who can tell if you feel better of not.</li>
@@ -1332,31 +1332,31 @@ So, during my last  appointment, I dared to ask the doctor some embarrassing que
       <li>Yes,  it’s the <em>Immurel</em>.</li>
     </ol>
 
-    <p>42</p>
+    42
 
-    <p>I didn’t dare reveal that I had  stopped taking this drug six months previously ! Now I had<br>
+    I didn’t dare reveal that I had  stopped taking this drug six months previously ! Now I had<br>
       trapped him I was embarrassed.<br>
-      Then I again pretended to be stupid,  which had worked very well. I asked him :</p>
+      Then I again pretended to be stupid,  which had worked very well. I asked him :
     <ol>
       <li>Doctor,  what has caused my multiple sclerosis ? There must be a cause ?</li>
       <li>Your  immune system has turned against your nerves, he told me.</li>
       <li>But,  Doctor, my nerves are protected by the myelin sheath and this need fortifying  with vitamins.</li>
       <li><em>Immurel, immurel, </em>he continued to repeat, for he was an intelligent man who viewed all his  patients as backward.</li>
     </ol>
-    <p>So, with an air of total innocence,  I said :<br>
-      -Perhaps there is a problem of  intestinal flora due to deficiencies in my food. Should I follow a special diet  ?</p>
+    So, with an air of total innocence,  I said :<br>
+      -Perhaps there is a problem of  intestinal flora due to deficiencies in my food. Should I follow a special diet  ?
     <ol>
       <li>No. <em>Immurel </em>is sufficient, and nothing but <em>Immurel.</em></li>
       <li>Doctor,  for 6 months I have been following a particular diet and doing weight lifting.  I</li>
     </ol>
-    <p>&nbsp;think that must have helped me.
+    &nbsp;think that must have helped me.
 
 As I continued to ask  him embarrassing questions, one after the other, he began to realise that I  knew too much for him to ignore or elude the real answers.<br>
 He lowered his head, pretending to look for  something on his desk. I sniggered discreetly, without him noticing. If  he had seen me laughing I would have poured out everything to his face, but I  didn’t want to be unkind, it’s not my nature. In any case, it would have served  no purpose. They have been taught to keep their patients ill, and not to cure  them; just to pretend to cure them.
 
 I forgot to tell him  about the ‘humming’ sensation in my ears. When I asked my G.P. about this he  referred me to a specialist. But the specialist I consulted didn’t give me an  answer either, beating about the bush like politicans with their platitudes,  when they want to hide what they really think. Perhaps also, and it’s probably  true, he didn’t know the answer.
 
-In brief, my current  symptoms are :</p>
+In brief, my current  symptoms are :
     <ol>
       <li>double  vision from time to time.</li>
       <li>shaking  limbs, which persists, in spite of the fact that I have now stopped taking all  drugs, and changed my diet.</li>
@@ -1369,13 +1369,13 @@ I rapidly decided to  undertake a fast, under the competence surveillance of Mr.
 
 After 14 days the  sensation of hunger returned. The symptoms of elimination were very mild  throughout the cure, because of the past antibiotics.
 
-I then followed a  half-fast. After 3 days my tongue became yellow, over the whole  surface. I no longer&nbsp;&nbsp; experienced&nbsp; the double&nbsp;  vision&nbsp; which&nbsp; had&nbsp; so&nbsp; concerned&nbsp; me , nor the</p>
+I then followed a  half-fast. After 3 days my tongue became yellow, over the whole  surface. I no longer&nbsp;&nbsp; experienced&nbsp; the double&nbsp;  vision&nbsp; which&nbsp; had&nbsp; so&nbsp; concerned&nbsp; me , nor the
 
-    <p>43</p>
+    43
 
-    <p>shaking limbs. I think I have totally got rid  of the multiple sclerosis. Mr. Mosseri asked me to confirm this in 3 months.
+    shaking limbs. I think I have totally got rid  of the multiple sclerosis. Mr. Mosseri asked me to confirm this in 3 months.
 
-My tongue remained  coloured for 3 weeks. My vision is no longer double, as I have just said. I  have had no further attacks.-&nbsp; PATRICK DUROU, route de Villeneuve-sur-Lot, 47110  SAINTE-LIVRADE. Tel. 05 53 01 03 84.</p>
+My tongue remained  coloured for 3 weeks. My vision is no longer double, as I have just said. I  have had no further attacks.-&nbsp; PATRICK DUROU, route de Villeneuve-sur-Lot, 47110  SAINTE-LIVRADE. Tel. 05 53 01 03 84.
 
 ##### COMMENTARY&nbsp; by&nbsp; A.M.:
 
@@ -1384,14 +1384,14 @@ My tongue remained  coloured for 3 weeks. My vision is no longer double, as I ha
       <li>The  destruction of the intestinal flora over several years was the obvious cause of  the multiple sclerosis. There would have been a deficiency of the vitamins  normally manufactured by the intestinal flora, nerve cells destroyed by the  undernutrition, and finally, the impediment of motor energy..</li>
       <li>The  dizziness, headaches, and vomiting are symptoms of indigestion&nbsp; created by  the destruction of the intestinal flora.</li>
     </ol>
-    <p>The&nbsp; intestinal&nbsp;  flora&nbsp; manufacture&nbsp; vitamins&nbsp;&nbsp; and&nbsp;&nbsp;  enzymes&nbsp;&nbsp; and&nbsp;&nbsp; it&nbsp;&nbsp; is&nbsp;&nbsp;  possible&nbsp;&nbsp; to&nbsp;&nbsp; see<br>
+    The&nbsp; intestinal&nbsp;  flora&nbsp; manufacture&nbsp; vitamins&nbsp;&nbsp; and&nbsp;&nbsp;  enzymes&nbsp;&nbsp; and&nbsp;&nbsp; it&nbsp;&nbsp; is&nbsp;&nbsp;  possible&nbsp;&nbsp; to&nbsp;&nbsp; see<br>
       immediately how the destruction of this  precious flora can provoke the undernutrition of the eyes, the nerves, and the  blood, which leads to the serious symptoms of Aids and paralysis.<br>
       It&nbsp; is&nbsp; clearly&nbsp; the&nbsp;  destruction&nbsp; of&nbsp; the flora which prevented the body from eliminating  a lot<br>
-&nbsp;of waste during the fast.</p>
+&nbsp;of waste during the fast.
     <ol>
       <li>The  doctors had prescribed him an immunosuppressant called <em>Immurel</em>. A  strange </li>
     </ol>
-    <p>way  of&nbsp; treating sick people : attack the natural defences so that they show  no further symptoms ! But why not kill the illness, so that there are no longer  any symptoms&nbsp; and&nbsp; the patient doesn’t complain any more? Is it not  the collapse of these defences that&nbsp; causes&nbsp; Aids and paralysis ? And  at the same time, realising their blunder, the doctors prescribe yeast to  re-establish the intestinal flora that have been destroyed. But it is too  late, for these drugs also destroy this yeast.<br>
+    way  of&nbsp; treating sick people : attack the natural defences so that they show  no further symptoms ! But why not kill the illness, so that there are no longer  any symptoms&nbsp; and&nbsp; the patient doesn’t complain any more? Is it not  the collapse of these defences that&nbsp; causes&nbsp; Aids and paralysis ? And  at the same time, realising their blunder, the doctors prescribe yeast to  re-establish the intestinal flora that have been destroyed. But it is too  late, for these drugs also destroy this yeast.<br>
 &nbsp;Doctors only like discussing medicine  with their peers, not with their patients. For doctors&nbsp; <br>
 &nbsp;it  is only possible to talk between themselves. To laymen they would say :<br>
 -&nbsp; You have&nbsp; not studied medicine so  you do not have the right to speak or have a say in the<br>
@@ -1405,11 +1405,11 @@ And what&nbsp; about&nbsp; homeopaths ?&nbsp;  They&nbsp; are&nbsp; fully qualif
 
  “The two doctors each felt total contempt for the other. However, they  didn’t hesitate in exchanging opinions, knowing they had nothing to gain or  lose, since these were medical opinions”
 
- A year later this previously paralysed man came to see me. He was totally  cured. –</p>
+ A year later this previously paralysed man came to see me. He was totally  cured. –
 
-    <p>44</p>
+    44
 
-    <p>Ch.9</p>
+    Ch.9
 
 ##### I CURED MY GLAUCOMA  IN THREE DAYS !</strong><br>
     <strong>************
@@ -1434,11 +1434,11 @@ The results were  surprising in all respects : the glaucoma disappeared as if by
 
 A few months later I  went to see the same opthalmologist for an eye test. I confessed that I  hadn’t followed his treatment of&nbsp; eye drops. Although I no longer  had&nbsp; painful eyes he insisted that if I didn’t use the drops I could  become blind !
 
-He examined and re-examined  my eyes, using all the known tests, then he said to me :</p>
+He examined and re-examined  my eyes, using all the known tests, then he said to me :
     <ol>
       <li>Madam,  you are lucky.</li>
     </ol>
-    <p>In fact, there was no further trace  of glaucoma, and my sight, as well as my general state of health, were much  better.<br>
+    In fact, there was no further trace  of glaucoma, and my sight, as well as my general state of health, were much  better.<br>
       ________________________<br>
       <strong>COMMENTARY BY A.M. :
 
@@ -1467,18 +1467,18 @@ Moreover,  as far as the medecal profession is concerned, someone who has been c
  Thus, if diet affects the health of the body in its entirety, there is no  reason for it not also affecting&nbsp; that of the eyes.
 
  To be convinced, it suffices to just have a try, honestly. –<br>
-      DR. V.V. VETRANO, <em>Hygienic  Review</em>, N° 10 Vol; XLI, 1980.-</p>
+      DR. V.V. VETRANO, <em>Hygienic  Review</em>, N° 10 Vol; XLI, 1980.-
 
 
 
 
 
 
-    <p>46</p>
+    46
 
-    <p>&nbsp;
+    &nbsp;
 
-Ch.10</p>
+Ch.10
 
 ##### I WAS SERIOUSLY  DEPRESSED</strong><br>
       AND TEN OTHER AILMENTS :<br>
@@ -1506,9 +1506,9 @@ I had hopes for a  bright future, but after this heavy dose of flu my health see
 
  I also had muscular spasms which pulled and flexed my arms and fingers into  grotesque
 
-47</p>
+47
 
-    <p>&nbsp;positions. All my  muscles seemed to be pulling in  opposite directions at the same time,<br>
+    &nbsp;positions. All my  muscles seemed to be pulling in  opposite directions at the same time,<br>
       causing the worst pain, and fear that I had  ever known. When I had these spasms, it was as though I was paralysed, full of ants  and that everything inside me was creeping. Sometimes I had one or two of these  crises a day, but there were also days when I was free of them.
 
 At the same time I  took to eating to excess, and my weight rapidly increased, along with an  equally rapid deterioration in my health.
@@ -1535,9 +1535,9 @@ Then one day I heard about a reflexologist  and I decided to try him. He took me
 
 The results were more  positive than anything I had seen previously, with the help of doctors. An  immediate improvement surprised me, and it was only later that I  understood the reason. In fact, when you stop poisoning yourself, it is quite  natural to feel better. I was then able to work a little better, which hadn’t  happened for years. I even did some gardening for the first time in ages. I  went on a pilgrimage to the Holy Land, and although  I was still unwell, I was able to enjoy this trip. My health improved  daily, but wasn’t yet perfect. Around the month of January I began putting on  weight : twelve kilos (26 lbs) in very little time. My arthritis worsened and I  was laid low by a new bout of flu. It was a major elimination crisis which had  been provoked by the cessation of the drugs, and by my change 
 
-48</p>
+48
 
-    <p>in diet.
+    in diet.
 
 I again felt the  creeping sensation on my face. I should also say that I had had a tender and  sore abdomen for years, that I had never done much about. I had learned  to ‘live with it’. From time to time I was doubled up with abdominal  pains provoked by wind, and I felt as though I had stones in my abdomen. I have  always had liver and gall bladder problems too. In short, I had all the  complaints. What’s more, for 35 yrs, I had, from time to time, suffered from  depression.
 
@@ -1565,9 +1565,9 @@ I subsequently had a  variety of crises. All of a sudden my kidneys started hurt
 
  I next undertook a&nbsp; third&nbsp; fast&nbsp; of&nbsp; 11&nbsp; days,  after&nbsp; 3&nbsp; weeks&nbsp; of&nbsp; eating, as&nbsp; on&nbsp;  the&nbsp; previous <br>
 occasion.  The pains all over my body eased, except in the base of my stomach, as  well&nbsp; as&nbsp; the<br>
-      arthritic  pains in my legs, knees, and thighs, especially when I was standing for a long  time. I also had headaches and a yellow discharge.</p>
+      arthritic  pains in my legs, knees, and thighs, especially when I was standing for a long  time. I also had headaches and a yellow discharge.
 
-    <p>49</p>
+    49
 
 ##### THE RETURN OF THE SYMPTOMS AFTER FASTING
 
@@ -1575,12 +1575,12 @@ occasion.  The pains all over my body eased, except in the base of my stomach, a
 
 After this third fast,  for the first time my legs no longer hurt. Nevertheless the muscles in my back  did, and I was still also very weak and nervous; but this is not unusual for  those who were in a nervous state before fasting.
 
-I asked Dr; Vetrano :</p>
+I asked Dr; Vetrano :
     <ol>
       <li>Is  it possible to recover without crises ?</li>
       <li>Sometimes,  she told me. But most of the time people have to go through these  crises</li>
     </ol>
-    <p>&nbsp;along the road to radiant health.<br>
+    &nbsp;along the road to radiant health.<br>
   I stayed at the Health School for four months, in  all. I felt quite well, but not as well as <br>
       I would have liked. Much more repair and  development needed to be done. I still needed to lose a little more weight, and  a lot of symptoms at the same time. But I wasn’t discouraged.<br>
 &nbsp;Once I was home the crises continued. But  I persevered with the Hygienic way of living,<br>
@@ -1596,9 +1596,9 @@ Dr. Vetrano  comments on this difficult case in the following terms :<br>
   Other  doctors will say they can have quicker results. It is possible, but these  results are fictitious and ephemeral. In the long term, these so-called results  will finish by destroying a person’s health. Recovery using natural hygeine  methods takes time, but it is sure and durable. We can even say it is ultra  fast, for there are no other means. Either you follow nature’s path, or  you continue to suffer, until death delivers you.<br>
       When your body goes  through crisis after crisis, it is seeking, in fact, to recover, to 
 
-50</p>
+50
 
-    <p>heal  tissues and repair damage. And when all this work is finished you will be a new  person. The most wonderful thing is – you feel it too!” concluded Vetrano.
+    heal  tissues and repair damage. And when all this work is finished you will be a new  person. The most wonderful thing is – you feel it too!” concluded Vetrano.
 
 Here is all the correspondence that  we exchanged:
 
@@ -1627,9 +1627,9 @@ And here is the reply  from Dr. Vetrano:
 
 Dear Dr. Vetrano,<br>
       I am feeling better. My valleys are not so low,  nor my hills as high as they were. My hair has almost stopped falling out, but  I don’t have much left to fall out either. Sincerely, &nbsp;&nbsp; Suzanne<br>
-      51</p>
+      51
 
-    <p>Sometimes,  writes Dr.Vetrano, after several long fasts, the hair will fall out and thin,  as it does when a person has a debilitating fever. This is temporary and it  soon grows back. Also she had, on her own, cut her protein to a very low level  and I had to encourage her to eat more.
+    Sometimes,  writes Dr.Vetrano, after several long fasts, the hair will fall out and thin,  as it does when a person has a debilitating fever. This is temporary and it  soon grows back. Also she had, on her own, cut her protein to a very low level  and I had to encourage her to eat more.
 
 Here are her other  letters and the replies:
 
@@ -1662,60 +1662,60 @@ I have written four  pages for your records. It could almost be made into a book
 
 This Spring, when I  mowed the banks of the lawn I did something that disturbed the varicose veins  in and around my left knee. Since then it has given me trouble. The veins get  large and there is a soft lump on the inside of the leg, at the knee: Any  suggestions?
 
-52</p>
+52
 
-    <p>If you print my story  I’d appreciate having a copy.
+    If you print my story  I’d appreciate having a copy.
 
  I feel good, but I get tired quickly because I work hard. People marvel at the  work I do.
 
 Well, say hello to  everyone at the Health   School. I shall look  forward to hearing from you. Thank you for helping me over the phone last  winter. Enclosed is a fairly recent picture of me. Sincerely, &nbsp;&nbsp;&nbsp;&nbsp; Suzanne<br>
   <strong>THE APPRAISAL
 
-Let’s look at what  Natural Hygiene has done for me :</p>
+Let’s look at what  Natural Hygiene has done for me :
     <ol>
       <li><em>Nerves</em> : I  was in a lamentable nervous state for 36 years. At&nbsp; the onset&nbsp;&nbsp;  I&nbsp; had&nbsp; fits, </li>
     </ol>
-    <p>or spasms, then later a constant  debilitating weakness and inward nervousness that never went away, accompanied  by depressions. During my cures, and then on my return home my nervous state  was exacerbated, but then calmed down. I am now calm and can face life with  ease.<br>
+    or spasms, then later a constant  debilitating weakness and inward nervousness that never went away, accompanied  by depressions. During my cures, and then on my return home my nervous state  was exacerbated, but then calmed down. I am now calm and can face life with  ease.<br>
       <em>2)&nbsp; Rheumatism, bursitis,  sciatica, arthritis, neualgia, etc</em>. : Every joint, muscle, and in my body seemed to give me severe pain,  day and night. The Dr. gave me the strongest pain killers he could give,  orally, with little results. The x-rays showed many calcium deposits in the  spine and joints. – Thanks to <em>Hygienic </em>living I am free of all this  rheumatic pain.<br>
       <em>3)&nbsp; Female problems :</em> I have suffered from these almost  all my life and have even had fibroids, but this is all much better now.<br>
-      4)&nbsp; <em>Obesity and water  retention </em>: I had kidney and bladder trouble for 30 years (a condition that  seems to run in my family). I weighed&nbsp; 98 kg (217 lbs)&nbsp; due to fluid  retention and took diuretics for years. I believe the fasting removed some  stones. I now weigh 62 kg (137 lbs). </p>
+      4)&nbsp; <em>Obesity and water  retention </em>: I had kidney and bladder trouble for 30 years (a condition that  seems to run in my family). I weighed&nbsp; 98 kg (217 lbs)&nbsp; due to fluid  retention and took diuretics for years. I believe the fasting removed some  stones. I now weigh 62 kg (137 lbs). 
     <ol>
       <li><em>Thyroid :</em>&nbsp;  Almost all my thyroid gland was removed 30 years before I started fasting</li>
     </ol>
-    <p><em>&nbsp;&nbsp;&nbsp; </em>&nbsp;and I had taken thyroid medicine almost  all of that time.</p>
+    <em>&nbsp;&nbsp;&nbsp; </em>&nbsp;and I had taken thyroid medicine almost  all of that time.
     <ol>
       <li><em>The Heart </em>&nbsp;There  was fluid aroung my heart and lungs, giving me terrible pain in my</li>
     </ol>
-    <p>arms. The Dr; gave me heart medicine</p>
+    arms. The Dr; gave me heart medicine
     <ol>
       <li><em>Flu and colds : </em>&nbsp;Every winter I used to suffer severe colds, flu and I once had</li>
     </ol>
-    <p>pneumonia<em>.</em> I now seldom have  a cold and when I do it only lasts a little while. I’ve had flu once in 4  years.</p>
+    pneumonia<em>.</em> I now seldom have  a cold and when I do it only lasts a little while. I’ve had flu once in 4  years.
     <ol>
       <li><em>Allergies :</em>&nbsp;  I was terrible aflicted with allergies, both inside my organs (lungs, kidneys</li>
     </ol>
-    <p>etc.), and also on the outside. Even  pulling out weeds would make me break out. Now – no more allergies.</p>
+    etc.), and also on the outside. Even  pulling out weeds would make me break out. Now – no more allergies.
     <ol>
       <li><em>Ulcer : </em>&nbsp;I had an ulcer on my eyeball which the  Dr. said I would always have, and did</li>
     </ol>
-    <p>&nbsp;have, until I fasted; In 4  years it has not bothered me and I know it is healed.<br>
+    &nbsp;have, until I fasted; In 4  years it has not bothered me and I know it is healed.<br>
       <em>10)&nbsp; Spur bones :</em> X-rays showed 6 spur bones in my  feet that gave me a lot of misery. No problem since I fasted.<br>
       I haven’t taken any  medication for 6 years now, not even vitamins. I work almost every day at home  or in the garden. I am now 62 yeas old. All this thanks to Hygiene, the  biblical way of eating and taking care of the body.<br>
       Thanks also to Dr.  Vetrano for assisting me to do what I knew all along was the right way to eat  rest, exercise and fast, but did not have the will power to do&nbsp; on my own.<br>
       A few other points of health might  also be of interest.
 
-53</p>
+53
 
     <ol>
       <li><em>My vision : </em>My  eyes have cleared up and my vision is clearer. I only need glasses for</li>
     </ol>
-    <p>&nbsp;close work. Before I wore  triple lenses and I still could not read very well.</p>
+    &nbsp;close work. Before I wore  triple lenses and I still could not read very well.
     <ol>
       <li><em>My hair :</em> I lost  my old hair but the new hair that grew was very fine and less grey. I now have  hair that reaches the bottom of my spine.</li>
       <li><em>Taste and smell :</em>&nbsp; My taste and smell are much keener.</li>
       <li><em>Hearing :</em> I  also like to think I can hear better.</li>
     </ol>
-    <p><em>Dear Suzanne
+    <em>Dear Suzanne
 
 Thank you very much  for your progress report. When I read it to Dr. Shelton he wanted to use it in  our new book on arthritis. Another writer who was here will probably want to  use it in his book on fasting. We will only use your initials, but the other author  wants authentic reports and medical records showing your state of health before  and after the fast. If you have access to your past medical records and x-rays  we would appreciate you sending them to us.
 
@@ -1741,7 +1741,7 @@ As I suffered from  this nervous condition for 36 years, I consulted a number of
 
 The doctor who cared  for me when I started having nerve problems at the age of 23 yrs later died,  and according to his secretary, his records were destroyed. The other doctors  who, for years, treated my thyroid problems and kidney and bladder infections,  have also been dead for a number of years. I feel sure their records will also  have disappeared.&nbsp;&nbsp;&nbsp; 
 
-54</p>
+54
 
 As for Dr.  Mance, who treated me for a number of years until around 1956; I haven’t asked  him for my records as I don’t think he would be sympathetic towards the  Hygienic way to health. One of his patients with cancer, who was about ready to  die, went into a similar clinic for a cure, and recovered. But after she told  him what they did for her, the clinic was closed following a complaint to the  A.M.A. This patient continued living for another 19 years and died at the age  of 81 of a stroke.
 
@@ -1754,42 +1754,42 @@ Would it be possible  for you to send me a copy of the proof of my case history 
 My varicose veins are  better. I think I was eating too many dairy products. Thank you for your  suggestions about how not to eat the wrong things. I try, but those habits are  really difficult to overcome. I mostly feel fine, sleep soundly, and really  enjoy life. I seldom get very tired, even after working all day. Sincerely, &nbsp;&nbsp;&nbsp;&nbsp; Suzanne
 
 (Translated <em>from  Dr. Shelton’s Hygienic Review, </em>November 1979).<br>
-  <strong>USEFUL NOTES BY AM. :</strong></p>
+  <strong>USEFUL NOTES BY AM. :</strong>
     <ol>
       <li>Those  who stay in bed while fasting think it is necessary to do something to speed up  the elimination process. They don’t know that the body never stops working, and  that it works better when they do nothing !</li>
       <li>Diarrhoea,  loose stools and the bad smelling gas could have been avoided if she had spent  a few weeks preparing herself&nbsp; before starting to fast.</li>
       <li>Dr.  Vetrano, considering the quantity of drugs that this patient had ingurgitated,  did not wish to prolong the fast for more than 14 days the first time.</li>
     </ol>
-    <p>But a long preparation, at home,  would have launched an effective elimination and thus avoided the brutal shock  of a fast, undertaken straight away, with a body that was poisoned, and the  mind haunted by the fear of provoking deficiencies and a much too violent  elimination.</p>
+    But a long preparation, at home,  would have launched an effective elimination and thus avoided the brutal shock  of a fast, undertaken straight away, with a body that was poisoned, and the  mind haunted by the fear of provoking deficiencies and a much too violent  elimination.
     <ol>
       <li>It  should be noted that this patient, once on the path to recovery, suffered from  all her former ailments, which reoccurred one by one. In fact illness is  nothing more than a means of elimination.. The body, which has been prevented  by all the medicines from performing its process of elimination, resumes all  the tasks it has put on hold, as soon as it finds the strength and the  occasion.</li>
       <li>Note  the method which was followed : an average first fast, then an interval of 5  weeks, then a second fast, and thus she continued. The Dr. knew instinctively  that her patient did not have enough reserves to fast for long. However, the  Dr. had nothing to</li>
     </ol>
 
-    <p>55</p>
+    55
 
-    <p>guide her; no compass, no milestone,  no benchmark. She drifted along instinctively, feeling her way as she went.<br>
-  The cessation of weight loss would  have been a precious signal, which indicates the exhaustion of the body’s  reserves. Otherwise, it’s the&nbsp; trial and error method, which in my  opinion, is too brutal. It is preferable, by far, to take time at home to  prepare, then to follow the fast with a half fast, for as long as necessary, be  it even several months. This half fast comprises 500 g of fruit and 500 g of  raw food, spread over the afternoon. In the majority of cases the tongue becomes  coloured, and this is&nbsp; an indicator, a benchmark, which acts as a guide  and designates the day when elimination has ceased and the moment for the  subject to start eating. </p>
+    guide her; no compass, no milestone,  no benchmark. She drifted along instinctively, feeling her way as she went.<br>
+  The cessation of weight loss would  have been a precious signal, which indicates the exhaustion of the body’s  reserves. Otherwise, it’s the&nbsp; trial and error method, which in my  opinion, is too brutal. It is preferable, by far, to take time at home to  prepare, then to follow the fast with a half fast, for as long as necessary, be  it even several months. This half fast comprises 500 g of fruit and 500 g of  raw food, spread over the afternoon. In the majority of cases the tongue becomes  coloured, and this is&nbsp; an indicator, a benchmark, which acts as a guide  and designates the day when elimination has ceased and the moment for the  subject to start eating. 
     <ol>
       <li>The  kidney pains suffered by this patient indicate elimination by kidneys that are  overworked. At moments like this it is necessary to drink a lot of water. If  the patient has difficulty in drinking, adding lemon juice to the water can  help.</li>
       <li>The  return of symptoms after a fast means the body has not finished its  elimination, and that this is starting up again. This is the method of the half  fast.</li>
       <li>Concerning  those who abandon Natural Hygiene, because they are seeking rapid results, I  must say something important. The Dr. accuses these patients of lacking  patience and perseverance. I would say rather that they have not understood  very much about fasting !</li>
     </ol>
-    <p>In fact, even if the  results take a long time to appear, the natural Hygiene diet should be followed  for the simple reason that it is Nature’s diet, and that there is no other  correct diet.<br>
-      For example, when we  say that it is necessary to wait to feel hungry before eating, that food should  be eaten, as far as possible, in its natural state, <strong>these natural principles  should be adhered to, without worrying about what will follow. </strong>But the consequences  can only be positive.</p>
+    In fact, even if the  results take a long time to appear, the natural Hygiene diet should be followed  for the simple reason that it is Nature’s diet, and that there is no other  correct diet.<br>
+      For example, when we  say that it is necessary to wait to feel hungry before eating, that food should  be eaten, as far as possible, in its natural state, <strong>these natural principles  should be adhered to, without worrying about what will follow. </strong>But the consequences  can only be positive.
     <ol>
       <li>When  our patient says she can no longer fast without becoming weak, and suffering  from a terrible depression, to the point at which she feels her life is no  longer worth living, we should not forget that all the fasts she has undertaken  must have left her with significant deficiencies, and that she has not yet made  up for these deficiencies. Hence the depressions. She has, without doubt,  fasted too much.</li>
       <li>Between  professional natural hygienists there are differences of understanding and  application of the principles. In my opinion the depression is a symptom of  elimination. It is when the cells unload their toxins into the blood that the  nervous system is perturbed. We have to incriminate not only the medicines of  the past, but also the consumption of nuts that I formally condemn, especially  for those who are ill. </li>
     </ol>
-    <p>And I also  condemn all forms of <strong>&nbsp;muscular exercise</strong> for those with chronic  ailments. I have spoken about this in number 4 of the review ‘<em>The Natural  Hygienists’</em>. All of that retards considerably the recovery of chronically  ill people. Shelton  also used to recommend eating nuts, and exercising for the chronically ill.  It’s crazy !</p>
+    And I also  condemn all forms of <strong>&nbsp;muscular exercise</strong> for those with chronic  ailments. I have spoken about this in number 4 of the review ‘<em>The Natural  Hygienists’</em>. All of that retards considerably the recovery of chronically  ill people. Shelton  also used to recommend eating nuts, and exercising for the chronically ill.  It’s crazy !
     <ol>
       <li>Of  her own volition the patient had diminished her ration of food with a high  protein content. In my opinion she had the right intuition.</li>
       <li>When  our patient had eaten too many nuts she felt stimulated, her blood pressure  rose, but she had to pay dearly soon afterwards: she developed flu and a  carbuncle.</li>
       <li>When  the patient wanted to eat everything that she shouldn’t, we must understand  that</li>
     </ol>
-    <p>56</p>
+    56
 
-    <p>she was suffering from  serious undernutrition, and this was accentuated by the nuts. Furthermore,  those who eat too many nuts can end up by becoming bulimic. The body demands  enormous quantities of food, which do not benefit the body, for nuts poison it  and diminish its digestive powers.</p>
+    she was suffering from  serious undernutrition, and this was accentuated by the nuts. Furthermore,  those who eat too many nuts can end up by becoming bulimic. The body demands  enormous quantities of food, which do not benefit the body, for nuts poison it  and diminish its digestive powers.
     <ol>
       <li>Note  that our sick person had stopped her medicines two years before undertaking her  fasting cures. And in spite of this&nbsp; long period the crises during the  fast were very strong. She had taken too many drugs in the past.</li>
       <li>The  exacerbated nervous state at the end of her fasts was a symptom of  undernutrition and deficiencies, due to the nuts, and the lack of benchmarks  during the cures. She had felt her way along, and certainly gone beyond the  limit when deficiencies began. She had fasted too frequently and for too long.</li>
@@ -1803,9 +1803,9 @@ My varicose veins are  better. I think I was eating too many dairy products. Tha
 
 
 
-    <p>57</p>
+    57
 
-    <p>Ch. 11
+    Ch. 11
 
 ###### NATURAL HYGIENE :
 
@@ -1814,7 +1814,7 @@ My varicose veins are  better. I think I was eating too many dairy products. Tha
 *************
 
 Two days later Zadig  was completely cured. Hermès, the great doctor, wrote a book in which he proved  that he should not have recovered. –<br>
-      VOLTAIRE.</p>
+      VOLTAIRE.
 
 ##### N&nbsp;&nbsp; </strong>atural Hygiene is a revolutionary  health movement which was born in the U.S.A. at the
 
@@ -1839,9 +1839,9 @@ Naturopathy has not  renounced the basis of medicine, which is the struggle agai
 A house is in ruins,  dilapidated; in the same way as the health of a patient is in ruins, his<br>
       normal functioning disrupted. You  want to repare this tumbledown house and make it habitable. To this end you use  bricks, tiles, cement, breeze blocks, stone, etc. That is to say, the same  construction materials that served to build the house in the first place.
 
-58</p>
+58
 
-    <p>It is the  same for a run down body in poor health, one that is sick. Only the materials  that served to build it initially can be used to repare it, to buck it up, to  revive it.
+    It is the  same for a run down body in poor health, one that is sick. Only the materials  that served to build it initially can be used to repare it, to buck it up, to  revive it.
 
 The  Naturopath who resorts to&nbsp; hip-baths, massages, infusions, and to all the  modes of treatment used in this field, is not a natural hygienist.
 
@@ -1867,22 +1867,22 @@ I was the  first to use the word<em> Hygienism </em>to designate our system. In 
 
  People like to think that there exists somewhere in nature, a plant which can  end all suffering, <em>without touching the causes.
 
- They reject out of hand the logical solution, which consists of eliminating the  cause. They are perfectly aware of the cause, but unconsciously do not want to  get rid of it and need to be given an illustration.</p>
+ They reject out of hand the logical solution, which consists of eliminating the  cause. They are perfectly aware of the cause, but unconsciously do not want to  get rid of it and need to be given an illustration.
     <ol>
       <li>I  suffer from terrible headaches, a young man told me one day. Could you give me  a remedy?</li>
       <li>You  must get rid of the cause, I told him.</li>
       <li>But I  know what the cause is. I often drink alcohol. I am looking rather for  something which relieves the pain (that means to say without getting rid of the  irritating cause).</li>
     </ol>
-    <p>This is the mentality of people. They are even capable of taking a little  poison which will help them not to feel their pain.
+    This is the mentality of people. They are even capable of taking a little  poison which will help them not to feel their pain.
 
-59</p>
+59
 
-    <p>And this poison may be an infusion, a drug, a treatment for something, etc.<br>
+    And this poison may be an infusion, a drug, a treatment for something, etc.<br>
       Why a small dose of poison? That means to say that they do not want to take  too much for fear of dying from it.
 
 ###### THE&nbsp;  GUILTY&nbsp; INDUSTRIES 
 
- In assuring radiant health the natural hygiene movement will inevitably mean  the disappearance of the following harmful industries :</p>
+ In assuring radiant health the natural hygiene movement will inevitably mean  the disappearance of the following harmful industries :
     <ol>
       <li>the  pharmaceutical industry.</li>
       <li>the  tobacco industry</li>
@@ -1893,25 +1893,25 @@ I was the  first to use the word<em> Hygienism </em>to designate our system. In 
       <li>the  meat industry</li>
       <li>the  agro-food industry.</li>
     </ol>
-    <p> If the hygienist movement aims for the destruction of medicine it would however  retain surgery for accidents and other rare cases.
+     If the hygienist movement aims for the destruction of medicine it would however  retain surgery for accidents and other rare cases.
 
  That being said I am under no illusion about the extent of the victory to be  attained. I estimate that only ten per cent of the population will allow  themselves to be convinced of the soundness of our position, while the other  90% will refuse any discussion from the start. The latter will prefer to opt  for the suppression of the symptoms produced by their unhealthy habits. They  prefer to live dangerously, suffer and die, rather than to live healthily. They  prefer stimulation, an artificial euphoria, intoxication, the overexcitement  and dizziness of speed, to wisdom well-being, to the serenity and profound joy  of radiant health.
 
  It follows that medicine, even if it will be beaten in the scientific domain by  natural hygiene, will remain the preference for the majority.
 
-One one side will  be the mad and the other the wise ,– hell and paradise,- sickness and health,-  medicine and Natural Hygiene </p>
+One one side will  be the mad and the other the wise ,– hell and paradise,- sickness and health,-  medicine and Natural Hygiene 
 
 
 
-    <p>60</p>
+    60
 
-    <p>Ch. 12
+    Ch. 12
 
 ###### PREPARATION FOR A FAST
 
 ###### ********
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Microbes  are no more the cause of illnes than flies are the cause of dirt. -</p>
+&nbsp;&nbsp;&nbsp;&nbsp;  Microbes  are no more the cause of illnes than flies are the cause of dirt. -
 
 ##### B</strong>&nbsp;&nbsp;&nbsp;&nbsp; efore  embarquing on a fasting cure a certain preparation is indispensible, so as to  avoid&nbsp;&nbsp; 
 
@@ -1919,12 +1919,12 @@ One one side will  be the mad and the other the wise ,– hell and paradise,- si
 
  &nbsp;&nbsp;In fact, during a  fast it is possible to spend some quite unpleasant moments, ranging from  headaches; dizziness, even when lying down; repeated and incessant vomiting day  and night; to delirium, or confusion when the person cannot remember anything  either about the day, or the names of their children, etc.
 
-This  preparation has two parts :</p>
+This  preparation has two parts :
     <ol>
       <li>the  cessation of drugs, either abruptly, or progressively, according to the case.  Those who do not stop their medicine some time before fasting risk the most  violent crises.</li>
       <li>following  a preparatory diet for one, or several weeks beforehand. This diet should be  based on the normal natural hygiene menu. It is not worth following a more  severe preparation, in stages, because already with the normal natural hygiene  diet you lose 3kg.</li>
     </ol>
-    <p>This diet should be followed  carefully, at home. Any negligence will cause unnecessary suffering during the  fast, as well as when you resume eating. Indeed, there is a risk of&nbsp; a  stool being stuck to the wall of the anus just at the moment of starting to eat  again. This can lead to dramatic problems, as will be seen in the chapter  dedicated to this question.
+    This diet should be followed  carefully, at home. Any negligence will cause unnecessary suffering during the  fast, as well as when you resume eating. Indeed, there is a risk of&nbsp; a  stool being stuck to the wall of the anus just at the moment of starting to eat  again. This can lead to dramatic problems, as will be seen in the chapter  dedicated to this question.
 
 Shelton  advised no particular preparation and this is why some of his subjects suffered  violent crises.
 
@@ -1938,28 +1938,28 @@ The second  phase consists only of fruit juice and raw vegetables. When the subj
 
 Weight  stabilisation signifies that the body has adapted to its food intake. It is a <em>nutritional  adaptation.
 
-This form  of preparation has several flaws :</p>
+This form  of preparation has several flaws :
     <ol>
       <li>it  maintains hunger, while fasting cuts it rapidly, in a few days, and sometimes  right from the beginning.</li>
       <li>it  makes the subject, who could have followed such a diet at home, lose time.</li>
     </ol>
 
-    <p>61</p>
+    61
 
     <ol>
       <li>finally,  it constitutes too violent and too brutal a change. In fact, it is a question  of a </li>
     </ol>
-    <p>half fast, which is too abrupt for the average  person’s diet. It is quite enough to undergo a preparation using the normal  natural hygiene diet, which already eliminates tobacco, coffee, wine, meat,  bread, etc., and which results in the subject losing 3kg (6.6 lbs) in the first  week, well before having begun to fast. Isn’t this sufficient ?<br>
+    half fast, which is too abrupt for the average  person’s diet. It is quite enough to undergo a preparation using the normal  natural hygiene diet, which already eliminates tobacco, coffee, wine, meat,  bread, etc., and which results in the subject losing 3kg (6.6 lbs) in the first  week, well before having begun to fast. Isn’t this sufficient ?<br>
       If a subject has only a month, applying the  different stages means he would only actually<br>
 &nbsp;fast  for a few days.<br>
       It is much easier to go straight into a fast  than to play around with stages, which only <br>
       illustrate the apprehension and fear of the  director of the cure clinic. 
 
-I once  asked Dr. Shelton the question about fasting in successive stages, and he gave  me the following reply :</p>
+I once  asked Dr. Shelton the question about fasting in successive stages, and he gave  me the following reply :
     <ol>
       <li>If  you want to cut off a dog’s tail you don’t cut off an inch each day. It’s less  painful if</li>
     </ol>
-    <p>&nbsp;you cut it off in one go. –
+    &nbsp;you cut it off in one go. –
 
 The preparation  that I give consists of following the normal natural hygiene menu (2 to 3 kilos  of food per day), and eliminating all the poisons (coffee, chocolate, wine,  fermented cheeses, etc.). Those who follow it conscientiously lose 3 kg in a  week. There is no purpose in following a preparation which is more severe and  difficult to stick to. Just as well to fast. Isn’t it easier to fast than to  limit oneself in such a drastic way ?
 
@@ -1979,11 +1979,11 @@ Mrs. Theresa had  already fasted for the first time in the U.S.A., at Dr. Benesh
 
 Several year later she  came to my establishment, Not having followed very closely a natural hygiene  way of eating, she had put on all the weight she had lost, and more. !
 
-Thus, she followed a  15 day fast at my home with some difficulty, for her enthusiasm&nbsp; had  waned. Indeed the experience of fasting was not new to her, and although she  was fully convinced of its usefulness, she had lost her courage and sense of  wonder. In fact, the imagination is only captivated by the unknown, and she  lacked fervour.</p>
+Thus, she followed a  15 day fast at my home with some difficulty, for her enthusiasm&nbsp; had  waned. Indeed the experience of fasting was not new to her, and although she  was fully convinced of its usefulness, she had lost her courage and sense of  wonder. In fact, the imagination is only captivated by the unknown, and she  lacked fervour.
 
-    <p>62</p>
+    62
 
-    <p>The third time she  came to me to lose weight, she totally refused to fast. I therefore put her on  a diet&nbsp; more frugal than that I have described below.
+    The third time she  came to me to lose weight, she totally refused to fast. I therefore put her on  a diet&nbsp; more frugal than that I have described below.
 
 She lost weight, and  after 2 weeks, what was due to happen happened; one of nature’s miracles : she  lost all sensation of hunger, and even felt a little nauseous and  disgusted&nbsp; by food. At this point she, herself, asked to fast. She  followed her instinct and took notice of her body’s reactions. Nature directed  her superbly.
 
@@ -2014,9 +2014,9 @@ To go to  the toilet he had&nbsp; to drag himself on his back, along the floor, 
 
 I remember the case of  the famous american Naturopath, Bernarr Macfadden : following 
 
-63</p>
+63
 
-    <p>an excess  of eating at the age of 83 yrs, he suffered a serious liver complaint with  jaundice.<br>
+    an excess  of eating at the age of 83 yrs, he suffered a serious liver complaint with  jaundice.<br>
 &nbsp;He fasted for 3 days, but his wife  telephoned a doctor who dispatched him to hospital, where they killed him in no  time. A spouse who is not a natural hygienist : danger.
 
 In short,  with the help of the telephone, my childhood friend employed a nurse to help  him for an hour a day, then he called a naturopath, and finally a woman to come  and clean and do his shopping. He rang me every day and scrupulously followed  my instructions. He wanted me to send him the hairpin that I have described in  my book, but I explained that it wasn’t necessary as he did not have a stool  stuck to the wall of the anus. Stools only stick when a person has fasted and  eaten their first meal. He had in fact been eating for several days.
@@ -2043,9 +2043,9 @@ He was suffering from  cancer of the bladder. He urinated very often, day and ni
 
 The doctors prescribed total removal of the  bladder and its replacement with two external plastic bags ! They gave him two  years to live. But when you have a problem with your head 
 
-64</p>
+64
 
-    <p>or your testicles they don’t recommend removal  of the head or the testicles. How wonderful medicine is !
+    or your testicles they don’t recommend removal  of the head or the testicles. How wonderful medicine is !
 
 In short, he refused  the operation.<br>
 -&nbsp;&nbsp;&nbsp;&nbsp;  My sister blackmailed  me and forced me to come to you and fast. I don’t want to fast, but I am also  refusing the operation because I won’t be able to go to the swimming pool, or  the seaside afterwards.
@@ -2079,9 +2079,9 @@ The fact  is, that if I had made him&nbsp; fast in the first place, he would hav
 
 It is a question of people were ill  in the past and stopped taking their medication a long time ago, but who have,  however, been on medication. This category of person risks violent 
 
-65</p>
+65
 
-    <p>deintoxification attacks during the first few  days of a fast. A long preparation is therefore necessary : 1 to 2 months.
+    deintoxification attacks during the first few  days of a fast. A long preparation is therefore necessary : 1 to 2 months.
 
 A lady came  to fast, accompanied by her mother of 72 years.
 
@@ -2095,29 +2095,29 @@ It is  obvious that this was an episode of elimination of the old medication, wh
 
 A  preparation of two or three months would have spared us all these  misadventures.
 
-Tableau</p>
+Tableau
     <table border="0" cellspacing="0" cellpadding="0" width="624">
       <tbody><tr>
-        <td width="624" valign="top"><p><strong>PREPARATION</strong></p>
+        <td width="624" valign="top"><strong>PREPARATION</strong>
         ##### DAYTIME </strong>:&nbsp; Wait until you have an acute hunger, then calm it with some dried    fruit of
 
 the same    kind. Repeat with another sort of fruit.
 
-<em>Optional    :</em> dessert, avocado, yoghurt.</p>
+<em>Optional    :</em> dessert, avocado, yoghurt.
       ##### AT 5/7    P.M. : </strong>Green vegetables
 
    &nbsp;&nbsp;&nbsp;&nbsp; Salads
 
-   &nbsp;&nbsp;&nbsp;&nbsp; Seasoning (see below)</p>
+   &nbsp;&nbsp;&nbsp;&nbsp; Seasoning (see below)
       ##### THE    EVENING :</strong> Have one of the&nbsp; following 3 meals :<br>
   1)&nbsp;    Boiled potatoes, +    aubergine, onion, green pepper, all cooked (500-1500g in all. It’s the Natural hygiene ratatouille.
   2) Potatoes + cooked brussel sprouts (in all 500-1500g), green salad without dressing as an accompaniment, (above also).
 3) A variety of    vegetables, cooked in water (500-1500g)
-1&nbsp; egg yolk, raw    or hard boiled, optional. </p></td>
+1&nbsp; egg yolk, raw    or hard boiled, optional. </td>
       </tr>
     </tbody></table>
 
-    <p> DESSERTS&nbsp; (30/60 m after the evening meal, but with the midday meal).
+     DESSERTS&nbsp; (30/60 m after the evening meal, but with the midday meal).
 
 Dates, figs, raisins  that have been soaked, dried apricots, cooked or dried bananas, sterilised or  fresh cream optional (1 soupspoon), a teaspoon of almond purée or tahini, 2/3  soupspoons of soft white cheese, yoghurt without sugar or curd, buttered rusks  (organic).
 
@@ -2125,9 +2125,9 @@ Dates, figs, raisins  that have been soaked, dried apricots, cooked or dried ban
 
  Virgin oil, cold butter, mayonnaise (without mustard and vinegar), lemon,  tomato, parsley,
 
-66</p>
+66
 
-    <p>&nbsp;4/5 black olives, onions chopped with a  machine and used immediately, yoghurt without sugar, curd.
+    &nbsp;4/5 black olives, onions chopped with a  machine and used immediately, yoghurt without sugar, curd.
 
  FORBIDDEN
 
@@ -2167,9 +2167,9 @@ HUNGER
 
 At the first signs of  hunger, wait for half an hour to confirm you are really hungry, and if not,  miss the evening meal.
 
-67</p>
+67
 
-    <p>I repeat what I have  said at the end. This preparation will help the person fasting to avoid crises,  which can sometimes be very acute.
+    I repeat what I have  said at the end. This preparation will help the person fasting to avoid crises,  which can sometimes be very acute.
 
 Finally, note that  this preparation is nothing more or less than the ideal Natural Hygiene menu  which can be followed throughout one’s life. It was the diet of primitive  man, who had neither watch, nor kitchen, nor cooker, nor dining room, nor  recipe books. He gathered fruit and ate it under the tree. It was the Garden of  Eden. It was Paradise.
 
@@ -2195,14 +2195,14 @@ Note that a purge  during the course of a fast will have no effect, unless a qua
 
 If there is a fear of  stools being stuck to the wall of the anus after a fast, it is possible to take  a break after each 7 days of fasting. These will last the time necessary to  provoke 2 or 3 
 
-68</p>
+68
 
-    <p>evacuations. This concerns particularly serious  cases of haemorrhoids, and those who have destroyed their mucous membrane with  laxatives and other poisons.</p>
+    evacuations. This concerns particularly serious  cases of haemorrhoids, and those who have destroyed their mucous membrane with  laxatives and other poisons.
     <p class="MsoBodyTextIndent">&nbsp;
 
-69</p>
+69
 
-    <p>Ch. 13
+    Ch. 13
 
 ###### SOME GUIDELINES FOR FASTING
 
@@ -2210,7 +2210,7 @@ If there is a fear of  stools being stuck to the wall of the anus after a fast, 
 
 With 10 million worth of advertising  a year, I’ve made sure<br>
       I can get the whole of Europe  to buy any medicine or shoe<br>
-&nbsp;polish on the  market. – A CAPITALIST</p>
+&nbsp;polish on the  market. – A CAPITALIST
 
 ##### T </strong>he general idea of how to conduct a  fast is presented by Dr. Shelton in the following text:
 
@@ -2236,9 +2236,9 @@ I often came across  people who had fasted at home, while continuing their usual
 
 When they arrived at  my home I asked them to remain in bed, and they were astonished that during  their fast they developed symptoms of elimination they they had never
 
-70</p>
+70
 
-    <p>&nbsp;experienced at home. For example :  darkened urine, headaches, a bitter taste in the mouth, etc.
+    &nbsp;experienced at home. For example :  darkened urine, headaches, a bitter taste in the mouth, etc.
 
 If a subject remains  in bed from the beginning of his fast, he observes that he no longer has the  strength either to walk, or run. He is afraid of “getting rusty” and thinks it  is a good thing to move around a little. This is a serious mistake.
 
@@ -2260,9 +2260,9 @@ From the very  beginning of a fast people feel a certain “fatigue”, which is
 
 One must, then,  distinguish between true relaxation, and the false, artificial, relaxation,  taught in yoga and other disciplines. These methods combat a symptom without  eliminating the cause (the stimulants quoted above). It is impossible to gain a  valuable and lasting result.
 
-71</p>
+71
 
-    <p>How can you ask a coffee drinker to relax when  this&nbsp; beverage has provoked a state of permanent over-stimulation in his  body ?
+    How can you ask a coffee drinker to relax when  this&nbsp; beverage has provoked a state of permanent over-stimulation in his  body ?
 
 ###### MENTAL RELAXATION
 
@@ -2299,9 +2299,9 @@ During a fast, the feet should be  kept warm, even if the head stays cold. There
 
 One can use a heated  blanket, especially useful to heat the bed when you are not there in
 
-72</p>
+72
 
-    <p>&nbsp;the evening. My patients used to switch  on the electric blanket just before leaving their bedroom to go and chat with  me in the sitting room, and then watch a little television. They switched them  off as soon as they got back into bed to sleep.
+    &nbsp;the evening. My patients used to switch  on the electric blanket just before leaving their bedroom to go and chat with  me in the sitting room, and then watch a little television. They switched them  off as soon as they got back into bed to sleep.
 
 Iron hot water bottles  also exist. These can be filled, then placed directly on a flame, once the  stopper has been removed. As soon as the water boils you can wrap the hot water  bottle in a cloth and put it under you feet. It will stay hot for 24 hours. <strong>Never  place a hot water bottle directly on an organ of the body </strong>– the rush of  blood can cause a dangerous abscess.
 
@@ -2335,9 +2335,9 @@ But in spite of  everything, Shelton  finds that there are certain exceptions to
       “Numerous observations have  revealed that a number of neurotic people know neither when<br>
       they are thirsty, nor hungry.  They will maintain that they are never thirsty ! So, in spite of this,  they must  be given drinks. In other cases, water induces nausea, and even vomiting, to  the point at which they  avoid drinking at all. These people can reach the point of fatal deshydration. They  are
 <br>
-      73</p>
+      73
 
-    <p>&nbsp;&nbsp; rare  cases, but it is important to get them to drink in small sips. Outside these two exceptions, Shelton  concludes that it is not recommended to drink without being thirsty … Nothing in what has just been said should lead the faster to  fear water. One must not think, either, that a fast without water is more beneficial than a fast  with water. This idea has been launched, but it is more dangerous than an excess of water.”
+    &nbsp;&nbsp; rare  cases, but it is important to get them to drink in small sips. Outside these two exceptions, Shelton  concludes that it is not recommended to drink without being thirsty … Nothing in what has just been said should lead the faster to  fear water. One must not think, either, that a fast without water is more beneficial than a fast  with water. This idea has been launched, but it is more dangerous than an excess of water.”
 
 But Shelton does not distinguish between periods  when someone is eating, and those when they are fasting. In fact someone who  follows the natural hygiene diet is never thirsty and never needs to drink,  even a single glass of water a year. The water in his food will supply all his  needs.
 
@@ -2361,11 +2361,11 @@ Those who neglect to  drink, sometimes experience the symptoms of poisoning (hea
 
 Water is not a food.  It is simply a vehicle, used by the body, to transport waste excreted by the  cells towards the organs responsible for elimination : the kidneys, the lungs,  and the intestines. Without this vehicle how do you imagine that the body could  reject this metabolic waste matter ?
 
-In the event of  a crisis during a fast, such as depression, headache, or dizziness, one must  drink more to alleviate the suffering.</p>
+In the event of  a crisis during a fast, such as depression, headache, or dizziness, one must  drink more to alleviate the suffering.
 
-    <p>74</p>
+    74
 
-    <p>But, certain fasters  don’t even manage to drink a single glass of water in a day. At this point, it  is a good idea to add lemon juice to the water and force them to drink at least  a litre a day, in little sips.
+    But, certain fasters  don’t even manage to drink a single glass of water in a day. At this point, it  is a good idea to add lemon juice to the water and force them to drink at least  a litre a day, in little sips.
 
 One can therefore see  that Shelton  ignored&nbsp; false thirst, which is simply the absence of thirst during a  fast. He leaves it up to our natural instinct, which is the thirst&nbsp;  itself; although, I repeat, it seems to me that this instinct is disrupted in  most people.
 
@@ -2393,9 +2393,9 @@ If your eyes do not  tolerate the light, then you must reduce the sunbathing tim
 
 During a fast we need  less sun than is normally the case. Certain Natural Hygienists totally
 
-75</p>
+75
 
-    <p>&nbsp;forbid exposure to the sun during a fast,  as they consider it a factor which creates <strong>nervous</strong><br>
+    &nbsp;forbid exposure to the sun during a fast,  as they consider it a factor which creates <strong>nervous</strong><br>
       <strong>&nbsp;tension. </strong>This is more or less what I think.  The very process of undressing, and then getting dressed again, is already  tiring for certain people who are weak, and who should rather take extra care  of themselves. Each individual should feel if the sun is doing him good or not,  without being biased in favour of the sun.
 
 In passing, a word  about tanning. Those who have studied a little physics know that if you put a  piece of black, and a piece of white material in the sun, it is the former  which will become hot after some time, whereas the latter will only feel  slightly warm. In fact, black absorbs the heat rays from the sun, while white  reflects a part of these rays, only allowing a small amount to pass through it,  and it absorbs almost nothing.
@@ -2425,9 +2425,9 @@ Note that we expend  more energy in withstanding hot or cold water, than&nbsp; t
 
 On the other hand, I  recommend to those who need it, to wash themselves frequently with 
 
-76</p>
+76
 
-    <p>soap under the armpits, as the perspiration  here becomes offensive and the air in their <br>
+    soap under the armpits, as the perspiration  here becomes offensive and the air in their <br>
       bedroom impossible to breathe. When I smell  this odour in a bedroom I always ask the person to wash, and not to forget to  change their underwear impregnated with perspiration, which can also infest the  air.
 
 Finally, it is  acceptable for an assistant to rub the naked body of a tired faster, using a  warm damp towel. After that the towel will have to be washed with soap. But in  fact, rest is preferable to all that.
@@ -2453,9 +2453,9 @@ Dr. Edmond Moras, the  american Natural hygienist, of Belgian origin, wrote a na
 Modern physiology  considers the skin as a regulator of temperature, a thermostat, rather than a  respiratory or eliminatory organ. But naturopaths who possess old medical  books, like <br>
       imitating medicine, instead of studying what  has been written by natural Hygienists.
 
-77</p>
+77
 
-    <p>So what did the child  accompanying the Pope die of ? Simply sunstroke – gold and silver are metals  and good conductors of heat.
+    So what did the child  accompanying the Pope die of ? Simply sunstroke – gold and silver are metals  and good conductors of heat.
 
 When a healthy person  is subjected to the cold, the millions of blood vessels on the surface of the  skin contract, and send the blood towards the interior of the body, thus  avoiding loss of heat.
 
@@ -2491,11 +2491,11 @@ Natural Hygienists  reject all herbal teas, either during a fast or afterwards. 
 
 For example, infusions  of camomile and lime are used to induce sleep. They are natural substances,  people will say. But the worst poisons are natural : tobacco, cocaine, L.S.D.
 
-By definition, a food  must be pleasant to taste, smell, and view. On the contrary, infusions</p>
+By definition, a food  must be pleasant to taste, smell, and view. On the contrary, infusions
 
-    <p>78</p>
+    78
 
-    <p>&nbsp;are bitter, if not insipid. And all that  is bitter contains a poison – our taste buds warn us. A child, whose sense of  taste has not yet been distorted, would refuse and pull a face if given  dandelion, cress, garlic and raw onion, or red or black radishes.
+    &nbsp;are bitter, if not insipid. And all that  is bitter contains a poison – our taste buds warn us. A child, whose sense of  taste has not yet been distorted, would refuse and pull a face if given  dandelion, cress, garlic and raw onion, or red or black radishes.
 
 I have just said that  people use infusions of camomile or lime to help them sleep. It is in this way  that people fight against symptoms, exactly as with chemical medication,  instead of fighting the causes.
 
@@ -2523,9 +2523,9 @@ The calcium in  drinking water is inert and has no chemical action. It is reject
 
 It is the same for  clay and magnesium which are inert and have no chemical action. No-one has  expressed any reservations about these two substances, as they have for calcium  in water.
 
-79</p>
+79
 
-    <p>Clay has no curative  power, contrary to what is believed. The curative power belongs solely to  living tissue and not to inanimate and inert products. What is more, clay is  not something which is indispensible for life. In consequence, it is not  indispensible for illness either. The organism cannot use clay to procude cells  and blood. At best, clay absorbs the puss from an open wound and helps to drain  it, in exactly the same way as a damp compress.
+    Clay has no curative  power, contrary to what is believed. The curative power belongs solely to  living tissue and not to inanimate and inert products. What is more, clay is  not something which is indispensible for life. In consequence, it is not  indispensible for illness either. The organism cannot use clay to procude cells  and blood. At best, clay absorbs the puss from an open wound and helps to drain  it, in exactly the same way as a damp compress.
 
 As for magnesium, it  is a chemical product, a medicine, not an organic substance. Our body needs  magnesium, but in organic form: vegetable&nbsp; not mineral. In nature there is  a cycle:<br>
 Vegetable matter feeds on minerals, and man  feeds on&nbsp; vegetables. It is not possible to short-circuit this cycle and  for man to be nourished with mineral products. It is only plants which are able  to assimilate inert mineral substances. Magnesium in powder form is pure stupidity.  It represents a return to the idea of medicines and the classical pharmacy,  albeit innocuous.
@@ -2547,9 +2547,9 @@ laxatives, homeopathic medicine, etc.  These laxatives have a tremendous dehydra
 
  it must resist and reject ?” -&nbsp; Shelton
 
-Auto- transfusion of  blood is one of the last means of stimulation. It also impedes rest and  relaxation.</p>
+Auto- transfusion of  blood is one of the last means of stimulation. It also impedes rest and  relaxation.
 
-    <p>80
+    80
 
 &nbsp;
 
@@ -2626,36 +2626,36 @@ A  preparation of 2 to 3 months we would have avoided all these misadventures.
 
 
 
-</p>
 
-</p>
+
+
     <div>
-      <p>The&nbsp; preparation <br>
+      The&nbsp; preparation <br>
         <br>
         On the day: waiting for an      acute hunger, then calm with some fruit of the &nbsp;&nbsp;&nbsp; same kind. Repeat with another kind of fruit. <br>
-        <em>Optional</em>: dessert, avocado,      yoghurt.</p>
-      <p>At &nbsp;5 / 7      hours p.m. (Afternoon) 
+        <em>Optional</em>: dessert, avocado,      yoghurt.
+      At &nbsp;5 / 7      hours p.m. (Afternoon) 
 
 green vegetables
 
 various raw vegetables 
 
-Seasoning (see below)</p>
-      <p>In the evening:  take one of these      three meals: <br>
+Seasoning (see below)
+      In the evening:  take one of these      three meals: <br>
         1) potatoes      boiled in water, + aubergine (eggplant), onion, green &nbsp;&nbsp;&nbsp; pepper, cooked (500 g to 1.5 kg in total). This is      hygienist ratatouille. <br>
         <br>
         2)&nbsp; potatoes boiled in water cooked Brussels sprouts (in all      500 / &nbsp;&nbsp;&nbsp; 1500 g) nature green      salad , as an accompaniment, ( <em>top as well</em> ). <br>
         <br>
         3) Various      Vegetables cooked with water (500 / 1500 g). <br>
-        A raw egg yolk or hard      boiled, <em>optional</em>.</p>
+        A raw egg yolk or hard      boiled, <em>optional</em>.
   
 
     </div>
     &nbsp;&nbsp;
     <span>
-    <p></p>
+    
     </span>
-    <p>
+    
 
 
 
@@ -2675,7 +2675,7 @@ Seasoning (see below)</p>
 
 
 
-</p>
+
     <span><br clear="all">
     </span>
     <p align="right">p 88<br>
@@ -2747,17 +2747,17 @@ If people fear tenemus after fasting they can have  intermissions every seven da
 
 
 
-##### Famous writers quotations</em></p>
+##### Famous writers quotations</em>
     <p align="right">In the future, we will no longer need to  go to war, drugs enough to destroy civilization. – <br>
       <br>
       -- John, &nbsp;who celebrated his 92 years,  was asked : what do you assign &nbsp;your  advanced age to ?<br>
-      -- To the doctors, to the doctors of course, repeated the old man. Yes,  doctors, I do not see them ever ! </p>
+      -- To the doctors, to the doctors of course, repeated the old man. Yes,  doctors, I do not see them ever ! 
     <p align="right">What is the use to keep pears for thirst,  if one failed, by lack of hygiene, to keep the thirst for pears ? <br>
       Professor Edouard Burlureux. <br>
       <br>
-      What is the use to keep apples for hunger, if we failed, by lack of hygienism,  to keep hunger for apples ? –</p>
+      What is the use to keep apples for hunger, if we failed, by lack of hygienism,  to keep hunger for apples ? –
     <p align="right">In an age where people counted the years  that remained to live, then the number of diseases they had I started the  second half of my life, without any disease. At 65, I had no diabetes or  insomnia or rheumatism, or affected prostate, or ill kidneys, or hepatitis, or  heart disease or asthma or sinusitis, or hypertension, or anything about  anything. Life begins at 60 for one who obeys the laws of Nature. <br>
-      Memoirs of an Easterner  hygienist.</p>
+      Memoirs of an Easterner  hygienist.
     <h1></h1>
     <h1><em>Ch. 13The conduct during fasting</em></h1>
     <p align="right">p 91<br>
@@ -2772,9 +2772,9 @@ If people fear tenemus after fasting they can have  intermissions every seven da
 "So to meet the needs of  the fasting organism, we should avoid all factors which are stress (tension) on  the vital forces. Our goal is to safeguard the resources of the faster, as far  as possible, so that the fasting should continue as long as necessary, safe,  avoiding any additional factor of enervation for the curist.<br>
       Hence, rest becomes of prime  importance to the faster. We divide rest into physical rest, sensory rest,  mental rest and finally physiological rest.”
 
-##### The natural relaxation</em></p>
+##### The natural relaxation</em>
 
-    <p><em>&nbsp;&nbsp;&nbsp; From time to time I am told the  story of a person who has been fasting, while continuing his daily activities. 
+    <em>&nbsp;&nbsp;&nbsp; From time to time I am told the  story of a person who has been fasting, while continuing his daily activities. 
 
 When fasting for 15 days, it is as  if we fasted 5 days bedridden. Indeed, the results when we are fasting when is working  unsatisfactory. &nbsp;&nbsp;</em>p 92<br>
       <em>&nbsp;&nbsp;&nbsp; The elimination takes place at a  slow pace, because the body can not allocate for this purpose but a portion of  energy, the other part being allocated to activities and daily work.
@@ -2801,9 +2801,9 @@ What appear surprising is that most fasters  need not &nbsp;sleep but a few hour
 
 From the earliest days of fasting, we feel a certain  "fatigue". This is really no fatigue, because fatigue follows a  physical effort. It is rather relaxation. One feels good, lying in bed. One  feels a relaxation which follows the abolition of stimulants (coffee, wine,  tobacco, meat, cheese, etc. ..). Indeed, all nitrogen food raise the metabolism  of the body, raising the tension, stimulate and prevent it from relaxing, even  at night. This often is cause of &nbsp;short  insomnia or extended at night and being unable to relax. One is put in a  continuous state of tension.
 
-We must thus distinguish between the real and natural  relaxation from the false artificial relaxation, which is taught in yoga and  other disciplines. By these methods, one fights a symptom without eliminating  its cause (causes of stimulation cited). One does obtain no worthwhile and  lasting result. How can we ask the coffee drinker to relax, while that  stimulating drink is causing in him, in his body, a state of permanent overexcitement  ?</em></p>
+We must thus distinguish between the real and natural  relaxation from the false artificial relaxation, which is taught in yoga and  other disciplines. By these methods, one fights a symptom without eliminating  its cause (causes of stimulation cited). One does obtain no worthwhile and  lasting result. How can we ask the coffee drinker to relax, while that  stimulating drink is causing in him, in his body, a state of permanent overexcitement  ?</em>
 
-    <p><em>&nbsp;The mental relaxation</em><br>
+    <em>&nbsp;The mental relaxation</em><br>
       <br>
       <em>&nbsp;&nbsp;&nbsp; To  get to mentally relax, we must isolate ourself &nbsp;from our environment, fast in a quiet place.  The religious retreats could have admirably serve, could they ensure the other  conditions, which they unfortunately ignore.</em><br>
 "The faster who listens to the radio or watching  television, arouses emotions and overexcites himself or gets depressed,  according to the news, the film or the results of the football match. He does  not surely rests, but is causing much harm to himself. " -- Shelton.<br>
@@ -3078,12 +3078,12 @@ No cases of cancer, madness or polio, was met with great apes. <br>
 
 <em>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-</p>
+
     <div>
-      <p><em>°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°++++++++++++===========*********</em></p>
+      <em>°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°++++++++++++===========*********</em>
     </div>
 
-    <p><em>How to hasten elimination
+    <em>How to hasten elimination
 
 Some think that the  exercise hastens elimination. They are mistaken enormously. Exercise, walk, work, deviate energies towards the muscles  and thus slow down elimination.
 
@@ -3095,8 +3095,8 @@ Some think that the  exercise hastens elimination. They are mistaken enormously.
 
 &nbsp;
 
-&nbsp;</p>
-    <p style="text-align:justify">&nbsp;</p>
+&nbsp;
+    <p style="text-align:justify">&nbsp;
     <h3><em>Ch. 14&nbsp;&nbsp; Stimulation&nbsp;  and&nbsp; elimination</em></h3>
     <p align="right">p 105<br>
       It’s Aubrou, the physician, who  had Mary to eat, in order she did’nt weaken. It’s him who killed her&nbsp; ..<em> François  Mauriac&nbsp; <u>Le noeud  de vipères</u></em>&nbsp; ( The nest of vipers).<br>
@@ -3130,9 +3130,9 @@ The main objection against stimulants is that they fight an effect, and not the 
 
 “Let us suppose that we deal with very  poisoned patient and that it be desirable to eliminate from his body  accumulated toxins. If we try to  stimulate his emunctories by being unaware of the causes, we would be in the  same situation as that which endeavours to empty a bath-tub without turning off  the tap " – SHELTON
 
-<em>This image described by SHELTON is really captivating. It is the  exact mirror of the naturopathic practice which wants to stimulate the kidneys,  the liver, the skin, etc..</em></p>
+<em>This image described by SHELTON is really captivating. It is the  exact mirror of the naturopathic practice which wants to stimulate the kidneys,  the liver, the skin, etc..</em>
 
-    <p>“One will thus empty water until complete  tiredness, to realize at the end, that there is as much water as at the  beginning! Indeed, more one empties, more one tires oneself, and more quickly  water accumulates, because as tiredness is felt, the activity decreases.
+    “One will thus empty water until complete  tiredness, to realize at the end, that there is as much water as at the  beginning! Indeed, more one empties, more one tires oneself, and more quickly  water accumulates, because as tiredness is felt, the activity decreases.
 
 <em>In the same way, we whip the organs of elimination, we  require them increasingly large efforts, until they are exhausted. Then, they involve with them the  exhaustion of the entire body. And in the final analysis, the body is found at  the same point of intoxication as at the right beginning.
 
@@ -3178,15 +3178,15 @@ Famous writers  quotations</em><br>
 
 ##### Ch. 15<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Purgings and rectal injections</em><br>
       p 109<br>
-      It would have been a benefit  for the humanity if the cooks as well as their art be destroyed - <em>BUCHAN</em></p>
+      It would have been a benefit  for the humanity if the cooks as well as their art be destroyed - <em>BUCHAN</em>
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="53" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>D</em></p></td>
+          <td valign="top" align="left"><em>D</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>&nbsp;o the animals which fast take purgings or rectal  injections? They swallow sometimes little tough grass to help them vomit, not  that these grasses have any action, - they do not have any - but to tickle the  throat and help them vomit.</em> <br>
+    <em>&nbsp;o the animals which fast take purgings or rectal  injections? They swallow sometimes little tough grass to help them vomit, not  that these grasses have any action, - they do not have any - but to tickle the  throat and help them vomit.</em> <br>
       <em>In addition, does the  presence of faeces in the intestines poison the body during the fast?  Sometimes.
 
 The chemical or vegetable purgings are drugs used in  medicine since good a long time. The hygienists condemn them like all the  drugs. They pickle the delicate mucous membranes of the small intestines, drag  along the invaluable flora and generate a chronic inflammation.
@@ -3233,9 +3233,9 @@ It is with the body to judge. There is no need to make  the intestinal contents 
 
 It is obvious that it is to better undertake a fast,  especially if it is long one, with intestines removed from their putrid  contents. Then, to this end, the preparation that I described in detail before,  is the means more guaranteed and without any harmfulness to make the intestinal  contents clean.
 
-An adequate preparation is thousand times higher than  the purging or the rectal injection. A fast with intervals is recommended to  those which were operated for haemorrhoids.</em></p>
+An adequate preparation is thousand times higher than  the purging or the rectal injection. A fast with intervals is recommended to  those which were operated for haemorrhoids.</em>
 
-    <p><em>Famous writers  quotations</em><br>
+    <em>Famous writers  quotations</em><br>
       At this point in time this 740 year old  patriarch opened the door of the Hell to me. It was dark, the air pollution of  the tobacco, the factories and of the bad breath of people prevented the rays  of the sun from arriving to the ground. <br>
       It was dantesque. Swarming with people. No  place to move, to walk. The streets, the houses, the rooms, the flats, all was  occupied and reserved in advance. And how very expensively they had to pay for all  these key moneys. - In this terrestrial hell, everyone  complained. One of gastritis, the other of sinusitis, the third of asthma, the  fourth of insomnia, constipation, cancer, nervous, mental, circulatory,  glandular, cutaneous, intestinal, stomachic, ocular disorders, etc.. &nbsp;&nbsp;&nbsp;Nobody was in good health, not even the young  people. <br>
       <u>Man,  the Monkey and the Paradise</u>&nbsp;&nbsp;&nbsp;&nbsp;<em>p 14-15</em> &nbsp;&nbsp;Albert MOSSERI 
@@ -3267,9 +3267,9 @@ Fever which one will cure only by taking only water during three days :  what is
 It is necessary as much as one can, &nbsp;to go up to the cause, and to the cause of the  cause. <br>
       Hippocrates <br>
       The doctor must take his lessons in Nature. <br>
-      Hippocrates </p>
+      Hippocrates 
 
-    <p><em>The great remedy, which is always innocent, and always of a useful use,  it is sobriety, it is the temperance of all the pleasures, it is the peace of  the spirit, it is the exercise of the body. By that way, one makes a soft and  moderate blood, one dissipates all superfluous humours. </em><br>
+    <em>The great remedy, which is always innocent, and always of a useful use,  it is sobriety, it is the temperance of all the pleasures, it is the peace of  the spirit, it is the exercise of the body. By that way, one makes a soft and  moderate blood, one dissipates all superfluous humours. </em><br>
       FENELON
 
 The fast purifies the body. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hippocrates <br>
@@ -3280,20 +3280,20 @@ Vaccination is the greatest swindle of all  times. - &nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 Let  us not interfere : the order which provides for the fleas and the moles also  provides for the men who have similar patience to let themselves control that  the fleas and the moles; we shout Bihora in vain, it is well to become hoarse  and not to advance.-- MONTAIGNE
 
-The  body is weak or strong, according to the case, which depends entirely on  nervous energy, if it is weak or strong. And one will remember that the functions  of the body are well or badly accomplished according to the flow of produced  energy. - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. J.H. TILDEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+The  body is weak or strong, according to the case, which depends entirely on  nervous energy, if it is weak or strong. And one will remember that the functions  of the body are well or badly accomplished according to the flow of produced  energy. - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. J.H. TILDEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <h3><em>Ch. 16&nbsp;&nbsp;Symptoms &nbsp;&amp; &nbsp;crises </em></h3>
     <h3><em>during or  after the fast</em></h3>
     <p align="right">p 113<br>
       It is not of the doctors that I  have had enough, but of their art. –<br>
-      MONTAIGNE </p>
+      MONTAIGNE 
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="57" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>T</em></p></td>
+          <td valign="top" align="left"><em>T</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>he person in excellent  health can fast for weeks without feeling the least faintness. Elimination is  done then smoothly. On the other hand, the unwell individual, as it is the case  of everybody, will have reactions according to his state : violent if he is provided  &nbsp;with a good vitality, and weak if this  one is weak.
+    <em>he person in excellent  health can fast for weeks without feeling the least faintness. Elimination is  done then smoothly. On the other hand, the unwell individual, as it is the case  of everybody, will have reactions according to his state : violent if he is provided  &nbsp;with a good vitality, and weak if this  one is weak.
 
 Thus, when a person affirms to me to have an excellent health, I never  believe her. Indeed, at the end of a few days of fast, the  symptoms start to appear. Fast is like the mirror of health. It accurately  reflects the true state of health, whereas the stimulants mask it.
 
@@ -3363,7 +3363,7 @@ The colics during the fast, were they very violent,  cant never be appendicitis 
 
 ##### Weakness
 
-Weakness  is completely normal during the fast. The curist who fast can however move in  the house, to go to the toilets. But if it does not have any more the force to  go, then the fast must be cut immediately. It is necessary to distinguish the  weakness from the prostration.</em></p>
+Weakness  is completely normal during the fast. The curist who fast can however move in  the house, to go to the toilets. But if it does not have any more the force to  go, then the fast must be cut immediately. It is necessary to distinguish the  weakness from the prostration.</em>
     <p align="right">p 116<br>
     <em>Insomnia, sensitivity to the noise, nervousness
 
@@ -3391,11 +3391,11 @@ A dentist comes to my home to fast. Before coming, he  had gone to make an elect
 
 &nbsp;- How are you ? 
 
-He answered: </em></p>
+He answered: </em>
     <ol>
       <li><em>Very well. The pulse is  irregular.</em></li>
     </ol>
-    <p><em>I took his pulse, it was  quite irregular. I broke the fast in middle of the night. I should have passed  to the half-fast, but I was unaware of this method in this time. One sees from this  example that the examinations do not have much value.&nbsp;&nbsp;&nbsp;&nbsp; p 117
+    <em>I took his pulse, it was  quite irregular. I broke the fast in middle of the night. I should have passed  to the half-fast, but I was unaware of this method in this time. One sees from this  example that the examinations do not have much value.&nbsp;&nbsp;&nbsp;&nbsp; p 117
 
 A Spaniard, 72 years old, comes and asks to fast 30 to  40 days. He had fasted in the past 20 days in Spain, at his home place. One week  after the beginning of the fast, he expressed the desire to cut the fast. I was  astonished by it and do not say a word. I asked him for the reason, he answered  that he wanted to cut the fast, without knowing too much why. I did not insist.
 
@@ -3431,11 +3431,11 @@ In the country of origin of our black student, Gabon, one is  fed from fish for 
 
 &nbsp;As soon as he  had taken the first mouthful after the fast, blood was withdrawn from the brain  and concentrated on the stomach.
 
-This young black had attended all my daily talks of  the evening, without ever putting only one question. But the only one that he  had asked to me was as follows : </em></p>
+This young black had attended all my daily talks of  the evening, without ever putting only one question. But the only one that he  had asked to me was as follows : </em>
     <ol>
       <li><em>M. Mosséri, how long do the  benefits of the fast last, if one turns back, after the cure, to the same diet as  before ?</em></li>
     </ol>
-    <p><em>This question reveals his state of mind. He had not  understood that it was necessary to change basic food from top to bottom. He  had not planned to follow a hygienist diet thereafter. Moreover, and that goes  in same optics, his recovery food had posed serious problems to me. He refused  to eat and drink all that I gave him. He found it very insipid, not salted, nor  seasoned. He claimed roasted and salted peanuts, sandwiches and fish ! 
+    <em>This question reveals his state of mind. He had not  understood that it was necessary to change basic food from top to bottom. He  had not planned to follow a hygienist diet thereafter. Moreover, and that goes  in same optics, his recovery food had posed serious problems to me. He refused  to eat and drink all that I gave him. He found it very insipid, not salted, nor  seasoned. He claimed roasted and salted peanuts, sandwiches and fish ! 
 
 If one follows a preparation before the fast, one  attenuates or one avoids this unpleasant and painful vomiting.
 
@@ -3475,11 +3475,11 @@ Others can develop an extremely violent crisis of  nephritic or biliary stones. 
 
 I had several cases which proceeded in a very  satisfactory way, but the last caused me some troubles. It was an actor of forty  years. Convinced of the effectiveness of the fast, he came to my home to follow  it. At the end of ten days of fast, he felt a very violent crisis of renal  calculi. It was Sunday morning. I took  him company to attenuate his sufferings, morally, and to make him have  patience.
 
-&nbsp;However he did  not understand that I do not seek to relieve his sufferings, by giving him  something.</em></p>
+&nbsp;However he did  not understand that I do not seek to relieve his sufferings, by giving him  something.</em>
     <ol>
       <li><em>Do something, he said.  But, you are inhuman. Do not let to me suffer.</em></li>
     </ol>
-    <p><em>I explained in vain to him that it was necessary to  await till the end of the crisis, that it would last 4 to 5 hours, and that he  would be delivered soon. He wanted to hear nothing.
+    <em>I explained in vain to him that it was necessary to  await till the end of the crisis, that it would last 4 to 5 hours, and that he  would be delivered soon. He wanted to hear nothing.
 
 - Call me the doctor, he said. 
 
@@ -3653,11 +3653,11 @@ The fourth case is that of an American friend who  fasted in California,  under 
 
 The cure of fast should have been intersected with  intervals, every seven days, to enable him to evacuate.
 
-Feet and ankles  swollen</em></p>
+Feet and ankles  swollen</em>
     <ol>
       <li><em>Mr Mosséri, my feet and  my ankles have swelled. I cannot put my shoes on any more. What should be done ? </em></li>
     </ol>
-    <p><em>Here is how certain curists call me sometimes, after  they returned home. They are thrown into a panic and helpless.
+    <em>Here is how certain curists call me sometimes, after  they returned home. They are thrown into a panic and helpless.
 
 &nbsp;- You allowed  yourself a serious break ?
 
@@ -3705,22 +3705,22 @@ The proof that I am still in life, is that  I did not see doctors.&nbsp;&nbsp;&n
 The  medical profession begins more and more to represent, not science, but what  there is more hopelessly, &nbsp;bitterly  contrary to science. &nbsp;&nbsp;&nbsp; George Bernard SHAW
 
 The  medical profession is the worst of all the professions. It is in delay of one  hundred years on the scientific side. Its past is infamous… It is made of  superstitions, of ignorance… statistics of amateur, faked, percentages based on  two or three cases, which one passes off as mathematical certainties. <br>
-    <em><u>The dilemma of the doctor</u></em> &nbsp;&nbsp;&nbsp;George Bernard &nbsp;SHAW </p>
+    <em><u>The dilemma of the doctor</u></em> &nbsp;&nbsp;&nbsp;George Bernard &nbsp;SHAW 
     <p align="right">p 127
 
-&nbsp; </p>
+&nbsp; 
     <h3><em>Ch. 17 --  Daily weighing </em></h3>
-    <p>It is what arrives of almost all  the diseases that one flatters oneself to have cured. One has only passed them  on, as one says in medicine, and one substitutes others for them. &nbsp;&nbsp;&nbsp;SAINTE-BEUVE &nbsp;&nbsp;&nbsp;<u>Mondays, I,</u> &nbsp;p. 19
+    It is what arrives of almost all  the diseases that one flatters oneself to have cured. One has only passed them  on, as one says in medicine, and one substitutes others for them. &nbsp;&nbsp;&nbsp;SAINTE-BEUVE &nbsp;&nbsp;&nbsp;<u>Mondays, I,</u> &nbsp;p. 19
 
-</p>
+
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="57" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>A</em></p></td>
+          <td valign="top" align="left"><em>A</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>s soon as one embarks  on fasting, it is necessary to be weighed the every day, at the same hour, dressed  in the same way. It is not necessary to be naked, because it is the difference  which counts. Do’nt move on the scales.
+    <em>s soon as one embarks  on fasting, it is necessary to be weighed the every day, at the same hour, dressed  in the same way. It is not necessary to be naked, because it is the difference  which counts. Do’nt move on the scales.
 
 One will take care to drink the same quantity of water every day, or  almost, if not, the losses are inaccurate. But thirst takes precedence over any  other consideration of weight.
 
@@ -3730,165 +3730,165 @@ To note first the size, and the minimum weight, like two reference  marks.
 
 The minimum weight is formed by taking the 60% of the standard weight. 
 
-The standard weight &nbsp;is the number  of centimetres, minus ten kilos, unless being a very muscular man. Hereafter an  example :</em></p>
+The standard weight &nbsp;is the number  of centimetres, minus ten kilos, unless being a very muscular man. Hereafter an  example :</em>
     <div>
-      <p><em>Size : 1,70 m , standard  weight&nbsp;&nbsp;  60 kg
+      <em>Size : 1,70 m , standard  weight&nbsp;&nbsp;  60 kg
 
-minimum weight &nbsp;&nbsp;&gt;36 kg</em></p>
+minimum weight &nbsp;&nbsp;&gt;36 kg</em>
     </div>
-    <p><em>Here several useful remarks:
+    <em>Here several useful remarks:
 
 When one does not lose&nbsp;  weight, or that one loses little of it, that means that elimination is  slowed down. Indeed, elimination uses nutritive substances existing in the  organism. The loss of weight slowed down, from zero to 0,200 g &nbsp;maximum, is regarded as a level in  elimination.
 
-p 128</em></p>
+p 128</em>
     <table border="1" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="120" valign="top"><p></p></td>
-        <td width="132" valign="top"><p>Days of fast</p></td>
-        <td width="132" valign="top"><p>Weight in kg.</p></td>
-        <td width="120" valign="top"><p>Loss</p></td>
+        <td width="120" valign="top"></td>
+        <td width="132" valign="top">Days of fast</td>
+        <td width="132" valign="top">Weight in kg.</td>
+        <td width="120" valign="top">Loss</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Monday</p></td>
-        <td width="132" valign="top"><p><em>1 st</em></p></td>
-        <td width="132" valign="top"><p><em>60 </em></p></td>
-        <td width="120" valign="top"><p></p></td>
+        <td width="120" valign="top">Monday</td>
+        <td width="132" valign="top"><em>1 st</em></td>
+        <td width="132" valign="top"><em>60 </em></td>
+        <td width="120" valign="top"></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Tuesday</p></td>
-        <td width="132" valign="top"><p><em>2 nd</em></p></td>
-        <td width="132" valign="top"><p><em>59</em></p></td>
-        <td width="120" valign="top"><p><em>1 kg</em></p></td>
+        <td width="120" valign="top">Tuesday</td>
+        <td width="132" valign="top"><em>2 nd</em></td>
+        <td width="132" valign="top"><em>59</em></td>
+        <td width="120" valign="top"><em>1 kg</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Wednesday</p></td>
-        <td width="132" valign="top"><p><em>3 rd</em></p></td>
-        <td width="132" valign="top"><p><em>58,2</em></p></td>
-        <td width="120" valign="top"><p><em>&nbsp;0,800</em></p></td>
+        <td width="120" valign="top">Wednesday</td>
+        <td width="132" valign="top"><em>3 rd</em></td>
+        <td width="132" valign="top"><em>58,2</em></td>
+        <td width="120" valign="top"><em>&nbsp;0,800</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Thursday</p></td>
-        <td width="132" valign="top"><p><em>4 th</em></p></td>
-        <td width="132" valign="top"><p><em>57,5</em></p></td>
-        <td width="120" valign="top"><p><em>0,700</em></p></td>
+        <td width="120" valign="top">Thursday</td>
+        <td width="132" valign="top"><em>4 th</em></td>
+        <td width="132" valign="top"><em>57,5</em></td>
+        <td width="120" valign="top"><em>0,700</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Friday</p></td>
-        <td width="132" valign="top"><p><em>5 th</em></p></td>
-        <td width="132" valign="top"><p><em>57,1</em></p></td>
-        <td width="120" valign="top"><p><em>0,400</em></p></td>
+        <td width="120" valign="top">Friday</td>
+        <td width="132" valign="top"><em>5 th</em></td>
+        <td width="132" valign="top"><em>57,1</em></td>
+        <td width="120" valign="top"><em>0,400</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Saturday</p></td>
-        <td width="132" valign="top"><p><em>6 th</em></p></td>
-        <td width="132" valign="top"><p><em>56,7</em></p></td>
-        <td width="120" valign="top"><p><em>0,400</em></p></td>
+        <td width="120" valign="top">Saturday</td>
+        <td width="132" valign="top"><em>6 th</em></td>
+        <td width="132" valign="top"><em>56,7</em></td>
+        <td width="120" valign="top"><em>0,400</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Sunday</p></td>
-        <td width="132" valign="top"><p><em>7 th</em></p></td>
-        <td width="132" valign="top"><p><em>56,6</em></p></td>
-        <td width="120" valign="top"><p><em>0,100</em></p></td>
+        <td width="120" valign="top">Sunday</td>
+        <td width="132" valign="top"><em>7 th</em></td>
+        <td width="132" valign="top"><em>56,6</em></td>
+        <td width="120" valign="top"><em>0,100</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Monday</p></td>
-        <td width="132" valign="top"><p><em>8 th</em></p></td>
-        <td width="132" valign="top"><p><em>55,9</em></p></td>
-        <td width="120" valign="top"><p><em>0,700</em></p></td>
+        <td width="120" valign="top">Monday</td>
+        <td width="132" valign="top"><em>8 th</em></td>
+        <td width="132" valign="top"><em>55,9</em></td>
+        <td width="120" valign="top"><em>0,700</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Tuesday</p></td>
-        <td width="132" valign="top"><p><em>9 th</em></p></td>
-        <td width="132" valign="top"><p><em>55,5</em></p></td>
-        <td width="120" valign="top"><p><em>0,400</em></p></td>
+        <td width="120" valign="top">Tuesday</td>
+        <td width="132" valign="top"><em>9 th</em></td>
+        <td width="132" valign="top"><em>55,5</em></td>
+        <td width="120" valign="top"><em>0,400</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Wednesday</p></td>
-        <td width="132" valign="top"><p><em>10 th</em></p></td>
-        <td width="132" valign="top"><p><em>55,3</em></p></td>
-        <td width="120" valign="top"><p><em>0,200 </em>}</p></td>
+        <td width="120" valign="top">Wednesday</td>
+        <td width="132" valign="top"><em>10 th</em></td>
+        <td width="132" valign="top"><em>55,3</em></td>
+        <td width="120" valign="top"><em>0,200 </em>}</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Thursday</p></td>
-        <td width="132" valign="top"><p><em>11 th</em></p></td>
-        <td width="132" valign="top"><p><em>55,3</em></p></td>
-        <td width="120" valign="top"><p><em>0,000 </em>}</p></td>
+        <td width="120" valign="top">Thursday</td>
+        <td width="132" valign="top"><em>11 th</em></td>
+        <td width="132" valign="top"><em>55,3</em></td>
+        <td width="120" valign="top"><em>0,000 </em>}</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Friday</p></td>
-        <td width="132" valign="top"><p><em>12 th</em></p></td>
-        <td width="132" valign="top"><p><em>55,1</em></p></td>
-        <td width="120" valign="top"><p><em>0,200 </em>}</p></td>
+        <td width="120" valign="top">Friday</td>
+        <td width="132" valign="top"><em>12 th</em></td>
+        <td width="132" valign="top"><em>55,1</em></td>
+        <td width="120" valign="top"><em>0,200 </em>}</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Saturday</p></td>
-        <td width="132" valign="top"><p><em>13 th</em></p></td>
-        <td width="132" valign="top"><p><em>54,7</em></p></td>
-        <td width="120" valign="top"><p><em>0,400</em></p></td>
+        <td width="120" valign="top">Saturday</td>
+        <td width="132" valign="top"><em>13 th</em></td>
+        <td width="132" valign="top"><em>54,7</em></td>
+        <td width="120" valign="top"><em>0,400</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Sunday</p></td>
-        <td width="132" valign="top"><p><em>14 th</em></p></td>
-        <td width="132" valign="top"><p><em>54,7</em></p></td>
-        <td width="120" valign="top"><p><em>0,000</em></p></td>
+        <td width="120" valign="top">Sunday</td>
+        <td width="132" valign="top"><em>14 th</em></td>
+        <td width="132" valign="top"><em>54,7</em></td>
+        <td width="120" valign="top"><em>0,000</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Monday</p></td>
-        <td width="132" valign="top"><p><em>15 th</em></p></td>
-        <td width="132" valign="top"><p><em>53,9</em></p></td>
-        <td width="120" valign="top"><p><em>0,800</em></p></td>
+        <td width="120" valign="top">Monday</td>
+        <td width="132" valign="top"><em>15 th</em></td>
+        <td width="132" valign="top"><em>53,9</em></td>
+        <td width="120" valign="top"><em>0,800</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Tuesday</p></td>
-        <td width="132" valign="top"><p><em>16 th</em></p></td>
-        <td width="132" valign="top"><p><em>53,6</em></p></td>
-        <td width="120" valign="top"><p><em>0,300</em></p></td>
+        <td width="120" valign="top">Tuesday</td>
+        <td width="132" valign="top"><em>16 th</em></td>
+        <td width="132" valign="top"><em>53,6</em></td>
+        <td width="120" valign="top"><em>0,300</em></td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Wednesday</p></td>
-        <td width="132" valign="top"><p><em>17 th</em></p></td>
-        <td width="132" valign="top"><p><em>53,6</em></p></td>
-        <td width="120" valign="top"><p><em>0,000 </em>}</p></td>
+        <td width="120" valign="top">Wednesday</td>
+        <td width="132" valign="top"><em>17 th</em></td>
+        <td width="132" valign="top"><em>53,6</em></td>
+        <td width="120" valign="top"><em>0,000 </em>}</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Thursday</p></td>
-        <td width="132" valign="top"><p><em>18 th</em></p></td>
-        <td width="132" valign="top"><p><em>53,4</em></p></td>
-        <td width="120" valign="top"><p><em>0,200 </em>}</p></td>
+        <td width="120" valign="top">Thursday</td>
+        <td width="132" valign="top"><em>18 th</em></td>
+        <td width="132" valign="top"><em>53,4</em></td>
+        <td width="120" valign="top"><em>0,200 </em>}</td>
       </tr>
       <tr>
-        <td width="120" valign="top"><p>Friday</p></td>
-        <td width="132" valign="top"><p><em>19 th</em></p></td>
-        <td width="132" valign="top"><p><em>53,2</em></p></td>
-        <td width="120" valign="top"><p><em>0,200 </em>}</p></td>
+        <td width="120" valign="top">Friday</td>
+        <td width="132" valign="top"><em>19 th</em></td>
+        <td width="132" valign="top"><em>53,2</em></td>
+        <td width="120" valign="top"><em>0,200 </em>}</td>
       </tr>
     </tbody></table>
     <ol>
       <li><em>If this deceleration lasts only one  or two days, it should not be taken into account, because it is not significant. </em></li>
     </ol>
-    <p><em>But if it lasts 3 consecutive days,  then that indicates a deceleration of elimination, due to deficiencies. In the board,  these three days are indicated with a little brace.
+    <em>But if it lasts 3 consecutive days,  then that indicates a deceleration of elimination, due to deficiencies. In the board,  these three days are indicated with a little brace.
 
 These deficiencies are quickly  filled, because the body proceeds to biological transmutations which transform  existing substances into missing substances, such as for example, the body  transforms potassium into calcium. Then elimination takes again its course and  the weight falls again.
 
-But with the second deceleration  during three consecutive days, the body cannot fill the deficiencies any more,  because it misses means. Then, it is necessary to pass to the following level,  that of the half-fast.</em></p>
+But with the second deceleration  during three consecutive days, the body cannot fill the deficiencies any more,  because it misses means. Then, it is necessary to pass to the following level,  that of the half-fast.</em>
     <ol>
       <li><em>If the faster drinks one day twice  as much as the day before, his weight will not drop, but could even go up.</em></li>
     </ol>
-    <p></p>
-    <p align="right"><em>p 129</em></p>
+    
+    <p align="right"><em>p 129</em>
     <h3><em>Ch. 18&nbsp;&nbsp;&nbsp;At  which time can one pass to</em><em>&nbsp;the second phase of the fast ?</em></h3>
-    <p>It is a superb order which  carries out those which follow those which do not follow it, they take them  along, and their rage, and their medicine together. <br>
+    It is a superb order which  carries out those which follow those which do not follow it, they take them  along, and their rage, and their medicine together. <br>
       MONTAIGNE &nbsp;&nbsp;&nbsp;
 
-##### a fast should never be cut on the spot</em></p>
+##### a fast should never be cut on the spot</em>
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="57" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>A</em></p></td>
+          <td valign="top" align="left"><em>A</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>t which moment is it  necessary to cut the faston the spot ? Am I told.
+    <em>t which moment is it  necessary to cut the faston the spot ? Am I told.
 
 I categorically answer  : - Never should a fast be cut on the spot ! If not, it would be an error which  leads to the bulimia and other disadvantages. 
 
@@ -3902,7 +3902,7 @@ That being said, at which moment is it necessary to pass to this second  phase o
 
 To have a complete cure, it is desirable to supervise certain symptoms  which indicate the most favourable moment to finish the first level of the fast  and to pass to the second.
 
-Doctor E.H. Dewey said that the hunger should be awaited, and Shelton followed. For  Doctor J.H. Tilden, it is rather the standardization of secretions of which  account should be held. And then, there is the appearance of the tongue, the  bad taste in the mouth on waking up, the weakness, and so many other symptoms that  we will study.</em></p>
+Doctor E.H. Dewey said that the hunger should be awaited, and Shelton followed. For  Doctor J.H. Tilden, it is rather the standardization of secretions of which  account should be held. And then, there is the appearance of the tongue, the  bad taste in the mouth on waking up, the weakness, and so many other symptoms that  we will study.</em>
     <p align="right"><em>p 130
 
 The true hunger
@@ -3968,9 +3968,9 @@ Two cases can thus meet :
 
 For the first category, in good health and which does not have much  toxaemia, the fast leads quickly to the total purification of the organism  before the exhaustion of the invaluable reserves. In these rare cases, the  following symptoms appear simultaneously:
 
-p 132</em></p>
+p 132</em>
     <div>
-      <p><em>For the well being people, very 
+      <em>For the well being people, very 
 
 rare nowadays, the fast leads to the following  symptoms :
 
@@ -3979,15 +3979,15 @@ rare nowadays, the fast leads to the following  symptoms :
 &nbsp;- a pink tongue, 
 - a pleasant taste of the mouth on  waking up,
 - clear urines,
-- a deceleration of the loss of  weight (stabilization of the weight).</em></p>
+- a deceleration of the loss of  weight (stabilization of the weight).</em>
     </div>
-    <p><em>But for the second category, the most current, among which toxaemia  exceeds the essential reserves, the weight stabilizes, elimination slows down,  with the following symptoms:</em></p>
+    <em>But for the second category, the most current, among which toxaemia  exceeds the essential reserves, the weight stabilizes, elimination slows down,  with the following symptoms:</em>
     <div>
-      <p></p>
-      <p><em>For the unwell being people,  who form
+      
+      <em>For the unwell being people,  who form
 
-the majority nowadays, the  fast leads to the following symptoms :</em></p>
-      <p><em>- a charged tongue,
+the majority nowadays, the  fast leads to the following symptoms :</em>
+      <em>- a charged tongue,
 
 - an unpleasant taste of mouth, when waking up,
 
@@ -3995,9 +3995,9 @@ the majority nowadays, the  fast leads to the following symptoms :</em></p>
 
 - the absence of real hunger,
 
-- a loss of weight slowing down&nbsp;  (stabilization of weight).</em></p>
+- a loss of weight slowing down&nbsp;  (stabilization of weight).</em>
     </div>
-    <p>
+    
 
 “If exists, writes Shelton, (p 91, the Fast), a thing  such as unbalanced reserves, and I suppose that this is possible, there are as  many reasons as the thin one, eating the same kind of food that the large one,  has as unbalanced reserves, as the large one.<br>
       However, the greatest losses in the fast are made up  of the most nutritive elements which are the most abundant in the diet of the  majority, while the body retains the elements which usually miss.<br>
@@ -4055,14 +4055,14 @@ Each time a strike of the doctors burst,  the official statistics revealed a con
       THE &nbsp;LEGISLATOR &nbsp;OF &nbsp;TOMORROW <br>
       ____________<br>
       While speculating on the ignorance of  people and their fear of pain and disease, helped by the mass-media, the pseudo-science  (medicine) was created the illusion that it held unlimited and mysterious  capacities whose humanity is supposed to depend. Thus the people of the Western  hemisphere are prostrate servilely at its feet, imagining it like a very  powerful goddess, sparkling in its brocades &nbsp;and its ornaments of gold. <br>
-      Hans RUESCH &nbsp;&nbsp;&nbsp;<em>T<u>he  massacre of the innocents</u></em></p>
-    <p align="right">&nbsp;&nbsp;&nbsp; <em>p 135</em></p>
+      Hans RUESCH &nbsp;&nbsp;&nbsp;<em>T<u>he  massacre of the innocents</u></em>
+    <p align="right">&nbsp;&nbsp;&nbsp; <em>p 135</em>
     <h3><em>Ch. 19&nbsp;&nbsp;&nbsp; Second phase</em><em> </em><em>The half-fast</em></h3>
     <h3><em>the coloured tongue&nbsp;&nbsp;&nbsp;&nbsp; </em></h3>
-    <p>It is a madness to believe that  the vivisector would hold for more sacred the life of the human animal, that  that of the other animals. – <br>
+    It is a madness to believe that  the vivisector would hold for more sacred the life of the human animal, that  that of the other animals. – <br>
       George B. SHAW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-##### An&nbsp;  extraordinary&nbsp; discovery</em></p>
+##### An&nbsp;  extraordinary&nbsp; discovery</em>
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="42" align="left">
         <tbody><tr>
@@ -4071,7 +4071,7 @@ Each time a strike of the doctors burst,  the official statistics revealed a con
         </tr>
       </tbody></table>
     </div>
-    <p><em>n 1986, I made an  extraordinary discovery in the field of the fast, which obliged me to revise my  sheltonian method. Here is by which chance I was brought to make this  discovery. A 37 year old man comes to fast under my supervision. He had taken  104 different tranquillizers to look after his nervous state, during the 14  previous years. As soon as a drug did not have any more  effect on him, the doctor prescribed another one to him. From there the incredible  number of different tranquillizers which he had swallowed. 
+    <em>n 1986, I made an  extraordinary discovery in the field of the fast, which obliged me to revise my  sheltonian method. Here is by which chance I was brought to make this  discovery. A 37 year old man comes to fast under my supervision. He had taken  104 different tranquillizers to look after his nervous state, during the 14  previous years. As soon as a drug did not have any more  effect on him, the doctor prescribed another one to him. From there the incredible  number of different tranquillizers which he had swallowed. 
 
 Wanting to look after himself without drugs of any kind, he fasted for 29  days without problems.
 
@@ -4079,12 +4079,12 @@ Then seeing him tense, unable to be relax, nor  to sleep, and not being able to 
 
 He answered to me that he had all his time and that he  would have wished to complete his detoxication. Then I thought that the  occasion, for the first time, had just come to have him follow a diet of  elimination. Indeed, as soon as a faster breaks the fast, he does not think to  anything but to leave, and I do not see his tongue any more. My only concern at  this time, for all the curists, is to conclude the food recovery, so that there  are no problems, to proportion the quantities every day, to increase them  gradually, to change food if necessary, while supervising the various symptoms  which guide me.&nbsp;&nbsp;&nbsp;&nbsp; p 136
 
-However after 3 days of his rupture, entering his room  bring to him some small shrivelled apples of the culture of the past year, he told  me:</em></p>
+However after 3 days of his rupture, entering his room  bring to him some small shrivelled apples of the culture of the past year, he told  me:</em>
     <ol>
       <li><em>Mr Mosséri, look at my tongue.</em></li>
       <li><em>&nbsp;It was black coal !</em></li>
     </ol>
-    <p><em>It was not necessary more for me, to suddenly reflect  about this surprising thing.
+    <em>It was not necessary more for me, to suddenly reflect  about this surprising thing.
 
 It is true that I had already seen some cases where  the tongue became black during the fast. But in this case, the colour was not  fortuitous. It was well me which had caused it using this diet of detoxication.
 
@@ -4232,21 +4232,21 @@ As soon as one stops eating, elimination starts and  appeared by a loaded tongue
 
 As the fast advances, elimination slows down, because  the stock of vitamins and mineral salt decreases appreciably in the reserves of  the body.
 
-According to individuals, this stock of vitamins and  other essential elements, can last from 7 to approximately 20 days. At the end  of this period, elimination slows down according to following symptoms: </em></p>
+According to individuals, this stock of vitamins and  other essential elements, can last from 7 to approximately 20 days. At the end  of this period, elimination slows down according to following symptoms: </em>
     <ol>
       <li><em>the weight is stabilized  in a level which lasts approximately 3 days, whereas one lost at the beginning  of 500 g  &nbsp;with 1 kilo per day. </em></li>
     </ol>
-    <p><em>The loss of weight means a strong elimination of  absorbed toxins and of retention water, which are urinated.</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>
+    <em>The loss of weight means a strong elimination of  absorbed toxins and of retention water, which are urinated.</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>
 
 p 141</em> <br>
       <em>When elimination slows  down, one urinates not much. &nbsp;This  stabilization of the weight is the principal symptom which orders the passage  to the half-fast. 
 - thirst disappears and one has  difficulty in drink water. Because otherwise, the elimination of toxins would  have caused a need to drink to dilute and reject the poisons by the urine.
 
-- the language takes care less and less and the taste of the mouth  becomes less bad.</em></p>
+- the language takes care less and less and the taste of the mouth  becomes less bad.</em>
     <ol>
       <li><em>other symptoms,  according to each individual, can also reveal a deceleration of elimination. </em></li>
     </ol>
-    <p><em>It is then, when one observes all these symptoms of  deceleration that elimination should be started again, by providing to the body  the vitamins and mineral salts in the form of raws natural foods, i.e.: 
+    <em>It is then, when one observes all these symptoms of  deceleration that elimination should be started again, by providing to the body  the vitamins and mineral salts in the form of raws natural foods, i.e.: 
 
 - 500   grams of raw fruits, spread out over all after midday.  According to the size of the person, this quantity can vary. 
 
@@ -4275,12 +4275,12 @@ It is certain that with its very frugal mode, the tongues  were coloured, but he
 
 ##### The three phases of the fast 
 
-The fast can be divided into three phases: </em></p>
+The fast can be divided into three phases: </em>
     <ol>
       <li><strong><em>the  phase of the superficial elimination</em></strong><em> where the  tongue is white, but which leads to good results for general health, and cure  of the acute and functional illnesses.</em></li>
       <li><strong><em>the  phase of survival</em></strong><em> where the deficiencies  start, the weight is stabilized, the tongue is cleaned and elimination is out  of breath. It is a waste of time to advance in this way. It is preferable to  avoid entering this phase and replacing it by the phase of the half-fast which  fills the deficiencies, makes it possible for the weight to continue to drop,  the tongue to colour itself and elimination to be started again in force.</em></li>
     </ol>
-    <p><em>If one continues this half-fast until the total  cleaning of the tongue, then one leads to still better results for general  health and to the cure of disorders and chronic diseases, old, impossible to  cure differently (eczema, asthma, chronic bronchitis, shingles, affections of  the eyes, hepatitis, etc.).
+    <em>If one continues this half-fast until the total  cleaning of the tongue, then one leads to still better results for general  health and to the cure of disorders and chronic diseases, old, impossible to  cure differently (eczema, asthma, chronic bronchitis, shingles, affections of  the eyes, hepatitis, etc.).
 
 3) &nbsp;If one  continues the fast with water during all the preceding phase of survival, then  one ends up entering </em><strong><em>the  phase of inanition and death</em></strong><em>. The symptoms are :  sensitivity to the light, prostration, skeletal thinness, impossibility of  being held upright, etc.. The body is wanting in all and plunders the noble organs  of the body (eyes, hearing, nerves) to survive.
 
@@ -4346,7 +4346,7 @@ But currently, I manage to obtain from 90% of my  fasters, a coloured tongue : b
 
 By the fast with water, elimination ended up being out  of breath at the end of approximately twenty days, and the tongue disfurred  little by little. 
 
-The tongue disfurred, not that the body is purified,  but because it did not have any more vitamins, more enzymes, more trace  elements, more mineral salts, to go on with elimination. It had some just  enough to survive.</em></p>
+The tongue disfurred, not that the body is purified,  but because it did not have any more vitamins, more enzymes, more trace  elements, more mineral salts, to go on with elimination. It had some just  enough to survive.</em>
     <p align="right"><em>p 145
 
 Duration of the  vital reserves
@@ -4361,32 +4361,32 @@ According to the biologists, the body stores the  vitamins, if there are too muc
 
 Here is a small table which shows the periods of  storage of the vitamins. There surely exists &nbsp;other periods concerning the storage of the  enzymes, trace elements, mineral salts.
 
-</p>
+
     <table border="1" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="504" colspan="2" valign="top"><p></p>
-            <p><em>Duration of &nbsp;storing u
+        <td width="504" colspan="2" valign="top">
+            <em>Duration of &nbsp;storing u
 
-p    of &nbsp;the vitamins &nbsp;in the human body</em></p></td>
+p    of &nbsp;the vitamins &nbsp;in the human body</em></td>
       </tr>
       <tr>
-        <td width="252" valign="top"><p></p>
-            <p><em>Vitamin B 12</em>
+        <td width="252" valign="top">
+            <em>Vitamin B 12</em>
 Vitamin A</em>
 Folic vitamin B 9 known as    folic acid</em>
 Vitamin C, B2 and B 6
 
-Vitamin    B 1</em></p></td>
-        <td width="252" valign="top"><p></p>
-            <p><em>3 to 5 years</em>
+Vitamin    B 1</em></td>
+        <td width="252" valign="top">
+            <em>3 to 5 years</em>
 1 to 2 years</em>
 several months</em>
 several    weeks
 
-a    few days</em></p></td>
+a    few days</em></td>
       </tr>
     </tbody></table>
-    <p>
+    
 
 <em>However, the body which misses vitamin B 1 for  example, can operate biological transmutations in the intestinal flora, to  manufacture this vitamin by starting from other elements present. It is what  makes it possible to the fasters to abstain from eating during 2 to 3 weeks  without any problem.
 
@@ -4430,19 +4430,19 @@ However, during the half-fast, colouring changed blue in  red. He telephoned to 
 
 Did one need a chemical analysis to confirm what the colour  of the tongue showed with the naked eye? Doesn't a black tongue strike enough  the imagination ? Isn't it a sufficient evidence that the elimination in the depth  of the cells is accelerated ?
 
-</p>
+
     <div>
-      <p><em>Proportions of the colours met</em></p>
-      <p></p>
-      <p><em>Black : &nbsp;&nbsp;&nbsp;&nbsp; 5%&nbsp; - indicate the catch of tranquillizings,  sleeping pills or anaesthetic. Mustard : &nbsp;&nbsp;50%&nbsp; -  indicate the protein abuse.
+      <em>Proportions of the colours met</em>
+      
+      <em>Black : &nbsp;&nbsp;&nbsp;&nbsp; 5%&nbsp; - indicate the catch of tranquillizings,  sleeping pills or anaesthetic. Mustard : &nbsp;&nbsp;50%&nbsp; -  indicate the protein abuse.
 
 Yellow : &nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;-  clearly indicates the abuse greasy substance (butter, oil, avocados) Green  :&nbsp;&nbsp;&nbsp; 1% &nbsp;&nbsp;- indicate the industrial sugar abuse.
 
 Brown : &nbsp;&nbsp;&nbsp;&nbsp;30%  - indicate the coffee consumption.
 
-White : &nbsp;10%  - indicate a difficulty of eliminating.</em></p>
+White : &nbsp;10%  - indicate a difficulty of eliminating.</em>
     </div>
-    <p>
+    
 
 <em>The colour can appear at the end of a few hours or  several days. It can cover all the tongue or only a part. One can see it  clearly only in the day light, facing a window, not in the night, nor with an  artificial light. 
 
@@ -4458,24 +4458,24 @@ The half-fast includes one kilo to 1,5 kg of food per day,  distributed as follo
 
 &nbsp;- 400/800 g.  apples (to crunch half an apple or an apple, every 2 hours, from midday). The  people up to 1,70 m  will take 400 g.,  those which exceed 1,70 m  will take 800 grams  per day. &nbsp;The apples are preferred &nbsp;to the other fruits, because they sweep the  intestines. If not, any fruit makes the deal. Not to vary, if possible. It is  necessary to take account of the hunger which can also carry to modify the  quantity of food.&nbsp;&nbsp;&nbsp;&nbsp; p 148
 
-- 500   grams of green vegetables, from the 3rd day, taken in  two times in the evening (tomato, cucumber, carrot, green pepper, celery,  lettuce, fennel). To drink one litre of water or more between midnight and  midday. In the event of difficulty of drinking, add lemon juice in the litre of  water (p.m. = the afternoon).</em></p>
+- 500   grams of green vegetables, from the 3rd day, taken in  two times in the evening (tomato, cucumber, carrot, green pepper, celery,  lettuce, fennel). To drink one litre of water or more between midnight and  midday. In the event of difficulty of drinking, add lemon juice in the litre of  water (p.m. = the afternoon).</em>
     <table border="1" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="540" colspan="3" valign="top"><p align="center">&nbsp;</p>
-            <p><em>The half-fast</em><br>
-        <strong>1st &nbsp;&nbsp;&amp; &nbsp;&nbsp;2nd days</strong></p></td>
+        <td width="540" colspan="3" valign="top"><p align="center">&nbsp;
+            <em>The half-fast</em><br>
+        <strong>1st &nbsp;&nbsp;&amp; &nbsp;&nbsp;2nd days</strong></td>
       </tr>
       <tr>
-        <td width="108" valign="top"><p></p>
-            <p><em>p.m. = in&nbsp; the afternoon</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>For the small sizes</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>For the big sizes</em></p></td>
+        <td width="108" valign="top">
+            <em>p.m. = in&nbsp; the afternoon</em></td>
+        <td width="216" valign="top">
+            <em>For the small sizes</em></td>
+        <td width="216" valign="top">
+            <em>For the big sizes</em></td>
       </tr>
       <tr>
-        <td width="108" valign="top"><p></p>
-            <p><em>Midday</em>
+        <td width="108" valign="top">
+            <em>Midday</em>
 1 h pm</em>
 2 h pm</em>
 3 h pm</em>
@@ -4483,9 +4483,9 @@ The half-fast includes one kilo to 1,5 kg of food per day,  distributed as follo
 5 h pm</em>
 6 h pm
 
-7 h pm</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>Half an apple</em>
+7 h pm</em></td>
+        <td width="216" valign="top">
+            <em>Half an apple</em>
 Half an apple</em>
 Half an apple</em>
 Half an apple</em>
@@ -4493,9 +4493,9 @@ Half an apple</em>
 Half an apple</em>
 Half an apple 
 
-Half an apple</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>Apple</em>
+Half an apple</em></td>
+        <td width="216" valign="top">
+            <em>Apple</em>
 Apple</em>
 Apple</em>
 Apple</em>
@@ -4503,29 +4503,29 @@ Apple</em>
 Apple</em>
 Apple
 
-Apple</em></p></td>
+Apple</em></td>
       </tr>
     </tbody></table>
-    <p>
+    
 
-</p>
+
     <table border="1" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="540" colspan="3" valign="top"><p align="center">&nbsp;</p>
-            <p><em>The half-fast</em><br>
-        <strong>3rd &nbsp;&nbsp;&amp; &nbsp;&nbsp;following days</strong></p></td>
+        <td width="540" colspan="3" valign="top"><p align="center">&nbsp;
+            <em>The half-fast</em><br>
+        <strong>3rd &nbsp;&nbsp;&amp; &nbsp;&nbsp;following days</strong></td>
       </tr>
       <tr>
-        <td width="108" valign="top"><p></p>
-            <p><em>p.m. = in&nbsp; the afternoon</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>For the small sizes</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>For the big sizes</em></p></td>
+        <td width="108" valign="top">
+            <em>p.m. = in&nbsp; the afternoon</em></td>
+        <td width="216" valign="top">
+            <em>For the small sizes</em></td>
+        <td width="216" valign="top">
+            <em>For the big sizes</em></td>
       </tr>
       <tr>
-        <td width="108" valign="top"><p></p>
-            <p><em>Midday</em>
+        <td width="108" valign="top">
+            <em>Midday</em>
 1 h pm</em>
 2 h pm</em>
 3 h pm</em>
@@ -4535,9 +4535,9 @@ Apple</em></p></td>
 7 h pm</em>
 8 h pm
 
-9 h pm</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>Half an apple</em>
+9 h pm</em></td>
+        <td width="216" valign="top">
+            <em>Half an apple</em>
 Half an apple</em>
 Half an apple</em>
 Half an apple</em>
@@ -4547,9 +4547,9 @@ Half an apple </em>
 Half an apple</em>
 200 g green vegetables
 
-200 g green vegetables</em></p></td>
-        <td width="216" valign="top"><p></p>
-            <p><em>Apple</em>
+200 g green vegetables</em></td>
+        <td width="216" valign="top">
+            <em>Apple</em>
 Apple</em>
 Apple</em>
 Apple</em>
@@ -4559,10 +4559,10 @@ Apple</em>
 Apple</em>
 300 g green vegetables
 
-300 g green vegetables</em></p></td>
+300 g green vegetables</em></td>
       </tr>
     </tbody></table>
-    <p></p>
+    
     <p align="right"><em>p 149
 
 In the event of  serious complications
@@ -4583,7 +4583,7 @@ Others will vomit it, even if they try to drink it by  small mouthfuls, and tepi
 
 3) The stock does not contain acids, nor of sugar,  like the fruits. But the acid requires to be neutralized, and sugar to be  digested, which exceeds the digestive possibilities of the serious cases. 
 
-4) The hot vegetable stock is cooked, therefore not  very nutritive. It is there an advantage for the serious cases and not a  disadvantage. Indeed, the goal is to prepare the curist in bad posture, so that  his stomach be capable to accept raw and nutritive food.</em></p>
+4) The hot vegetable stock is cooked, therefore not  very nutritive. It is there an advantage for the serious cases and not a  disadvantage. Indeed, the goal is to prepare the curist in bad posture, so that  his stomach be capable to accept raw and nutritive food.</em>
     <p align="right"><em>p 150
 
 A serious case 
@@ -4634,24 +4634,24 @@ Believe me, it is to better give up remedies and medical charlatans :  they are 
 It is against science to claim or believe that the doctors do not  practise useless operations or do not invent nor do not prolong the diseases. &nbsp;&nbsp;&nbsp;George Bernard SHAW
 
 The war starts in the slaughter-houses<br>
-    <em>The grogshop</em> -- Emile ZOLA</p>
+    <em>The grogshop</em> -- Emile ZOLA
 
-    <p>The list of the diseases which vivisection claims to have cured is long ;  but the reports of the officer of marital status show that people are  obstinated to die of these same diseases, as if vivisection had never existed.  -- George Bernard SHAW
+    The list of the diseases which vivisection claims to have cured is long ;  but the reports of the officer of marital status show that people are  obstinated to die of these same diseases, as if vivisection had never existed.  -- George Bernard SHAW
 
-Medicine operated a cure: it cured me of medicine. &nbsp;&nbsp;&nbsp;Paul REBOUX </p>
+Medicine operated a cure: it cured me of medicine. &nbsp;&nbsp;&nbsp;Paul REBOUX 
 
-    <p>Medicine defends of all its forces vaccination, because it means for it  the bread of her children.<br>
+    Medicine defends of all its forces vaccination, because it means for it  the bread of her children.<br>
       George  Bernard SHAW
 
-Medicine manages more and more to represent, not science, but what there  is hopelessly, of bitterly opposed to science.  -- George Bernard SHAW</p>
+Medicine manages more and more to represent, not science, but what there  is hopelessly, of bitterly opposed to science.  -- George Bernard SHAW
 
-    <p>Medicine is provider of tares, it recruits customers ; it creates men  who will need to have recourse to it.  -- Jean ROSTAND
+    Medicine is provider of tares, it recruits customers ; it creates men  who will need to have recourse to it.  -- Jean ROSTAND
 
 Medicine is a confused science.  -- Claude BERNARD
 
-Medicine? “I would not like of its cure… Leave me alone with your  miracle : I do not want any… I want, if I cured, to be obliged of it only with  myself… (Only) the natural order of &nbsp;effects and causes, the worthy order  (interests me)…”  -- <em>Cellars  of the Vatican</em> &nbsp;&nbsp;Andre GIDE</p>
+Medicine? “I would not like of its cure… Leave me alone with your  miracle : I do not want any… I want, if I cured, to be obliged of it only with  myself… (Only) the natural order of &nbsp;effects and causes, the worthy order  (interests me)…”  -- <em>Cellars  of the Vatican</em> &nbsp;&nbsp;Andre GIDE
 
-    <p>The refusal to recognize the accidents  (vaccination) is not the only process by which the dogma is protected. One  finds at the base of its construction and its maintenance a whole series of  voluntary confusions, desired ambiguities and loopholes, opposite with  scientific honesty. One of these types of doubtful thought approaches, but of  high psychological profitability, is the assimilation of the patients or vaccinated  deaths, with not vaccinated individuals! This faking is even more serious when it  makes it possible to establish the proof of the harmlessness and the  effectiveness of a vaccine, whose practice of this fact will be extended to all  the population. Such, for example, that one, brought back by the pr. Tissot, in  connection with anti-diphtheric vaccination. 
+    The refusal to recognize the accidents  (vaccination) is not the only process by which the dogma is protected. One  finds at the base of its construction and its maintenance a whole series of  voluntary confusions, desired ambiguities and loopholes, opposite with  scientific honesty. One of these types of doubtful thought approaches, but of  high psychological profitability, is the assimilation of the patients or vaccinated  deaths, with not vaccinated individuals! This faking is even more serious when it  makes it possible to establish the proof of the harmlessness and the  effectiveness of a vaccine, whose practice of this fact will be extended to all  the population. Such, for example, that one, brought back by the pr. Tissot, in  connection with anti-diphtheric vaccination. 
 
 <em>p 152</em> <br>
       “Anti-diphtheric vaccination by the  anatoxine started in 1923. &nbsp;Immediately  at its beginnings it caused many accidents. One held no account of it.<br>
@@ -4677,25 +4677,25 @@ Repletion buries the intellect  -- <em>ARAB PROVERB
 Medical science is still differs very imperfectly from the vulgar  sorcery of the healers. <br>
       George  Bernard SHAW 
 
-Vaccination appears as the open door to all the pathological adventures.  &nbsp;&nbsp;&nbsp;Dr. J. MICHAUD </p>
+Vaccination appears as the open door to all the pathological adventures.  &nbsp;&nbsp;&nbsp;Dr. J. MICHAUD 
 
-    <p>It is when it is claimed “scientific” that  medicine is less so. It tends then, indeed, like a religion, to constitute  itself in closed certainties… But apparently the men do not resist the need to  believe. That the least vacuum widens, and the belief rushes in. However, the  critical spirit and freedom are hand in glove. One does not fight for freedom,  only while releasing oneself from social and natural determinisms, but also by  exerting the doubt about his own thoughts, even if they are determined.  Certainties (medical) are gilded prisons, but they are prisons. <br>
+    It is when it is claimed “scientific” that  medicine is less so. It tends then, indeed, like a religion, to constitute  itself in closed certainties… But apparently the men do not resist the need to  believe. That the least vacuum widens, and the belief rushes in. However, the  critical spirit and freedom are hand in glove. One does not fight for freedom,  only while releasing oneself from social and natural determinisms, but also by  exerting the doubt about his own thoughts, even if they are determined.  Certainties (medical) are gilded prisons, but they are prisons. <br>
         <em>Illusions of the prevention</em> &nbsp;Norbert BENSAID
 
-</p>
+
     <h3><em>Ch. 20The first motion after the fast </em></h3>
     <p align="right">&nbsp;
 
 What the public  claims, it is a magic charm, cheap, to draw aside all the diseases. &nbsp;<br>
-      George Bernard  SHAW </p>
+      George Bernard  SHAW 
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="69" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>W</em></p></td>
+          <td valign="top" align="left"><em>W</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>ith the  majority of the fasters, it is completely normal not to pass any motion &nbsp;during all the duration of the fast, with rare  exceptions. Only the obese  ones and the very vigorous people evacuate one or twice after a few weeks of  fast, before cutting it. 
+    <em>ith the  majority of the fasters, it is completely normal not to pass any motion &nbsp;during all the duration of the fast, with rare  exceptions. Only the obese  ones and the very vigorous people evacuate one or twice after a few weeks of  fast, before cutting it. 
 
 Constipated people, and even others, which never were so,  can wait 17 days before having the first motion after the fast. Thus, one  should not lose patience, and wait.
 
@@ -4926,7 +4926,7 @@ The effects follow the causes and for those which are unaware of the  causes, mi
 The false opinions resemble to the  counterfeit money, which is struck initially by great culprits, and then spent  by decent people who perpetuate the crime, without knowing what they do. <br>
       Joseph  of MAISTRE
 
-The large monkeys are rather in the absolutism, if one can say, from the  food point of view. Try to give them meat and you will see their reaction. And to  think that the chimpanzees are four times &nbsp;&nbsp;&nbsp;&nbsp;<em>p 162</em> stronger  on the dynamometer than the most solid strapping man. - Henry&nbsp;  BAILEY STEVENS </p>
+The large monkeys are rather in the absolutism, if one can say, from the  food point of view. Try to give them meat and you will see their reaction. And to  think that the chimpanzees are four times &nbsp;&nbsp;&nbsp;&nbsp;<em>p 162</em> stronger  on the dynamometer than the most solid strapping man. - Henry&nbsp;  BAILEY STEVENS 
     <p align="right">The insects seek the integral flour which  is provided with vitamins and mineral salts, and avoid the devitalised and demineralised  white flour: they are more intelligent than the men. -  Doctor WESTON  PRICE, dentist.
 
 The pure joys never weary : the uniformity becomes uniform happiness if  the course of our way of life is conformed to Nature. --Felix &nbsp;O. &nbsp;OSWALD 
@@ -4939,9 +4939,9 @@ The doctors call help what generally is obstacle. - MONTAIGNE
 The doctors counted that the patient would be cured while they would  look after him and that this coincidence would be noted of their advantage. – <br>
     <u>The  seven women of Blue Beard and other Marvellous Tales</u>. &nbsp;Anatole FRANCE
 
-The doctors conspire with the surgeons to favour an operation. -&nbsp;&nbsp; George Bernard &nbsp;SHAW</p>
+The doctors conspire with the surgeons to favour an operation. -&nbsp;&nbsp; George Bernard &nbsp;SHAW
 
-    <p>Doctors? I like them, and very few of them  are completely stupid. When they are, I see it immediately. A dimple of silliness,  and all is lost - X… for example, is only one primate. When he comes to speak  to me about new treatments, I always regret not having had a tree planted in my  room where he would have been able to be suspended with his oracles - <br>
+    Doctors? I like them, and very few of them  are completely stupid. When they are, I see it immediately. A dimple of silliness,  and all is lost - X… for example, is only one primate. When he comes to speak  to me about new treatments, I always regret not having had a tree planted in my  room where he would have been able to be suspended with his oracles - <br>
     <em>LISTENING TO ANNA OF NOAILLES</em>, By  Henri MONDOR, <em>of the French Academy,  ‘The Literary Figaro’ of the 25. 4. 1953.
 
 The doctors, to save the faith in the  inoculation have driven to accuse their patient or the parents of their  patient, to have contracted the disease independently of the inoculation. -<br>
@@ -4963,22 +4963,22 @@ The modes of the year include special  treatments, operations and remedies, as w
 
 The modes are, after all, but epidemics  which one gives birth to, which proves that epidemics can be caused by  tradesmen, therefore doctors. -&nbsp; George Bernard  &nbsp;SHAW
 
-&nbsp;</p>
+&nbsp;
     <h3><em>Ch. 21The&nbsp; Menu&nbsp;  after the&nbsp; Cure</em></h3>
     <p align="right">&nbsp;
 
 This is really the  worst conceivable insanities to claim to contribute to the perpetuation of  health by making&nbsp; the organism, by  subintrant inoculations, a receptacle of innumerable miasmas. <br>
       Dr. Jacques KALMAR&nbsp;&nbsp;&nbsp;&nbsp; 
 
-##### Can  one have a feast after the fast?</em></p>
+##### Can  one have a feast after the fast?</em>
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="58" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>O</em></p></td>
+          <td valign="top" align="left"><em>O</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>ne usually  thinks that after a fast, one can have a feast, sitting down at a table well  furnished with all kinds of food and giving oneself pleasure after so many  sacrifices. Then, one gorges oneself on all, one seeks the concentrates and the  extracts, to catch up with the lost kilos, one takes vitamins in pills, yeast,  food complements to get back to one’s feet.
+    <em>ne usually  thinks that after a fast, one can have a feast, sitting down at a table well  furnished with all kinds of food and giving oneself pleasure after so many  sacrifices. Then, one gorges oneself on all, one seeks the concentrates and the  extracts, to catch up with the lost kilos, one takes vitamins in pills, yeast,  food complements to get back to one’s feet.
 
 The error is monumental. Indeed, if one acted of the  sort, one would demolish all that one built during the cure of fast, and all  the profit drawn from this period of physiological rest would be lost. One  would turn over to the same dilapidated health as before, to the same diseases  and the same troubles. Under these conditions, it was not necessary to go to a  lot of troubles to fast, and to give so much difficulty for nothing.
 
@@ -5056,11 +5056,11 @@ The quantity of proteins which one needs is much  smaller than it is thought. In
 
 The gorilla, which is the primate nearest to the man,  does not eat any food concentrated out of proteins like various nuts.&nbsp;&nbsp;&nbsp; 
 
-p 167</em></p>
+p 167</em>
     <div>
-      <p></p>
-      <p><em>Those which need proteins</em></p>
-      <p><em>- The  organisms in a state of growth, like the children ; 
+      
+      <em>Those which need proteins</em>
+      <em>- The  organisms in a state of growth, like the children ; 
 
 - pregnant  women ; 
 
@@ -5070,9 +5070,9 @@ p 167</em></p>
 
 - those which  have a strong muscular activity : 
 
-&nbsp; athletes, hard  working people, etc..</em></p>
+&nbsp; athletes, hard  working people, etc..</em>
     </div>
-    <p>
+    
 
 <em>It is necessary to refer to my other works on the food  question. But for this place, it will suffice to say that the food which  corresponds to the physiology and the human anatomy, according to comparative  studies, made by the great French, German and American biologists is : fruits,  greens and crudities.
 
@@ -5226,12 +5226,12 @@ In theory, it is initially necessary to wait to have  recovered the lost weight 
 
 That means that one can begin a second cure after a  few months.
 
-But here that I stumble on an article by Shelton. It is about a  lady which had fasted at his place 21 days, with an aim of making reabsorb a  tumour within the size of an egg. The tumour decreased by half, to become size  of a nut. The fast was cut to the return of the hunger. Several weeks after, a  second fast was undertaken and lasted 17 days, at the end of which the tumour  disappeared completely.</em></p>
+But here that I stumble on an article by Shelton. It is about a  lady which had fasted at his place 21 days, with an aim of making reabsorb a  tumour within the size of an egg. The tumour decreased by half, to become size  of a nut. The fast was cut to the return of the hunger. Several weeks after, a  second fast was undertaken and lasted 17 days, at the end of which the tumour  disappeared completely.</em>
     <table border="1" cellspacing="0" cellpadding="0" align="left" width="569">
       <tbody><tr>
-        <td width="569" valign="top"><p></p>
-            <p><em>Half-cooking </em></p>
-          <p><em>1) To cut vegetables without peeling them.
+        <td width="569" valign="top">
+            <em>Half-cooking </em>
+          <em>1) To cut vegetables without peeling them.
 - for will Chinese    okras and the muscadet pumpkins : to saw and cook with the skin.
 - cabbage : to thin    out the leaves of well.
 - Brussels sprouts :    to cross into two.
@@ -5244,15 +5244,15 @@ But here that I stumble on an article by Shelton. It is about a  lady which had 
 - cores cut in sections.</em>
 3) To use a not enamelled black cast-iron pan, with    a heavy lid. </em>
 4) To put full fire and to use a timer.</em><br>
-          <em>__________________________________________________________________</em></p>
-          <p><em>&nbsp;&nbsp;&nbsp;    For 600 g    &nbsp; For    1200 g
+          <em>__________________________________________________________________</em>
+          <em>&nbsp;&nbsp;&nbsp;    For 600 g    &nbsp; For    1200 g
 
  2    cold water glasses &nbsp; 5    cold water glasses 
 
-&nbsp;&nbsp; 10 minutes&nbsp;&nbsp;&nbsp;    15 minutes</em></p></td>
+&nbsp;&nbsp; 10 minutes&nbsp;&nbsp;&nbsp;    15 minutes</em></td>
       </tr>
     </tbody></table>
-    <p>
+    
 
 Notes : <br>
       <em>a) The goal of this half-cooking is to preserve the  essential vitamins and the other essential substances which do not support a  prolonged cooking. 
@@ -5263,31 +5263,31 @@ b) Do not add oil or butter before cooking. One can  put some, on the other hand
 
 d) This half-cooking is enough to volatilize the  poisons which are in certain strong vegetables and which make them harmful for  the kidneys : Examples: onions, the horseradish, garlic, etc..
 
-</p>
+
     <table border="1" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="444" valign="top"><p></p>
-            <p><em>The menu after the cure </em></p>
-          <p><em>the DAY    : To await an acute hunger, then some fruits,
+        <td width="444" valign="top">
+            <em>The menu after the cure </em>
+          <em>the DAY    : To await an acute hunger, then some fruits,
 
  on several occasions. </em><br>
-            Optional:<em> dessert, avocado, yoghourt. </em></p>
-          <p><em>To 6/7    hour p.m. (the evening)&nbsp;&nbsp; 
+            Optional:<em> dessert, avocado, yoghourt. </em>
+          <em>To 6/7    hour p.m. (the evening)&nbsp;&nbsp; 
 
 &nbsp; Green vegetables
 
 &nbsp; Various salads </em><br>
-          <em>&nbsp;&nbsp;&nbsp;&nbsp;    Seasonings (see lower)</em></p>
-          <p><em>&nbsp;the EVENING: To take one of the two following    meals: </em></p>
-          <p><em>1) Potatoes (200 g /&nbsp;    1 kg)    + aubergine, onion, green pepper, or Brussels sprouts (it is the hygienist    ratatouille) 
+          <em>&nbsp;&nbsp;&nbsp;&nbsp;    Seasonings (see lower)</em>
+          <em>&nbsp;the EVENING: To take one of the two following    meals: </em>
+          <em>1) Potatoes (200 g /&nbsp;    1 kg)    + aubergine, onion, green pepper, or Brussels sprouts (it is the hygienist    ratatouille) 
 
  Nature    green Salad, like accompaniment.</em>
 2)&nbsp; Varied    cooked vegetables (300 / 1200g) 
 
-&nbsp; 1 raw or    hard-boiled yolk of egg (optional.)</em></p></td>
+&nbsp; 1 raw or    hard-boiled yolk of egg (optional.)</em></td>
       </tr>
     </tbody></table>
-    <p>
+    
 
 ##### DESSERTS :  (30 mn&nbsp; after the evening meal)
 
@@ -5364,20 +5364,20 @@ Any claim or promise to cure, whatever  therapeutic, medical or natural one, are
 <em>There was also in Gulag, the chief Satan,  represented by Goethe in Faust. This devil promised health, force, strength,  youth, by a fraudulent means : that of stimulation. However nobody in Gulag  suspected that stimulation exhausted energies, instead of increasing them.  Nobody suspected that the lift, instead of adding forces, ended up drying them  up. The citizens of Gulag devoted themselves thus to all the stimulants to live  artificial paradises: tobacco, coffee, alcohol, amphetamines, anabolics. -</em><br>
     <u>Man,  the Monkey and the Paradise</u>&nbsp;&nbsp;&nbsp; Albert MOSSERI 
 
-</p>
+
     <h3><em>Ch. 22<strong>&nbsp; </strong>Purgings and rectal  injections</em> p 177<br>
       Defend your skin  against your doctor <br>
       <em>&nbsp;&nbsp; Unknown  Author</em></h3>
     <h3><em>It is necessary to change the way of life </em></h3>
-    <p></p>
+    
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="49" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>A</em></p></td>
+          <td valign="top" align="left"><em>A</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p>&nbsp;<em>fter the fast, it is necessary to  change the way of life, so that it becomes healthy. 
+    &nbsp;<em>fter the fast, it is necessary to  change the way of life, so that it becomes healthy. 
 
 what is the use to fast, to detoxicate oneself, to  purify, to cure oneself, if one must turn over to the customs which produced  one sick?
 
@@ -5759,9 +5759,9 @@ I thus went to see the guard of the Paradise, named Methuselah, old a 740 years 
       - Yes,  next door, it is the Hell and all its departments : atomic Gulag,  medical Gulag, the Gulag of the religious sects, the Gulag of the priests, the  Gulag of the doped, the Gulag of the slaves of the international high finance  and of famished, the Gulag of the communist proletarians. <br>
       - Do you want to visit ?<br>
       - Yes. This world appears strange to me  and worthy of a fiction novel of anticipation. I did not think that it could  still exist. I will make it the subject of my next book on the destiny of  Humanity and the Men on Earth. It will impassion children which are usually  avid of incredible stories, which love and admire Dracula, Blue Beard and  Frankenstein. –<br>
-      <u>Man,  the Monkey and the Paradise</u>&nbsp;&nbsp;&nbsp; <em>p 13  / 14</em>&nbsp;&nbsp; Albert  MOSSERI</p>
+      <u>Man,  the Monkey and the Paradise</u>&nbsp;&nbsp;&nbsp; <em>p 13  / 14</em>&nbsp;&nbsp; Albert  MOSSERI
 
-    <p>
+    
 
 ##### Ch. 23<strong>&nbsp; </strong>Who should not fast ?</em> <br>
       p 191
@@ -5769,15 +5769,15 @@ I thus went to see the guard of the Paradise, named Methuselah, old a 740 years 
 &nbsp; God laughs at men  who bemoan the effects of which they continue to cherish the causes – <br>
       BOSSUET 
 
-</p>
+
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="49" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>F</em></p></td>
+          <td valign="top" align="left"><em>F</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>asting is  contraindicated in the following cases:
+    <em>asting is  contraindicated in the following cases:
 
 - Those  suffering from true heart disease. 
 
@@ -5824,66 +5824,66 @@ Below is a table that gives the size of the person,  normal weight (10   kilogra
 
 2) Even the half-fast is not advisable for skeletal  people. 
 
-3) Already the diet change is likely to drop weight.  Therefore, it must be done with great caution. First, remove the poisons :  coffee, wine, spices, sauces, tobacco, aromatic herbs. After several months,  change the rest of the system, gradually, keeping white rice every day.</em></p>
+3) Already the diet change is likely to drop weight.  Therefore, it must be done with great caution. First, remove the poisons :  coffee, wine, spices, sauces, tobacco, aromatic herbs. After several months,  change the rest of the system, gradually, keeping white rice every day.</em>
     <table border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="89" valign="top"><p><em>HEIGHT</em></p></td>
-        <td width="103" valign="top"><p>STANDARD&nbsp; <br>
-          WEIGHT</p></td>
-        <td width="102" valign="top"><p>MUSCULAR</p></td>
-        <td width="114" valign="top"><p>&nbsp;DANGEROUS<br>
-          LIMITS </p></td>
+        <td width="89" valign="top"><em>HEIGHT</em></td>
+        <td width="103" valign="top">STANDARD&nbsp; <br>
+          WEIGHT</td>
+        <td width="102" valign="top">MUSCULAR</td>
+        <td width="114" valign="top">&nbsp;DANGEROUS<br>
+          LIMITS </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,85&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>75 kg </p></td>
-        <td width="102" valign="top"><p>85 kg </p></td>
-        <td width="114" valign="top"><p>45 kg </p></td>
+        <td width="89" valign="top"><em>1,85&nbsp;    m</em></td>
+        <td width="103" valign="top">75 kg </td>
+        <td width="102" valign="top">85 kg </td>
+        <td width="114" valign="top">45 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,80&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>70 kg </p></td>
-        <td width="102" valign="top"><p>80 kg </p></td>
-        <td width="114" valign="top"><p>42 kg </p></td>
+        <td width="89" valign="top"><em>1,80&nbsp;    m</em></td>
+        <td width="103" valign="top">70 kg </td>
+        <td width="102" valign="top">80 kg </td>
+        <td width="114" valign="top">42 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,75&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>65 kg </p></td>
-        <td width="102" valign="top"><p>75 kg </p></td>
-        <td width="114" valign="top"><p>39 kg </p></td>
+        <td width="89" valign="top"><em>1,75&nbsp;    m</em></td>
+        <td width="103" valign="top">65 kg </td>
+        <td width="102" valign="top">75 kg </td>
+        <td width="114" valign="top">39 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,70&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>60 kg </p></td>
-        <td width="102" valign="top"><p>70 kg </p></td>
-        <td width="114" valign="top"><p>36 kg </p></td>
+        <td width="89" valign="top"><em>1,70&nbsp;    m</em></td>
+        <td width="103" valign="top">60 kg </td>
+        <td width="102" valign="top">70 kg </td>
+        <td width="114" valign="top">36 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,65&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>55 kg </p></td>
-        <td width="102" valign="top"><p>65 kg </p></td>
-        <td width="114" valign="top"><p>33 kg </p></td>
+        <td width="89" valign="top"><em>1,65&nbsp;    m</em></td>
+        <td width="103" valign="top">55 kg </td>
+        <td width="102" valign="top">65 kg </td>
+        <td width="114" valign="top">33 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,60&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>50 kg </p></td>
-        <td width="102" valign="top"><p>60 kg </p></td>
-        <td width="114" valign="top"><p>30 kg </p></td>
+        <td width="89" valign="top"><em>1,60&nbsp;    m</em></td>
+        <td width="103" valign="top">50 kg </td>
+        <td width="102" valign="top">60 kg </td>
+        <td width="114" valign="top">30 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,55&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>45 kg </p></td>
-        <td width="102" valign="top"><p>55 kg </p></td>
-        <td width="114" valign="top"><p>27 kg </p></td>
+        <td width="89" valign="top"><em>1,55&nbsp;    m</em></td>
+        <td width="103" valign="top">45 kg </td>
+        <td width="102" valign="top">55 kg </td>
+        <td width="114" valign="top">27 kg </td>
       </tr>
       <tr>
-        <td width="89" valign="top"><p><em>1,50&nbsp;    m</em></p></td>
-        <td width="103" valign="top"><p>40 kg </p></td>
-        <td width="102" valign="top"><p>50 kg </p></td>
-        <td width="114" valign="top"><p>24 kg </p></td>
+        <td width="89" valign="top"><em>1,50&nbsp;    m</em></td>
+        <td width="103" valign="top">40 kg </td>
+        <td width="102" valign="top">50 kg </td>
+        <td width="114" valign="top">24 kg </td>
       </tr>
     </tbody></table>
-    <p>
+    
 
 However she is not young any more. And her heart is  not any more what it was. A little irregular. 
 
@@ -5935,7 +5935,7 @@ Cases of diabetes
 
 The diabetics who take  insulin lasting since years can fast by removing the injections, but they must  take them again when they restart eating, which presents difficulties. Indeed,  it is necessary to do every day the analyses of blood and the least error can  lead to a coma.
 
-</p>
+
     <h3><em>Ch. 24<strong>&nbsp; </strong>The  cases of the last hour 
 
 &amp;&nbsp; the mortal complications </em><br>
@@ -5947,11 +5947,11 @@ The diabetics who take  insulin lasting since years can fast by removing the inj
     <div>
       <table cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="49" align="left">
         <tbody><tr>
-          <td valign="top" align="left"><p><em>N</em></p></td>
+          <td valign="top" align="left"><em>N</em></td>
         </tr>
       </tbody></table>
     </div>
-    <p><em>&nbsp;ot having statistics at my disposal to inform  me about the number of deaths
+    <em>&nbsp;ot having statistics at my disposal to inform  me about the number of deaths
 
 &nbsp;that there are in the hospitals, I had  recourse to an original method to discover 
 
@@ -6272,13 +6272,13 @@ Discovery of food  combinations<em>-A study limited to specific food - How to  h
 
 &nbsp;
 
-&nbsp;</p>
+&nbsp;
     <span>
     
     </span></div>
   
   <div id="footer">
-    <p>Fasting--Nature's Best Remedy, by Dr. Albert Mosseri's Le Jeune</p>
+    Fasting--Nature's Best Remedy, by Dr. Albert Mosseri's Le Jeune
   </div>
 </div>
 

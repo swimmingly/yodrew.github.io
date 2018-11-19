@@ -2,12 +2,12 @@
 title: bibliography and influences
 permalink: "/about/bibliography-influences/"
 layout: page
-navprev: faq
-navnext: about/acknowledgments
+navprev: ../faq
+navnext: acknowledgments
 ---
 
 - indigeny vs industry 
-    - Jim Woods at Herrett Museum, Twin Falls
+    - Jim Woods at Herrett Museum, Twin Falls (with thanks to Janie Brumbach, RIP)
     - _Magical Child Matures_, [Joseph Chilton Pearce](http://www.ttfuture.org/jcp/front)
     - _The Songlines_, Bruce Chatwin
     - _The Continuum Concept_, [Jean Liedloff](http://continuum-concept.org)

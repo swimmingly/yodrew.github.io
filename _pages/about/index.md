@@ -2,11 +2,17 @@
 title: about
 permalink: "/about/"
 layout: index
-navprev: about/services
+navprev: 
 navnext: about/bibliography-influences
 ---
 
-[bibliography-influences](./bibliography-influences/) &nbsp; [acknowledgments](./acknowledgments/) &nbsp; [disclaimer](./disclaimer/) &nbsp; [license](./license/) &nbsp; [services](./services/)
+- <span style="font-size: 20px;font-weight: bold">about</span>
+	- [bibliography-influences](./bibliography-influences/)
+	- [acknowledgments](./acknowledgments/)
+	- [license](./license/)
+	- [disclaimer](./disclaimer/)
+	- [services](./services/)
+o{:.submenu}
 
 Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.
 
@@ -14,7 +20,7 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 
 Born 1971, Twin Falls, Idaho. For 21 years, I traveled America while searching for the cause of joy. I independently studied philosophy, health, and design, testing my findings by living outside, doing odd jobs, playing music, and building alternative shelter. 
 
-In 2008, my quest culminated in _the darkness conjecture_, a concept of the restful use of darkness in support of the self​-healing psyche. I spent the years since proving the concept; designing and building darkrooms and supporting retreats in Guatemala, Sweden, Norway, and Spain; giving lectures and consulting for readers; and documenting my work at [andrewdurham.com](/).
+In 2008, my quest culminated in _the darkness conjecture_, a concept of the restful use of darkness in support of the self​-healing psyche. I spent the years since then proving the concept; designing and building darkrooms and supporting retreats in Guatemala, Sweden, Norway, and Spain; giving lectures and consulting for readers; and refining and documenting my work at [darkroomretreat.com](/). Now I am preparing to fully apply it in a 20-day retreat in order to heal from my own psychophysical illness.
 
 #### contact
 
@@ -23,7 +29,7 @@ email: info {at} andrewdurham.com
 voicemail: 541.210.8470 (in US)  
 Read [services](./services/) beforehand
 
-#### site changelogs
+#### site changelog
 
 2018
 

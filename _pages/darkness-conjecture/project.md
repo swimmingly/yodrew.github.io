@@ -2,32 +2,31 @@
 title: project
 permalink: "/darkness-conjecture/project/"
 layout: page
-navprev: 
+navprev: strifeless
 navnext: 
 ---
 
 Here I would like to relate the history and future of this project.
 
-Since 2006, I have attempted seven retreats, two successful, two semi- successful, three failures \[plus seven more retreats since writing this essay\]. These results depended entirely on how well the room worked mechanically (not, thank god, my morale or effort during the retreat). I do not think it necessarily tricky to achieve the conditions of a retreat, but it has been for me.
+Since 2006, I have attempted seven retreats, two successful, two semi- successful, three failures \[plus seven more retreats since writing this essay\]. These results depended almost entirely on how well the room worked mechanically (not my morale or effort during the retreat). I do not think it necessarily tricky to achieve the conditions of a retreat, but it has been for me.
 
-In late 2008, the point of dark retreating became really clear to me and I began focusing on it full-time. My goal has been to do a long (14-day) retreat. Following my first failure at this in March, 2009, I drafted most of the content of this booklet and posted it online.
+In late 2008, the point of darkroom retreating became really clear to me and I began focusing on it full-time. My goal has been to do a long (14-day) retreat. Following my first failure at this in March, 2009, I drafted most of the content of this booklet and posted it online.
 
-In Guatemala, between late-2009 and mid-2011, I built and ran a dark retreat in the garage of my house. Nineteen people, including myself, retreated there. Seventeen of us had positive experiences, one neutral, one negative. At some point I will publish comments by retreatants about their retreats. According to them, people generally came out feeling more rested, more in their bodies, more _themselves_. Those who understood the conjecture beforehand said that they still found it plausible.
+In Guatemala, between late-2009 and mid-2011, I built and operated a darkroom retreat in the garage of my house. Nineteen people, including myself, retreated there. Seventeen of us had positive experiences, one neutral, one negative. At some point I will publish comments by retreatants about their retreats. According to them, people generally came out feeling more rested, more in their bodies, more _themselves_. Those who understood the conjecture beforehand said that they still found it plausible afterward.
 
 All of this was instructive and encouraging. But failure has also given me pause. Here is what I wrote about it in my retreat notes, scribbled in darkness in a moment of heartbroken clarity: "Can't do things by the seat of my pants anymore. Too stressful. Too much missed in the meantime. Need proper planning, more participation, more money, better site.
 
-I believe my failure has largely resulted from my exaggerated fear of interacting with other people. In true Catch-22 fashion, this fear has arisen from that which I have been trying to recover from. The cycle has to end somewhere, so the next phase of the project involves republishing a booklet of these writings, discussing the project with close supporters, and giving free public talks. The purpose of all this is to gauge interest, gather support, and invite wider participation. Rather than just invite people to help me do my thing as I have done in the past, I would like to open up the project to others equal participation.
+I believe my failure has largely resulted from my exaggerated fear of interacting with other people. In true Catch-22 fashion, this fear has arisen from that which I have been trying to recover from. The cycle has to end somewhere, so the next phase of the project involves republishing a booklet of these writings, discussing the project with close supporters, and giving free public talks. The purpose of all this is to gauge interest, gather support, and invite wider participation. Rather than just invite people to help me do my thing as I have done in the past, I would like to open up the project to others' equal participation.
 
-The first thing I am doing in this regard is releasing the content of this booklet so that anyone may [freely](http://copyheart.org/) copy, distribute, and sell (yes, _sell_) this content in any media. Suggest changes by submitting [pull requests](https://github.com/yodrew/hod). Include this license in your reprints, and I will similarly recognize and link to you on andrewdurham.com. Share 8% of your street price with me or somehow astound me and I will also give you my [endorsement](http://questioncopyright.org/creator_endorsed), a visible mark to use on products and ads. This deal roughly equals what you and I would make if I were published or self-published, without your having to order in bulk. PayPal, Dwolla, and write me at info {at} andrewdurham.com.
+The first thing I am doing in this regard is releasing the content of this booklet from copyright so that anyone may [freely](http://copyheart.org/) copy, distribute, and sell (yes, _sell_) this content in any media. See more at [license](/about/license)
 
+Next, I will make a visit to my close supporters in Scandinavia where we can seriously talk about this project. Thank god for friends. My personal goal remains the completion of a 14-day dark retreat. This promises to entail more than I am used to handling. \[This visit happened in 2011 for several months, leading to some failure, some progress.\]
 
-Next, I will make a visit to my close supporters in Scandinavia where we can seriously talk about this project. Thank god for friends. My personal goal remains the completion of a 14-day dark retreat. This promises to entail more than I am used to handling.
-
-Which may be why I have so many other ideas for the application of the principle, it makes my head spin. Especially since my last [retreat](/blog/2011/03/14-day-darkness-retreat-cut-short/). The strifeless principle says that a fundamental state of integrity, ease, and joy are natural to human beings, and are restored by a basically easy, graceful approach. This contrasts with the pervasive idea that conflict, struggle and suffering are natural to us and can only be overcome by a great and painful effort.
+Which may be why I have so many other ideas for the application of the principle, it makes my head spin. Especially since my last [retreat](/reports/6-day-retreat/). The strifeless principle says that a fundamental state of integrity, ease, and joy are natural to human beings, and are restored by a basically easy, graceful approach. This contrasts with the pervasive idea that conflict, struggle and suffering are natural to us and can only be overcome by a great and painful effort.
 
 For me, strifelessness is like a software platform. It is an open source design perspective which anybody can use to solve any problem arising from our mass functional psychosis. The strifeless platform is a serious yet relaxed way of approaching, shall we say, exceedingly conflicted situations. The platform itself can emerge within or take many forms: social movement, business, extended family, non-profit clearinghouse, R&amp;D lab, thinktank. Thus any group---existing, new, or ad hoc---can use it to focus on a given situation in an appropriate way.
 
-For example, the Hygienic use of darkness is a strifeless way of approaching the hairy monster of near constant suffering. Since nearly everyone knows this monster intimately, a time may come when every bedroom becomes a darkroom, and dark retreats outnumber restaurants. I would like there to be so much demand for retreats, it could, for instance, pay for the restoration of the hundreds of Mayan pyramids (once used as darkness chambers) still buried in the jungle, as well as the shamans to run them. I would like retreats to take every possible form, from commercial luxury to gutterpunk austerity. It could all spread as easily as bottled water or cellphones but without the attendant waste.
+For example, the hygienic use of darkness is a strifeless way of approaching the hairy monster of near constant suffering. Since nearly everyone knows this monster intimately, a time may come when every bedroom becomes a darkroom, and dark retreats outnumber restaurants. I would like there to be so much demand for retreats, it could, for instance, pay for the restoration of the hundreds of Mayan pyramids (once used as darkness chambers) still buried in the jungle, as well as the shamans to run them. I would like retreats to take every possible form, from commercial luxury to gutterpunk austerity. It could all spread as easily as bottled water or cellphones but with the reverse effect on waste levels.
 
 Certain groups and events also seem to have come together naturally:
 
@@ -63,7 +62,7 @@ My ideas entail working in some kind of group that, in the most direct and pract
 * Superhomeless mobile shelter/furnishing kits for living in style as a permanent camper (idea from Laservida Arts Collective, Las Vegas, NV)
 * $500 portable shelter kits and the hydraulic transmission-equipped bicycles and carts to move them.
 * color-balanced LED lamps and flashlights
-* web-based credit clearing system (Thomas Grecos idea)
+* web-based credit clearing system (Thomas Greco's idea)
 * gravity powered motor (old design, new materials)
 
 other needful designs---including those of others---consonant with the strifeless approach to be developed, crowdfunded, and offered until everyone functions so well we no longer need them

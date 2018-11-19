@@ -1,11 +1,12 @@
-<html>
-<head>
-<title>QWERTY to Dvorak translator</title>
-</head>
-<body>
+---
+title: QWERTY to Dvorak translator
+permalink: "/d/"
+layout: page
+navprev: other-writings/mosseri
+navnext:
+---
 
-<h3>QWERTY to Dvorak translator</h3>
-<h4><a href="http://www.andrewdurham.com/files/d.htm">andrewdurham.com/files/d.htm</a></h4>
+[zip file](http://www.andrewdurham.com/f/d.zip)
 
 <script language="Javascript">
 <!--
@@ -65,5 +66,4 @@ copy and paste! <b>Note:</b> Program switches _ and " symbols. <input name="imm"
 
 </font>
 </form>
-</body>
-</html>
+

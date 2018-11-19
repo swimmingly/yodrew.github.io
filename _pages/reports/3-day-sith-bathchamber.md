@@ -6,7 +6,7 @@ navprev: 365-day-retreat-of-150-year-old-yogi
 navnext: 
 ---
 
-\[Brian Riggs Sullivan, a close friend*, just did a short darkness retreat and wrote this entertaining report about his experience.\]
+\[Brian Riggs Sullivan* just did a short darkness retreat and wrote this entertaining report about his experience.\]
 
 Last weekend, I engaged in a 3-day (approx. 64-hour) [darkness retreat][1] in a bathroom in my parents' house. The bathroom has no windows and enough length for me to comfortably lie down on the floor (on top of several layers of wool blankets with a sleeping bag). I found a way to easily create complete and total darkness in the room by wrapping a large wool blanket around and over the door, pinning it to itself in a few strategic places and once to the wall, and stuffing a hand towel under the door to keep it closed: this all prevented any light from coming in around the edges. I turned on the bathroom fan and let it run continuously, which let fresh air in (counter-intuitive as that may seem) and provided white noise to muffle any sounds from the rest of the house. I packed a bag and cooler full of raw food (as I follow [Primal Diet][2]), set an alarm to go off about 64 hours later on my turned-off cell phone, and shut myself in there, vowing not to come back out until then.
 
@@ -34,7 +34,7 @@ All in all, I had what I consider an extraordinarily valuable experience with th
 – I don't exactly know how the Jedi supposedly deal with their so-called "negative" emotions – not very well, perhaps – but the Sith embrace and harness them, which fits my experience here
 – I don't mean to especially affiliate myself with "evil" (if I even truly believe in such a thing – one of the points of the whole Star Wars story, I submit) or the kind of deception practiced by the Sith, but I do consider them cooler than the Jedi. :)
 
-*Brian read my design for [Tribal Housing][6] in 2001 and wrote me. We have been friends ever since. Got to meet him for the first time in 2002. That year, he started Seattle Tribal Housing, which closed after nine months. We also built a [dome][7] together 2007 and his chats with me about darkness led to a few pages here ([dreamtime][8], [strifeless][9], [hygiene notes][10]). Totally rad guy into Daoism and trading precious metals whom some lucky woman will [snap up soon][11].
+*Brian read my design for [Tribal Housing][6] in 2001 and wrote me. Got to meet him for the first time in 2002. That year, he started Seattle Tribal Housing, which closed after nine months of shenanigans. We also built a [dome][7] together 2007 and his chats with me about darkness led to a few pages here ([dreamtime][8], [strifeless][9], [hygiene notes][10]). Into Daoism and trading currencies and securities.
 
    [1]: /darkness-conjecture/conjecture/
    [2]: http://dropout50394.yuku.com/topic/1102?page=1
@@ -45,6 +45,5 @@ All in all, I had what I consider an extraordinarily valuable experience with th
    [8]: /darkness-conjecture/dreamtime/
    [9]: /darkness-conjecture/strifeless/
    [10]: /darkness-conjecture/hygiene-notes/
-   [11]: http://www.okcupid.com/profile/brisully
 
 

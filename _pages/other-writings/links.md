@@ -14,7 +14,7 @@ I recommend the following designs/methods for shelter construction.
 (Speed measured in hours, days, weeks):
 
 [Self-Strutting Geodesic Plydome](http://andrewdurham.com/formactive) (weeks)  
-Steve Miller's perfection of Buckminster Fuller's design for a frameless sphere (now proudly hosted here!)
+Steve Miller's perfection of Buckminster Fuller's design for a frameless sphere (now proudly hosted here! [Edit: this is not active at the moment. Request a zip file of it from me by email or search for on [web.archive.org]()]
 
 [Conic Shelter](http://www.fishrock.com/conics) (weeks)  
 Chuck Henderson's sweeping, simple, brilliant, circled-square construction
