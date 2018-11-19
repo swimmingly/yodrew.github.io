@@ -44,7 +44,7 @@ The conjecture's wording used to be different. The original wording influences m
 5. Sustained total darkness leads to radically altered brain chemistry, inducing deep rest long enough to enable consciousness to permanently heal.
 6. Healed consciousness clears the way back to a full life, dispelling our [suffering](/blog/2009/09/conjectures-sixth-point/) and [absurd problems](/blog/2009/09/darkness-made-simple/).
 
-I increasingly found this version convoluted. When I finally read [*The Science and Fine Art of Natural Hygiene*](/nhs/pdf) by Herbert Shelton, I grasped the crucial role in health of vital energy. It integrated the points of the conjecture and is central to its present formulation.
+I increasingly found this version convoluted. When I finally read [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf) by Herbert Shelton, I grasped the crucial role in health of vital energy. It integrated the points of the conjecture and is central to its present formulation.
 
 #### further notes
 

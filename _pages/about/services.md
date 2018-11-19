@@ -13,7 +13,7 @@ I do nearly everything related to hygienic darkroom retreating: study, experimen
 - Get my ebook from [leanpub](http://leanpub.com/darkroomretreat)
 - Quote and excerpt anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.  
-- Publish me, make money. See [*license*](/license)
+- Publish me, make money. See [*license*](/about/license/)
 
 (Free or as you please)
 

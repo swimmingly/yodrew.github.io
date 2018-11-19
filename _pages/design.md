@@ -14,7 +14,7 @@ We design.
 
 Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. With the advent of street lamps and large unshuttered windows, darkening bedrooms has become critical to survival. Everyone's bedroom should be a darkroom, at least for nightly sleep. It is normal, just rare...for now.
 
-How is total darkness normal for sleep and healing? The original human habitat is tropical forest, whose dense canopy makes the forest floor pitch black at night. While we can sleep in light if necessary, it compromises the quality of sleep. No biological adaptation to it has occurred, only [*vital accommodation*](/theory#laws-of-life) (development of tolerance) at the expense of overall function. 
+How is total darkness normal for sleep and healing? The original human habitat is tropical forest, whose dense canopy makes the forest floor pitch black at night. While we can sleep in light if necessary, it compromises the quality of sleep. No biological adaptation to it has occurred, only [*vital accommodation*](/hygiene#laws-of-life) (development of tolerance) at the expense of overall function. 
 
 We also have darkness at any time by covering eyes with hands. When traumatized, we do this reflexively along with seeking safety, shelter, and solitude. 
 

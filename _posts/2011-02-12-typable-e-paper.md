@@ -11,7 +11,7 @@ I was talking with someone about my undying quest for typable e-paper. He conclu
 
 I replied:
 
-> I say it in my [plea](/blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)), but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
+> I say it in my [plea](/blog/2011/01/e-ink-writing-device-a-plea/), but let me state my assessment of the advantage of e-paper slightly differently here to better match what you are saying.
 >
 > The advantage of e-paper is something much greater, much more fundamental, much more affecting than its lack of glare. A matte finish can be put on any display, or even achieved after the fact with plastic screen protectors.
 >

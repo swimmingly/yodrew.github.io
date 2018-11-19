@@ -35,5 +35,5 @@ But the organism in darkness can break this cycle before it reaches its inevitab
 
 &nbsp;
 
-*I read _Human Technology_ and _Introduction to Human Technology_, which are out of print and very rare. However, a couple of Evans' other books have recently returned to print. See [abebooks.com](http://abebooks.com). Also, I mentioned Evans and Gurdjieff before in a [sketch of a piece](../../other-writings/sanity-and-health/) I never finished.
+*I read _Human Technology_ and _Introduction to Human Technology_, which are out of print and very rare. However, a couple of Evans' other books have recently returned to print. See [abebooks.com](http://abebooks.com). Also, I mentioned Evans and Gurdjieff before in a [sketch of a piece](/other-writings/sanity-and-health/) I didn't finish before it led to the [conjecture](/darkness-conjecture/conjecture) and then [hygienic darkroom retreat](/).
 

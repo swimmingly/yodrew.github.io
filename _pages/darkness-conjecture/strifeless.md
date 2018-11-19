@@ -8,7 +8,7 @@ navnext: project
 
 A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conversation brought out the meaning and an important implication of the word _strifeless_ (from the subtitle).
 
-> **Andrew:** We in civilization endure a terrible internal conflict. You know when you feel like you are going to explode? Or be torn apart? This conflict is caused by an unconscious denial of a subtle, but large part of reality called [dreamtime](/dreamtime). It is a dimension different than the usual, gross spacetime. Humans are normally aware of it but we are not. Civilization offers us three ways to deal with this conflict:
+> **Andrew:** We in civilization endure a terrible internal conflict. You know when you feel like you are going to explode? Or be torn apart? This conflict is caused by an unconscious denial of a subtle, but large part of reality called [dreamtime](../dreamtime/). It is a dimension different than the usual, gross spacetime. Humans are normally aware of it but we are not. Civilization offers us three ways to deal with this conflict:
 >
 > 1. Sedation (through addiction)
 > 2. Management (popular religion, psychotherapy, self-improvement, coaching, success seminars, spiritual materialism, weekend workshops, etc)
@@ -24,7 +24,7 @@ A friend, Brian Sullivan, and I chatted about the darkness conjecture. Our conve
 >
 > **A:** What the rest of us need is an easier way to cease denying our awareness of it. What these three ways have in common is the idea that strife is just how life is. Life sucks. Get used to it.
 >
-> But I am way too lazy and narcissistic to believe this. Always have been. Anyway, I have seen [otherwise](/rapture). Life is not inherently painful, just living like this. There is another way. Something is broken; lets fix it already!
+> But I am way too lazy and narcissistic to believe this. Always have been. Anyway, I have seen [otherwise](../rapture/). Life is not inherently painful, just living like this. There is another way. Something is broken; lets fix it already!
 >
 > **B:** Very nice.
 >

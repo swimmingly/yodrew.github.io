@@ -5,7 +5,7 @@ permalink: "/blog/2009/09/darkness-made-simple/"
 layout: post
 ---
 
-I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [original conjecture](http://andrewdurham.com/basics).
+I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [original conjecture](/darkness-conjecture/conjecture).
 
 #### simple
 
@@ -14,7 +14,7 @@ I have a friend that I want to tell about my work. But she speaks only some Engl
 3. We are locked into acting like this because, when we were young, civilized people hurt us very badly and so we are always afraid of getting hurt again.
 4. With a lot of very deep sleep, our brains, like any part of the living body, can heal from this hurt.
 5. Staying in a totally dark room for a couple weeks straight makes this kind of sleep possible.
-6. Once our brains heal, then our lives fill up again, our [hurting](../2009/09/conjectures-sixth-point) stops, and we can let go of our [problems](http://andrewdurham.com/2009/09/darkness-made-simple).
+6. Once our brains heal, then our lives fill up again, our [hurting](/blog/2009/09/conjectures-sixth-point) stops, and we can let go of our problems.
 
 Writing it was fun. And a couple interesting things came up.
 

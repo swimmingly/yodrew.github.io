@@ -18,7 +18,7 @@ Follow instructions carefully.
 
 1. Finish reading this book. Quiz later.
 2. Select dates for your retreat from the calendar below. Retreats begin at 18:00 and end at 12:00 four or eight mornings later. For example, a 4-day retreat that begins on Monday evening would end on Friday morning.
-3. Respond by [*email*](/bio) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
+3. Respond by [*email*](/about/) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
 4. Send deposit by cryptocurrency, PayPal, credit card, or inquire for other methods
 5. Bring things listed below
 
@@ -155,7 +155,7 @@ These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes
 
 If you would like to know more about this menu before trying it, see:
 
-- [*darkroom-retreat > food*](/dadrkroom-retreat#food) and [*protocol > food*](/protocol#food)
+- [*darkroom-retreat > food*](/darkroom-retreat#food) and [*protocol > food*](/protocol#food)
 - Dr Douglas Graham's masterful  [*The 80/10/10 Diet*](http://foodnsport.com)
 - [Loren Lockman's videos](https://www.youtube.com/user/LorenLockman)
 

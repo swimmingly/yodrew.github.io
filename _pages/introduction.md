@@ -125,7 +125,7 @@ Frederic's dedication and great knowledge made him immovable where I was merely 
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
-A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man, a hippy-from-birth (since his dad was a beatnik). Name of [Finn Po](. Scrawny guy. Lots of energy. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
+A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man, a hippy-from-birth (since his dad was a beatnik). Name of [Finn Po](http://www.efn.org/~finnpo/info.html). Scrawny guy. Lots of energy. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
 
 Naturally, Finn also had a darkroom.
 
@@ -153,7 +153,7 @@ But as Finn says, I was just getting started. It would take two more years, the 
 
 How did all this begin?
 
-My parents are far out. They taught me a lot of what they knew: mainly philosophy (including a big dose of politics), health, and design. I worshiped them and took all of it seriously. My intense older brother did, too, and he was as big a force in my life as they. Like a lot of families, we had our problems. Other [*influences*](bibliography-influences) and [*people*](/acknowledgments) smoothed some of it out.
+My parents are far out. They taught me a lot of what they knew: mainly philosophy (including a big dose of politics), health, and design. I worshiped them and took all of it seriously. My intense older brother did, too, and he was as big a force in my life as they. Like a lot of families, we had our problems. Other [*influences*](/about/bibliography-influences/) and [*people*](/about/acknowledgments/) smoothed some of it out.
 
 By age 15, I felt morose and alienated. But something from childhood was stirring in me. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this advice was like Luke Skywalker's photon torpedo.
 
@@ -228,7 +228,7 @@ Book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroom
 
 ##### open-source
 
-Thanks for reading. Please copy and give out this free book as much as you please. See [*license*](/license) for more options.
+Thanks for reading. Please copy and give out this free book as much as you please. See [*license*](/about/license) for more options.
 
 If you have comments or corrections, email me or [open an issue](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [Learn](http://rogerdudler.github.io/git-guide) distributed version control.
 
@@ -251,7 +251,7 @@ I continually update this book. Especially before building, download the latest 
 
 Join the dolphin economy: I help you help me help you help me help you...
 
-In addition to this book, I can assist you by email, skype, and in person. See [*services*](/services) for details.
+In addition to this book, I can assist you by email, skype, and in person. See [*services*](/about/services) for details.
 
 You can contribute by: 
 

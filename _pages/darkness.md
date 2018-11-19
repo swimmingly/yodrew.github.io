@@ -160,7 +160,7 @@ If your room's air supply comes through your window, attach a lightproof vent to
 Some casement windows leave no space for a blind or vent because they are flush with the wall and open inwardly on hinges. In this case, either:
  
 1. build a deep-set frame around window to attach blind to
-2. sew a velcro blind into the shape of a box so it attaches to the wall but then sticks out enough to allow the window to open behind it and contain a [helix vent](/air/helix-vent).
+2. sew a velcro blind into the shape of a box so it attaches to the wall but then sticks out enough to allow the window to open behind it and contain a [helix vent](/air#helix-vent).
 3. remove window temporarily and replace it with a solid panel of wood of the same size with a slot cut in it for vent. See hard panel section below.
 
 I will list the methods from quickest and cheapest to slowest and most expensive (in terms of both money and time).
