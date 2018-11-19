@@ -24,9 +24,9 @@ Experiences, ideas, and implications of hygienic darkroom retreating.
 - Healing
     - see [hygienic darkroom retreat](/)
     - [project](./project/)
-<!--
+<!---
 - Proposals
     - [dome proposal](./dome-proposal)
     - [geodesic dome](./geodesic-dome)
     - [health proposal](./health-proposal)
--->
+--->
