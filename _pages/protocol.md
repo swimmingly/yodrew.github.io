@@ -110,8 +110,6 @@ Here are ways to conserve energy for healing:
 
 ##### support
 
-Support should be passive. This means
-
 My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. I, then my clients generally liked having such active support for our first retreats. We found it reassuring to say a few words to someone each day. 
 
 For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. Then a client wanted to communicate with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted logistical support and the passive psychic support of my simply being around.
