@@ -1,4 +1,9 @@
 ---
+title: Fasting - A Prodigious Discovery
+permalink: "/other-writings/fasting-discovery/"
+layout: page
+navprev: fukuoka
+navnext: fasting
 ---
 
 from [_Fasting: Nature’s Best Remedy_](/other-writings/mosseri), p136, chapter 19, "A Prodigious Discovery"  
