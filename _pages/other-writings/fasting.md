@@ -9,8 +9,8 @@ navnext: "../d"
 _Note: this page is messy for now, but the content is here._
 
 by Dr. Albert Mosséri
-completes _RADIANT HEALTH THROUGH  FASTING_
 translated from the French, _Le Jeune: Meilleur Remede de la Nature_
+completes _Radiant Health Through Fastings_
 
 ##### blurb
 

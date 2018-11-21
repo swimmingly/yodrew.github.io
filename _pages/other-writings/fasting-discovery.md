@@ -1,14 +1,13 @@
 ---
-title: Mosséri's Fasting Discovery
+title: Fasting: A Prodigious Discovery
 permalink: "/other-writings/fasting-discovery/"
 layout: page
 navprev: fukuoka
 navnext: fasting
 ---
 
-from Albert Mosséri's
-[_Fasting: Nature’s Best Remedy_](/other-writings/mosseri), p136, ch19, "A Prodigious Discovery"
-
+from [_Fasting: Nature’s Best Remedy_](/other-writings/mosseri), p136, chapter 19, "A Prodigious Discovery"  
+by Albert Mosséri
 ~~
 
 In 1986, I made a prodigious discovery in the field of fasting that forced me to revise my Sheltonian method. This is how I was led to make this discovery:
