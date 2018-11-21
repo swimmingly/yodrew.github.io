@@ -44,14 +44,14 @@ Though every item he mentions serves a necessary function of life, its form is c
 
 | psychotic | sane |
 | --- | --- |
-| car | walking, backpack, rolling suitcase, handtruck, bicycle & trailer, pack animal, car coop, bus, boat, train, zepellin |
+| car | walking, backpack, rolling suitcase, handtruck, bicycle & trailer, pack animal, car co-op, bus, boat, train, zepellin |
 | marriage | love |
 | nuclear family | extended family |
-| house | simple shelter |
+| house | shelter |
 | education | freedom & adult availability |
 | state money | mutual credit, frugality, natural abundance |
 | security | sociality |
-| debt | simplicity, harvest-based livelihood |
+| debt | simplicity, foraging livelihood |
 | career | pursuing multiple interests and genuine talents |
 | selling out | selfhood |
 | partisanship | common sense |
@@ -60,9 +60,9 @@ Throughout my writings, I have tried in various ways to expose the articifial fo
 
 The trap is set. The house becomes nothing more than a personalized prison cell entailing 30 years of indentured servitude. Observe that "mortgage" means _death pledge_. Servitude, in the form of a job, leads to time-scarity and parental neglect. The car is the gateway drug of consumer financing and global devastation (as well as a portable Russian Roulette game for the whole family).
 
-Social isolation erodes security. Fear leads to credit card shopping sprees. Debt engenders dreams of freedom, at least for one's children. Ironically, parents force these dreams on their offspring. Thus, we arrive at education and selling out. One ends the fiasco at the polls, where one tries to compensate for this lifestyle with a indignantly righteous opinion about who should be left holding the bag.
+Social isolation erodes security. Fear leads to credit card shopping sprees. Debt engenders dreams of freedom, at least for one's children. Ironically, parents _force_ these dreams on their offspring. Thus, we arrive at education and selling out. One ends the fiasco at the polls, where one tries to compensate for this lifestyle with a indignantly righteous opinion about who should be left holding the bag.
 
-Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](/darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is the pursuit of a career that leads to everything else, due to the college debt a career entails these days. I was raised by an architect, and I'm cheap, so I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but these pieces come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
+Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](/darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is college debt  that leads to everything else. Not even a career, but the _pursuit_ of a career does it due to everything a career entails and makes one feel entitled to these days. Perhaps because I was raised by an architect, I'm thrifty, and I avoided college, I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but all these elements of the trap come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
 
 
 

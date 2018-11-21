@@ -1,10 +1,12 @@
 ---
 title: Fasting - Nature's Best Remedy
-permalink: "/other-writings/mosseri"
+permalink: "/other-writings/fasting/"
 layout: page
-navprev: mosseri-discovery
+navprev: fasting-discovery
 navnext: "../d"
 ---
+
+_Note: this page is messy for now, but the content is here._
 
 by Dr. Albert Mosséri
 completes _RADIANT HEALTH THROUGH  FASTING_
@@ -6282,4 +6284,3 @@ Discovery of food  combinations<em>-A study limited to specific food - How to  h
   </div>
 </div>
 
-</body><style type="text/css">embed[type*="application/x-shockwave-flash"],embed[src*=".swf"],object[type*="application/x-shockwave-flash"],object[codetype*="application/x-shockwave-flash"],object[src*=".swf"],object[codebase*="swflash.cab"],object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"],object[classid*="d27cdb6e-ae6d-11cf-96b8-444553540000"],object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"]{	display: none !important;}</style><style type="text/css">embed[type*="application/x-silverlight-2"],object[type*="application/x-silverlight-2"]{display: none !important;}</style></html>

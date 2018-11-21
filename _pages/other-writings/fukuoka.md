@@ -3,7 +3,7 @@ title: On a Green Mountain, with Masanobu Fukuoka
 permalink: "/other-writings/fukuoka/"
 layout: page
 navprev: origins-of-agriculture
-navnext: mosseri-discovery
+navnext: fasting-discovery
 ---
 
 ...the Sensei of Natural Farming  

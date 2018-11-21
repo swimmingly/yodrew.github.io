@@ -112,13 +112,13 @@ Here are ways to conserve energy for healing:
 
 My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. I, then my clients generally liked having such active support for our first retreats. We found it reassuring to say a few words to someone each day. 
 
-For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. Then a client wanted to communicate with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted logistical support and the passive psychic support of my simply being around.
+For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. Then a client wanted to retreat in silence. He communicated with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted practical support and the passive psychic support of my simply being around.
 
 I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. I later tried retreating without support and much preferred the solitude and lack of interruption.
 
-However, that was only a 4-day retreat, and I was in a small village of friends. For 8-day retreats, I have found that having someone nearby, on call, is critical. A retreatant is in a kind of womb. Supporters are like parents. They go about their regular lives, but remain available and create constant psychic shielding for the retreatant. Weird forces exist in the world. We need to rest from them, too. A little team of supporters makes this possible.
+However, that was only a 4-day retreat, and I was in a small, remote village of friends. For 8-day retreats, I have found that having someone nearby, on call, is critical. A retreatant is in a kind of womb. Supporters are like parents. They go about their regular lives, but remain available and create constant psychic shielding for the retreatant. Weird forces exist in the world. We need to rest from them, too. A little team of supporters makes this possible.
 
-A retreatant can get a supporter's attention from inside the darkroom with an operable flag or a bell at the end of a cord. A fully charged cellphone or walkie-talkie works in case of emergency.
+A retreatant can get a supporter's attention from inside the darkroom with notes, an operable flag, knocking, or a bell at the end of a cord. A fully charged cellphone or walkie-talkie works in case of emergency.
 
 Here are the attributes of good support:
 
@@ -137,7 +137,7 @@ Here are the attributes of good support:
 
 #### attitude
 
-Besides a darkroom, food, and support, a hygienic retreat requires a fourth critical ingredient: knowledge of the hygienic attitude. You don't have to believe it.  Just take it in with you to consider, test, and use when the opportunity arises. It is not something to impose on yourself, to make yourself do, but to recognize in the moment and respond to. It's a chance to let go and let life catch you. In some way, you already know how to do this. These words can help you feel more confident about it.
+Besides a darkroom, food, and support, a hygienic retreat requires a fourth critical ingredient: knowledge of the hygienic attitude. You don't have to believe it. Just take it in with you to consider, test, and use when the opportunity arises. It is not something to impose on yourself, to make yourself do, but to recognize in the moment and respond to. It's a chance to let go and let life catch you. In some way, you already know how to do this. These words can help you feel more confident about it.
 
 ##### purpose
 

@@ -1,9 +1,9 @@
 ---
 title: Mosséri's Fasting Discovery
-permalink: "/other-writings/mosseri-discovery/"
+permalink: "/other-writings/fasting-discovery/"
 layout: page
 navprev: fukuoka
-navnext: mosseri
+navnext: fasting
 ---
 
 from Albert Mosséri's

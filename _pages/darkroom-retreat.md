@@ -14,9 +14,9 @@ Here I make natural observations of the psyche and darkness; show how hygiene ap
 
 ##### psyche
 
-Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
+Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^3] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^4] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
 
-Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," as philosopher, Ayn Rand, put it in her _meta-ethics_[^3]. The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism, functioning at every scale, autonomically monitoring and harmonizing every one of sextillions (1,000,000,000,000,000,000,000) of organic processes per second (trillions of cells X 1 billion processes per cell). Whatever affects the psyche for good or ill greatly affects the rest of the organism likewise.
+Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," as philosopher, Ayn Rand, put it in her _meta-ethics_[^5]. The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism, functioning at every scale, autonomically monitoring and harmonizing every one of sextillions (1,000,000,000,000,000,000,000) of organic processes per second (trillions of cells X 1 billion processes per cell). Whatever affects the psyche for good or ill greatly affects the rest of the organism likewise.
 
 That's a lot of work. Like any other organic system, the psyche needs a period of rest and recovery. Since its sensory apparatus is reflexive---the skin automatically feels what makes contact with it, the nose smells, the eyes see---sensory destimulation is necessary for psychic rest. Think back to the times you got your best sleep. Besides feeling at ease, your shelter was probably especially dark, well-ventilated, and quiet. While the exact circumstances at the time cannot be replicated, these critical elements can be.
 
@@ -208,7 +208,7 @@ Deeper preparation than that is made the same way you prepare for weeks in tract
 
 &nbsp;
 
-[^1]: Herbert Shelton, [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
-[^2]: Ibid, p 139
-[^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
+[^3]: Herbert Shelton, [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
+[^4]: Ibid, p 139
+[^5]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 
