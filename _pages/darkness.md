@@ -13,9 +13,9 @@ Though often easier to deal with than ventilation, light is relentless. It sneak
 Generally, to darken a space,
 
 1. use dense inherently lightproof sheet material in 1-2 layers to cover area 
-2. use soft black fabric to seal edges
+2. use black polar fleece (or soft) fabric to seal edges
 3. outer surfaces exposed to sun should be reflective: white or silver
-4. in vents, channel light around 6 dark-surfaced corners
+4. in vents, channel light around 6 black-surfaced corners
 
 Usually, using fewer layers means:
 
@@ -48,7 +48,7 @@ I have not tried every mask on the market. But so far, none has satisfied my req
 - comfortable for many hours
 - stays in place during sleep and gentle activity
 - cheap and simple to make
-- easily replaced elastic (I guess skin and hair oils degrade it quickly)
+- easily replaced elastic (skin and hair oils seem to degrade it quickly)
 
 Some measurements in the drawing are marked with a tilde (~). This means they are adjustable. I have not developed a fitting system yet. So make one mask according to drawing. Then adapt it according to its comfortability and light-blocking ability on your face. The drawing is of the mask that fits me. I have a not-unusual face for a thin man of mostly Northern European heritage.
 
@@ -115,7 +115,8 @@ This is a new design. I feel there is an easier way to do it, but this works for
 Black polar fleece makes darkening a door easy and quick. Use masking tape at first. Tack edge of fleece in position with 10mm pieces of masking tape every 400mm. Then put a continuous strip of tape over the edge. Once you get the hang of it and know where you want the fleece to stay, use glue where possible (glue removal described below).
 
 1. sides and top: affix 50-70mm wide strips of black fabric to door jam with masking tape or white school glue. When closing, door should catch middle of fabric, pulling and bending it around one edge of the door and fill the gap between the door and jam. 
-2. latch and hinges: make perpendicular cuts in edges of fleece to accommodate these
+2. hinges: make perpendicular cuts in edges of fleece to accommodate these
+3: latch: make a parallel cut over the strike plate to accommodate the bolts
 3. bottom: where no threshold vent is necessary, make a fleece baffle the width of the door. See threshold vent perspective drawing for baffle design. It is a half-tube of black fleece fabric that hangs from the bottom of the door on each side and touches the threshold or floor underneath. Tape a 100mm wide strip of black fabric to the threshold or floor under the closed door. Black fabric against black fabric makes a good light seal. Partially darken space beyond door with curtains or partitions to ensure darkness in the darkroom.
 4. if light still leaks in the sides or top, affix a second strip to door, as in drawing
 5. to remove glued-on fabric, wet it. This will dissolve the glue and the strips will peel off easily after a few minutes. As this happens, use a wet rag to wipe off glue residue before it dries again.
