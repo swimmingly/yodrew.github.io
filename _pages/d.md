@@ -2,7 +2,7 @@
 title: QWERTY to Dvorak translator
 permalink: "/d/"
 layout: page
-navprev: other-writings/mosseri
+navprev: other-writings/fasting
 navnext: 
 ---
 

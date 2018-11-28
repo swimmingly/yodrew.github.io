@@ -6,20 +6,30 @@ navprev: darkness
 navnext: faq
 ---
 
-If you have a bathroom and kitchen you can easily darken and get to, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
+If you already have a bathroom and kitchen you can darken easily or mostly, and you can get to it, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
 
 #### sink
 
 ##### basic
 
+- bucket with lid, 10-25L
+- 1-2L soda bottle with cap, filled with water
+- loosen cap slightly
+- squeeze bottle over bucket, with or without lid. Use one hand or put it between your knees for hands-free use
+- wash hands or food
+- slide lid off bucket to drain water into bucket
+- putting food waste in the bucket helps keep the smell down
+
+##### upgrade
+
 - table
 - rectangular plastic basin, like a restaurant bus tub
-- 30cm-tall stand for bottle behind basin
+- short stand, 30h x 30 x 40cm, behind basin
 - 10 or 20L bottle with valve-cap on stand
 - drinking water (if separate from wash water): in 20L bottle with valve-cap
 - waste (water and food): two, 20L buckets with lids
 
-##### upgrade
+##### deluxe
 
 - salvaged sink set in a counter-height table
 - drains directly into waste bucket
@@ -41,11 +51,12 @@ It's a 20L bucket with a toilet seat on top. No kidding.
     - let it sit for a year before use
     - cover with dirt and plenty of carbonaceous material
 - replace toilet paper with water to ensure cleanliness and prevent abrasion and infection
-    - fill a plastic soda bottle with water
+    - fill a 0.5--1.5L soda bottle with water
     - loosen the lid slightly
     - hold upside down, with lid against lower back
     - squeeze to get a small stream of water that runs straight down crack over anus
-    - wet fingers of other hand  in stream and wash anus
+    - wet fingers of free hand and wash anus
+    - wonder how you ever accomplished this task any other way
 
 ##### upgrade
 
@@ -91,10 +102,10 @@ A washcloth or sponge for a sponge bath
 
 ##### upgrade
 
-- on waterproof floor (or covered with large plastic sheet) make a 2m diameter border of towels or bedsheets and sit in the middle 
+- on waterproof floor (or covered with large plastic sheet) make a 2m diameter border of towels and sit in the middle 
 - put shower water in two 1.5L soda bottles with loose lids or nearly closed drinking spout lids
 - hold a bottle above yourself with one hand and wash with the other
-- wipe up water with towel or sheet
+- wipe up water with towels and squeeze it out into bucket
 
 ##### deluxe
 
@@ -106,8 +117,8 @@ It's a simple shower which collapses for storage, requiring no pipes and little 
 - bucket or bottle (4-8L, hangs from hook by handle)
 - siphon tube (polyethylene, 4mm ID x 50cm, bent near its middle with heat to hook over rim of container)
 - 4 cords (hung from hook, tied to curtain rod)
-- curtain rod (black polyethylene irrigation tubing, 30mm OD, circular, 120cm diameter, dowel inside ends for smooth joint)
-- curtain (polyester, with 15cm sleeve for rod (as shown) or grommets and rings, 5cm bottom hem with small river rocks inside to weigh it down)
+- curtain rod (common irrigation tubing, black polyethylene, 30mm OD, circular, 375cm long for 120cm diameter, dowel inside ends for smooth joint)
+- curtain (polyester or plastic sheeting, with 15cm sleeve for rod (as shown) or grommets and rings, 5cm bottom hem with small river rocks inside to weigh it down)
 - **x**=holes in curtain for cords to tie around curtain rod
 - large tub (90L+, from garden supply store, catches everything at the bottom. Could also be a large, deep tray or pan.)
 
@@ -122,8 +133,4 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See  
 [*introduction > open-source*](/introduction#open-source).
 
-Thank you for reading my book. I hope it helps you feel joy.
-
-
-
-
+Thank you for reading my book. I hope it helps you find yourself and feel joy.

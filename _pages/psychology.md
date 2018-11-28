@@ -31,7 +31,7 @@ Pathology is the study of disease: its symptoms, causes, and nature. Pathology g
 
 The doctrine of original sin says life is inherently corrupt and impotent. Accordingly, allopathy views disease as natural and unavoidable. Nevermind that an intact organism is healthy; that life logically implies health; that disease logically depends on health; that nature requires health; tha without it, we are obviously headed toward the abyss; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy just doubles down on its mystical assertions of human exceptionalism while pretending to be rational and scientific. Meanwhile, it views health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful explanation. But they see nothing really wrong when people get sick. Medicine is not an abject failure. It's just how life is.  
 
-This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look another level of causation down in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, germ theory of disease in hand.
+This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, germ theory of disease in hand.
 
 The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, they aren't always present in it, and getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
@@ -59,7 +59,7 @@ We have [Victoria Bidwell](http://getwellstaywell.com), a tireless contemporary 
 
 Tilden's analysis shows the close relationship between enervation and toxemia as two of the most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It explains hygiene's success for two centuries in supporting the recovery of countless people whose cases allopathy had pronounced hopeless merely by putting them to bed with plenty of water and fresh air, and not poisoning them with drugs. 
 
-If afterward, they could quit the ultra-toxins of coffee, tea, tobacco, cut back on activity and stress, increase rest, fast sometimes, move away from polluted areas, learn to eat better, take up exercise, then they would heal and stay healthy. It continues to happen every day  without media fanfare as millions in each generation discover hygiene.
+If afterward, they could quit the ultra-toxins of coffee, tea, tobacco; cut back on activity and stress; increase rest, fasting sometimes; move away from polluted areas; learn to eat better and take up exercise; then they would heal deeply  and stay healthy. It continues to happen every day  without media fanfare as millions in each generation discover hygiene.
 
 But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky. The rest find ways to cope with semi-recovery or perish quietly. 
 
@@ -79,7 +79,7 @@ Why are these things so deeply buried?
 
 Trauma causes the first four stages of disease immediately. The organism surges into action with the shock and sudden demand for energy, nutrients, circulation, and hormones to manage pain and awareness. Meanwhile, incapacity and malfunction snowball.
 
-Consciousness contracts with trauma. It withdraws from the world and higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia, denial, and stupidity, callousness, clumsiness: the inabilities to remember, to admit, to know, to feel, to move.
+Consciousness contracts with trauma. It contracts from the world on a sensory level and restricts higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia, denial, and stupidity, callousness, clumsiness: the inabilities to remember, to admit, to know, to feel, to move.
 
 Many movies have an amnesiac premise, the protagonist is injured, cannot remember his old life, and has a new adventure. Few of us have personal experience of anyone like this. Why do such movies continue to draw crowds? It is because we all suffer a kind of amnesia and recognize ourselves in these stories. 
 
@@ -87,11 +87,11 @@ In fact, our amnesia is called infant or childhood amnesia. Who remembers his bi
 
 Denial is not moral failure. It is unconscious success. Devastating trauma usually occurs in infancy. It overwhelms the fragile structure of an infant's consciousness. Denial locks down basic functions, preventing trauma from shattering psychic integrity. Otherwise it would cause death, as with SIDS---Sudden Infant Death Syndrome. Escaping with autism or blindness, for example, beats dying. Denial is biologically maintained until the psyche heals enough for to bear witness to the horror of what was denied. 
 
-Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsiness. Psychic damage causes decreases in thinking, feeling, and moving intelligence. The normal brightness, love, and grace of many children gives way, and we marvel day in and day out at the results in others, even as they marvel at them in us.
+Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsiness. Psychic damage causes decreases in thinking, feeling, and moving intelligence. The normal brightness, love, and grace of most children give way. We marvel at the pitiful results in others, even as they marvel at them in us.
 
-In darkness, damage begins to heal. Denial begins to lift and traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. Stupidity and uncoordination lift. The energy to recover strength seeps back in. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
+In darkness, damage begins to heal. Denial begins to lift. Traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. Stupidity and uncoordination lift. The energy to recover strength seeps back in. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
-Gaining confidence in this capacity take a little time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. In a series of [*reports*](/reports), I have recorded my experiences in darkness of beginning to heal from major trauma.
+Gaining confidence in this capacity take a little time. In [*protocol > discomfort*](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. In a series of [reports](/reports), I have recorded my experiences in darkness of beginning to heal from major trauma.
 
 What trauma? I mean the routine brutality of our lifeway, which touches virtually everyone from before birth. I mean not just the bad things we condemn, but common atrocities we mistakenly accept. I mean our many offenses to nature, as if it hadn't already worked out every detail of a happy existence from the beginning of time. 
 
@@ -124,11 +124,11 @@ Lastly, unconscious psychic trauma often expresses itself somatically: as physic
 
 Until now, hygienists have regarded the primary causes of disease as enervation, an excessive lowering of vitality, and toxemia, a general poisoning, mostly from internal waste but also food and environmental poisons. These, hygienists have asserted, come from poor habits.
 
-But whence came poor habits? Why would a healthy creature engage in anything less than perfectly suitable behavior persistently, without cause? It makes no sense. In light of the awesome influence of trauma, poor habits is obviously a deficient explanation.
+But whence came poor habits? A healthy creature has strong self-correcting instincts. How could it persist in unhealthy behavior out of the blue? It makes no sense. Something must have happened to knock it off course. In light of the awesome influence of trauma, poor habits are obviously a deficient explanation.
 
-Much of this comes straight out of modern depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
+Much of this comes straight out of depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
 
-Suffice it to say I'm no scientific materialist. This quaint philosophy holds that humans are so special that nature has exempted us from from its laws; and that anything generated through science (and by civilization itself) is inherently good. Find excellent elaborations of the humor in this idea in _Ishmael_ by Daniel Quinn and Rupert Sheldrake's critique of scientism. 
+Suffice it to say I'm no scientific materialist. This quaint philosophy holds that sensation of the bludgeoned is all; that humans are so special that nature has exempted us from from its laws; and that anything generated through science (and by civilization itself) is inherently good. Find excellent elaborations of the humor in this idea in _Ishmael_ by Daniel Quinn and Rupert Sheldrake's critique of scientism. 
 
 The human organism is resilient in some ways and vulnerable in others. Darkness provides our autonomic selves the opportunity to fully put these qualities to healthy use, righting unfathomable wrongs.
 
@@ -164,7 +164,7 @@ I submit, we are actually crazy. We weren't always. But something went terribly 
 
 What would we recover? Common sense, memory, and honesty. Joy and empathy. Strength and vigor. Just for starters. But much more awaits us. When the thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to an unrecognizable degree. 
 
-I mean engagement with the other basic plane of reality. Because it mirrors spacetime, some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and space fixed to one location at a time.[^9] Kogi Indians call it the _aluna_. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or go out and meet a scarce deer in the middle of nowhere to bring back for food. 
+I mean engagement with the other basic plane of reality. Because it mirrors spacetime, some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and space fixed to one location at a time.[^9] Kogi Indians call it the _aluna_. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out and meet a scarce deer in the middle of nowhere to bring back for food. 
 
 Dreamtime is perceived primarily through the feeling center of intelligence, not the senses. It is intuition. With psychic integrity, it can be just as precise as the eyes aided by a microscope, but at great distances.
 

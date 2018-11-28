@@ -94,7 +94,7 @@ For more about food, see:
 I strongly believe in fasting. It is a cornerstone of hygiene. But I believe in keeping these two processes separate until regaining significant capacity. They seem to have opposite metabolic requirements. At first, healing in darkness is more psychical in nature, in fasting more physical. The activity of one supports the inactivity and resting of the other. 
 
 I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism. I recommend Shelton's books on it, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and  
-Albert Mosseri's [*Fasting: Nature's Best Remedy*](/other-writings/mosseri).
+Albert Mosseri's [*Fasting: Nature's Best Remedy*](/other-writings/fasting).
 
 ##### conservation
 

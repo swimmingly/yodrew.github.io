@@ -6,9 +6,9 @@ navprev: make
 navnext: darkness
 ---
 
-Ventilating a darkroom is trickier than darkening it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
+The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
-Even trickier is making it quiet. With noise, we are usually at the mercy of our neighbors whereas we could buy an air purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
+Even trickier is making it quiet. With noise pollution, we are usually at the mercy of our neighbors whereas with air pollution, we could buy a purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
 
 #### ventilation
 
@@ -78,7 +78,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 (helix vent specifications in parentheses / helix sr version){threshold vent specifications in curly braces}:
 
-- durable (protective cardboard shell or inside silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
+- durable (protected by cardboard shell or silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
 - cross-sectional area >75cm<sup>2</sup> (90cm<sup>2</sup>){60--120cm<sup>2</sup>}
 - fully traps light, sending light around at least 5 corners (7 corners / 5 corners){6 corners} 
@@ -275,7 +275,7 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 
 Power it from the grid with an AC/DC universal adapter with pole switching and variable voltage for speed control ($5 at variety stores). Off grid, use car or household batteries or a solar power system. To control speed, use a 12V DC/DC car adapter from eBay. Attach one fan wire at each end of the pack. No fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-More about an [ideal fan](#fan-idea), below.
+More about an [*ideal fan*](#fan-idea), below.
 
 ##### fan mount
 

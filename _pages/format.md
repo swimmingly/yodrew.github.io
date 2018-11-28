@@ -93,7 +93,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [false capacity](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
+> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [*false capacity*](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
 
 ###### transition
 
@@ -152,7 +152,7 @@ Fortunately, it is easy to avoid it once you know. I will just list them here an
 
 Just say no to:
 
-1. Mini-retreating behind schedule. See [mini-retreat*](#mini-retreat) section above.
+1. Mini-retreating behind schedule. See [*mini-retreat*](#mini-retreat) section above.
 2. Ending a retreat without transition days. See [*4-day retreat*](#4-day-retreat) above and [*protocol > post-retreat*](/protocol#post-retreat).
 3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see  
 _4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity), where I have understated the matter because it cannot be overstated.
@@ -168,7 +168,7 @@ Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom
 I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
 - medium and long darkroom retreats
-- fasts (a la Albert Mosseri's groundbreaking [method](/other-writings/mosseri))
+- fasts (a la Albert Mosseri's groundbreaking [method](/other-writings/fasting))
 - physical retraining
 - training in healthy lifeway, including both lifestyle and livelihood
 - open source research and development of the above

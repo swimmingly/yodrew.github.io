@@ -173,7 +173,7 @@ This idea contradicts our perversely moralized perspective. How shocking to disc
 
 This is the hardest lesson I have learned about darkness. With every new breakthrough I had in darkness, I would experience a corresponding loss of function. It confused me for years and began to scare me. Abilities I counted upon, that I always had, suddenly disappeared. The process seemed like it was backfiring.
 
-Doing more than a few short retreats caused the problem. False capacity breaks down too much before the organism can restore normal capacity to the point of immediate usefulness. It is yet another reason to advance to a medium retreat once you grasp the rudiments of the process in the first 2-3 short retreats. I discuss this more in [format](/format).
+Doing more than a few short retreats caused the problem. False capacity breaks down too much before the organism can restore normal capacity to the point of immediate usefulness. It is yet another reason to advance to a medium retreat once you grasp the rudiments of the process in the first 2-3 short retreats. I discuss this more in [*format*](/format).
 
 ##### integration of laws
 
