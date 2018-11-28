@@ -6,24 +6,21 @@ navprev: dedication
 navnext: foreword
 ---
 
-You needn't read this whole book just to get the idea. I present it in layers: immediately in brief, then in detail.
+This book is an integrated whole. I give the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
 
-The book is an integrated whole, best read front to back, cover to cover. Each section builds upon the last. Every word contributes to understanding, including the blurb, foreword, etc.
+The book has links. They are underlined in ebook and paper formats for visibility. They are in regular font or italics.
 
-____Underlined____ words are links. 
-- ____*Italicized text*____
-    - most are internal links to other parts of this book. In the ebook or on the web, click. In paper, the text usually indicates a chapter and section
-    - a handful are titles of downloadable books 
-- ____Normal text____: external webpages
+- <u>external links</u> to other webpages
+- <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
+- <u><em>books</em></u>, downloadable 
 
-Access current version of book:
+Current version of book:
 
-- Ebook (pdf, epub, mobi):  
-    - [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat) or  
-    - [darkroomretreat.com/ebook](/ebook).  
-- Web:  
-    - [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read) (all on one page, white background) or  
-    - [darkroomretreat.com](http://darkroomretreat.com) (one chapter per page, dark background)
+- ebook (pdf, epub, mobi):
+    - [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat) or
+    - [darkroomretreat.com/ebook](/ebook)
+- web:
+    - [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read): all on one page, white background, or
+    - [darkroomretreat.com](http://darkroomretreat.com): one chapter per page, dark background
+- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ ): all pdfs and source code
 
-test
-test
