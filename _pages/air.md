@@ -76,7 +76,8 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### constraints
 
-(helix vent specifications in parentheses / helix sr version){threshold vent specifications in curly braces}:
+(helix vent specifications in parentheses / helix sr version)  
+{threshold vent specifications in curly braces}:
 
 - durable (protected by cardboard shell or silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
@@ -240,7 +241,8 @@ You can make or buy duct silencers.
 - [silencer for sound booths](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - manufactured silencers are made of metal and super durable materials and cost $100-200.
 
-In the past year, I built two box silencers into window recesses. They were simpler and much more effective than I hoped. They swallowed up sound. One of two window panes formed one face of the box. The window recess in the thick wall provided the 4 sides. Boards formed the box's outer face against the inside of security bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [*darkness > window > hard panel*](/darkness#hard-panel) section for more about adapting the design below.
+In the past year, I built two box silencers into window recesses. They were simpler and much more effective than I hoped. They swallowed up sound. One of two window panes formed one face of the box. The window recess in the thick wall provided the 4 sides. Boards formed the box's outer face against the inside of security bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See  
+[*darkness > window > hard panel*](/darkness#hard-panel) section for more about adapting the design below.
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
