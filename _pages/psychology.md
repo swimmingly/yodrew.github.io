@@ -225,7 +225,7 @@ Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a 
 In light of the essence of hygiene, _conditional self-preservation_; the restful use of darkness; and the cataclysmic origin of disease, a hygienic psychology can now be outlined:
 
 1. As organisms, we start out healthy, happy, and harmonious
-2. Global cataclysm Early major psychic trauma from civilization's routine brutality leaves us damaged, malfunctioning, and suffering.
+2. Early major psychic trauma from civilization's routine brutality leaves us damaged, malfunctioning, and suffering.
 3. The psyche, as an organic system, is self-healing, provided the proper conditions.
 4. The primary condition of healing is _rest_ due to the homeostasis, stillness, and accumulation of vital energy it makes possible.
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.

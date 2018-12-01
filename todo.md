@@ -1,4 +1,8 @@
+
+
 # FORMAT
+
+## A
 
 - drawings
 HWL to xyz
@@ -7,13 +11,17 @@ HWL to xyz
     - space after images
     - photos turned 90 degrees
 
-templates will need a special knife holder that guides the knife in the grooves so the knife and creaser can never be confused and the template does not get cut up. It will slide in a groove wider than the creaser. It can be easily made.
+## B
 
 fix mosseri
 
 script to copy text from index to blurb or use includes
 
+templates will need a special knife holder that guides the knife in the grooves so the knife and creaser can never be confused and the template does not get cut up. It will slide in a groove wider than the creaser. It can be easily made.
+
 # TEXT
+
+## A
 
 - retreat requirements : internal, external
     - knowledge: theory and practice > attitude, self
@@ -32,6 +40,17 @@ script to copy text from index to blurb or use includes
 
 quote from Bernarr Zovluk somewhere
 zovluk webpage on website
+
+healing at the speed of life
+
+
+## B
+
+cataclysm > trauma > suffering, psychosis
+
+darkroom > relief, rest, recovery > healthy, sanity, joy
+
+ civilization > brutality
  
 In fact, in the history of medicine, those most fascinated with this priestly duty became doctors, assuming the cover of science as necessary, but always pursuing this line.
 
@@ -48,7 +67,6 @@ I'm a psychologist who disbelieves in civilization. But I'm not a scholar. So I 
 
 - Our suffering comes from trauma, which comes from civilization.
 
-healing at the speed of life
 
 --------------------------
 # DONE
