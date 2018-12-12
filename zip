@@ -3,12 +3,12 @@
 
 # collect images
 cd img
-rsync -auv book-cover.png ../../darkroom-retreat-zip/
-rsync -auv photo/*.jpg ../../darkroom-retreat-zip/photo
+rsync -auv book-cover.png ../../zip-darkroom-retreat/
+rsync -auv photo/*.jpg ../../zip-darkroom-retreat/photo
 # rsync -auv photo/book/*.jpg ../../darkroomretreat/manuscript/images
-rsync -auv plan/*.pdf ../../darkroom-retreat-zip/plan
-rsync -auv plan/source/*.svg ../../darkroom-retreat-zip/plan/source
+rsync -auv plan/*.pdf ../../zip-darkroom-retreat/plan
+rsync -auv plan/source/*.svg ../../zip-darkroom-retreat/plan/source
 cd ../
-zip -r darkroom-retreat ../darkroom-retreat-zip/
+zip -r darkroom-retreat ../zip-darkroom-retreat/
 echo -zip done
 

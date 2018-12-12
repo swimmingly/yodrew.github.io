@@ -6,17 +6,15 @@ navprev: preface
 navnext: hygiene
 ---
 
-In our way of life, our media blitz, cities, and economy:
+In our way of life---our media blitz, cities, and economy---we are:
 
-We are over-stimulated and distressed. We need relief.
-
-We are exhausted. We need rest.
-
-We are hurt and sick. We need recovery.
+- over-stimulated and distressed. We need relief.
+- exhausted. We need rest.
+- hurt and sick. We need recovery.
 
 And in our souls, we struggle and suffer. We need peace and joy.
 
-How? By _hygienic darkroom retreating:_ profound psychic rest in total physical darkness. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
+How? By _hygienic darkroom retreating:_ profound rest in total physical darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
 #### basics
 
@@ -26,10 +24,10 @@ How? By _hygienic darkroom retreating:_ profound psychic rest in total physical 
 2. The primary condition of healing is rest. 
 3. Profound psychic rest occurs in extended total darkness _as a physiological response_
 
-This is fully developed in [*hygiene > secret*](/hygiene#secret) and  
-[*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily when conditions of rest are sufficiently provided. 
+This is fully developed in [*hygiene > secret*](/hygiene#secret) and contextualized in  
+[*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when conditions of rest are sufficiently provided. 
 
-This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book also includes designs for darkroom components precise to the millimeter so even amateurs can get them right.
+This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book includes designs for darkroom components precise to the millimeter so even amateurs can get them right. It inspires people to heal and support others in healing.
 
 ##### terminology
 
@@ -76,6 +74,7 @@ A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room 
 Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 
 Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [*design*](/design).
+
 
 #### background
 

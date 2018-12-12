@@ -23,18 +23,28 @@ templates will need a special knife holder that guides the knife in the grooves 
 
 ## A
 
-- retreat requirements : internal, external
-    - knowledge: theory and practice > attitude, self
-    - material 
+##### requirements
+
+To retreat, one needs three things: knowledge, materials, and support.
+
+- knowledge:
+    - of theory and practice of hygienic darkroom retreating
+    - of hygienic attitude
+    - of oneself
+- materials 
         - darkroom
-        - stuff
+        - personal belongings
         - food
         - time
-    - support social problem in isolation
-- pathology :
-    - trauma
-    - enervation
-    - toxemia (not the rest)
+- support
+    - hygiene is the basis on which sick people can help each other without making things worse
+    - our problem is collective and is solved with increasing degrees of cooperation
+
+These requirements come by reading this book, preparing for a retreat, and retreating. You're first retreats are just warm-ups. You'll get better at it.
+
+
+modularize subjects. reduce repetition. Put all in order and let reader's mind perform integration. Or modularize the integrations.
+
 - 4-day retreat
 - support/team for 8-day+ retreat
 
@@ -71,6 +81,20 @@ I'm a psychologist who disbelieves in civilization. But I'm not a scholar. So I 
 --------------------------
 # DONE
 --------------------------
+
+- retreat requirements : internal, external
+    - knowledge: theory and practice > attitude, self
+    - material 
+        - darkroom
+        - stuff
+        - food
+        - time
+    - support: social problem in isolation
+
+- pathology :
+    - trauma
+    - enervation
+    - toxemia (not the rest)
 
 - fix files meld z files
 
