@@ -32,7 +32,7 @@ While chatting online with a friend, Brian Sullivan, I described to him my brief
 >
 > **B:** Wow.
 >
-> **A:** One of them&mdash;the one I am after, which I had eight seconds of back in November&mdash;is dreamtime. Dreamtime, which David Wilcock and some scientists call _timespace_, is where three dimensions of time&mdash;past, present, future&mdash; occur simultaneously and space is one-dimensional. This is the exact opposite of spacetime, the familiar gross dimension. Entering timespace enables travel through time the same way that being in spacetime enables travel through space, such as strolling through a field or climbing stairs.
+> **A:** One of them&mdash;the one I am after, which I had eight seconds of back in November&mdash;is dreamtime. Dreamtime, which David Wilcock and some scientists call [timespace](https://bigthink.com/spacetime-timespace), is where three dimensions of time&mdash;past, present, future&mdash; occur simultaneously and space is one-dimensional. This is the exact opposite of spacetime, the familiar gross dimension. Entering timespace enables travel through time the same way that being in spacetime enables travel through space, such as strolling through a field or climbing stairs.
 >
 > **B:** Awesome.
 >

@@ -92,6 +92,13 @@ v současnosti poskytují, jsou:
 - [https://www.brc.cz/terapie-tmou-1/]().
 - [https://terapie-tmou-u-stedricha.webnode.cz/parova-tma/]()
 
+
+- [](http://www.terapietmou.net/).
+- [](https://www.brc.cz/terapie-tmou-1/).
+- [](https://terapie-tmou-u-stedricha.webnode.cz/parova-tma/)
+
+
+
 V České republice nyní tedy funguje přes dvacet míst, kde je možno podstoupit terapii 
 tmou a její popularizace stále roste. Malůš, Kupka a Dostál (2016) ve své studii uvádí, že 
 se tzv. terapie tmou stává v České republice populární mezi laiky jako služba, za kterou 
