@@ -1,6 +1,6 @@
 ---
-title: czech darkrooms
-permalink: "/czech-darkrooms/"
+title: czdr
+permalink: "/czdr/"
 layout: page
 ---
 
@@ -8,9 +8,9 @@ layout: page
 
 [https://www.brc.cz/terapie-tmou-1/]().
 
-   -  Terapie tmou, pobyty ve tmě, Hodonín u Kunštátu [https://www.tmaleci.cz/ ]()
-   -  Cesty  sebepoznání, Pobyt  ve   tmě,   Klatovy  [http://pobyt-ve-tme.cz/index.php?page=tma_a_ticho]()
-   -  Terapie tmou u Brna, Hluboké Dvory [https://www.terapie-tmou-u-brna.cz/
+   - Terapie tmou, pobyty ve tmě, Hodonín u Kunštátu [https://www.tmaleci.cz/ ]()
+   - Cesty  sebepoznání, Pobyt  ve   tmě,   Klatovy  [http://pobyt-ve-tme.cz/index.php?page=tma_a_ticho]()
+   - Terapie tmou u Brna, Hluboké Dvory [https://www.terapie-tmou-u-brna.cz/
    - Místo v srdci, Terapie tmou, Prostějov [http://mistovsrdci.cz/terapie-tmou-pobyt-ve-tmel]()
    - Tmaják, Pobyt ve tmě,  Tmaják, Terapie tmou, Doubravčice [https://www.tmajak.cz/]()
    - Chaloupka na dobrém konci, pobyt ve tmě — terapie tmou, Hněvkovice [https://www.nadobremkonci.cz/]()
