@@ -1,7 +1,7 @@
 ---
 title: czech darkrooms
-layout: page
 permalink: "/czech-darkrooms/"
+layout: page
 ---
 
 [http://www.terapietmou.net/]().
