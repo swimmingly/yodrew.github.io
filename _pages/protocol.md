@@ -209,15 +209,15 @@ In a retreat, focus on darkness like this for just 5-10 minutes, concentrating o
  
 #### experience
 
-Reports of retreatants reveal patterns of experience. Resting in darkness affects the foundations of life. 
+Resting in darkness affects the foundations of life, for example, time, sex, and power. Here are preliminary observations from my retreats and a few others I've heard.
 
 ##### time
 
 Many of us in darkness have experienced a strange compulsion to know what time it is. It feels like an addictive craving, even mild panic, though obviously absurd. Darkness gives the best possible opportunity to withdraw from it by avoiding finding out. 
 
-I often feel late, short on time, rushed, like I'm running behind. Yet, at the end of a retreat, in which days passed without accomplishing regular tasks, I always feel luxuriously ahead of schedule. So I view the late feeling as a symptom of exhaustion and asynchrony: time disorientation. 
+I often feel late, short on time, rushed. Yet, at the end of a retreat, in which days passed without accomplishing regular tasks, I always feel luxuriously ahead of schedule. So I view the feeling of being late as a symptom of exhaustion and asynchrony: time disorientation. It is exactly like anemics whose blood iron levels normalize during a fast. Why? It's not a deficiency but an absorption problem.
 
-The civilized sense of time is very close to the heart of our psychosis. The indigenous report a very different experience of time. They feel _in_ time, on time, in synchrony with the flow of events. Where we mostly measure time cardinally, with specific dates and hours, they mostly measured it ordinally: before, after, earlier, later.
+The civilized sense of time is very close to the heart of our psychosis. The indigenous report a very different experience of time. They feel _in_ time, on time, in synchrony with the flow of events. Where we mostly measure time cardinally, with specific dates and hours, they measure it ordinally: before, after, earlier, later.
 
 In darkness, you may feel a shift from the strange relationship with time we consider so normal.
 
@@ -249,24 +249,40 @@ On a social scale, such power is irresistable by conventional force. Martin Luth
 
 #### difficulty
 
+An uncomfortable period usually occurs somewhere in the middle of the retreat, lasting minutes to hours. It's like a bout of pain while convalescing in a hospital. But now it is the soul that heals. 
+
 ##### discomfort
 
-An uncomfortable period usually occurs somewhere in the middle of the retreat, lasting minutes to hours. It's like a bout of pain while convalescing in a hospital. But now it is the soul that heals.
+You might feel tense, like crawling in your skin. You might curl up and cry. It's perfectly natural. You have provided the organism a chance to work something out, and it is doing so. Let it happen. 
 
-You might feel tense, like crawling in your skin. You might curl up and cry. It's perfectly natural. You have provided the organism a chance to work something out, and it is doing so.
+If discomfort feels like too much, examine your basic conditions like a hygienist.
 
-- if lack of movement slowly contributed to discomfort, exercise will instantly help
-- call your supporter if you need company
-- try the techniques in the phobia section
-- sensation functions as a brake on the process. If red light does not help, try music. If you still can't stand it, use natural light. Apply it by slowly uncovering the window or opening the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
+- first make sure you are drinking water and exercising enough. Both these can instantly ease discomfort. Maximums: 4L water and 2 hours exercise
+- are you safe?
+- is your bed comfortable?
+- do you have enough fresh air and warmth?
+- is it quiet enough? are any noises bothering you?
+- is it totally dark?
+- has food been good?
+- do you need to pee, poop, or bathe?
+- is anything else not working?
+- do you need a few words with your supporter?
 
-In some case, retreating can feel unbearably difficult. It is perfectly alright to not resume darkness at this time. Darkness is natural, but reacquaintance can take time and must not be rushed. Perhaps reflection on your experience will show why you could not proceed. Perhaps something unexpected will change and you can try again later. Perhaps something else is more important for your life now. There is no rush.
+If the process still feels too fast or intense for you:
+
+- sensation functions as a brake on the process
+    - talk or sing to yourself or play an instrument
+    - turn on a faint red LED light 
+    - if you still can't stand it, use natural light. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
+- more techniques in the phobia section below
+
+Sometimes, waiting it out works. Just enduring. Hanging on. In some case, retreating can feel unbearably difficult.  it is perfectly alright to not resume darkness at this time. Darkness is natural, but reacquaintance can take time and must not be rushed. Perhaps reflection on your experience will show why you could not proceed. Perhaps something unexpected will change and you can try again later. Perhaps something else is more important for your life now. There is no rush.
 
 ##### phobias
 
 Those with phobias related to darkness (eg, superstition, claustrophobia, fear of the dark) can still retreat using these techniques:
 
-- red light: Keep a red LED light next to your bed (pure red light gives no signal to the pineal gland to wake you up). If anxiety or panic become too great, turn on the light till you feel better.
+- red light: Keep a red LED light next to your bed (pure red light gives no signal to the pineal gland to wake you up). If anxiety or panic become too great, turn on the light for a minute. This is a last resort. Don't do this regularly.
 - microretreat: retreat for five seconds. Then take a break in red light till you feel ready for the next microretreat. Gradually increase the length of the micro-retreats and decrease the breaks. Do this for 15 minutes. The next night, go 30 minutes, etc. 
 - companion: retreat with another person inside or near the darkroom till you feel ok alone
 - reason: go over the facts of your situation in your mind. What evidence do you have for what you fear? You can learn to recognize and dismiss arbitrary (baseless) ideas.*
@@ -283,19 +299,19 @@ In any case, try. If these methods fail, perhaps you will come up with your own 
 
 ##### severe psychosis
 
-As I have said, I view our entire society and virtually everyone in it as psychotic. This includes me, you, our "leaders", the lady down the block, doctors. Everyone. We are functionally psychotic, surviving long enough in our dysfunction and pain to reproduce. We thus exist on a continuum of psychosis ranging from the temporarily shocked, to the functional, to the disabled, to the severely psychotic.
+As I have said, I view our entire society and virtually everyone in it as psychotic. This includes me, you, our "leaders", the lady down the block, doctors, teachers, carpenters, garbage men. Everyone. We are functionally psychotic, merely surviving long enough in our dysfunction and pain to reproduce. We thus exist on a continuum of psychosis ranging from the temporarily shocked, to the functional, to the disabled, to the severely psychotic.
 
 Merely this change in perspective from our current presumptions can aid the situation greatly. Lots of little ridiculous things we currently do can be exposed as such and stopped.
 
-I have not worked with severe psychotics---who would be identified simply as psychotic by conventional psychology. But I think that we can handle even these cases by ourselves. By this, I mean without the use of the professional system or experts, just with the care of friends and family. That said, if an expert can behave normally, simply providing wisdom and care unobtrusively like anyone else would, without any sense of superiority, that's great. Some experts actually know something. There's no reason for their knowledge to go to waste unless it would do more harm than good on balance.
+I have not worked with severe psychotics---who would be identified simply as psychotic by conventional psychology. But I think that we can handle even these cases by ourselves. By this, I mean without the use of professionals or experts, just with the care of friends and family. That said, if an expert can behave normally, simply providing wisdom and care unobtrusively like anyone else would, without any sense of superiority, that's great. Some experts actually know something. There's no reason for their knowledge to go to waste unless it would do more harm than good on balance.
 
-I think severely psychotic people will be most helped at first by the influence and love of others who have recovered their own sanity in darkness. Most severely psychotic people are especially sensitive to our society's constant barrage of stupidity and hatred, especially from those who are supposed to care about them. If that reverses, most cases of severe psychosis will disappear in weeks. Let us first put our attention on ourselves. It's sort of like using an oxygen mask in an airplane: use it yourself first, then on those in your care. To continue the metaphor, please consider the plane we're on to be already depressurized, undergoing severe turbulence, and with its masks dangling down.
+I think severely psychotic people will be most helped at first by the presence and love of others who have recovered their own sanity in darkness. Severely psychotic people are especially sensitive to our society's constant barrage of stupidity and hatred, especially from those who are supposed to care about them. If that reverses, most cases of severe psychosis will disappear in weeks. Let us first put our attention on ourselves. It's sort of like using an oxygen mask in an airplane: use it yourself first, then on those in your care. To continue the metaphor, please consider the plane we're on to be already depressurized, undergoing severe turbulence, and with its masks dangling down. Maybe 
 
 But I can imagine the direct use of darkness in extreme cases to excellent effect. It must be done with great care and attention to conditions, and with understanding and consent. Darkness causes great harm in those it is forced upon, and I unqualifiedly condemn this cruel and despotic use of darkness. I believe it will often require more gradual application and more support. 
 
 Begin by removing any light the person has not asked for or replacing it with red light if he finds it agreeable. The more access the person has to reason and the more he trusts his caregivers, the easier it will be to normalize his sleeping environment. Scheduling pressure can be removed. I mean all those therapeutic activities that are supposed to help people but just distress them or help them pass the time while on debilitating medication. Allow the person to sleep more. Provide more fresh, raw fruits and leafy green vegetables, fresh air, sunlight, pure non-fluoridated water, contact with plants and earth, grounding sheets, etc.
 
-Lots of little changes like this can quickly de-escalate severe psychosis to mere disabled psychosis or even functional psychosis. From there, a person could manage the rest of the way to sanity himself.
+Lots of little changes like this can quickly de-escalate severe psychosis to mere disabled psychosis or even functional psychosis. From there, a person could manage the rest of the way to sanity with ordinary levels of support.
 
 #### aftermath
 
