@@ -8,7 +8,7 @@ navnext: protocol
 
 We can use darkness in different formats for different reasons. Here, I describe the formats in which I have experienced deep rest and observed positive results in my energy level, psychic state, and general well-being.
 
-I recommend you do them in the following order. First make darkness in your own home for sleeping, then for short retreats (mini-retreats of 11--16 hours and regular retreats of 4--8 days). After becoming familiar with extended darkness at home, a dedicated public darkroom works better for medium-length retreats (2-8 weeks). Furthermore, your experience at home might inspire you to build such a darkroom yourself. Interest is growing and the world needs more than the few dozens that exist.
+I recommend you do them in the following order. First make darkness in your own home for sleeping, then for short retreats (mini-retreats of 12--16 hours and regular retreats of 4--8 days). After becoming familiar with extended darkness at home, a dedicated public darkroom works better for medium-length retreats (2-8 weeks). Furthermore, your experience at home might inspire you to build such a darkroom yourself. Interest is growing and the world needs more than the few dozens that exist.
 
 In general, the longer a retreat, the better its conditions must be. This means more silence, space, comfort, and support. A 4-day retreat can be pulled off in a minimalist manner nearly anywhere, but even an 8-day retreat requires upgrading. This will prove one of the most important things that happens in your life. It deserves serious attention.
 
@@ -75,7 +75,7 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
 
-> The human organism in darkness seems to go through a 2--3 day cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle. Otherwise you may experience very negative consequences. It's like jumping out of a Ferriss wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
+> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle. Otherwise you may experience very negative consequences. It's like jumping out of a Ferriss wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
@@ -111,16 +111,18 @@ If your location has no running water, it's no problem. For this short of a peri
 
 ###### 8-day retreat
 
-If you have built your own darkroom, do an 8-day retreat once you and your support team have each done a 4-day retreat. If retreating at an established darkroom, you can begin with an 8-day retreat. The organism's response to darkness is cumulative; the healing process deepens every day. Eight days is twice as beneficial as four.
+If you have built your own darkroom, only do an 8-day retreat once you and your support team have each done a 4-day retreat. If retreating at an established darkroom, you can begin with an 8-day retreat. The organism's response to darkness is cumulative; the healing process deepens every day. Eight days is more than twice as beneficial as four.
 
-Many of my early clients felt like they were just beginning to get somewhere when their 4-day retreat ended. And some were either so wound up or so rested to begin with that 48 hours was not enough for them to get anywhere, whether with their exhaustion or their inner struggle. So I upgraded my darkroom to handle 8-day retreats for first-timers. Sure enough, they did fine and expressed greater satisfaction with their retreats than 4-day retreatants. Scheduling a first retreat of 8 days ensures a breakthrough of some kind is made. (And I can imagine in some very crystallized cases, longer still will be necessary. Strong defenses and controls must dissolve enough to begin making progress back to health.)
+Many of my early clients felt like they were just beginning to get somewhere when their 4-day retreat ended. Some were either so wound up or so rested to begin with that 48 hours was not enough for them to get anywhere, whether with their exhaustion or their inner struggle. So I upgraded my darkroom to handle 8-day retreats for first-timers. 
+
+Sure enough, they did fine and expressed greater satisfaction with their retreats than 4-day retreatants. Scheduling a first retreat of 8 days ensures a breakthrough of some kind is made. I can imagine in some very crystallized cases, longer still will be necessary. Strong defenses and controls must dissolve enough to begin making progress back to health. But 8-day retreats have great potential to support recovery of the lost self.
 
 An 8-day retreat has all the elements of a 4-day retreat, plus:
 
-- a support team of at least two people. At least one person should be nearby all the time. This creates psychic shielding for the retreatant.
-- after physical restedness is reached in the first cycle, a major psychic issue can arise and be resolved in the second
-- a second day of transition at the end
-- a fully functional bathing facility for emotional as well as physical reasons. For remote locations, see plans for a [*portable indoor shower*](/water#deluxe).
+- a support team of at least three people. Two people should be nearby all the time with one available to respond. This creates psychic shielding for the retreatant.
+- after physical restedness is reached in the first cycle, a major psychic issue can arise and be resolved in the second cycle
+- a second day of transition is added at the end
+- a fully functional bathing facility is added for emotional as well as physical reasons. For remote locations, see plans for a [*portable indoor shower*](/water#deluxe).
 
 ##### medium
 
