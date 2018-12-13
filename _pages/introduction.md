@@ -6,13 +6,11 @@ navprev: preface
 navnext: hygiene
 ---
 
-In our way of life---our media blitz, cities, and economy---we are:
+In our way of life, we are:
 
 - over-stimulated and distressed. We need relief.
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
-
-And in our souls, we struggle and suffer. We need peace and joy.
 
 How? By _hygienic darkroom retreating:_ profound rest in total physical darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
 
