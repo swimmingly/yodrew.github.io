@@ -12,7 +12,7 @@ In our way of life, we are:
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating:_ profound rest in total physical darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands, and taking refuge in one's essential self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it.
+How? By _hygienic darkroom retreating:_ profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in one's essential self, supporting it in healing itself by itself, completely. This book is a complete manual for understanding and doing it. As individuals do it, our madcap lifeway will become sane
 
 #### basics
 
@@ -22,10 +22,10 @@ How? By _hygienic darkroom retreating:_ profound rest in total physical darkness
 2. The primary condition of healing is rest. 
 3. Profound psychic rest occurs in extended total darkness _as a physiological response_
 
-This is fully developed in [*hygiene > secret*](/hygiene#secret) and contextualized in  
-[*psychology > hygienic psychology*](/psychology#hygienic-psychology). Essentially, because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when conditions of rest are sufficiently provided. 
+Because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when conditions of rest are sufficiently provided. This is fully developed in [*hygiene > secret*](/hygiene#secret) and contextualized in  
+[*psychology > hygienic psychology*](/psychology#hygienic-psychology).
 
-This book describes, explains, and shows how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book includes designs for darkroom components precise to the millimeter so even amateurs can get them right. It inspires people to heal and support others in healing.
+This book tells how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book includes designs for darkroom components precise to the millimeter so even amateurs can get them right. It inspires you to heal and support others in healing by revealing what healing requires.
 
 ##### terminology
 
@@ -38,25 +38,25 @@ Natural Hygiene
 : the 185 year-old school of health that champions and exemplifies hygiene
 
 normal
-: what is biologically appropriate (not merely usual or average)  
+: what is biologically appropriate (not merely usual or average)
 
 psyche
 : the faculty of consciousness, including:
 
-	- forms and related centers of intelligence
-		- sensation: physical / moving / instinctive
-		- perception: emotional / feeling / intuitive
-		- conception: mental / thinking / intellectual 
-	- parts
+    - forms of intelligence and associations
+        - moving: sensation / physical / instinctive / gut / reptilian
+        - feeling: perception / emotional / intuitive / heart / mammalian
+        - thinking: conception / mental / intellectual / brain / rational
+    - parts
 		- unconscious: autonomic processes which cannot be made conscious (short of intense yogic practices), like regulating cell division or blood oxygen levels
 		- subconscious: acquired automatized knowledge, which can be made conscious, like cognizing words or walking
 		- conscious: ordinary waking awareness, as when reading this book or running an errand
-	- scales
+    - scales
 		- cells
 		- organs
 		- systems
 		- the organism as a whole
-	
+
 psychic
 :	of or relating to the psyche in general (not occult powers).  
 &nbsp; &nbsp; For example, I refer to psychic illness rather than "mental" illness. Psychology is not just the study of the mind, but the psyche: the entire faculty of human consciousness. This includes emotional and physical aspects not reducible to the mental one.  
@@ -65,6 +65,25 @@ lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
 &nbsp; &nbsp; I once used the word, culture, for this. Then [John Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
 
+##### requirements
+
+To retreat, one needs three things: knowledge, materials, and support.
+
+- knowledge:
+    - of theory and practice of hygienic darkroom retreating
+    - of hygienic attitude
+    - of oneself
+- materials 
+        - darkroom
+        - personal belongings
+        - food
+        - time
+- support
+    - hygiene is the basis on which sick people can help each other without making things worse
+    - our problem is collective and is solved with increasing degrees of cooperation
+
+Meet these requirements by reading this book, preparing for a retreat, and retreating. You're first retreats are just warm-ups. You'll get better at it.
+
 ##### darkroom
 
 A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
@@ -72,7 +91,6 @@ A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room 
 Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 
 Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [*design*](/design).
-
 
 #### background
 

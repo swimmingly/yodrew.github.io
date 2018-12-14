@@ -23,36 +23,14 @@ templates will need a special knife holder that guides the knife in the grooves 
 
 ## A
 
-##### requirements
-
-To retreat, one needs three things: knowledge, materials, and support.
-
-- knowledge:
-    - of theory and practice of hygienic darkroom retreating
-    - of hygienic attitude
-    - of oneself
-- materials 
-        - darkroom
-        - personal belongings
-        - food
-        - time
-- support
-    - hygiene is the basis on which sick people can help each other without making things worse
-    - our problem is collective and is solved with increasing degrees of cooperation
-
-These requirements come by reading this book, preparing for a retreat, and retreating. You're first retreats are just warm-ups. You'll get better at it.
-
-
-modularize subjects. reduce repetition. Put all in order and let reader's mind perform integration. Or modularize the integrations.
-
-- 4-day retreat
-- support/team for 8-day+ retreat
+---our media blitz, cities, and economy---And in our souls, we struggle and suffer. We need peace and joy.
 
 quote from Bernarr Zovluk somewhere
 zovluk webpage on website
 
 healing at the speed of life
 
+modularize subjects. reduce repetition. Put all in order and let reader's mind perform integration. Or modularize the integrations.
 
 ## B
 
