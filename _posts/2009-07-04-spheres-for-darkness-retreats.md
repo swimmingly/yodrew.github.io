@@ -17,15 +17,13 @@ I found especially interesting [David Wilcock](http://divinecosmos.com)‘s comm
 
 This kind of thing naturally appeals to my geeky designer-brain, with which I have been toying with Platonic solids and spherical trigonometry for the past few years. So, for the retreat, I'm going to build a pure icosahedral Self-Strutting Geodesic Plydome.
 
-![18 ft geodesic plydome, shows construction method](http://web.archive.org/web/20050403170016im_/http://www.sover.net/~triorbtl/tn/S18f-95-31.jpg (18 ft plydome))
-
-18 ft geodesic plydome, shows construction method
+![18 ft geodesic plydome, shows construction method](http://web.archive.org/web/20050403170016im_/http://www.sover.net/~triorbtl/tn/S18f-95-31.jpg "18 ft plydome")  
+18 ft geodesic plydome, 2v triacon
 
 Except I will make a whole sphere rather than just a dome. We may even hang it by ropes from the large surrounding trees in the backyard. It will be 12 feet in diameter and cost roughly $600 (exact breakdown to come) in materials and be extremely interesting to build.
 
-![12 geodesic plydome, size I intend to build, except without conical cap](http://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg (12 plydome))
-
-12 ft
+![12 geodesic plydome, size I intend to build, except without conical cap](http://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg "12 ft plydome")  
+12 ft plydome, 1v
 
 My roommates, who are grateful for the copious work I have done around the house, have expressed interest in keeping the sphere as guest quarters. One roommate might abscond with it to land he intends to buy in the fall. So they have offered to cover the cost of materials. What is not covered in the meantime are my other expenses: food, bike parts, laundry, etc, at about $200/month.
 

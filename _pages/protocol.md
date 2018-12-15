@@ -257,26 +257,29 @@ You might feel tense, like crawling in your skin. You might curl up and cry. It'
 
 If discomfort feels like too much, examine your basic conditions like a hygienist.
 
-- first make sure you are drinking water and exercising enough. Both these can instantly ease discomfort. Maximums: 4L water and 2 hours exercise
+- first make sure you are drinking water and exercising enough. Both these can instantly ease discomfort. Maximums: 4L water and 2 hours exercise per day
 - are you safe?
-- is your bed comfortable?
 - do you have enough fresh air and warmth?
 - is it quiet enough? are any noises bothering you?
+- is your bed comfortable?
 - is it totally dark?
 - has food been good?
 - do you need to pee, poop, or bathe?
 - is anything else not working?
 - do you need a few words with your supporter?
+- is there something about the process you feel you are missing or don't understand? Perhaps your supporter can help you figure it out.
 
-If the process still feels too fast or intense for you:
+If the process is still too fast or intense for you:
 
-- sensation functions as a brake on the process
+- use sensation as a brake on the process
     - talk or sing to yourself or play an instrument
     - turn on a faint red LED light 
-    - if you still can't stand it, use natural light. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
-- more techniques in the phobia section below
+    - if you still can't stand it, use natural light as a last resort. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
+- see more techniques in the phobia section below
 
-Sometimes, waiting it out works. Just enduring. Hanging on. In some case, retreating can feel unbearably difficult.  it is perfectly alright to not resume darkness at this time. Darkness is natural, but reacquaintance can take time and must not be rushed. Perhaps reflection on your experience will show why you could not proceed. Perhaps something unexpected will change and you can try again later. Perhaps something else is more important for your life now. There is no rush.
+Sometimes, waiting it out works. Just enduring. Hanging on. In some case, retreating can feel unbearably difficult. It is perfectly alright to not resume the retreat at this time. Darkness is natural, but reacquaintance can take time and must not be rushed. Perhaps reflection on your experience will show why you could not proceed. Perhaps something unexpected will change and you can try again later. Perhaps something else is more important for your life now. There is no rush.
+
+Sometimes something is not quite right with the retreat or the darkroom, and I cannot figure it out till after I quit. This is frustrating, but there will be more  retreats.
 
 ##### phobias
 
@@ -319,9 +322,9 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
 
-> __CAUTION__: Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. Storms are endurable. Hell may not be. 
+> __CAUTION__: Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [format > warning](/format/) for more.
 
-For about a week after your retreat, plan only usual things: job, school, family. This most quickly returns you to functional stability, minimizes exposure to disturbance, and maximizes your chance of absorbing the value of the retreat. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
+For about a week after your retreat, plan only usual things: job, school, family. This most quickly returns you to functional stability, minimizes exposure to disturbance, and maximizes your chance of absorbing the value of the retreat. Avoid traveling or big new things. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 
 How the aftermath goes depends on one's personality. I'm not the stablest oil rig in the Gulf, so it fairly tosses me around. It usually begins with a calm, solid feeling of deep restedness from the retreat. Then a tension builds to a crisis over a few days. I can feel as bad as the worst moments of my retreat. Then an insight or discovery comes that shows the way to the next period of my life.
 

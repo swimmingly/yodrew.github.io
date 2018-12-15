@@ -2,8 +2,9 @@
 title: about
 permalink: "/about/"
 layout: index
-navprev: 
-navnext: about/bibliography-influences
+navprev: services
+navup: /
+navnext: /about/bibliography-influences
 ---
 
 - <span style="font-size: 20px;font-weight: bold">about</span>
@@ -12,7 +13,7 @@ navnext: about/bibliography-influences
 	- [license](./license/)
 	- [disclaimer](./disclaimer/)
 	- [services](./services/)
-o{:.submenu}
+{:.submenu}
 
 Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.
 
@@ -33,10 +34,22 @@ Read [services](./services/) beforehand
 
 2018
 
+October - December
+
+Method is sufficiently perfected for safe mass use.
+
+- introduction > requirements new section
+- format
+    - importance of 4-day retreat restored
+    - 8-day retreat
+        - importance increased
+        - need for greater support discovered
+- psychology > pathology radically simplified
+
 September 1
 
 - every plan improved or refined, especially helix vent
-- hygiene chapterdivided into 3: hygiene, darkroom retreat (formerly darkroom retreating, distinctions, and mechanics sections), psychology (formerly depths section);  laws of life and pathology appendices integrated into them; significant revision of psychology chapter and hygiene > false capacity 
+- hygiene chapter divided into three chapters: hygiene, darkroom retreat,  psychology;  laws of life and pathology appendices integrated into them; significant revision of psychology chapter and hygiene > false capacity 
 - blurb rewritten according to emerging new concept of darkness
 
 2017

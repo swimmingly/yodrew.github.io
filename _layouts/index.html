@@ -9,4 +9,9 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+
+  <div class="arrow">
+   {% if page.navprev %}<a href="../{{ page.navprev }}">&lt;</a>&nbsp;&nbsp;&nbsp;{% endif %}{% if page.navup %}<a href="../">^</a>{% endif %}&nbsp;&nbsp;&nbsp;{% if page.navnext %}<a href="../{{ page.navnext }}">&gt;</a>{% endif %}
+  </div>
+
 </article>
