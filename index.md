@@ -1,8 +1,8 @@
 ---
 layout: index
 navprev: 
-navup:
-navnext:
+navup: 
+navnext: 
 ---
 
 - <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">v2.2</span>
