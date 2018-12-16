@@ -3,8 +3,8 @@ title: about
 permalink: "/about/"
 layout: index
 navprev: services
-navup: /
-navnext: /about/bibliography-influences/
+navup: "/"
+navnext: "/about/bibliography-influences/"
 ---
 
 - <span style="font-size: 20px;font-weight: bold">about</span>
