@@ -29,15 +29,15 @@ Safe in the submarine of our new understanding, we will plumb the depths of the 
 
 Pathology is the study of disease: its nature, causes, and  symptoms. Pathology guides our response to disease. Every school of health has a generalized pathology, a theory of disease. Many schools are named for their responses to disease. They are primarily orientated to disease and their artful responses to it. Examples are homeopathy (_homeo_: same), naturopathy (_natur_: of nature), osteopathy (_osteo_: osteo), allopathy/medicine (_allo_: other). By contrast, hygiene is primarily concerned with the cause and conditions of health. Hygiene's pathology is merely a branch of it called orthopathy (_ortho_: correct).
 
-Hygiene itself is a partly a reaction to allopathy. So first we will examine the medical pathology we are most exposed to. Then hygiene's traditional pathology. Finally, I will offer a radicalized and simplified pathology hygiene.
+Hygiene itself is a partly a reaction to allopathy. So first we will examine the medical pathology we are most exposed to. Then hygiene's traditional pathology. Finally, I will offer a radicalized and simplified pathology.
 
-Critics of medicine first called it allopathy. This is due to medicine's use of poisons to cause symptoms of _another_ disease. The idea is that, in the body's forced struggle against the other disease, it will overcome the first one. Then the poisonous medicine is removed, the patient quickly recovers from the artificial disease and is left in health. 
+Critics first called medicine allopathy. Medicine uses poisons to cause symptoms of _another_ disease. The idea is that, in the body's forced struggle against the other disease, it will overcome the first one. Then the poisonous medicine is removed. The patient quickly recovers from the artificial disease and is left in health. 
 
-When sick, take poison. Make yourself sicker to get well. There is a reason no one likes taking medicine.
+When sick, take poison. Get sick to get well.
 
 The doctrine of original sin underlying allopathy says life is inherently corrupt and impotent. So allopathy views disease as natural and unavoidable. Nevermind that intact organisms are healthy; that survival requires health; that health is the identity of life; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy doubles down on its mystical assertions of human exceptionalism. It pretends to be rational and scientific while viewing health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful observation. But they see nothing wrong when people get sick. It's just how life is. So medicine is not an abject failure. 
 
-This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, the germ theory of disease in hand.
+This is why doctors gloss over causes. They often speak in tautologies, substituting diagnosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, the germ theory of disease in hand.
 
 The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. 
 
@@ -162,7 +162,7 @@ Narrowly, psychosis means the inability to distinguish reality from fantasy. Our
 
 The sliver consists of the grossest part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. Thus our hypermental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action, which we make machines do for us. Obsessive control of this sliver enables enough of us to survive each generation to imagine we are doing as well as possible.
 
-Some of us, however, find this delusional. We have experienced joy. And on the other hand, we cannot help but see the widespread proofs of mass psychosis:
+Some of us, however, find this delusional. We have experienced joy. Moreover, we cannot help but see the widespread proofs of mass psychosis:
 
 - righteous wars against the innocent
 - controls in the name of freedom
@@ -275,8 +275,7 @@ And then? Healed from trauma, one will no longer be compelled to repeat it. One 
 
 The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
-[*The Science and Fine Art of Natural Hygiene*](/nhs.pdf).
+I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 
 &nbsp;
 
