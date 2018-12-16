@@ -25,17 +25,53 @@ We are all moments from relief, days from restedness and healing, and months fro
 
 Safe in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive **pathology**. Then we will go beyond it in frank discussions of **trauma**, **psychosis** and their deeper social and natural causes (**cataclysm**). We will finish with an outline of a new and **hygienic psychology**, which promises to unleash hygiene's power and lift humanity from its debilitated state.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### pathology
 
-Pathology is the study of disease: its nature, causes, and  symptoms. Pathology guides our response to disease. Every school of health has a generalized pathology, a theory of disease. Many schools are named for their responses to disease. They are primarily orientated to disease and their artful responses to it. Examples are homeopathy (_homeo_: same), naturopathy (_natur_: of nature), osteopathy (_osteo_: osteo), allopathy/medicine (_allo_: other). By contrast, hygiene is primarily concerned with the cause and conditions of health. Hygiene's pathology is merely a branch of it called orthopathy (_ortho_: correct).
+Pathology is the study of disease: its nature, causes, and  symptoms. Pathology guides our response to disease. Every school of health has a generalized pathology, a theory of disease. Many schools are named for their response to disease. This is because they are primarily concerned with disease as well as their complicated responses to it. Examples are homeopathy (_homeo_: same), naturopathy (_natur_: of nature), osteopathy (_osteo_: osteo), allopathy / medicine (_allo_: other). 
 
-Hygiene itself is a partly a reaction to allopathy. So first we will examine the medical pathology we are most exposed to. Then hygiene's traditional pathology. Finally, I will offer a radicalized and simplified pathology hygiene.
+By contrast, hygiene is primarily concerned with the cause and conditions of health. Hygiene's pathology is merely a branch of it called orthopathy (_ortho_: correct). 
 
-Critics of medicine first called it allopathy. This is due to medicine's use of poisons to cause symptoms of _another_ disease. The idea is that, in the body's forced struggle against the other disease, it will overcome the first one. Then the poisonous medicine is removed, the patient quickly recovers from the artificial disease and is left in health. 
+1. trauma: a mechanical injury causing immediate damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety.
+2. enervation: a rapidly lowered energy state from overwork, distress, or abnormal environmental factors: overwhelming danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc
+3. toxemia: sudden introduction of poisonous air, water, food, solids, emotions, ideas.
 
-When sick, take poison. Make yourself sicker to get well. There is a reason no one likes taking medicine.
+Disease can begin with any of these. But in cases of chronic illness, it generally originates in past unhealed trauma. It set up the conditions for enervation or toxemia. If enervation or toxemia occur in the normal course of living, it must be extreme to lead to chronic conditions. Without trauma, self-corrective instincts usually remain intact. They immediately prompt an individual to restore normal conditions even if enervated or intoxicated.
 
-The doctrine of original sin underlying allopathy says life is inherently corrupt and impotent. So allopathy views disease as natural and unavoidable. Nevermind that intact organisms are healthy; that survival requires health; that health is the identity of life; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy doubles down on its mystical assertions of human exceptionalism. It pretends to be rational and scientific while viewing health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful observation. But they see nothing wrong when people get sick. It's just how life is. So medicine is not an abject failure. 
+
+
+
+
+
+However, in the three phases of healing, repair is prior to elimination. The organism cleans itself as it repairs itself. Repair always causes a mess and must be cleaned up as it proceeds. Likewise, the organism reenergizes tissue as it repairs and cleans itself. It is fully charged only when substantive integrity is restored. Therefore, trauma must come before enervation and toxemia in the pathology. Remaining stages become unimportant or subordinate to these primary three. Our revised pathology is:
+
+
+
+
+
+
+The doctrine of original sin underlying allopathy says life is inherently corrupt and impotent. Accordingly, allopathy views disease as natural and unavoidable. Nevermind that an intact organism is healthy; that health is the identity of life life logically implies health; that disease logically depends on health; that nature requires health; that without it, we are obviously headed toward the abyss; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy just doubles down on its mystical assertions of human exceptionalism while pretending to be rational and scientific. Meanwhile, it views health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful explanation. But they see nothing really wrong when people get sick. Medicine is not an abject failure. It's just how life is.
 
 This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, the germ theory of disease in hand.
 
@@ -43,15 +79,13 @@ The germ theory of disease says microscopic invaders cause disease. We are victi
 
 Trouble is, germs don't always result in the disease associated with them. They aren't always present in it. And getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
-On the other hand, distinct patterns emerge among those who suffer. Those who don't exhibit quite different patterns in their vital factors, history, and lifestyle. The differences reveal the ordinary character of the causes of disease.
+On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. 
 
-In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. 
+Some people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^1]. Even doing nothing often works better.
 
-The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^1]. Even doing nothing often works better.
+The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions to cooperate with, not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes). 
 
-The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions, so one cooperate with it. It is not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes).
-
-This reveals the poor conditions and the ordinary ways to correct them. Indeed, a client of a hygienist is really a student and soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
+This reveals the poor conditions and the ordinary ways to correct them. Indeed, a careful client of a hygienist is really a student and soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
 
 ##### seven stages of disease
 
@@ -77,19 +111,41 @@ If afterward, they could quit the ultra-toxins of coffee, tea, and tobacco; cut 
 
 But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky there, reducing their worst symptoms. The rest find ways to cope with semi-recovery or perish quietly. 
 
-We note the pathology's emphasis on toxemia: internal uncleanliness. This characterizes not only Tilden's focus but hygiene's Puritanical character. It is the box canyon in which medicine trapped hygiene by reducing it to cleanliness. Orthopathy's missing link is trauma. Its lack has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They missed its relation to the more important issue of chronic illness, viewing it as mere mechanics best left to surgeons. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
+We note the text's emphasis on toxemia: internal uncleanliness. This characterizes not only Tilden's focus but hygiene's Puritanical character. It is the box canyon in which medicine trapped hygiene by reducing it to cleanliness. In trauma, hygiene's pathology has had a missing link. It's lack has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They missed its relation to the more important issue of chronic illness, viewing it as mere mechanics best left to surgeons. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
 
-Most hygienic physicians started as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. Engaging the dragon of trauma with their little swords, doctors acquire the status of gods and heroes. For trauma is the source of all pain, the repository of all power.
+Most hygienic physicians start as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. With their little swords, doctors acquire the status of gods for engaging the dragon of trauma. It is the source of all pain, the repository of all power.
 
-However, in the three phases of healing, repair is prior to elimination. The organism cleans itself as it repairs itself. Repair always causes a mess and must be cleaned up as it proceeds. Likewise, the organism reenergizes tissue as it repairs and cleans itself. It is fully charged only when substantive integrity is restored. Therefore, trauma comes before enervation and toxemia in the pathology. Remaining stages become subordinate to these primary three. Our revised pathology is:
-
-1. trauma: a mechanical injury causing immediate damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety.
-2. enervation: a rapidly lowered energy state from overwork, distress, or abnormal environmental factors: overwhelming danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc
-3. toxemia: sudden introduction of poisonous air, water, food, solids, emotions, ideas.
-
-Disease can begin with any of these. But in cases of chronic illness, it generally originates in past unhealed trauma. It set up the conditions for enervation or toxemia. If enervation or toxemia occur in the normal course of living, it must be extreme to lead to chronic conditions. Without trauma, self-corrective instincts usually remain intact. They immediately prompt an individual to restore normal conditions even if enervated or intoxicated.
 
 We seem caught in a strange dream, half-waking and prolonged. But rather than force ourselves awake with treatment, substances, or discipline, hygienic darkroom retreating lets us sleep it off. Hygiene has always been a kind of physiological judo, not resisting but using the force of disease to bring its own resolution. It is calm, understanding, effective. Rather than wait for trauma to replay its disastrous drama in our lives, we can take hygiene's peaceful, reassured approach to resolving it once and for all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### trauma
 

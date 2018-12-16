@@ -6,15 +6,23 @@ navprev: "../faq"
 navnext: acknowledgments
 ---
 
-- indigeny vs industry 
+- anthropology, history
     - Jim Woods at Herrett Museum, Twin Falls (with thanks to Janie Brumbach, RIP)
-    - _Magical Child Matures_, [Joseph Chilton Pearce](http://www.ttfuture.org/jcp/front)
     - _The Songlines_, Bruce Chatwin
     - _The Continuum Concept_, [Jean Liedloff](http://continuum-concept.org)
+    - _Earth in Upheaval_, [Immanuel Velikovsky](https://www.velikovsky.info)
     - _Ishmael_, [Daniel Quinn](http://ishmael.org)
     - _Where White Men Fear to Tread_, [Russel Means](http://www.russellmeansfreedom.com)
-    - [Prosper Waukon](http://waukonassociates.com), Winnebago entrepreneur
+    - [Prosper Waukon](https://web.archive.org/web/20180808115113/http://waukonassociates.com), Winnebago entrepreneur
     - _Running on Emptiness: The Pathology of Civilization_, [John Zerzan](http://www.johnzerzan.net)
+- psychology
+    - _Magical Child Matures_, [Joseph Chilton Pearce](http://www.ttfuture.org/jcp/front)
+    - _Birth Without Violence_ Frederick Leboyer
+    - _The Primal Scream_, Arthur Janov
+    - _Mass Psychology of Fascism_, Wilhelm Reich. 
+    - _Fury on Earth_, Myron Sharaf, biography of Wilhelm Reich 
+    - _Pleasure_, Alexander Lowen, a faithful student of Reich
+    - _Banished Knowledge: Facing Childhood Injuries_, Alice Miller
 - philosophical and spiritual traditions 
     - my parents, John and LouAnn
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor
