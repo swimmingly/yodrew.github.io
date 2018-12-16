@@ -51,7 +51,7 @@ Hygiene began teaching industrial society to appreciate nature's way in 1832. Wo
 
 A hygienic darkroom retreat provides conditions of profound rest. These are normal and temporarily extended, as in fasting. The psyche proceeds to heal itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing, with reliably miraculous results.
 
-<span style="font-size:.4em">_continue reading online_</span> [&gt;](/dedication)
+<span style="font-size:.6em">_continue reading online_</span> [&gt;](/dedication)
 {:.arrow}
 
 #### ebook
