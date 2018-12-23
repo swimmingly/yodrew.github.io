@@ -125,7 +125,7 @@ If door has a window, use one of the methods below to cover it.
 
 #### blinds
 
-To darken windows, use one of the five methods I have come up with---rollerblind, velcro, panel, plastic, and foil---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something else.
+To darken windows, use one of the five methods I have come up with---foil, plastic, panel, velcro, and rollerblind---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something else.
 
 ##### constraints
 
@@ -220,13 +220,15 @@ Do not tape foil to the frame, suspended in midair away from the window. It will
 
 ###### reusable
 
-Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, an unsealed bedroom door is almost dark enough for nightly sleep, except morning sun comes through a small curtainless hallway window. Or during travel. 
+Using white school glue (PVA), attach foil to cardboard or black posterboard. Once dry, wedge board in place over window, prop it up with a chair, or hang it with 1-2 pieces of tape. If the sun comes through really hot, face the foil outward toward it. Otherwise, face the black side toward the sun.
 
-Using white school glue (PVA), attach foil to cardboard or black posterboard. Once dry, wedge board in place, prop up with a chair, or hang with 1-2 pieces of tape.
+Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, during travel. Or if you have an unsealed bedroom door which is almost dark enough for nightly sleep, except direct sunlight hits it from the outside in the morning through a small curtainless hallway window, cover the window this way.
 
 ##### plastic
 
-This method consists of taping thick black plastic over windows. This is my main method for quickly darkening rooms for one-time use. I roll up the plastic for use elsewhere.
+This method consists of taping thick black plastic over windows. This is my main method for quickly and cheaply darkening rooms for temporary use. To preserve the plastic for use elsewhere, I reroll it. Refolding big pieces on original parallel creases before rerolling is ok. But not making perpendicular folds, which can tear the plastic at intersections of creases.
+
+This plastic is also great for traveling. Tape it up with masking tape in the corners. It cuts out 99% of light. The sleeping mask stops the rest.
 
 1. materials (test whatever you use for absolute lightproofness)
     - 1 layer: extra-thick black polyethylene or EPDM rubber for pond lining or construction
@@ -242,11 +244,11 @@ This method consists of taping thick black plastic over windows. This is my main
     5. if the room gets too hot from direct sun, then before taping up the black plastic, cut a piece of cardboard the same size as the recess. Tape or glue aluminum foil to one side of it. Leave 15mm spaces between the strips of foil to allow moisture to pass through. Set the cardboard in recess, foil facing outward. In really hot areas, cover windows with foil from the outside or get exterior blinds, shutters, or awnings.
     6. if it is a cold room, face the foil inwardly to reflect heat back in.
 
-##### hard panel
+##### panel
 
 I mentioned this at the end of the intro above regarding casement windows. I have been making these more and more because of their soundproofing and lightproofing qualities and the wide availability of discarded furniture for free material. Unlike glass, it allows you to cut a hole to easily attach a duct or vent. Use it just for retreats or make it permanent if you have extra opening windows.
 
-It can form the face of a custom silencer that is built into the window recess. The silencer design is very simple. Study it and adapt it to the size of your window. Using a panel for one face is usually easier than building a standard silencer and then still having to fix it to the window somehow. See [*air > silencer*](/air#silencer).
+It can form a face of a custom silencer that is built into the window recess. The silencer design is very simple. Study it and adapt it to the size of your window. Using a panel for one face is usually easier than building a standard silencer and then still having to fix it to the window somehow. See [*air > silencer*](/air#silencer).
 
 Remove the window by its hinges. Carefully trace its outline onto the board you will use, or paper or cardboard if handles or hinges make that awkward. It should have 3mm space around it. Tracing is better than measuring because it also accommodates non-square angles that windows tend to have over time. Cut out the panel and make sure it fits in the frame. Attach fleece to edge so it bends over one corner and makes contact with frame on two surfaces all the way around. 
 
