@@ -27,31 +27,30 @@ Zřejmě nejznámějším poskytovatelem této služby v České republice, je p
 Další místa, která pobyty v prostředí omezené zevní stimulace v České republice 
 v současnosti poskytují, jsou:
 
-- Beskydské Rehabilitační Centrum, Čeladná <https://www.brc.cz/terapie-tmou-1/>.
-- Centrum Terapie Tmou, Kozlovicích <http://www.terapietmou.net/>.
-- Cesty sebepoznání, Pobyt ve tmě, Klatovy <http://pobyt-ve-tme.cz/index.php?page=tma_a_ticho>
-- Chaloupka na dobrém konci, pobyt ve tmě — terapie tmou, Hněvkovice <https://www.nadobremkonci.cz/>
-- Dílna života, Bruzovice <http://www.dilnazivota.cz/>
-- Dobrá tma, Dobrá u Frýdku Místku <http://www.dobratma.cz/>
-- Léčba tmou, Lomec u Úmonína<https://www.lecba-tmou.cz/>
-- Léčivá tma, Dobrá u Frýdku Místku  <http://lecivatma.sweb.cz/>
-- Místo v srdci, Terapie tmou, Prostějov <http://mistovsrdci.cz/terapie-tmou-pobyt-ve-tmel>
-- Pobyt ve tmě, Meditační centrum Ordějov, Bystřice pod Lopeníkem <http://www.vetme.cz/> and <http://www.vetme.cz/pobyt-ve-tme-2/>
-- Pobyt ve tmě Praha, Černolice u Prahy <https://www.facebook.com/Pobyt-ve-tm%C4%9B-Praha-274967085990043/>
-- Pobyt ve tmě - terapie tmou, Vrchlabí <http://pobyt-vetme.cz/>
-- Poustevna ve Žd'árec u Skutče <http://zdarec1.blogspot.cz/search/label/Poustevna%20info>
-- Studio kruh života, Pobyt ve tmě, Plzeň <https://www.kruh-zivota.cz/pobyt-ve-tme/>
-- Terapie tmou, Hluboké Dvory  <https://www.terapie-tmou-u-brna.cz/>
-- Terapie tmou, pobyty ve tmě, Hodonín u Kunštátu <https://www.tmaleci.cz/>
-- Terapie tmou, Kolaje u Poděbrad <http://www.terapietmou.eu/index.php/cz/terapie-sluzby/terapie-tmou> and <http://terapietmou.eu/index.php/cz/blog-novinky/69-vasek-krejcik-parova-terapie-tmou>. 
-- Terapie tmou u Štědřicha, Lysice u Brna<https://terapie-tmou-ustedricha.webnode.cz/>
-- Terapie tmou, Průhonice <http://blankatopkova.cz/>
-- Terapie Tmou u Stedricha, Lysice <https://terapie-tmou-u-stedricha.webnode.cz/parova-tma/>
-- Terapie tmou Třebíč, Třebíč <https://terapie-tmou8.webnode.cz/>
-- Tmaják, Pobyt ve tmě, Tmaják, Terapie tmou, Doubravčice <https://www.tmajak.cz/>
-- Tma léčbou, Čáslav <http://tma-lecbou.cz/>
-- Vědomá tma — pobyty ve tmě, Bruzovice <http://www.vedoma-tma.cz/index.php>
-
+1. Beskydské Rehabilitační Centrum, Čeladná <https://www.brc.cz/terapie-tmou-1/>.
+2. Centrum Terapie Tmou, Kozlovicích <http://www.terapietmou.net/>.
+3. Cesty sebepoznání, Pobyt ve tmě, Klatovy <http://pobyt-ve-tme.cz/index.php?page=tma_a_ticho>
+4. Chaloupka na dobrém konci, pobyt ve tmě — terapie tmou, Hněvkovice <https://www.nadobremkonci.cz/>
+5. Dílna života, Bruzovice <http://www.dilnazivota.cz/>
+6. Dobrá tma, Dobrá u Frýdku Místku <http://www.dobratma.cz/>
+7. Léčba tmou, Lomec u Úmonína<https://www.lecba-tmou.cz/>
+8. Léčivá tma, Dobrá u Frýdku Místku  <http://lecivatma.sweb.cz/>
+9. Místo v srdci, Terapie tmou, Prostějov <http://mistovsrdci.cz/terapie-tmou-pobyt-ve-tmel>
+10. Pobyt ve tmě, Meditační centrum Ordějov, Bystřice pod Lopeníkem <http://www.vetme.cz/> and <http://www.vetme.cz/pobyt-ve-tme-2/>
+11. Pobyt ve tmě Praha, Černolice u Prahy <https://www.facebook.com/Pobyt-ve-tm%C4%9B-Praha-274967085990043/>
+12. Pobyt ve tmě - terapie tmou, Vrchlabí <http://pobyt-vetme.cz/>
+13. Poustevna ve Žd'árec u Skutče <http://zdarec1.blogspot.cz/search/label/Poustevna%20info>
+14. Studio kruh života, Pobyt ve tmě, Plzeň <https://www.kruh-zivota.cz/pobyt-ve-tme/>
+15. Terapie tmou, Hluboké Dvory  <https://www.terapie-tmou-u-brna.cz/>
+16. Terapie tmou, pobyty ve tmě, Hodonín u Kunštátu <https://www.tmaleci.cz/>
+17. Terapie tmou, Kolaje u Poděbrad <http://www.terapietmou.eu/index.php/cz/terapie-sluzby/terapie-tmou> and <http://terapietmou.eu/index.php/cz/blog-novinky/69-vasek-krejcik-parova-terapie-tmou>. 
+18. Terapie tmou u Štědřicha, Lysice u Brna<https://terapie-tmou-ustedricha.webnode.cz/>
+19. Terapie tmou, Průhonice <http://blankatopkova.cz/>
+20. Terapie Tmou u Stedricha, Lysice <https://terapie-tmou-u-stedricha.webnode.cz/parova-tma/>
+21. Terapie tmou Třebíč, Třebíč <https://terapie-tmou8.webnode.cz/>
+22. Tmaják, Pobyt ve tmě, Tmaják, Terapie tmou, Doubravčice <https://www.tmajak.cz/>
+23. Tma léčbou, Čáslav <http://tma-lecbou.cz/>
+24. Vědomá tma — pobyty ve tmě, Bruzovice <http://www.vedoma-tma.cz/index.php>
 
 V České republice nyní tedy funguje přes dvacet míst, kde je možno podstoupit terapii tmou a její popularizace stále roste. Malůš, Kupka a Dostál (2016) ve své studii uvádí, že se tzv. terapie tmou stává v České republice populární mezi laiky jako služba, za kterou lidé platí. V posledních letech přilákala tato metoda pozornost médií. Nové, populární nebo alternativní „psychoterapeutické" metody mohou přilákat jedince, kteří očekávají rychlé a výrazné zlepšení, což se později odráží v jejich pozitivním sebehodnocení.
 

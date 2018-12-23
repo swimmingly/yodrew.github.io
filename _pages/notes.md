@@ -8,19 +8,21 @@ navnext: foreword
 
 This book is an integrated whole. I give the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
 
-The book has links. They are in regular font or italics. They are underlined in ebook and paper formats.
+The book has links. They appear like this in ebook or print:
 
 - <u>external links</u> to other webpages
 - <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
 - <u><em>books</em></u>, downloadable 
 
+Links are colored on the web, not underlined. 
+
 Current version of book:
 
 - ebook (pdf, epub, mobi):
-    - [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat) or
+    - [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
     - [darkroomretreat.com/ebook](/ebook)
 - web:
-    - [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read): all on one page, white background, or
+    - [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read): all on one page, white background
     - [darkroomretreat.com](http://darkroomretreat.com): one chapter per page, dark background
-- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ ): all pdfs and source code
+- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ ): all pdfs and svg source code
 

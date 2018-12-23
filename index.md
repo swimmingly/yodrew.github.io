@@ -6,29 +6,30 @@ navnext:
 ---
 
 - <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">v2.2</span>
-	- [dedication](/dedication)
-	- [notes](/notes/)
-	- [foreword](/foreword)
-	- [preface](/preface)
-	- [introduction](/introduction)
-	- [1&nbsp; hygiene](/hygiene)
-	- [2&nbsp; darkroom retreat](/darkroom-retreat)
-	- [3&nbsp; psychology](/psychology)
-	- [4&nbsp; format](/format)
-	- [5&nbsp; protocol](/protocol)
-	- [6&nbsp; prepare](/prepare)
-	- [7&nbsp; design](/design)
-	- [8&nbsp; make](/make)
-	- [9&nbsp; air](/air)
-	- [10&nbsp; darkness](/darkness)
-	- [11&nbsp; water](/water)
-	- [faq](/faq)
-	- [bibliography & influences](/about/bibliography-influences)
-	- [acknowledgments](/about/acknowledgments)
-	- [license](/about/license)
-	- [disclaimer](/about/disclaimer)
-	- [services](/about/services)
-	- [bio & contact](/about)
+- [dedication](/dedication)
+- [notes](/notes/)
+- [foreword](/foreword)
+- [preface](/preface)
+- [introduction](/introduction)
+- [1&nbsp; hygiene](/hygiene)
+- [2&nbsp; darkroom retreat](/darkroom-retreat)
+- [3&nbsp; psychology](/psychology)
+- [4&nbsp; format](/format)
+- [5&nbsp; protocol](/protocol)
+- [6&nbsp; prepare](/prepare)
+- [7&nbsp; design](/design)
+- [8&nbsp; make](/make)
+- [9&nbsp; air](/air)
+- [10&nbsp; darkness](/darkness)
+- [11&nbsp; water](/water)
+- [faq](/faq)
+- [bibliography &](/about/bibliography-influences)
+- &nbsp;&nbsp;[influences](/about/bibliography-influences)
+- [acknowledgments](/about/acknowledgments)
+- [license](/about/license)
+- [disclaimer](/about/disclaimer)
+- [services](/about/services)
+- [bio & contact](/about)
 {:.submenu}
 
 #### relief, rest, recovery
@@ -51,7 +52,7 @@ Hygiene began teaching industrial society to appreciate nature's way in 1832. Wo
 
 A hygienic darkroom retreat provides conditions of profound rest. These are normal and temporarily extended, as in fasting. The psyche proceeds to heal itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing, with reliably miraculous results.
 
-<span style="font-size:.6em">_continue reading online_</span> [&gt;](/dedication)
+<span style="font-size:.5em">_continue reading online_</span> [&gt;](/dedication)
 {:.arrow}
 
 #### ebook
