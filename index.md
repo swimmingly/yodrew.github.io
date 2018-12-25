@@ -40,7 +40,7 @@ Hygienic darkroom retreating means resting in an absolutely dark room for days, 
 - profound rest from exhaustion
 - complete recovery from injury and illness
 
-Healing super-intensifies. Energy, clarity, and joy return. Health and sanity are restored. The lost self returns.
+Healing super-intensifies. Energy, clarity, and joy reappear. Health and sanity are restored. The lost self returns.
 
 This complete manual explains why a retreat works, how to do it, and how to make a darkroom at home.
 
