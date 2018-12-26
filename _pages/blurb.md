@@ -6,20 +6,21 @@ layout: page
 
 #### relief, rest, recovery
 
-Hygienic darkroom retreating means resting in a totally dark room for days, alone, with food. Why do it? 
+Hygienic darkroom retreating means resting in an absolutely dark room for days, alone, with food. Why do it? 
 
 - instant relief from distress and overstimulation
 - profound rest from exhaustion
 - complete recovery from injury and illness
 
-Healing super-intensifies. Energy, clarity, and joy return. Health and sanity are restored. 
+Healing super-intensifies. Energy, clarity, and joy reappear. Health and sanity are restored. The lost self returns.
 
 This complete manual explains why a retreat works, how to do it, and how to make a darkroom at home.
 
 #### toward a hygienic psychology
 
-Indigenous and spiritual traditions have used darkness for millennia. This is the first approach to darkness---and psychology---based on hygiene. Not just cleanliness, hygiene is the biological science of _health_. It is based on life's self-preserving nature and its normal conditions: fresh air, ample sleep, pure food, regular bathing and exercise, etc. It applies to the psyche, also an organic system.
+Indigenous and spiritual traditions have used darkness for millennia. This is the first approach to darkness---and psychology---based on hygiene. Not just cleanliness, hygiene is the biological science of _health_. It is based on life's self-preserving nature and normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc. Its principles apply equally to the organic system of the psyche.
 
 Hygiene began teaching industrial society to appreciate nature's way in 1832. Worldwide massive improvements in public health followed. Hygiene is history’s most influential approach to health. 
 
-A hygienic darkroom retreat provides conditions of profound rest. These are normal and temporarily extended, as in fasting. The psyche commences healing itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing, with reliably miraculous results.
+A hygienic darkroom retreat provides all 12 conditions of profound rest. These are normal conditions, just temporarily extended, as in fasting. The deeply resting psyche heals itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing reliably miraculous results.
+

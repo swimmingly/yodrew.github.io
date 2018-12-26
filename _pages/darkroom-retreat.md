@@ -87,10 +87,10 @@ Hygienic darkroom retreating is that chance.
 At last we are prepared to understand the secret of why hygienic darkroom retreating works. There are three reasons: physiology, attitude, and environment
 
 1. Physiology
-    1. Circadian rhythms: The circadian system governs our 24-hour waking-sleep cycle. This system is controlled by the  
-[suprachiasmatic nucleus](http://en.wikipedia.org/wiki/suprachiasmatic-nucleus). This tiny organ rests atop the chiasm, the intersection of the optic nerves coming directly from the eyes. The nucleus detects the presence or absence light instantly, before the imagery it carries reaches the visual cortex of the brain. 
+    1. Circadian rhythms: Our 24-hour waking-sleep cycle is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the  
+[suprachiasmatic nucleus](http://en.wikipedia.org/wiki/suprachiasmatic-nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. It gets a direct signal of the presence or absence light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
 
-        To the degree it is dark, the suprachiasmatic nucleus gives, for example, its famous instruction to the pineal gland to secrete [melatonin](http://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
+        The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](http://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
 
         Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
     2. Destimulation 
@@ -100,12 +100,14 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
             - thinking becomes harder
             - thinking becomes _less interesting_ (!)
             - directing attention restfully becomes *much* easier. (See [*protocol > attention*](/protocol#attention))
-
-            The concrete sensations that remain tend to feed the feeling center of intelligence. Externally undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, suppressed aspects of consciousness in civilization are thus reactivated. They balance the psychic workload, making it more efficient, saving energy and internal activity.
-2. Attitude: hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later.
-3. Environment: a retreat provides not only darkness, but all conditions of profound rest:
-    - safety, comfort, silence, solitude, and _time_
-    - fresh air, warmth, and natural food
+        - Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
+    3. Inactivity: Resting includes the stillness required for repair. And it enables the organism to conserve the extra vital energy that the process of healing uses. 
+2. Attitude: hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later. 
+    This is the essential difference between hygienic and non-hygienic use of darkness.
+3. Environment: a retreat provides not just darkness but all external conditions of profound rest:
+    - safety, solitude, support, time
+    - silence, darkness, warmth, electromagnetic neutrality
+    - fresh air, pure water, natural food, exercise
 
         The contemporary scientific approach to darkroom retreating is called _chamber REST_ (Restricted Environmental Stimulation Technique). As the name implies, and in accord with scientific materialism, it tends to reduce a retreat and its effects to destimulation: absence of usual sensory impositions. But the organism does not experience darkness, for example, as the absence of light, as a negative; but rather, as a positive fact, the presence of something which the active organism takes hold of and uses.
 
@@ -165,11 +167,11 @@ There are three things the hygienic use of darkness is not.
 2. It is not therapy. Therapy is done _to_ a passive organism from the outside. The therapist, therapy, and therapeutic substances are the principal actors in a therapeutic session, not the organism itself. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. It fails to see such movement in disease itself.
 
     In a darkroom retreat, darkness does nothing. Like air or water, it merely presents an opportunity to the self-preserving organism to better pursue its ceaseless tendency toward wholeness. The principal actor is life, not its conditions nor any treatment.
-3. It is not a psychedelic trip: consciously experiencing normally unconscious phenomena using abnormal conditions like sleep-deprivation or chemicals, natural or artificial.
+3. It is not a psychedelic trip: using abnormal conditions like sleep-deprivation or substances to consciously experience normally unconscious phenomena.
 
-These three approaches all share the vain attempt to end suffering by subjecting the unconscious to conscious action, as if mere attention, analysis, or reconditioning could fix the unconscious. They try to willfully improve what they regard as an inert, even resistant unconscious self, as if it were incapable or disinclined of doing so itself. Unfortunately, this attitude is ignorantly coercive toward the injured conscious self and discouraging to the omnipotent autonomic self. It is internalized tyranny predictably accompanied by triune brain-drain.
+These three approaches all share the vain attempt to end suffering by making the unconscious conscious. It is as if mere attention, analysis, or reconditioning could fix the unconscious. They try to willfully improve what they regard as an inert, even resistant unconscious self, as if it were incapable or disinclined to. Unfortunately, this attitude is ignorantly coercive toward the limited and injured conscious self and discouraging to the omnipotent unconscious self. It is internalized tyranny predictably accompanied by a strike by the forces capable of the work.
 
-In contrast, hygienic use of darkness is passive as regards the will. The conscious self only plays a supportive role. The unconscious autonomic self is the principal actor. Zero conflict. Maximum efficiency. Perfect result.
+In contrast, hygienic use of darkness is passive as regards the will. The conscious self only plays a supportive role. The unconscious autonomic self is the principal actor. It is recognized and supported. Zero conflict. Maximum efficiency. Perfect result.
 
 One way or another, successful retreating requires cooperation with a supreme intelligence and power that will direct the process. In spiritual traditions, this means one's mature spiritual practice combined with the in-person guidance of a realized master under the blessed influence of an authentic lineage in service to god. (And good luck arranging all that.) Fortunately, the essence of all that is actually the simple recognition of the autonomic self. This is the hygienic approach. It involves no gold-leafed statues or exotic rituals, but it has the virtue of being cheap, quick, and easy to remember when the lights go out and you can't read anymore.
 
