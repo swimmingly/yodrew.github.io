@@ -5,7 +5,7 @@ navup:
 navnext: 
 ---
 
-- <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">v2.2</span>
+- <span style="font-size: 20px;font-weight: bold">contents&nbsp; </span><span style="color: purple;font-style: italic">v2.3</span>
 - [dedication](/dedication)
 - [notes](/notes/)
 - [foreword](/foreword)

@@ -8,16 +8,23 @@ navnext: format
 
 #### intro
 
-Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Hygiene has focused on daily choices. Trauma doesn't happen every day. It lies beyond one's control. Change of habit affects it little. Trauma just strikes. Suddenly it incapacitates whole systems. It distorts their character and behavior beyond recognition. Besides sleep (slow and quiet), trauma (sudden and loud) is the most influential force in our lives. Hygiene was helpless with it. All it could do was pass the buck to doctors or priests.  This has subordinated hygiene to medicine and religion for nearly two centuries.
+It's time to get our hands dirty.
 
-This limitation disappears with two changes: 
+Hygiene's basic structure is sound. Darkness exposes flaws in its secondary structure. Hygiene must become more hygienic to accommodate darkness. In this chapter, we'll get pop the hood of hygiene, analyse its flaws, and make the necessary modifications.
 
-- acknowledgment of trauma at the root of illness 
-- the discovery of darkness as the essential means nature provides us to heal from trauma
+Lacking a psychology, hygiene could not penetrate the depths of human experience, nor deal with certain issues, namely trauma. Hygiene has focused on daily choices. Trauma doesn't happen every day. It lies beyond one's control. Changes of habit affect it little. Trauma just strikes, suddenly incapacitating whole systems. It distorts their character and behavior beyond recognition.
 
-Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other quasi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
+For millennia, trauma has been the most influential force in our lives. Lacking the means of sufficiently profound rest, Hygiene was helpless. It passed the buck to doctors and priests. This subordinated hygiene to medicine and religion for nearly two centuries.
 
-The acid test of any science is its ability to predict events and thus prevent them if desired. By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. No joke.
+This helplessness disappears with three changes in hygiene: 
+
+- locating trauma at the root of illness 
+- accepting darkness as the essential means nature provides us to heal from trauma
+- including a psychology based on these facts
+
+Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No one need bear any longer the absurd costs and failures of medicine and other quasi-scientific systems, rooted as they are in the mystical doctrine of original sin and practice of exorcism. 
+
+The acid test of any science is its ability to predict events and thus cause or prevent them if desired. By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness.
 
 By contrast, medicine can only deal with trauma after the fact. Its tricks for treating it impress us, and we respect the willingness of doctors to try. If medicine were science, it could explain, predict, and prevent further trauma. The attention it puts on treatment amounts to diversion from its incapacity. It represents a declaration of failure to understand and of helplessness to eliminate the cause of our recurring disasters.
 
@@ -220,25 +227,25 @@ How did the snowball of trauma begin?
 
 Sane people do not hurt their children. Nature does not generate diseased species. Humanity had to have started off alright. The self-correcting instinct of healthy animals is too strong to violate merely by will or persist in by accident. Life pulls us back onto the right track no less than other animals---when we're healthy.
 
-The trauma had to have originated externally. It had to be _huge_ to knock so many of us so far off course and disable us so badly we couldn't begin returning for so long. Major trauma to an individual or one group would not be enough to do this. Individuals would be helped back to health. Groups would be aided by neighbors as with disaster trauma. We must think bigger.
+The trauma had to have originated externally. It had to be _huge_ to knock so many of us so far off course and disable us so badly we couldn't begin returning for so long. Major trauma to an individual or one group would not be enough to do this. Individuals would be helped back to health. In disaster trauma, groups are aided by neighbors or even foreigners. We must think bigger.
 
-A global cataclysm in our distant past must have started it. It wrecked everything in one stroke for entire continents of people, so that there was no one left to help. Perhaps it was multiple supervolcanos. The flood. A pole-shift that swept continents with earthquakes and tsunamis. A comet strike. An alien invasion. Whatever it was, the result was _cataclysmic trauma_.
+A global cataclysm in our distant past must have started it. It wrecked everything in one stroke for entire continents of people, so that there was no one left to help. Perhaps it was multiple supervolcanos. The flood. A pole-shift that swept continents with earthquakes and tsunamis. A comet strike. A war between the gods. Whatever it was, the result was _cataclysmic trauma_.
 
-Cataclysmic trauma is comprehensive. It kills most people and nearly all elders, who would best manage things, and injures most of the rest. Neighbors cannot help. Nearly everyone in the whole world is in the same straits. Infrastructure is lost: shelter, food, water, habitat. The landscape shifts, becomes dangerous. Climate itself changes. The basis for a way of life is wiped out.
+Cataclysmic trauma is comprehensive. It kills many people and most elders, who would best manage things. It injures most of the rest. Neighbors cannot help. Nearly everyone in the whole world is in the same dire straits. Infrastructure is lost: shelter, food, water, habitat. The landscape shifts, becomes dangerous. Climate itself changes. The basis for a way of life is wiped out, including day to day survival.
 
-Going into caves to rest and heal is common among undomesticated people and animals. But even if someone left knows to do it and the cave remains accessible, too many people need it for longer than it is comfortable. The infrastructure is gone. People have no chance to heal. They only have what is inside them. The young tend to survive, but they are less psychically established, with less wisdom to temper the damage. Life, which had been abundant, pleasant, and easy, becomes a grim battle to survive.
+Going into caves to rest and heal is common among undomesticated people and animals. But even if someone left knows to do it and a cave remains accessible, too many people need it for longer than it is comfortable. All the supportive systems are gone. People have no chance to heal. They only have what is inside them. The young tend to survive, but they are less stable psychically, with less wisdom to temper the damage. Life, which had been abundant, pleasant, and easy, becomes a grim battle to survive.
 
 Psychic trauma causes psychic malfunction. Mass psychosis begins.
 
-In this barren hell, where can people find comfort? In each others' arms, of course. Voluntary birth control, common among indigenous people, is lost with many other subtle capacities. Babies start coming at especially inconvenient times in unexpected numbers. Cataclysmic trauma starts its terrible transmission through the generations. 
+In this barren hell, where can people find comfort? In each others' arms, of course. Voluntary birth control, common among indigenous people, is lost with many other subtle capacities. Babies start coming at especially inconvenient times. Cataclysmic trauma starts its terrible transmission through the generations. 
 
-It changes forms but keeps its intensity. Technology compensates for lost capacity. Society rearranges itself into civilization to absorb the cosmic blow and find slightly less harmful ways to deal it back. As horrible as it frequently gets, still it is the best we can do. Despite all, life keeps generating seekers to find its secret. Clue by clue, it is assembled over hundreds of generations. At last, the truth dawns.
+Trauma changes form but keeps its intensity. Society rearranges itself into civilization to absorb the cosmic blow. It finds slightly less harmful ways to pass on the shock. As horrible as things frequently get, still it is the best we can do. Technology compensates for lost capacity. Quietly, life keeps generating seekers to find out the truth of what is happening. Clue by clue, understanding is assembled over hundreds of generations. At last, the truth dawns.
 
-What if we are the butt of a cosmic joke?
+What if we are the butt of a bad cosmic joke?
 
-If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent, thus free to walk away from the conflict and heal. 
+If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent. Everyone is free to walk away from the conflict and heal. 
 
-Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^5][^6]
+Trauma from such large-scale events is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from  it.[^5][^6]
 
 #### hygienic psychology
 
@@ -284,7 +291,7 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 [^3]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
 [^4]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
-[^6]: Earlier, I wrote an longer piece about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
+[^6]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^8]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 
