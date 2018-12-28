@@ -1,0 +1,8 @@
+hemingwayapp.com -W -O "h/h" -%v 1
+File generated automatically on Thu, 27 Dec 2018 11:23:16, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
