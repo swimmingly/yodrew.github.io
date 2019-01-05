@@ -4,7 +4,7 @@ permalink: "/czdr/"
 layout: page
 ---
 
-See [Czech Darkroom Spreadsheet](https://bit.ly/czdark) for most current.
+See [Czech Darkroom Spreadsheet](https://bit.ly/czdarkroom) for most current.
 
 2019 Jan 5 version below.
 
