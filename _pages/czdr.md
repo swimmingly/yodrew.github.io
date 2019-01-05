@@ -54,7 +54,7 @@ Terapie tmou Průhonice |  | Muškátová 348 | Průhonice | PC | A |  | 2S | 12
 | Terapie tmou Třebíč |  |  | Třebíč | B | A | 3 | 2S | 800 |  | N |  | <https://terapie-tmou8.webnode.cz/> |  |
 | Tma léčbou |  |  | Čáslav | P | C |  | 0 | donation |  | Y | N | <http://tma-lecbou.cz/> |  |
 | Tmaják, Pobyt ve tmě, Terapie tmou | Simona a David |  | Doubravčice | PC | C |  | 0 | 1750 |  | N |  | <https://www.tmajak.cz/> | yoga.simona@gmail.com | 602 831 584 |
-| Vědomá tma — pobyty ve tmě |  |  | Bruzovice | O | C |  | 1S | 700 |  | Yn | ? | <http://www.vedoma-tma.cz/index.php> |  | 605 826 882 |
+| Vědomá tma — pobyty ve tmě | Petra Vědomá |  | Bruzovice | O | C |  | 1S | 700 |  | Yn | ? | <http://www.vedoma-tma.cz/index.php> |  | 605 826 882 |
 | Ekovesnice | Majka Hrková a Peter Kotuš |  | Javornik u Hodonin | B | C | 2 | 2S | 1000 |  | Y |  | <http://terapia-tmou.sz> | ekovesnice@gmail.com | 421 948 905 525 |
 | Martin Gato |
 | Standa Liška u Turova |
