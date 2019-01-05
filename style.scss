@@ -171,6 +171,23 @@ dd + dt {
    clear:both;
     padding-top:.5em;}
 
+table {
+    border: solid 1px #AAAAAA;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+thead th {
+    border: solid 1px #AAAAAA;
+    padding: 10px;
+    text-align: left;
+}
+
+tbody td {
+    border: solid 1px #AAAAAA;
+    padding: 4px;
+}
+
 td {
  white-space: nowrap;
 }
