@@ -76,7 +76,7 @@ Consciously, we provide the conditions of life. Unconsciously, we use them in li
 The unconscious is:
 
 - the hidden part of consciousness. It is pervasive in the being, an integral aspect of every cell, organ, system, and the organism as a whole
-- the biggest part of consciousness, coordinating millions of actions per second in each one of the 10 trillion cells
+- the biggest part of consciousness, coordinating millions of actions per second in each one of our trillions of cells
 - omniscient, omnipotent, and infallible: all-knowing, all-powerful, and incapable of error
 - just waiting for a chance to fix what is broken
 
@@ -109,7 +109,7 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
     - silence, darkness, warmth, electromagnetic neutrality
     - fresh air, pure water, natural food, exercise
 
-        The contemporary scientific approach to darkroom retreating is called _chamber REST_ (Restricted Environmental Stimulation Technique). As the name implies, and in accord with scientific materialism, it tends to reduce a retreat and its effects to destimulation: absence of usual sensory impositions. But the organism does not experience darkness, for example, as the absence of light, as a negative; but rather, as a positive fact, the presence of something which the active organism takes hold of and uses.
+        The contemporary scientific approach to darkroom retreating is called _chamber REST_ (Restricted Environmental Stimulation Technique). As the name implies, and in accord with scientific materialism, it tends to reduce a retreat and its effects to destimulation: absence of usual sensory stimuli. But the organism does not experience darkness, for example, as the absence of light, as a negative; but rather, as a positive fact, the presence of something which the active organism takes hold of and uses.
 
 In terms of experiencing profound rest and the miraculous healing that results, a hygienic darkroom retreat is the perfect storm.
 
