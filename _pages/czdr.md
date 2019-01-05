@@ -27,7 +27,7 @@ Zřejmě nejznámějším poskytovatelem této služby v České republice, je p
 Další místa, která pobyty v prostředí omezené zevní stimulace v České republice 
 v současnosti poskytují, jsou:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScyyFWbWhxHosCG3zPfE3ugQn-PaOL7kaLbr7IlIH_h1s75rKWIjUEyy2L-wTnieK34L-xm_Y_FML0/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScyyFWbWhxHosCG3zPfE3ugQn-PaOL7kaLbr7IlIH_h1s75rKWIjUEyy2L-wTnieK34L-xm_Y_FML0/pubhtml?gid=1252084412&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 V České republice nyní tedy funguje přes dvacet míst, kde je možno podstoupit terapii tmou a její popularizace stále roste. Malůš, Kupka a Dostál (2016) ve své studii uvádí, že se tzv. terapie tmou stává v České republice populární mezi laiky jako služba, za kterou lidé platí. V posledních letech přilákala tato metoda pozornost médií. Nové, populární nebo alternativní „psychoterapeutické" metody mohou přilákat jedince, kteří očekávají rychlé a výrazné zlepšení, což se později odráží v jejich pozitivním sebehodnocení.
 
