@@ -6,7 +6,33 @@ layout: page
 
 See [Czech Darkroom Spreadsheet](https://bit.ly/czdark) for most current.
 
-As of 2019 Jan 5:
+2019 Jan 5 version below.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 
 | Name | Operators | Street | Place | Area | Darkroom (Cabin Apartment) | Number | Approach (1low 2medium 3high 4psychopathic, Spiritual, Therapy) | .PriceCZK. | .OtherPrices. Food, Apartments | .Calendar. (Yes, No, Dates, not working) | .Start. 0115 | Website | email | phone (country codes: CZ: 420; SK: 421) |
 |-----|-----|-----|-----|-----|-----|-----|-----|----:|:---:|-----|-----|-----|-----|
