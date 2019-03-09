@@ -23,6 +23,7 @@ navnext:
 - [10&nbsp; darkness](/darkness)
 - [11&nbsp; water](/water)
 - [faq](/faq)
+- [appendix: laws of life](/appendix-laws-of-life)
 - [bibliography &](/about/bibliography-influences)
 - &nbsp;&nbsp;[influences](/about/bibliography-influences)
 - [acknowledgments](/about/acknowledgments)

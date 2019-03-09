@@ -4,7 +4,7 @@ permalink: "/appendix-laws-of-life/"
 layout: page
 ---
 
-This is the orginal list. Hygienist, Victoria Bidwell, compiled it at getwellstaywellamerica.com. My criticisms follow. See [*hygiene > laws of life*](/hygiene#laws-of-life) for my version.
+This is the orginal list. Hygienist, Victoria Bidwell, [compiled them](https://www.getwellstaywellamerica.com/NHygiene/LAWSlife.htm) from Shelton, Tilden, et al. My criticisms follow. See [*hygiene > laws of life*](/hygiene#laws-of-life) for my version.
 
 1. **Life's Great Law**: Every living cell of the organized body is endowed with an instinct of self-preservation, sustained by an inherent force in the organism called "vital force" or "life force." The success of each living organism whether it be simple or complex is directly proportional to the amount of its life force and inversely proportional to the degree of its activity.
 2. **Law of Order**: The living organism is completely self-constructing, self-maintaining, self-directing, self-repairing, self-defending, and self-healing.

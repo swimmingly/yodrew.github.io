@@ -41,7 +41,7 @@ Safe in the submarine of this insight, we will plumb the depths of the hygienic 
 
 Pathology is the study of disease: its nature, causes, and symptoms. Pathology guides our response to disease. Every school of health has a pathology, a theory of disease. Many schools are named for them. They are primarily orientated to disease and their artful responses to it. Examples are homeopathy (_homeo_: same), naturopathy (_natur_: of nature), osteopathy (_osteo_: bone), allopathy/medicine (_allo_: other). By contrast, hygiene is primarily concerned with the cause and conditions of health. Hygiene's pathology is merely a branch of it called orthopathy (_ortho_: correct).
 
-Hygiene's generic pathology could not be simpler. We are unwell because we've been hurt, poisoned, or exhausted. We get well when our organisms repair, clean, and recharge themselves.
+Hygiene's generic pathology could not be simpler. We become unwell because we've been hurt, poisoned, or exhausted. We get well when our organisms fix, clean, and recharge themselves.
 
 1. **causes of disease**
     1. **trauma**: a mechanical injury causing immediate damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety (eg, not sleeping with parents or not being nursed); yet the more rapid his recovery can be. If unhealed, trauma leads to all kinds of illness over many years.
@@ -52,7 +52,7 @@ Hygiene's generic pathology could not be simpler. We are unwell because we've be
     2. **elimination**: removal of endogenous waste and exogenous toxins from cells through the lymph and organs of elimination
     3. **re-energization**: recharging of nerves and refueling of cells
 
-This pathology is much simplified and radicalized compared to hygiene's traditional pathology. So we will review and critique it, explaining the above revision.
+This pathology is much simplified and radicalized compared to hygiene's traditional pathology. This we will now review and critique to justify the above revision.
 
 ##### seven stages of disease
 

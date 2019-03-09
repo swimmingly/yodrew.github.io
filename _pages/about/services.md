@@ -32,14 +32,14 @@ Get my advice on darkroom retreating, building darkrooms, and issues arising the
 I will respond in detail, by email or skype, to all your questions and concerns about:
 
 - how, where, and why to set up a darkroom
-- how to organize a retreat with or without a supporter
-- how to deal with specific issues you have about retreating itself
+- how to organize a retreat with a supporter
+- how to deal with specific issues you have personal and about retreating itself
 
 My responses will be based on my experience. Over the past ten years, I have:
 
 - done 25 retreats from 2-6 days long
 - facilitated 25 retreats for others
-- designed and built 15 working darkrooms, operating three of them
+- designed and built or upgraded 21 working darkrooms, operating three of them, consulting remotely on three more, all in three climates on four continents 
 - written 150,000 words about darkroom retreating for web, email, and print
 - given 14 public talks
 
