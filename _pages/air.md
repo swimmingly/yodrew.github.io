@@ -92,16 +92,16 @@ Here are further design constraints, photos, plans, and instructions for making 
 ##### helix vent
 
 ![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)  
-![photo: helix vent, exploded core](/img/photo/helix-vent-core-exploded.jpg)  
+![photo: helix vent, exploded core](/img/photo/helix-vent-core-exploded.jpg)
 
-This photo is of the old helix vent. The new one is a bit narrower. Triangles inside are more pointy. At the side opening, the cardboard has a lip and the core has flaps.
+This photo is of the old helix vent. The new one is similar but: a bit narrower; triangles inside are more pointy; their edges have flaps; there is no fabric; at the side opening, the cardboard has a lip and the core has flaps.
 
 [![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
 [![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
 [![plan: helix vent, inner wall](/img/plan/image/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)  
 [![plan: helix vent, outer wall](/img/plan/image/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)  
 [![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)  
-[![plan: helix vent, slot](/img/plan/image/helix-vent-slot.png)](/img/plan/helix-vent-slot.pdf)  
+[![plan: helix vent, slot](/img/plan/image/helix-vent-slot.png)](/img/plan/helix-vent-slot.pdf)
 
 &nbsp;
 
@@ -189,7 +189,7 @@ For inside silencer or other enclosure with two or more corners for light to go 
 [![plan: helix vent-z, assembly](/img/plan/image/helix-vent-z-assembly.png)](/img/plan/helix-vent-z-assembly.pdf)  
 [![plan: helix vent-z, channels](/img/plan/image/helix-vent-z-channels.png)](/img/plan/helix-vent-z-channels.pdf)  
 [![plan: helix vent-z, inner-wall](/img/plan/image/helix-vent-z-inner-wall.png)](/img/plan/helix-vent-z-inner-wall.pdf)  
-[![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)  
+[![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)
 
 ##### threshold vent
 

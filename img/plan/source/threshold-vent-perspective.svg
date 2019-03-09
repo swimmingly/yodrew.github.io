@@ -51,7 +51,7 @@
      inkscape:window-width="1280"
      inkscape:window-height="800"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:showpageshadow="false"
@@ -59,7 +59,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid29"
