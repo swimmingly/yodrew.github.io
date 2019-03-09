@@ -254,7 +254,7 @@ You can make or buy duct silencers.
 - [DIY straight tube design](https://www.420magazine.com/forums/do-it-yourself/176589-diy-duct-silencer-muffler-super-cheap.html) 
 - [acoustic ducting](http://www.fantronix.com/acatalog/Acoustic_Ducting.html), at least 3m with 2-3 bends
 - [silencer for sound booths](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
-- manufactured silencers are made of metal and super durable materials and cost $100-200.
+- manufactured silencers are made of metal and other super durable materials and cost $100-200.
 
 In the past year, I built two box silencers into window recesses. They were simpler and much more effective than I hoped. They swallowed up sound. One of two window panes formed one face of the box. The window recess in the thick wall provided the 4 sides. Boards formed the box's outer face against the inside of security bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See  
 [*darkness > window > hard panel*](/darkness#hard-panel) section for more about adapting the design below.
@@ -265,7 +265,7 @@ Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions
 
 &nbsp;
 
-The plan is straightforward. It is just a wooden box with two baffles (internal half walls). The resulting zig-zag channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations.
+The plan is straightforward. It is just a wooden box with insulation. The zig-zag channel has a hole at each end. Each hole has 4 possible locations: either face, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations, inside or out.
 
 The box is lined with porous non-toxic insulation. Pillow filling, quilt batting, cellulose, clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. I feel hesitant to use acoustic foam because I don't know what chemicals are in it. Fiberglass and rockwool are unpleasant to work with and fiberglass often smells of chemicals. Closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, is not porous so will not work.
 
@@ -273,7 +273,7 @@ Discarded furniture is made of melamine, an excellent material for silencer boxe
 
 Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
 
-To insulate, make square tubes of metal screen covered in porous fabric to form the channel. Stuff insulation around it and close the box. Or cut and glue sheet insulation in place. Roughen the plastic surface first with sandpaper so the glue sticks. 
+To insulate, make round tubes of plastic screen. Cover with porous fabric if insulation is fine, like cellulose. Stuff insulation around it and close the box. Roughen the plastic surface first with sandpaper so the glue sticks. 
 
 #### machines
 
