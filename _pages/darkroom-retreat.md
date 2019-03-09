@@ -103,23 +103,20 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
         - Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
     3. Inactivity: Resting includes the stillness required for repair. And it enables the organism to conserve the extra vital energy that the process of healing uses. 
 2. Attitude: hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later. 
-    This is the essential difference between hygienic and non-hygienic use of darkness.
-3. Environment: a retreat provides not just darkness but all external conditions of profound rest:
+3. Environment: a retreat provides all external conditions of profound rest:
     - safety, solitude, support, time
     - silence, darkness, warmth, electromagnetic neutrality
     - fresh air, pure water, natural food, exercise
 
-        The contemporary scientific approach to darkroom retreating is called _chamber REST_ (Restricted Environmental Stimulation Technique). As the name implies, and in accord with scientific materialism, it tends to reduce a retreat and its effects to destimulation: absence of usual sensory stimuli. But the organism does not experience darkness, for example, as the absence of light, as a negative; but rather, as a positive fact, the presence of something which the active organism takes hold of and uses.
-
-In terms of experiencing profound rest and the miraculous healing that results, a hygienic darkroom retreat is the perfect storm.
+The hygienic attitude is the essential difference between hygienic retreats and others. This attitude rests on knowledge of physiology, the complimentary roles of the conscious and unconscious, and hygiene itself. The attitude leads to great care in providing a proper environment. In terms of experiencing profound rest and miraculous healing, a hygienic darkroom retreat is the perfect storm.
 
 #### distinctions
 
-Not all darkroom retreats are alike. For eons all over the world, people of every lifeway and spiritual and cultural tradition have retreated in darkness. But subtle differences with profound effects exist between the hygienic approach and most others. I will explain these differences and their importance in using darkness on your own. 
+We are beginning to see how not all darkroom retreats are alike. For eons all over the world, people of every lifeway and spiritual and cultural tradition have retreated in darkness. But the subtle differences in approach outlined above have profound effects. I will explain these differences and their importance in using darkness on your own. 
 
 ##### attitude
 
-Civilization has taught us well: in various ways, we have all come to believe that somehow, someday, we would finally _do_ something about our quandary. We feel pumped up by the prospect of doing something consciously and directly. We eagerly sign up for workshops, submit to treatments, undertake disciplines, and experiment with exotic psychoactive substances. Meanwhile, the all-knowing autonomic self rots in an unemployment line.
+Civilization has taught us well: in various ways, we have all come to believe that somehow, someday, we would finally _do_ something about our quandary. Our culture worships the mind, so we assume this means willed, mental effort. The prospect of doing something consciously and directly pumps us up. We eagerly sign up for workshops, submit to treatments, undertake disciplines, and experiment with exotic psychoactive substances. Meanwhile, the all-knowing autonomic self rots in an unemployment line.
 
 No pleasant way exists to put it: this is pure egomania. It is an act. It is a pretense of enthusiasm and competence to cover up painful psychic damage, self-loss, helplessness, and even the urge to total selflessness by suicide. Under regular circumstances, we won't drop this act. We cannot. It would be too painful and frightening. We need a really safe place in which to do it. Nature provides it in darkness.
 
@@ -167,6 +164,9 @@ There are three things the hygienic use of darkness is not.
 2. It is not therapy. Therapy is done _to_ a passive organism from the outside. The therapist, therapy, and therapeutic substances are the principal actors in a therapeutic session, not the organism itself. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. It fails to see such movement in disease itself.
 
     In a darkroom retreat, darkness does nothing. Like air or water, it merely presents an opportunity to the self-preserving organism to better pursue its ceaseless tendency toward wholeness. The principal actor is life, not its conditions nor any treatment.
+
+    Therapy is somewhat related to the contemporary scientific approach, so I will mention it here. It is widely known as _chamber REST_: Restricted Environmental Stimulation Technique. As the name implies, and in accord with scientific materialism, it reduces a retreat and its effects to destimulation: absence of usual sensory stimuli. But the organism does not experience darkness, for example, as an absence or a negative. Rather, it is a positive fact, the presence of something which the active organism takes hold of and uses.
+ 
 3. It is not a psychedelic trip: using abnormal conditions like sleep-deprivation or substances to consciously experience normally unconscious phenomena.
 
 These three approaches all share the vain attempt to end suffering by making the unconscious conscious. It is as if mere attention, analysis, or reconditioning could fix the unconscious. They try to willfully improve what they regard as an inert, even resistant unconscious self, as if it were incapable or disinclined to. Unfortunately, this attitude is ignorantly coercive toward the limited and injured conscious self and discouraging to the omnipotent unconscious self. It is internalized tyranny predictably accompanied by a strike by the forces capable of the work.

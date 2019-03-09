@@ -7,3 +7,5 @@ layout: post
 
 Now you can [register](/prepare/) for your retreat online.
 
+EDIT: This was when I offered retreats in Guatemala. Now see [world](http://zeemaps.com/map?group=2075542) map of darkrooms. Note link there to Czech map.
+

@@ -36,7 +36,7 @@ If you need more specific advice for darkening your space, I provide [*design co
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
-1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not, thank god, be wrangling fractions and multiple conversion factors as in the imperial system.
+1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not be wrangling fractions and multiple conversion factors as in the imperial system.
     - basic metric conversions:
         - length: 1m=100cm=1000mm (meter, centimeter, millimeter)
         - volume: 1L=10dL=1000mL (liter, deciliter, milliliter)
@@ -114,12 +114,12 @@ Making components requires some or all of these tools:
 
 I have drawn the plans on a computer for precision, clarity, and ease of modification. However, at first, they can be baffling to look at. 
 
-1. Use the **key** to understand the symbols and marks
-2. Compare drawings to photos.
-3. Read the instructions through a couple times in the days before making begins.
-4. Then _follow the instructions_, one step at a time, and you ought to end up with the intended component. 
-
-Understanding often comes through action. If this does not work, write me and I'll try to sort out the confusion and maybe improve the instructions and drawings for others, too.
+1. use the **key** to understand the symbols and marks
+2. compare drawings to photos.
+3. read the instructions through a couple times in the days before making begins.
+4. then _follow the instructions_, one step at a time, and you ought to end up with the intended component. 
+5. dimensions are either H x W x L (height, width, length) or X x Y x Z (left-right, up-down, in-out or width, height, depth) with newer components: helix vents, silencer, fan mount, sleeping mask
+Understanding often comes through doing. If this does not work, write me and I'll try to sort out the confusion and maybe improve the instructions and drawings for others, too.
 
 A drawing has one or two _views_, depending on the best way to communicate its information:
 
@@ -151,7 +151,7 @@ Images in this book are only for reference and hand-reproduction. They are reduc
             2. if print shop has 300gsm acid-free black paper on a roll for large format printing, print the helix vent's channels and walls directly onto it. Yes, black ink on black paper is visible enough to work with.
         4. have files printed in actual size, with no scaling. Before paying, check measurements with ruler or measuring tape. Distortion should not exceed 1mm over a 250mm span.
 
-            After resigning myself to 2mm distortion per 250mm with desktop printers, I was shocked to find _no_ distortion with large format printing. But then it made sense because architects, engineers, and builders depend on this service for their blueprints.
+            After resigning myself to 2mm distortion per 250mm (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5mm/500mm (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints.
     2. desktop
         1. only do this if you are absolutely broke or can't find a large format printing service on your desert island. Desktop printing of plans takes a lot of time and yields imperfect results.
         2. print
@@ -208,31 +208,28 @@ These instructions apply to all components, or as indicated. Read special instru
         7. cut vertical line running through center stretch arrow
 2. transfer plans to material
     1. tape plans to materials
-        1. [helix vent shell](/air/#helix-vent): align plan diagonally to corrugations (or edges or folds) of cardboard
+        1. [helix vent shell](/air/#helix-vent): align plan roughly diagonally to corrugations (or edges or folds) of cardboard
         2. where necessary, cut out small wedges from outlines of plans to align them with edges of materials. With some roller blind frame parts, dash-dotted extensions of outlines aid in this step.
         3. parts with stretch arrows
             1. tape one half to edge of material
             2. using derived measurements and tape measure, mark material where opposite edge of part should be and tape it there
         4. lay out other plans on materials and tape opposite corners
-    2. put three layers (10mm+) of scrap cardboard on work surface
-    3. transfer plan to material
-        - poke straight pin through 
-        	- all lines close to ends
-        	- centers of holes
-        - in cardboard
-        	- poke all the way through dotted lines
-        	- poke just the surface layer through dashed lines
+    2. put three layers of cardboard on work surface
+    3. transfer plan with straight pin
         - use magnifying glass for ease of marking and geeky precision thrills
+        - poke straight pin through 
+        	- all black lines close to ends (not grey glue sausages)
+        	- centers of holes
     4. remove plan from material
-    5. mark holes in material (from: with)
-        - dashed lines: circles (asterisk where indicated)
-        - dotted lines: triangles (asterisk where indicated)
+    5. label drawing, words oriented the same as in plan
+        - dashed lines: circles
+        - dotted lines: double circle
         - solid lines: squares
-        - dash-dotted lines: question mark
-        - holes: double-circle
-	6. mark marked hole
+        - dash-dotted lines: triangle
+        - holes: star
+	7. mark the marked holes again
 	    - draw short lines from circles, triangles, and squares in the same direction as lines in plan
-        - circles & triangles: add asterisk where indicated 
+        - circles/double circles: add asterisk where indicated 
         - copy joint labels (A, B, C, etc)
 3. make parts:
     1. keep scrap cardboard on work surface
@@ -248,23 +245,23 @@ These instructions apply to all components, or as indicated. Read special instru
             - 4 roller blind locking seals
         7. skip remaining steps 2-4 and resume special instructions
     3. cardboard shell of helix vent
-        1. trim excess cardboard around pattern but don't cut its edges yet
+        1. trim excess cardboard around pattern but don't cut its edges (between squared holes) yet
         2. lightly crease between circled holes with back of table knife tip, avoiding breaking the surface of cardboard 
-        3. press straight edge into creases to deepen them
-        4. turn cardboard over and repeat steps 2 & 3 with triangled holes
+        3. press the straight edge into creases to deepen them
+        4. turn cardboard over and repeat steps 2 & 3 with double-circled holes
         5. cut between squared holes
         6. fold cardboard at creases, bending it well past 90&deg;
     4. paper parts
-    	1. holes with asterisks
-			- triangled pairs, score front, fold backward
+    	1. between holes with asterisks
             - circled pairs, score back, fold forward
-        2. circled and triangled holes
+			- double-circled pairs, score front, fold backward
+        2. between circled and double-circled holes
             - crease front side with back of table knife tip
             - fold at creases forward
-            - then, fold triangled creases backward
-        3. squared holes: cut with razor knife
-        4. double-circled holes 
-    		- to diameter indicated in plan
+            - then, fold double-circled creases backward
+        3. between squared holes: cut with razor knife
+        4. between starred holes 
+    		- expand to diameter indicated in plan
         	- use a pointed dowel of appropriate diameter
         	- spin it with your fingers or a power drill as you gently push it into hole
 

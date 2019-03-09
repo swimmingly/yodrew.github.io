@@ -6,11 +6,15 @@ navprev: psychology
 navnext: protocol
 ---
 
-We can use darkness in different formats for different reasons. Here, I describe the formats in which I have experienced deep rest and observed positive results in my energy level, psychic state, and general well-being.
+We can use darkness in various formats for different reasons. Here, I describe formats in which I have experienced deep rest and gotten positive results in my energy level, psychic state, and general well-being.
 
-I recommend you do them in the following order. First make darkness in your own home for sleeping, then for short retreats (mini-retreats of 12--16 hours and regular retreats of 4--8 days). After becoming familiar with extended darkness at home, a dedicated public darkroom works better for medium-length retreats (2-8 weeks). Furthermore, your experience at home might inspire you to build such a darkroom yourself. Interest is growing and the world needs more than the few dozens that exist.
+I recommend gradually increasing the length of stays in darkness. First darken your bedroom for sleeping and maybe mini-retreats (12--16 hours). This improves your sleep and gives you a taste of a retreat. Upgrade it for a 4-day retreat. This gives you relief, some profound rest, and the beginnings of healing. 
 
-In general, the longer a retreat, the better its conditions must be. This means more silence, space, comfort, and support. A 4-day retreat can be pulled off in a minimalist manner nearly anywhere, but even an 8-day retreat requires upgrading. This will prove one of the most important things that happens in your life. It deserves serious attention.
+A dedicated public darkroom works better for 8-day retreats and medium-length retreats (3--8 weeks). I believe we can heal from the core of our suffering in a medium retreat. Your experience at home might inspire you to build such a darkroom yourself. Interest in darkness is growing and the world needs more than the 50 or so facilities that exist. 
+
+Greater, probably private preparations must be made for long retreats (3-12 months). We can heal from _everything_ in a long retreat, especially physical illness, including aging.
+
+In general, the longer a retreat, the better its conditions must be. This means more silence, space, comfort, and support. While you can pull off a 4-day retreat in a minimalist manner nearly anywhere, even an 8-day retreat requires upgrading. A retreat may prove one of the most important things that happens in your life. It deserves serious attention.
 
 #### sleep
 
@@ -60,7 +64,7 @@ Short retreats span from 14 hours to 8 days. You can at least begin at home.
 
 _Note: I do not recommend mini-retreats for everyone, just if you feel strongly called to it and find yourself able to do it without cutting corners and endangering yourself. I cannot do them properly, so I don't try anymore. I just include it because I saw it was possible and I can imagine there are people whose capacity and circumstances make it appropriate._
 
-A mini-retreat allows you to dip your toe into retreating while keeping your usual schedule. It includes the two primary phases of a retreat: sleeping long and deeply, and being awake by yourself without distraction for some hours in the middle of the night. 
+A mini-retreat allows you to dip your toe into retreating while keeping your usual daily schedule. It includes the two primary phases of a retreat: sleeping long and deeply, and being awake by yourself without distraction for some hours in the middle of the night. 
 
 It is the same as sleeping nightly in darkness except you:
 
@@ -75,15 +79,15 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
 
-> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle. Otherwise you may experience very negative consequences. It's like jumping out of a Ferriss wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
+> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle with a 4-day retreat. Otherwise you may experience very negative consequences. It's like jumping out of a Ferris wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
 ###### 4-day retreat
 
-Once your darkening and ventilating measures are working smoothly for nightly use and mini-retreats, you can easily add the remaining elements of a darkroom for a regular retreat. If you retreat at a center, you can begin with an 8-day retreat. 
+Once your darkening and ventilating measures are working smoothly for nightly use and mini-retreats, you can easily add the remaining elements of a darkroom for a regular retreat. (If you retreat for the first time at a center, you can begin with an 8-day retreat.) 
 
-Everyone interested in a 4-day retreat can try one. Though not guaranteed, it is possible to catch up on all the sleep one ever lost in this much time. The amount of deep sleep that can be had in such a short amount of time is impossible to conceive beforehand and hard to believe even after experiencing it. While most effects fade after a few weeks, you can regain hope and register a memory of feeling very good. You can start learning how to be in darkness. Your supporter can start to learn how to be around a retreat. You will get a clearer idea about how and when to do future retreats.
+Everyone interested in a 4-day retreat can try one. Though not guaranteed, it is possible to catch up on all the sleep one ever lost in four days. The amount of deep sleep that can be had in such a short amount of time is impossible to conceive beforehand and hard to believe even after experiencing it. You can get relief from your distress and overstimulation. You can recover homeostasis and equilibrium. You can regain hope and register a memory of feeling very good. While most effects fade after a few weeks, you will begin to recover little pieces of your lost self. Lastly, you start learning how to be in darkness. Your supporter starts to learn how to be around a retreat. You will get a clearer idea about how and when to do future retreats, and for how long.
 
 Timing of regular retreats is a bit more flexible than mini-retreats. Plan to turn off lights between 18:00 and 20:00. If something comes up and you are a little late, it's ok. But if you start after 22:00 due to scheduling, insomnia, anxiety, or addiction, add an extra day and night of darkness to your retreat. This, by the way, is how to begin seriously interrupting these illnesses. The effect of such a short retreat will likely be temporarily. But at least you'll glimpse the light at the end of the tunnel.
 
@@ -126,7 +130,7 @@ An 8-day retreat has all the elements of a 4-day retreat, plus:
 
 ##### medium
 
-A medium retreat lasts up to 2 months (including 15 transition days). By all accounts, the process goes really deep. My sense is that the core of one's personal dilemma, the cause of the worst of one's suffering, can heal in a medium retreat. Plenty of problems will remain. But this should be enough to clear a big space inside and restore capacity sufficiently to finally handle them afterward. (At least, that's the basket I've put all my eggs in.)
+A medium retreat lasts 3 weeks to 2 months (including 15 transition days). By all accounts, the process goes really deep. My sense is that the core of one's personal dilemma, the cause of the worst of one's suffering, can heal in a medium retreat. Plenty of problems will remain. But one will be able to solve them. With so much time, the organism can restore capacity and clear space inside sufficiently to finally put things right again. At least, that's the basket I've put all my eggs in. Fingers crossed.
 
 It's best to get away from all accustomed influences and associations to minimize internal obstacles. Now that you know what you're doing in darkness, it's worth paying extra for this. Take a trip at least a couple hours away. Fly to a darkroom on another continent if necessary. Or rent a fully functioning small house in an unpolluted place and darken it yourself, arranging for maintenance and support.
 
@@ -136,47 +140,49 @@ Yet another person, a supporter, should be available all the time to make sure y
 
 Use the last day or two of your transition to start handling your affairs again: checking messages and accounts, making travel arrangements, etc.
 
-The benefit of short retreats is impressive but shallow and short-lived. Doing a lot of them does not equal doing a few long ones. The law of diminishing returns combines with the frustration of glimpsed but unrealized potential to make sour punch. Boldly escalate from a couple short retreats to a medium one.
+The benefit of short retreats is impressive but shallow and short-lived. Doing a lot of them does not equal doing a few long ones. The law of diminishing returns combines with the frustration of glimpsed but unrealized potential. Boldly escalate from a couple short retreats to a medium one.
 
-Personally, I have been stuck in a rut of short retreats. My goal is to retreat for 20 days (including 5 transition days). In 2008, in my second successful retreat, I had a hunch: in 2 weeks of darkness I will heal from my psychic trauma at the core. This will enable me to put the rest of my life back together afterward. I do not know exactly how long others would have to retreat to reach the same point. One guy I know has been considering this for awhile got a hunch he would need 3 weeks of darkness. I expect it's a pattern. It makes sense that people come to know what they need the more they get of it.
+Personally, I have been stuck in a rut of short retreats. My goal is to retreat for 20 days (including 5 transition days). In 2008, in my second successful retreat, I had a hunch: in 2 weeks of darkness I will heal from my psychic trauma at the core. This will enable me to put the rest of my life back together afterward. I do not know exactly how long others would have to retreat to reach the same point. One guy I know has been considering this for awhile. In his early experiments with darkness, he got a hunch he would need 3 weeks of darkness. I expect it's a pattern. It makes sense that people come to know what they need the more they get of it.
 
 ##### long
 
 A long retreat lasts three months to a year. I have heard several reports of retreats like this. All had results we would consider miraculous but which are well within the capacity of the human organism. The organism made itself under difficult circumstances. Under ideal circumstances, it is certainly able to remake itself. Perhaps better than new.
 
-[Stories persist](/reports/365-day-retreat-of-150-year-old-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: recovering lost hair and eyesight; growing new teeth; and even recovering youth itself. It seems worth looking into.
+[Stories persist](/reports/365-day-retreat-of-150-year-old-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: recovering lost hair and eyesight; growing new teeth; and even recovering youth itself. It seems worth looking into. The hygienic protocol for long retreats is yet to be determined. I trust our short and medium length retreats will give us clues. The reports from other traditions are certainly useful as well. For example, in the above story, the yogi exposed himself to a tiny amount of light at dawn. His assistants would leave the darkroom door cracked when they brought him food in early morning.
+
+I like how he attributes his amazing recovery not to his practices in darkness nor the ayurvedic herbs he took, but to Lord Krishna. Krishna is an incarnation of Vishnu, the preserver. He represents the self-healing power of life. 
+
+This is part of everybody. It means you and I are enough. Given the chance---the proper conditions---we have in ourselves what we need to recover.
 
 #### warning
 
-There are four harmful and dangerous ways to retreat in darkness. I learned about them the hard way. The only possible point to what I endured was so I could warn you of these little gateways to hell. I sincerely wish for you to avoid such suffering. 
+There are four harmful and dangerous ways to retreat in darkness. I learned about them the hard way. The only possible point of my enduring them was so I could warn you. These are little gateways to hell. I sincerely wish for you heed my words and to avoid such suffering.
 
-Fortunately, it is easy to avoid it once you know. I will just list them here and point you to longer discussions of them elsewhere in the book.
-
-Just say no to:
+Fortunately, avoiding it is easy once you know. I will just list them here and point you to longer discussions of them elsewhere in the book. Just say no to:
 
 1. Mini-retreating behind schedule. See [*mini-retreat*](#mini-retreat) section above.
 2. Ending a retreat without transition days. See [*4-day retreat*](#4-day-retreat) above and [*protocol > post-retreat*](/protocol#post-retreat).
-3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see  
-_4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity), where I have understated the matter because it cannot be overstated.
+3. Doing many 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see  
+_4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity). There, I have understated the matter simply because it cannot be overstated.
 4. Poor support:
 	- insufficient support
-	- hostile support or hostile people in the same house. Say no to abusive relationships.
+	- hostile support (!) or people hostile toward either you or retreating in or even near the same house. Say no to abusive relationships.
 5. I know I said four dangerous ways, but maybe there are more. And worse. Why find out? What is the penalty for following the guidelines? Stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
 
 #### future
 
-I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
+I would like to find the simplest way health, including sanity, can be fully restored. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
-- medium and long darkroom retreats
+- short, medium, and long darkroom retreats
 - fasts (a la Albert Mosseri's groundbreaking [method](/other-writings/fasting))
 - physical retraining
-- training in healthy lifeway, including both lifestyle and livelihood
+- instruction in healthy lifeway, including both lifestyle and livelihood
 - open source research and development of the above
 - a village residence for staff, family, friends, and guests, where all this gets applied and tested in real life
 
-In 3-16 months, one would be:
+In three visits over two years, one would be:
 
 - restored to full function and vitality
 - prepared to maintain it in daily life
@@ -184,9 +190,9 @@ In 3-16 months, one would be:
 
 For a few years, I focused on designing and building public darkrooms. Then came a few more years of making and helping individuals make private darkrooms at home. As a consultant, I am also available to help:
 
-- operators of public dedicated darkrooms for medium retreats
+- operators of public dedicated darkrooms for short and medium retreats
 - those with existing centers wishing to include hygienic darkroom retreating in their programs
-- developers of such hygienic retreat centers as I just described
+- developers of hygienic retreat centers as I just described
 
 Those who support hygienic darkroom retreating are eligible for my future network, through which I can refer clients to you. Write me for more info.
 
@@ -194,7 +200,7 @@ Those who support hygienic darkroom retreating are eligible for my future networ
 
 It may take a few generations of healthy living to fully restore our health and realize our potential as human beings. But we can make huge strides in our lifetimes, getting most of the way back.
 
-Now that we have examined different formats of the restful use of darkness for different circumstances and purposes, let's look ahead to more of what happens in a retreat and exactly how to conduct it.
+We have examined different formats of the restful use of darkness for different circumstances and purposes. Let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
 
 

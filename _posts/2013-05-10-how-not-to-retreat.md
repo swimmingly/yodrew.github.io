@@ -13,7 +13,7 @@ Rather than being lifted over a chasm, enabling further forward motion (as in 56
 
 A mini-retreat does not give enough time for the organism to adjust to being so re-energized, deal with underlying issues, or reset ones internal clock. Its like darkness turned into a drug.
 
-At first it seemed promising. I went in super depressed and came out feeling like superman. So energized, I would lose track of time more easily than usual, stay up all night, go to bed feeling like crap and wake up feeling like supercrap. My poor sleeping habits were not neutralized in 16 hours, as in a regular retreat. They were accentuated. This excited my suicidal tendencies. I would not be surprised if people with good sleeping habits got thrown off them by this surge of energy.
+At first it seemed promising. I went in super depressed and came out feeling like superman. With so much energy, I would lose track of time more easily than usual, stay up all night, go to bed feeling like crap and wake up feeling like supercrap. My poor sleeping habits were not neutralized in 16 hours, as in a regular retreat. They were accentuated. This excited my suicidal tendencies. I would not be surprised if people with good sleeping habits got thrown off them by this surge of energy.
 
 For me, the point of a retreat is that it requires virtually no effort, and at the end, some things are made right in a permanent way, or at least fade out slowly. To do a retreat in a way that requires extra discipline afterward is stupid.
 
@@ -21,7 +21,7 @@ The only way it might work is if a person can go to bed on time despite having s
 
 Myself, I have enough difficulty getting to bed without the promise of disaster if I dont. Normally, if I stay up late, I just get more exhaustion. Staying up after a mini-retreat led to serious vital and emotional crashes all three times I did it.
 
-The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldnt figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
+The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldn't figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
 
 My shocking break-up in the fall from a girlfriend, set me up for all this. But the two mini-retreats I did afterward crystallized this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
 
@@ -31,7 +31,7 @@ I was thinking of offering this kind of retreat as an introduction to darkness. 
 
 Go to bed in total darkness early: by 20:00 at the absolute latest. You might sleep the whole night if you are really tired. But if you wake up in the middle of the night as I usually do, don't turn the light on. As in a longer retreat, you can hang out, meditate, exercise, eat a bit of fruit, or take a shower. But stay in darkness. Return to bed after an hour or two and sleep. In the morning, uncover the windows by 10:00 (set an alarm) and have a regular day.
 
-A mini-retreat is not as impressive as regular ones. But it is safe, it feels really good, and it accustoms one to total darkness without disrupting one's schedule.
+A mini-retreat is not as impressive as regular ones. But it is safe, it feels really good, and it accustoms one to total darkness without disrupting one's daily schedule.
 
 It is actually just a slight modification of a normal night's rest, in which one goes to bed early, wakes up in the wee hours for a bit, then sleeps again. That was common until artificial light came a hundred years ago. We haven't adapted to sleeping the night through. We have just accommodated with chronic exhaustion.
 

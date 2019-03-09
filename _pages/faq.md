@@ -42,9 +42,15 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
 #### concerns
 
+- _Is total extended darkness safe?_
+
+    Yes, if you do it correctly. This is uncomplicated. Dangers are easily avoided if you know what they are. I have identified four ways to retreat incorrectly. See my [warning](/format#warning).
+
 - _Wouldn't you go crazy staying in darkness that long?_
 
-    No. You would only go crazy in darkness from being _forced_ or trapped there, as in prison or a mining accident. A retreat is a choice based on reason. The door is always unlocked. Supporters are at hand. The room is comfortable.
+    Just the opposite. We are already crazy. We heal from it in darkness. Our craziness does become more apparent in darkness as the organism heals from it. This can be uncomfortable, painful, and frightening, like the traumatic causes of craziness. But simply having feelings is not dangerous. The room is safe and comfortable. Supporters are at hand.
+
+    You would only go crazy in darkness from being _forced_ or trapped there, as in prison or a caving accident. A retreat is a choice based on reason. You and your supporter each have a key to the door.
 
 - _Do you get bored?_
 
@@ -52,9 +58,11 @@ If you can, I recommend making darkness happen first in your own home for sleepi
     
 - _Four days is a long time to do nothing._
 
-	You may not remember, but you are incredibly interesting. You will rediscover this when you finally have enough time in the right place to do next to nothing. 	Everyone is a little worried about this at first. After days of delicious sleep, few wish to leave after so little time.
+    If you mean sitting around "doing nothing" under regular circumstances, yes. But that is an activity. It doesn't count. Darkness is different. We enter a different state of mind. You are incredibly interesting. You will rediscover this when you finally have enough time in the right place to be with yourself while doing nothing. Everyone is a little worried about this at first. But after days of delicious sleep and time to themselves, most wish they could stay longer.
 
-    Something tells me you've never tried it due to prejudice. I mean that civilization has taught us all that will is the only useful driver of activity in the being. But without autonomic activity, we would be poisoned to death by our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that when it comes to restoring psychic integrity (every animal's greatest value), the will is helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
+    We've been told being idle is bad. But neither is being productive all the time a virtue. Generally, people overwork and overconsume. Enough, already. Moreover, we've all spent more than four days doing destructive things. Doing nothing would have been a big improvement, to say nothing of the secret benefits. 
+
+    Civilization has taught us that will is the only useful driver of activity in the being. But without autonomic activity, we would be poisoned to death by our own internal waste in seconds. Still, we are told if we are not busy, then we are bad. Only doing things by wilful effort is respectable. Nevermind that when it comes to restoring psychic integrity (every animal's greatest value), the will is nearly helpless and the autonomic self is infinitely intelligent, capable, and graceful. 
     
     If you mean it sounds pointless or dreadful, in fact a retreat usually begins with a sense of relief. Discomfort may come. But then you make contact with your autonomic self again, and this is extremely meaningful and enjoyable. 
 
@@ -62,17 +70,17 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
 - _I could never do a darkroom retreat._
 
-    At the moment, your doing a retreat is out of the question. You cannot do it if you don't want to, and you cannot want to if you don't know about it enough to believe in it. So forget about doing it. The only thing that matters is, does it interest you enough to learn more about it? If so, then I happen to know a good book on the subject.
+    At the moment, your doing a retreat is out of the question. You cannot do it if you don't want to, you cannot want to if you don't believe in it; and you cannot believe in it if you don't know enough about it. So, for the time being, forget about doing it. The only thing that matters is, does it interest you enough to learn more about it? If so, then I can recommend a good book on the subject.
 
 - _Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?_
     
-    No. First, our natural habitat is tropical forest. Its dense canopy makes the forest floor is perfectly dark at night. Even when sleeping in the open, the amount of light from stars and moon is surprisingly little compared to artificial light.
+    No. First, our natural habitat is tropical forest. Its dense canopy makes the forest floor perfectly dark at night. Even when sleeping in the open, the amount of light from stars and moon is surprisingly little compared to artificial light.
 
     Second, covering our eyes, seeking solitude, and taking cover when traumatized---shocked, exhausted, or emotionally overwhelmed---is a reflex. We have to be conditioned out of it by force. Taking extended shelter like a darkroom retreat merely supports this reflex when the trauma is great enough to require it. 
 
-    Shelter is an instinct that intensifies with trauma. Large uncovered windows came only very recently to popular architecture. Traditional shelter, civilized and indigenous, is dark or easily darkenable. 
+    Shelter is an instinct that intensifies with trauma. Large uncovered windows came to popular architecture very recently. Traditional shelter, civilized and indigenous, is dark or easily darkenable. 
 
-    Our obsession with building---the principle activity of civilization for 10,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars to destroy buildings and build new ones. Nothing could be more natural to us in our damaged state than total darkness.
+    Our obsession with building---the principle activity of civilization for 13,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars to destroy buildings and build new ones. Nothing could be more natural to us in our damaged state than total darkness.
 
 - _Extended darkness could be good for some people, but there are many ways people can heal their pain. Nothing works for everyone._
     
@@ -81,7 +89,7 @@ If you can, I recommend making darkness happen first in your own home for sleepi
     - the deep healing necessary in cases of major trauma can occur without profound rest
     - profound rest can occur in semi-darkness and other compromised conditions
     - or psychic trauma is not the primary cause of metaphysical suffering
-	- or the human organism has no specific needs for recovering from such pain, despite its specific---and universal---need of rest for recovery in all other cases. As well as its specific need of air for breathing, light for seeing, food for eating, etc.
+	- or the human organism has no specific needs for recovering from such pain. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of air for breathing, light for seeing, food for eating, etc.
     - the many other ways alluded to all make sense and work
  
     The evidence indicates otherwise. Relativism makes fashionable philosophy but poor physiology.

@@ -113,7 +113,8 @@ The helix vent can go anywhere. Flaps of either its edge or face opening poke th
 - wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
 - silencer
     - outside: with shell, attached at face opening
-    - inside: without shell, attached at face or edge. I also made a second "s" version (s for short, straight, silencer). It is simpler, more efficient, higher capacity that attaches at the edge. It has fewer light-stopping corners and no shell, so it is only for installing inside the silencer or other enclosure with two or more corners. S version drawings in next section.
+    - inside: without shell, attached at face or edge. 
+    - Z version: simpler, more efficient, higher capacity version especially for the silencer. Attaches at the edge opening. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
@@ -127,37 +128,51 @@ Read through instructions once while studying plans.
     1. paper (for channels and walls)
         - black, acid-free bond, coverstock
         - available at art supply, stationery, and book shops. In Europe, common posterboard is often acid-free.
-        - two posterboard-size sheets (500 x 650 minimum) per vent
+        - two posterboard-size sheets (498 x 648 minimum) per vent
         - weights
-            - channel: 120--300gsm
-            - wall: 180--400gsm
+            - channel: 120--300gsm (200 ideal)
+            - wall: 180--400gsm (200 ideal)
             - total: 350--600gsm
     2. cardboard, single layer, 3--4.2mm thick (for shell, unnecessary inside silencer)
     3. fabric: polar fleece, black, medium weight (for seal. Quality check: 10 layers of it in a stack should measure 30-35mm high) 
-2. follow instructions in [air > fabricate](/air/#fabricate)
-3. sub-assembly
-    1. attach wall channels to walls
-        1. referring to assembly and key, get a clear idea of how parts go together
-        2. glue channel and wall joints in alphabetical order between question marked holes. Channels lie between dash-dotted lines.
-		3. glue narrow part of flaps to top and bottom of walls. Wide part should fold slightly upward
-		4. position middle channels against upwardly angled flaps of wall channels and glue in place 
-    2. glue joints of shell together with shell seals
+2. follow instructions in [make > fabricate](/make/#fabricate) 
+3. glue channels to walls
+        1. refer to plans and key to get a clear idea of how parts go together. Keep plans right side up, marks visible, wall on bottom, channel on top. Test joints with masking tape till you've got everything right.
+        2. fat grey glue lines: long-dashed areas mate with short-dashed areas
+        3. glue joints
+            - outer wall/channel: left to right in assembly plan
+            - inner wall/channel: right to left
+            - use as little glue as possible to minimize warping, ~2mm bead 
+            - match lettered lines
+        4. glue channel flaps to tops and bottoms of walls
 4. assemble core
-	1. put inner and outer wall sub-assemblies together and glue outer top and bottom over inner top and bottom. Note how V-shaped cut-outs in inner wall butt up against middle channel of outer wall.
-    2. glue 20mm wide flaps of outer wall to inner wall
+    1. orient sections
+        1. stand them right side up, channels facing you, outer section behind inner section
+        2. flip over inner one, so it is upside down and channels face each other
+    2. test joints
+        - work inner and outer sections together
+        - note how cut-out areas of inner wall's top and bottom butt up against outer channel's triangles
+        - curl middle flaps between cut-out areas outward so they will contact outer top and bottom when glued 
+        - note how flaps help align sections
+        - practice using table knife to press tops together when glued
+    3. separate sections then glue back together, one end at a time
+        - use table knife
+        - use flaps to align them
+    4. glue down 6 flaps of outer wall to outer and inner walls
 5. shell
-	- when using shell, put core inside and attach fleece seal with glue. This is a 20mm wide double-layer strip of fleece that goes around the flaps of the face opening. Three sides of the seal attach to the shell flaps. The fourth side goes across the core. Double-layers overlap at corners.
-	- when not in use, store core inside shell, taping up flap by edge opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
+    - glue joints of shell together with shell seals
+    - put core inside and attach fleece seal with glue. This is a 20mm wide double-layer strip of fleece that goes around the flaps of the face opening. Three sides of the seal attach to the shell flaps. The fourth side goes across the core. Double-layers overlap at corners.
+    - when not in use, store core inside shell, taping up flap by edge opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
 6. installation
     1. determine vent location 
-    	- in blind, panel, or silencer
-    	- whether it will attach at edge or face opening
-    	- shell is unnecessary when installed inside silencer or other enclosure
+        - in blind, panel, or silencer
+        - whether it will attach at edge or face opening
+        - shell is unnecessary when installed inside silencer or other enclosure
         - vent should not touch window handles, locks, or frame 
     2. mark slot with slot plan
         - the slot plan spaces slot correctly on most blinds and panels
-    	- face opening, 50 x 216, on blinds, panels, or outside silencer, with shell
-    	- edge opening, 63 x 216, inside silencer or other enclosure, without shell
+        - face opening, 50 x 216, on blinds, panels, or outside silencer, with shell
+        - edge opening, 63 x 216, inside silencer or other enclosure, without shell
     3. cut out slot
     4. position vent over slot and fit vent flaps through it
     5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
@@ -166,15 +181,15 @@ Read through instructions once while studying plans.
     8. attach shell to cover with tape, glue, or screws going through cover, into wooden braces if cover is soft
     9. cover shell with foil and/or white paper to minimize warping by sun
 
-##### helix-s
+##### helix vent-z
 
-[![plan: helix-s vent, assembly](/img/plan/image/helix-s-vent-assembly.png)](/img/plan/helix-s-vent-assembly.pdf)  
-[![plan: helix-s vent, channels](/img/plan/image/helix-s-vent-channels.png)](/img/plan/helix-s-vent-channels.pdf)  
-[![plan: helix-s vent, inner-wall](/img/plan/image/helix-s-vent-inner-wall.png)](/img/plan/helix-s-vent-inner-wall.pdf)  
-[![plan: helix-s vent, outer-wall](/img/plan/image/helix-s-vent-outer-wall.png)](/img/plan/helix-s-vent-outer-wall.pdf)  
-[![plan: helix-s vent, slot](/img/plan/image/helix-s-vent-slot.png)](/img/plan/helix-s-vent-slot.pdf)  
+For inside silencer or other enclosure with two or more corners for light to go around. Follow helix vent instructions above, adapting as necessary.
 
-Follow helix vent instructions above, adapting as necessary.
+[![plan: helix vent-z, assembly](/img/plan/image/helix-vent-z-assembly.png)](/img/plan/helix-vent-z-assembly.pdf)  
+[![plan: helix vent-z, channels](/img/plan/image/helix-vent-z-channels.png)](/img/plan/helix-vent-z-channels.pdf)  
+[![plan: helix vent-z, inner-wall](/img/plan/image/helix-vent-z-inner-wall.png)](/img/plan/helix-vent-z-inner-wall.pdf)  
+[![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)  
+[![plan: helix vent-z, slot](/img/plan/image/helix-vent-z-slot.png)](/img/plan/helix-vent-z-slot.pdf)  
 
 ##### threshold vent
 
@@ -190,10 +205,10 @@ Block light that reaches the door from the outside as much as possible. For exam
 &nbsp;
 
 1. materials
-    - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
+    - paper, black, acid-free, 400-600gsm
     - muslin fabric, black
     - fleece fabric, black
-2. follow instructions in [air > fabricate](/air/#fabricate)
+2. follow instructions in [make > fabricate](/make/#fabricate)
 3. blacken inside of ends (grey area) with marker
 4. cut fabric to cover:
     1. area of bottom of door surrounded by vent + 30mm above each side (180--2_h_ x _w_)
@@ -271,7 +286,7 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 - 120--360mm diameter
 - 600--1200RPM (revolutions per minute)
 - maximum 20dB (decibels)
-- 70-200cmh (cubic meters per hour) or 40-120cfm (cubic feet per minute)
+- 65-200cmh (cubic meters per hour) or 40-120cfm (cubic feet per minute)
 
 120mm is the most common size, salvageable from a desktop computer tower, $1 at thrift stores or flea markets, or $2--20 at a computer or electronics store. Once you have experimented a bit, Noctua makes the best and quietest fans available, of 120, 140, and 200mm diameter, and as low as 7dB. Rexflo offers a [360mm jumbo fan](https://rexflo.myshopify.com/products/rexflo-silent-jumbo-360x360x30mm-case-fan-with-no-led). Avoid AC (alternating current) fans due to their penetrating hum (more on noise below).
 
@@ -285,36 +300,35 @@ More about an [*ideal fan*](#fan-idea), below.
 
 &nbsp;
 
-This mounting design totally dampens vibration from the fan. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
+This mounting design totally dampens vibration from the fan, which is already smooth and quiet. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
 The design is fairly self-explanatory:
 
 - description
-	- a fan held in mid-air by a web of 4 concentric rings of rubber sprung by 4 sticks in the web's middle, hung on screw posts anchored in a wood base
-	- modular, fitting on or in silencer in any configuration
+    - a fan suspended in a web of 4 concentric rings of rubber, extended with 4 sticks in the web's middle, stretched between 4 screw posts, anchored in a wood base
+    - modular, fitting on or in silencer in any configuration
 - materials
-	- base: 20 x 240 x 240 (center hole, 120 diameter). I suggest having a carpenter cut this for you to get a precisely round hole.
-    - case fan: 120mm
-	- screws: 4@5 x 50 machine + 8 nuts, 16 washers
-	- wood sticks: 4@3 x 10 x 154
-	- rubber: (from bicycle inner tube) 4 strips, 1.5--2 thick, 15 wide. Lengths: 1@500, 2@660, 1@820
-	- tie: wire, twist ties, zip ties, staples, or string
-	- base-fan gap: 0.5--1
-
+    - base: 20 x 240 x 240 (center hole, 120 diameter). Cut precisely with jigsaw or have a carpenter do it for you.
+    - case fan: 120mm (standard computer fan)
+    - screws: 4@5 x 50 machine + 8 nuts, 16 washers
+    - wood sticks: 4@ 4 x 18 x 154
+    - rubber: 0.8-20mm thick, 15-40mm wide (depending on thickness; 1.5mm x 20 is best), 2560 long. Use inner tube of car, motorcycle, or bicycle wheel. Join two strips if necessary: overlap ends 30mm and staple together. It is tricky to work out distances between ties so that rubber has enough tension to suspend fan without too much movement. Start with these lengths: 800, 640, 640, 480
+    - tie: wire, twist ties, zip ties, staples, or string
+    - gap: 0.5--1 between base and fan
 - assembly
-	- overlap ends of each rubber strip into rings by 20mm and stapled once at first, 4 times after getting the lengths right. They should be barely stretched, just taut enough to suspend the fan.
-	- ties: connect each ring to the next 
-	- trim rubber to 12mm width at screws
-	- align fan directly over the hole in base. Gravity may pull it to one side or another. Tug on webbing to reposition it.
-	- adjust base-fan gap with nuts and washers and tugging webbing.
-	- screw base onto silencer over a hole in any position
-	- keep wires clear of outer 3 rings to prevent them from transmitting vibration.
+    - overlap ends of each rubber strip by 30mm. Staple them once at first, 4 times after getting the lengths right. They should be stretched taut enough to suspend the fan.
+    - ties: connect each ring to the next 
+    - trim rubber to 17mm width at screws
+    - align fan directly over the hole in base. Gravity may pull it to one side or another. Tug on webbing to reposition it.
+    - adjust base-fan gap with nuts and washers and tugging webbing.
+    - screw base onto silencer over a hole in any position
+    - keep wires clear of outer 3 rings to prevent them from transmitting vibration.
 
 ##### power
 
-In my first major darkroom in Guatemala, I had no electricity. I survived on foraged fruit and meals with my friends, Josh and Nadia, and would spend my last quetzal (worth $0.12) on darkroom building materials. At first, to create a draft, I actually made lamps that burned cooking oil inside a lightproof chimney. It was a messy, unreliable, and labor-intensive process no one should ever repeat. But it worked long enough for my brain to make the leap to the 20th century and remember the existence of batteries.
+In my first major darkroom in Guatemala, I had no electricity. I survived on foraged fruit and meals with my friends, Josh and Nadia, spending my last quetzal (worth $0.12) on darkroom building materials. At first, to create a draft, I actually made lamps that burned cooking oil inside a lightproof chimney. It was a messy, unreliable, and labor-intensive process. No one should ever repeat it. But it worked long enough for my brain to make the leap to the 20th century and remember the existence of batteries.
 
-AA batteries made a quick and dirty solution. One night requires 4-8 batteries, alkaline or rechargeable. Connect them in series: positive end of one to negative end of the next. Each battery is 1.5V, so 4 batteries=6V. Some fans need 7V or 9V to start, thus 5 or 6 batteries. Increase fan speed by adding batteries to the pack, up to 8. Increase pack life by using bigger batteries or another series in parallel (fan wires contacting ends of both series).
+AA batteries made a quick and dirty solution. One night requires 4-8 batteries, alkaline or rechargeable. Connect them in series: positive end of one to negative end of the next. Voltage adds up like this. Each battery is 1.5V, so 4 batteries=6V. Some fans need 7V or 9V to start, thus 5 or 6 batteries. Increase fan speed by adding batteries to the pack, up to 8. Increase pack life by using bigger batteries or another series in parallel (fan wires contacting ends of both series).
 
 I was isolated and just learning. This simple discovery encouraged me after weeks of the absurdity of oil lamp-driven convective ventilation. However, changing batteries every day also quickly got to be a pain. So I bit the bullet and got a proper solar power system for less than $100:
 
@@ -327,7 +341,7 @@ Once built, maintain by wiping dust off panel once a week. What a luxury! Of cou
 
 ##### warmth
 
-For heat, I often use a portable oil-filled heater. It is silent and can be positioned by a window or vent to warm incoming cold fresh air. Before buying, check that its indicator lights are easy to cover (not glowing from the interior through multiple cracks) and that it doesn't rattle or hum. Old or cheap ones often do.
+For heat, I often use a portable oil-filled heater. It is silent and can be positioned by a window or vent to warm incoming cold fresh air. Before buying, check that its indicator lights are easy to cover (not glowing from the interior through multiple cracks) and that it doesn't rattle or hum. Old or cheap ones often make noise.
 
 If you live in a cold place, I highly recommend buying and installing a [Heat Recovery Ventilator](http://en.wikipedia.org/wiki/Heat_recovery_ventilation) (HRV) for both health and economy. It conducts heat from return air to supply air while keeping airstreams separate using an exchanging core and fans.
 

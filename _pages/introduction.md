@@ -12,7 +12,7 @@ In our way of life, we are:
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating:_ profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in one's essential self, supporting it in healing itself by itself, completely. This book is a complete manual for understanding and doing it. As individuals do it, our madcap lifeway will become sane
+How? By _hygienic darkroom retreating:_ profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in one's essential self, supporting it in healing itself by itself, completely. This book is a complete manual for understanding and doing it. 
 
 #### basics
 
@@ -47,10 +47,10 @@ psyche
         - moving: sensation / physical / instinctive / gut / reptilian
         - feeling: perception / emotional / intuitive / heart / mammalian
         - thinking: conception / mental / intellectual / brain / rational
-    - parts
-		- unconscious: autonomic processes which cannot be made conscious (short of intense yogic practices), like regulating cell division or blood oxygen levels
-		- subconscious: acquired automatized knowledge, which can be made conscious, like cognizing words or walking
-		- conscious: ordinary waking awareness, as when reading this book or running an errand
+    - parts (used as both adjectives and nouns)
+		- unconscious: coordinates processes fundamental to existence like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except, to an insignificant degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
+		- subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming
+		- conscious: ordinary waking awareness, as when reading this book or running an errand. Primarily used to direct attention. Synonyms: will or volition
     - scales
 		- cells
 		- organs
@@ -64,6 +64,14 @@ psychic
 lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
 &nbsp; &nbsp; I once used the word, culture, for this. Then [John Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
+
+Here is a note on my use of words.
+
+I don't use neologisms. I don't use words in any special sense. A reader should profit by looking up a word from the text in a good dictionary. 
+
+My usage is sometimes unusual because I take pains to recover the original or essential meanings of words using etymology and historical usage. Popular use and manipulation by elites constantly degrade the true senses of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained. 
+
+I consider this half the job of writers, speakers, and readers alike. The Oxford English Dictionary exemplifies this collective effort. Editions of American Heritage Dictionary and Webster's from before 1970 are usually good enough. Beware of newer lexicology, which is both better and worse than ever due to extreme divergence of philosophical influences of the past 250 years.
 
 ##### requirements
 
@@ -82,7 +90,7 @@ To retreat, one needs three things: knowledge, materials, and support.
     - hygiene is the basis on which sick people can help each other without making things worse
     - our problem is collective and is solved with increasing degrees of cooperation
 
-Meet these requirements by reading this book, preparing for a retreat, and retreating. You're first retreats are just warm-ups. You'll get better at it.
+Meet these requirements by reading this book, preparing for a retreat, and retreating. Your first retreats are just warm-ups. You will get better at it.
 
 ##### darkroom
 
@@ -112,7 +120,7 @@ Unfortunately, the partially or completely active nature of these approaches to 
 
 ##### hygiene
 
-Hygiene is not just cleanliness, as medicine has led us to believe. Hygiene is broad and deep, dealing with all conditions of health. We know the word today because of a radical school of natural health originating in America in 1832 now known as _Natural Hygiene_. It led the global natural health movement of the 19th century. Hygiene vigorously respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide such conditions.
+Hygiene is not just cleanliness, as medicine has led us to believe. Hygiene is broad and deep, dealing with all conditions of health. We know the word today because of _Natural Hygiene_, a radical school of natural health originating in America in 1832. It led the global natural health movement of the 19th century. Hygiene respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide its conditions.
 
 Normal conditions of life include fresh air, sunlight, natural food, and cleanliness by regular bathing. Hygiene taught the modern world their enormous benefits, significantly raising health standards worldwide. Its motto: "Health through healthful living". It has only lacked a psychology and an appreciation for trauma as the cause of all illness; this book begins to correct that.
 

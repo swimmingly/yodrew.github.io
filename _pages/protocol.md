@@ -249,18 +249,18 @@ On a social scale, such power is irresistable by conventional force. Martin Luth
 
 #### difficulty
 
-An uncomfortable period usually occurs somewhere in the middle of the retreat, lasting minutes to hours. It's like a bout of pain while convalescing in a hospital. But now it is the soul that heals. 
+An uncomfortable period usually occurs somewhere in the middle of the retreat, lasting minutes to hours. It's like a bout of pain while convalescing in a hospital. But now it is the soul that heals. What to do?
 
 ##### discomfort
 
 You might feel tense, like crawling in your skin. You might curl up and cry. It's perfectly natural. You have provided the organism a chance to work something out, and it is doing so. Let it happen. 
 
-If discomfort feels like too much, examine your basic conditions like a hygienist.
+If discomfort feels like too much to be endured, examine your basic conditions like a hygienist:
 
-- first make sure you are drinking water and exercising enough. Both these can instantly ease discomfort. Maximums: 4L water and 2 hours exercise per day
 - are you safe?
+- are you drinking enough water and exercising enough? Both these can instantly ease discomfort. Maximums: 4L water and 2 hours exercise per day
 - do you have enough fresh air and warmth?
-- is it quiet enough? are any noises bothering you?
+- is it quiet enough? Are any noises bothering you?
 - is your bed comfortable?
 - is it totally dark?
 - has food been good?
