@@ -48,9 +48,9 @@ Hygiene's generic pathology could not be simpler. We are unwell because we've be
     2. **enervation**: a rapidly lowered energy state from overwork, distress, intense emotion, or abnormal environmental factors: overwhelming danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc
     3. **toxemia**: sudden, overwhelming introduction of poisonous materials (air, water, food, solids), emotions, and ideas 
 2. **processes of healing**
-    1. **repair**
-    2. **elimination**
-    3. **re-energization**
+    1. **repair**: the renewal and replacement of tissue after normal use and the stitching of tissue back together following trauma
+    2. **elimination**: removal of endogenous waste and exogenous toxins from cells through the lymph and organs of elimination
+    3. **re-energization**: recharging of nerves and refueling of cells
 
 This pathology is much simplified and radicalized compared to hygiene's traditional pathology. So we will review and critique it, explaining the above revision.
 
