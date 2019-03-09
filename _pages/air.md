@@ -92,8 +92,9 @@ Here are further design constraints, photos, plans, and instructions for making 
 ##### helix vent
 
 ![photo: helix vent, complete](/img/photo/helix-vent-complete.jpg)  
+![photo: helix vent, exploded core](/img/photo/helix-vent-core-exploded.jpg)  
 
-This photo is of the old helix vent. The new one is shorter, narrower, thicker. At the edge opening, the cardboard has a lip and the core has flaps.
+This photo is of the old helix vent. The new one is a bit narrower. Triangles inside are more pointy. At the side opening, the cardboard has a lip and the core has flaps.
 
 [![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)  
 [![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)  
@@ -114,7 +115,7 @@ The helix vent can go anywhere. Flaps of either its edge or face opening poke th
 - silencer
     - outside: with shell, attached at face opening
     - inside: without shell, attached at face or edge. 
-    - Z version: simpler, more efficient, higher capacity version especially for the silencer. Attaches at the edge opening. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
+    - Z version: simpler, more efficient, higher capacity version especially for the silencer. Attaches at the side opening. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
@@ -158,11 +159,11 @@ Read through instructions once while studying plans.
     3. separate sections then glue back together, one end at a time
         - use table knife
         - use flaps to align them
-    4. glue down 6 flaps of outer wall to outer and inner walls
+    4. glue down flaps of outer wall to outer and inner walls
 5. shell
     - glue joints of shell together with shell seals
     - put core inside and attach fleece seal with glue. This is a 20mm wide double-layer strip of fleece that goes around the flaps of the face opening. Three sides of the seal attach to the shell flaps. The fourth side goes across the core. Double-layers overlap at corners.
-    - when not in use, store core inside shell, taping up flap by edge opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
+    - when not in use, store core inside shell, taping up flap by side opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
 6. installation
     1. determine vent location 
         - in blind, panel, or silencer
@@ -171,8 +172,8 @@ Read through instructions once while studying plans.
         - vent should not touch window handles, locks, or frame 
     2. mark slot with slot plan
         - the slot plan spaces slot correctly on most blinds and panels
-        - face opening, 50 x 216, on blinds, panels, or outside silencer, with shell
-        - edge opening, 63 x 216, inside silencer or other enclosure, without shell
+        - face opening, 35 x 281, on blinds, panels, or outside silencer, with shell
+        - side opening, 32 x 281, inside silencer or other enclosure, without shell
     3. cut out slot
     4. position vent over slot and fit vent flaps through it
     5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
@@ -189,7 +190,6 @@ For inside silencer or other enclosure with two or more corners for light to go 
 [![plan: helix vent-z, channels](/img/plan/image/helix-vent-z-channels.png)](/img/plan/helix-vent-z-channels.pdf)  
 [![plan: helix vent-z, inner-wall](/img/plan/image/helix-vent-z-inner-wall.png)](/img/plan/helix-vent-z-inner-wall.pdf)  
 [![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)  
-[![plan: helix vent-z, slot](/img/plan/image/helix-vent-z-slot.png)](/img/plan/helix-vent-z-slot.pdf)  
 
 ##### threshold vent
 
@@ -279,7 +279,7 @@ To insulate, make square tubes of metal screen covered in porous fabric to form 
 
 ##### fan
 
-Use a case fan, also known as a squirrel cage fan. Specifications:
+Use an axial case fan, also known as a squirrel cage fan. Specifications:
 
 - DC (direct current)
 - 12V (volts)
@@ -292,7 +292,7 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 
 Power it from the grid with an AC/DC universal adapter with pole switching and variable voltage for speed control ($5 at variety stores). Off grid, use car or household batteries or a solar power system. To control speed, use a 12V DC/DC car adapter from eBay. Attach one fan wire at each end of the pack. No fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-More about an [*ideal fan*](#fan-idea), below.
+I just discovered cheap centrifugal "blower" fans in the same size. $10-20 on eBay. I can't wait to try one.
 
 ##### fan mount
 
@@ -346,15 +346,15 @@ For heat, I often use a portable oil-filled heater. It is silent and can be posi
 If you live in a cold place, I highly recommend buying and installing a [Heat Recovery Ventilator](http://en.wikipedia.org/wiki/Heat_recovery_ventilation) (HRV) for both health and economy. It conducts heat from return air to supply air while keeping airstreams separate using an exchanging core and fans.
 
 Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than conventional plate exchangers. Fiwihex cores have been available for $150 from [Viking House](http://viking-house.ie) and  
-[Vision4Energy](http://www.vision4energy.com) and possibly [Fresh-R](http://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. But I lived with one for six months and found it too loud due to its small, high-RPM fans with integrated motors and no silencing. Thus my thinking about silent fans (more below).
+[Vision4Energy](http://www.vision4energy.com) and possibly [Fresh-R](http://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. 
+
+However, I lived with one for six months and found it too loud due to its small, high-RPM fans with no silencing. If fans were separated and silenced, fiwihex would be great. DC centrifugal blower fans are $10-20 on eBay. Building your own HRV is doable. You need a centrifugal fan to create pressure to overcome the resistance in a core. Axial fans don't.
+
+It also needs a filter despite the manufacturers' strange denials. Just a leg of a stocking inside a tube for each intake is enough. It's much easier to remove, clean, and replace than using core itself as a filter.
+
+I have conceived a design for a convection-powered fiwihex ventilator. Worth trying someday.
 
 The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found in Energy Recovery Ventilators such as [Renewaire's](http://www.renewaire.com). Made of high-tech paper, the Lossnay recovers heated water vapor as well as heat from air. Lossnay's principle has DIY-potential, using 25m<sup>2</sup> of non-siliconized parchment paper ("sandwich paper" in supermarkets). I have conceived a design for it. Please write me for details.
-
-##### fan idea
-
-A heat recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
-
-It would be nice to have cheap, quiet fans for this: large, low RPM [homemade centrifugal fans](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. And air friction in the fan across the blades caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise while producing high volume. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
 
 ##### purity
 

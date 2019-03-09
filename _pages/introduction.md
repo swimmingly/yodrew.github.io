@@ -198,6 +198,7 @@ This book is for:
 
 - those who appreciate good arguments and reasonable tests thereof
 - those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and who need hope that their suffering is impermanent
+- hygienists who seek the next step
 - self-experimenters
 - those who wish to understand why humanity is in such rough shape and what to do about it
 
