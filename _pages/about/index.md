@@ -32,6 +32,21 @@ Read [services](./services/) beforehand
 
 #### site changelog
 
+2019
+
+March
+
+Radical goings on, pushing the theory of hygiene fully over the hump to v3.0
+
+- hygiene: organized hygiene's Laws of Life, adding _Law of Coordination_  
+- psychology
+    - completed the revision of the hygienic pathology
+    - reordered the pathology section, demoting the traditional pathology as well as allopathy
+- reinstated the old law list as an appendix
+- helix vent reverted to old version with slight improvements to make it smaller and more durable. New 4-channel design was too hard to make. It could work with machines.
+
+It just needs new drawings now.
+
 2018
 
 October - December
