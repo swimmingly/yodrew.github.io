@@ -375,7 +375,7 @@ If air quality at your home is consistently bad enough, consider moving. Lots of
 
 ~~
 
-That's it for dark ventilation, silence, power, heat, and purification. On to lightproofing doors and windows.
+That's it for lightproof ventilation, silence, power, heating, and purification. On to darkening doors and windows.
 
 
 
