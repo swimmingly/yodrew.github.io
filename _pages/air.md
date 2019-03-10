@@ -367,11 +367,11 @@ The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found i
 
 ##### purity
 
-In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration but seemed less important. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The blower fan I mentioned above would work, and the silencer would likely cancel its extra noise. The fan mount just needs to be adapted for the blower fan.
+In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration but seemed less important. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
 
-Regarding other purification methods, I had heard of ionization, but just learned it also produces toxic levels of ozone. Photo Electricochemical Oxydation ([PECO](https://molekule.com/technology)) is a new, interesting technology that destroys pollutants at the molecular level.
+Regarding other purification methods, I had heard of ionization, but just learned it also produces toxic levels of ozone. Photo Catalytic Oxydation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
 
-If air quality at your home is consistently bad enough, consider moving. There's lots of places in small towns and the countryside where air is clean, and it doesn't have to be costly or complicated. 
+If air quality at your home is consistently bad enough, consider moving. Lots of places in small towns and the countryside have clean air and are less polluted in general. It can be a cheap and simple solution to multiple problems.
 
 ~~
 
