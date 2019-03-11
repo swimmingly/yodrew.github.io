@@ -371,7 +371,7 @@ In some cases, an air purifier becomes necessary. If your house is near a factor
 
 Regarding other purification methods, I had heard of ionization, but just learned it also produces toxic levels of ozone. Photo Catalytic Oxydation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
 
-If air quality at your home is consistently bad enough, consider moving. Lots of places in small towns and the countryside have clean air and are less polluted in general. It can be a cheap and simple solution to multiple problems.
+If air quality at your home is bad enough, consider moving. Lots of places in small towns and the countryside have clean air and are less polluted in general. It can be a cheap and simple solution to multiple problems.
 
 ~~
 
