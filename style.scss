@@ -322,23 +322,23 @@ footer  {
   padding-bottom: 40px ;
   text-align: center ;  }
 
-.main  {
+.man  {
     margin: 0 0 20px 0;  }
 
-.main ul  {
+.man ul  {
     list-style: none ;
     position: relative ;
     float: left ;
     margin: 0 ;
     padding: 0 ;  }
 
-.main ul a  {
+.man ul a  {
     display: block ;
     text-decoration: none ;
     font-weight: 700 ;
   }
 
-.main ul li  {
+.man ul li  {
     position: relative ;
     float: left ;
     font-weight: 700 ;
@@ -346,13 +346,13 @@ footer  {
     line-height: 35px ;
     padding: 0;   }
 
-.main ul li.current-menu-item  {
+.man ul li.current-menu-item  {
     background: #555  }
 
-.main ul li:hover  {
+.man ul li:hover  {
     background: #333  }
 
-.main ul ul  {
+.man ul ul  {
     display: none ;
     position: absolute ;
     top: 100% ;
@@ -360,7 +360,7 @@ footer  {
     background: #222 ;
     padding: 0 ;  }
 
-.main ul ul li  {
+.man ul ul li  {
     float: none ;
     font-weight: normal ;
     font-size: 20px ;
@@ -368,23 +368,23 @@ footer  {
     padding: 1px 10px ;
     text-align: right ;  }
 
-.main ul ul a  {
+.man ul ul a  {
     font-weight: normal ;
     font-size: 20px ;
     line-height: 25px ;
     padding: 1px 10px; 
     text-align: left; }
 
-.main ul ul ul  {
+.man ul ul ul  {
     top: 0 ;
     left: 100% ;  }
 
-.main ul ul ul li  {
+.man ul ul ul li  {
     text-align: left ;
     font-style: italic ;
     padding: 1px 10px;  }
 
-.main ul ul ul a  {
+.man ul ul ul a  {
     font-weight: normal ;
     font-style: normal ;
     font-size: 20px ;
@@ -392,7 +392,7 @@ footer  {
     width: 280px ;
     padding: 1px 10px ;  }
 
-.main ul li:hover > ul  {
+.man ul li:hover > ul  {
     display: block ;  }
 
 // @import "highlights" ;
