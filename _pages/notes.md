@@ -8,13 +8,11 @@ navnext: foreword
 
 This book is an integrated whole. I give the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
 
-The book has links. They appear like this in ebook or print:
+The book has links. On the web, they are colored. In the ebook and print, they look like this:
 
 - <u>external links</u> to other webpages
 - <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
 - <u><em>books</em></u>, downloadable 
-
-Links are colored on the web, not underlined. 
 
 Current version of book:
 

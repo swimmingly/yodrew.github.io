@@ -6,11 +6,11 @@ navprev: 7x1-day-retreat
 navnext: lindsey-vona-darkness-retreat
 ---
 
-### 2013 Mar 28
+#### 2013 Mar 28
 
 On Sunday, Mar 24, I finished a shockingly effective dark retreat. Something was different about this one. Here is what happened.
 
-#### internal report
+##### internal report
 
 The retreat was supposed to start Tuesday night. But it did not start until Wednesday morning because I stayed up all night finishing modifications to the room. I was rushing because I had a date with a woman scheduled for right after the retreat. This also made me restless. I had a bad feeling about both retreat and date logistics from the start.
 
@@ -44,7 +44,7 @@ I felt afraid my tricky ego had adapted to darkness somehow and neutralized my r
 
 Sometimes the insight is merely sad. This time, it was Frankenstein- horrifying. I cried a long time. I no longer asked, "Why?" about the perpetual failure in my life. Sleep finally came again. When I awoke, I felt not as rested as usual, but emotionally renewed and calm. I uncovered the windows and walked out into light.
 
-#### mechanical report
+##### mechanical report
 
 The room worked much better this time. I made mutes for radiators that were ringing. A lightproof mask from ski goggles. An odor-free pee bottle. A muffler for the ventilation pipe. The first three worked quite well, the muffler only so-so.
 
@@ -60,7 +60,7 @@ Today, a guy told me about a WWII bunker in his hometown that he explored. It is
 
 Now _that_ would be a darkroom: a fricking King's Chamber-Sarcophagus set-up without the burdens of a pharaoh.
 
-#### aftermath
+##### aftermath
 
 Since the retreat, I have been functioning close to normal levels without the tremendous conflict I always felt before. Within a day of exiting, I made money for the first time in six months. Enough to pay the dreaded rent. It was easy. I even exercised for several days. For the first time in my life, I feel like an adult \[UPDATE: in six months, this feeling has not left me\]. Beginning to heal from my suicide program seems to be why. It was, after all, the thing that moved me to avoid being responsible or achieving much success in anything (except, thank god, discovering a means of healing from the suicide program).
 

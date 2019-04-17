@@ -6,7 +6,7 @@ navprev: 6-day-retreat
 navnext: 2-day-retreat
 ---
 
-### 2012 Feb 09
+#### 2012 Feb 09
 
 I had a depressive breakdown in December and let out a cry on my personal facebook page for help with a dark retreat to recover. Within a few weeks, and with the help of a small, far-flung team of supporters, I did a five-day dark retreat. I am feeling much better. (Fourteen days as planned proved impractical in the location, so I am still psychotic :)
 
@@ -22,7 +22,7 @@ The truth is, dark retreats have helped and interested me and others a lot, and 
 
 The lesson: approaching darkness as something I needed personally worked a whole hell of a lot better than approaching it as a world-saving idea in need of testing. Shame about my own psychosis, based on early bad experiences with expressing my suffering, had led to this charade. People, it turned out, care a lot more about me than my big ideas.
 
-The major thing I learned this time about retreating itself is that scheduling sufficient time afterward to absorb its value and readjust to light is critical to a retreat's overall success. So while I did not complete a 14-day retreat as planned, neither did I waste one learning about this, either. Instead, we spent only $285 discovering this final big piece of the puzzle.
+I learned something major about retreating itself. Scheduling sufficient time afterward to absorb its value and readjust to light is critical to a retreat's overall success. So while I did not complete a 14-day retreat as planned, neither did I waste one learning about this, either. Instead, we spent only $285 discovering a big piece of the puzzle.
 
 Along with with this major lesson, I learned some useful minor things to be carefully applied in future retreats:
 

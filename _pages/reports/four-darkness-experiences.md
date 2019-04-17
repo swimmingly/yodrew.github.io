@@ -10,7 +10,7 @@ Here are descriptions of my first four experiences in darkness.
 
 The first is a long, enthusiastic letter I wrote friends about my first dark retreat immediately after emerging. Brief descriptions of three other early retreats follow.
 
-### 2006 Feb 10
+#### 2006 Feb 10
 
 I just came out of a pitch black room after two days inside. We call it a dark retreat. I feel great.
 
@@ -46,13 +46,13 @@ Again, I had several fits of emotional disturbance and confusion. They were not 
 
 Darkness is the ultimate renewal. It is just the beginning.
 
-### 2006 Nov 20
+#### 2006 Nov 20
 
 I had just become boyfriend to a woman. We moved together from Eugene to Ashland and had an opportunity to be in darkness for four days while staying with friends.
 
 Due to poor ventilation, we had to crack the window now and then, so the room was not perfectly dark. And our relationship was very tumultuous. These two factors contributed to the retreat's not being restful or renewing for me like the first one.
 
-### 2008 Oct 25
+#### 2008 Oct 25
 
 This was a three-day retreat in another friend's house outside Eugene. Like my first retreat, it was profoundly restful. Again, I felt as if I'd caught up on all the sleep I'd ever lost after 48 hours.
 
@@ -64,7 +64,7 @@ The dream was in hyper-technicolor, clearer, brighter, more vivid than anything 
 
 The other main thing about this retreat was that, in catching up on lost sleep, I felt like I'd fallen through an internal trapdoor. During my lazy third day, I had a strong hunch that: there were five or six more trapdoors I could fall through; it would take two weeks to fall through all of them; and that doing so would lead to a qualitative shift, a deep and permanent restoration in my being somehow. (Two months later, this sense would return clear, verbalized, and full-blown as _the darkness conjecture_.)
 
-### 2009 Feb 15
+#### 2009 Feb 15
 
 Inspired by my breakthrough on Christmas, this was going to be my first long retreat. It took place at another friends house in Eugene. Due to too much noise in the rest of the house, the retreat was a failure. This positively unnerved me. Somehow I wrote several of these essays about darkness before crashing for weeks with other friends. Then I left Eugene for the last time.
 

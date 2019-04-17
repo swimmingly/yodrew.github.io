@@ -74,22 +74,27 @@ If you can, I recommend making darkness happen first in your own home for sleepi
 
 - _Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?_
     
-    No. First, our natural habitat is tropical forest. Its dense canopy makes the forest floor perfectly dark at night. Even when sleeping in the open, the amount of light from stars and moon is surprisingly little compared to artificial light.
+    No. First, our natural habitat is tropical forest. Its dense canopy makes the forest floor perfectly dark at night. Even when sleeping in the open, the amount of light from stars and moon is surprisingly little compared to artificial light. Which now bombards us nearly everywhere.
 
-    Second, covering our eyes, seeking solitude, and taking cover when traumatized---shocked, exhausted, or emotionally overwhelmed---is a reflex. We have to be conditioned out of it by force. Taking extended shelter like a darkroom retreat merely supports this reflex when the trauma is great enough to require it. 
+    Second, covering our eyes, seeking solitude, and taking cover when traumatized is a reflex. We have to be conditioned out of it by force. Taking extended shelter as in a darkroom retreat merely supports this reflex when the trauma is great enough to require it. 
 
     Shelter is an instinct that intensifies with trauma. Large uncovered windows came to popular architecture very recently. Traditional shelter, civilized and indigenous, is dark or easily darkenable. 
 
-    Our obsession with building---the principle activity of civilization for 13,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars to destroy buildings and build new ones. Nothing could be more natural to us in our damaged state than total darkness.
+    Our obsession with building---the principle activity of civilization for 13,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars to destroy buildings so we can build new ones. Nothing could be more natural to us in our damaged state than extended total darkness.
 
-- _Extended darkness could be good for some people, but there are many ways people can heal their pain. Nothing works for everyone._
+- _Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone._
     
-	This would mean that:
+    There are many ways to gain temporary relief and sometimes heal from the very worst part of our suffering. This enables us to catch our breath, function a little, and survive. But it is not even close to full recovery. It is merely acceptable by our lifeway's pitifully low standards.
     
-    - the deep healing necessary in cases of major trauma can occur without profound rest
+    For full recovery, as with all organic functions, nature provides single conditions or specific combinations thereof. We're not talking about which color to paint a house. There is no menu, no smorgasbord of options. To breathe, you must have air. To heal from major trauma, you must have darkness and associated conditions of profound rest. These solutions work for everyone, even other animals. There is no substitute. Physiology is what it is. Post-modernist dogma doesn't alter it on whit.
+	
+    We can look at it in the negative as well. If this tired statement were true,
+
+    - the many other ways alluded to all make sense and work
+    - all the people who tried them would now be ok
+    - the deep healing necessary in cases of cataclysmic trauma could occur without profound rest
     - profound rest can occur in semi-darkness and other compromised conditions
     - or psychic trauma is not the primary cause of metaphysical suffering
-	- or the human organism has no specific needs for recovering from such pain. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of air for breathing, light for seeing, food for eating, etc.
-    - the many other ways alluded to all make sense and work
+    - or the human organism has no specific needs for recovering from such pain. It comes and goes randomly. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of light for seeing, food for eating, etc. And despite suffering's being an indication that something is wrong.
  
-    The evidence indicates otherwise. Relativism makes fashionable philosophy but poor physiology.
+    Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor physiology. Repeating it changes nothing.

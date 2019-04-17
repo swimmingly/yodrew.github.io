@@ -6,7 +6,7 @@ navprev: 2-day-retreat
 navnext: 2x2-day-retreat
 ---
 
-### 2013 Jan 10
+#### 2013 Jan 10
 
 Just before New Year's, I began the first retreat in the new darkroom. As usual with a new room, it had lots of mechanical problems. And as usual, the self-healing psyche, given an inch, took a mile.
 
@@ -22,11 +22,11 @@ On the other hand, if the damage heals, the insights come naturally. They are re
 
 I was strongly motivated to retreat by the relentless, intense pain of a terrible break-up three months before. My breakthroughs centered on early childhood trauma, as usual. (Notes are in quotes.)
 
-#### Day 1
+##### Day 1
 
 My aim, my wish in this retreat: to recover the rest of myself, the lost part. But it really feels like the retreat might not work this time: “I am at the end of the game. Either life will make me whole now or never. This retreat is the drama of civilization, condensed and reversed in the being of one man. This is my apocalypse, the end of the world inside.”
 
-#### Day 2
+##### Day 2
 
 Bruxism: has destroyed my teeth and caused me to fear sleep. After retreat, I learn that bruxism actually prevents restorative sleep. So I never had a chance to recover even a little bit from birth trauma. Lifetime of sleep, health, and social problems resulted. And deep resignation. But what caused tension leading to teeth-grinding in the first place?
 
@@ -36,23 +36,23 @@ Exercise also counters desperation.
 
 Basing Natural Hygienic pathology on trauma rather than toxicity and enervation: now, whatever the problem, look for the trauma. Like William Arthur Evans' psychobiology.
 
-#### Day 3
+##### Day 3
 
 Sex is the part of myself that was lost and forbidden: “Reintegration of my self as sex. Not, 'I am sexual,' but, 'I am sex.' Universe also, is sex. I saw astral scene of a universe-sized orgy. First, I resisted it. Then I allowed it ('what I resist persists'). I feel unified with my sexuality again. I feel familiar pleasant heaviness and density in my body. I feel tons of sexual energy and arousal, but can easily contain it.”
 
 So, “imagery takes form of whatever is resisted: sex, money, food, etc.” Which is why it becomes hellish.
 
-#### Day 4
+##### Day 4
 
 “No need to get rid of it \[suffering\] now. There is still sorrow here. Maybe feeling itself is to be reintegrated now. The tingling on the skin is still present.” For 25 years, my skin has tingled in meaningful moments. I have always wondered what it is. I realized it is constricted feeling of the lost part of myself, a sign it is still alive.
 
 Laughter dissipates feeling. Must observe laughter habit.
 
-#### Day 5
+##### Day 5
 
 “Received support from Jack \[Nuckols, my primary elder, who recently died\] and many others. The plan for this incarnation was to put myself in this isolated position in order to feel all this horror and find a solution. My own need for this kind of suffering is very small. I came as a designer to solve the general problem as well as my own. It was difficult for all those elders to turn their backs on me, but that is what I asked and they agreed to this purpose before we all incarnated.”
 
-#### Day 6
+##### Day 6
 
 “A new feeling now of being pierced in the chest. The rebirth of feeling? Not just fear in the gut, but pain in the heart. Pain comes from feeling for the first time in years? Is it the beginning of joy again?” This feeling was very brief. It did not have time to develop because I ended the retreat that day.
 

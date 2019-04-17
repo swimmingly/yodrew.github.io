@@ -6,7 +6,7 @@ navprev: 365-day-retreat-of-150-year-old-yogi
 navnext: 
 ---
 
-\[Brian Riggs Sullivan* just did a short darkness retreat and wrote this entertaining report about his experience.\]
+\[Brian Riggs Sullivan* did a short darkness retreat and wrote this entertaining report about his experience.\]
 
 Last weekend, I engaged in a 3-day (approx. 64-hour) [darkness retreat][1] in a bathroom in my parents' house. The bathroom has no windows and enough length for me to comfortably lie down on the floor (on top of several layers of wool blankets with a sleeping bag). I found a way to easily create complete and total darkness in the room by wrapping a large wool blanket around and over the door, pinning it to itself in a few strategic places and once to the wall, and stuffing a hand towel under the door to keep it closed: this all prevented any light from coming in around the edges. I turned on the bathroom fan and let it run continuously, which let fresh air in (counter-intuitive as that may seem) and provided white noise to muffle any sounds from the rest of the house. I packed a bag and cooler full of raw food (as I follow [Primal Diet][2]), set an alarm to go off about 64 hours later on my turned-off cell phone, and shut myself in there, vowing not to come back out until then.
 

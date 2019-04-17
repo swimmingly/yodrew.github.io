@@ -198,17 +198,17 @@ This book is for:
 
 - those who appreciate good arguments and reasonable tests thereof
 - those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and who need hope that their suffering is impermanent
-- hygienists who seek the next step
-- self-experimenters
+- hygienists who sense much more is possible in hygiene 
+- self-experimenters and self-explorers, not necessarily with terrible problems, perhaps just yearning, curiosity, wonder, or a wish to find their next steps.
 - those who wish to understand why humanity is in such rough shape and what to do about it
 
 Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or to simply see what it's like. Besides psychic illness, much physical illness is psychosomatic and therefore amenable to self-healing in darkness.
 
-However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging. Acquaintance with hygienic principles is invaluable in healing from any illness. 
+However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging in doing so. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable in healing from any illness. 
 
 ##### how to use this book
 
-Above all, this book presents an idea for consideration. For now, doing it is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief, which comes from knowledge. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
+Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
 Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the companion darkroom retreat [zip file](/darkroom-retreat.zip) to get all the plans for components<!-- as well as some reference reading -->. Or find a retreat center. See [*prepare*](/prepare) for resources.
 

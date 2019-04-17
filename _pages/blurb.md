@@ -20,7 +20,7 @@ This complete manual explains why a retreat works, how to do it, and how to make
 
 Indigenous and spiritual traditions have used darkness for millennia. This is the first approach to darkness---and psychology---based on hygiene. Not just cleanliness, hygiene is the biological science of _health_. It is based on life's self-preserving nature and normal conditions: fresh air, ample sleep, pure food, frequent bathing and exercise, etc. Its principles apply equally to the organic system of the psyche.
 
-Hygiene began teaching industrial society to appreciate nature's way in 1832. Worldwide massive improvements in public health followed. Hygiene is history’s most influential approach to health. 
+Hygiene began to show industrial civilization nature's way in 1832. Worldwide massive improvements in public health followed. Hygiene is history’s most influential approach to health, which billions use daily without even knowing it.
 
-A hygienic darkroom retreat provides all 12 conditions of profound rest. These are normal conditions, just temporarily extended, as in fasting. The deeply resting psyche heals itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing reliably miraculous results.
+A hygienic darkroom retreat provides all conditions of profound rest. These are normal conditions, perfected and temporarily extended, as in fasting. In profound rest, the psyche heals itself, even of the worst trauma. The conscious self merely maintains the conditions of this _autonomic_ self-healing. Reliable miracles result.
 

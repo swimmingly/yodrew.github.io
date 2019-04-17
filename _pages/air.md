@@ -16,15 +16,17 @@ Below, I will give design constraints and describe various systems of ventilatio
 
 ##### breathe
 
-I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of constant fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for other appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
+Nature gives us a constant, abundant supply of fresh air, so our buildings should, too.
+
+I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of continuous fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for the appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
 
 Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, quintillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
 
-Just like food, air becomes a part of one's organism with every breath. This affects quality of life to a very great degree. Though it weighs little, the amount of air you breathe weighs twice as much as the food you eat. In a darkroom, you have little to do all day besides breathe. So if you haven't usually paid attention to air quality, you will likely notice it in darkness. 
+Just like food, air becomes a part of one's organism with every breath. This affects quality of life to a very great degree. Though it weighs little, the daily amount of air you breathe weighs twice as much as the food you eat. In a darkroom, you have little to do besides breathe. So if you haven't usually paid attention to air quality, you will likely notice it in darkness. 
 
-Whether you do or not, poor air quality cancels most benefits of a retreat. Intermittently airing the room out _does not work_. I mean opening the door a couple times a day with eyes covered. Put this approach out of your mind. This is darkness, not the dark ages. Whatever it takes, always provide yourself with continuous fresh air and especially in darkness. 
+Whether you do or not, poor air quality cancels most benefits of a retreat. Intermittently airing the room out _does not work_. I mean opening the door a couple times a day with eyes covered. Put this approach out of your mind. This is darkness, not the dark ages. Whatever it takes, no matter where you are or what you are doing, always provide yourself with continuous fresh air. 
 
-This means either:
+For a darkroom retreat, this means either:
 
 1. following the instructions below
 2. hiring an HVAC contractor to clean, repair, replace, or install ventilation in your home
@@ -32,13 +34,15 @@ This means either:
 4. using [oxygen producing plants](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)
 5. a combination of these
 
-Somehow, it must be done. Forget darkness a moment. We have no more urgent concern in life than arranging to breathe fresh air continuously and comfortably. Not freezing to death and keeping safe from injury present only rare exceptions to this rule. Keeping it foremost in your thinking about darkroom design construction will help ensure a successful retreat.
+Somehow, it must be done. Forget darkness a moment. We have few more urgent concerns in life than arranging to breathe fresh air continuously and comfortably. Keeping it foremost in your thinking about darkroom design and construction will help ensure a successful retreat.
+
+Not freezing to death and avoiding danger are more urgent than continuous fresh air. Building systems that meet these needs can all work in harmony. But unconsciously, fear and ignorance result in design conflicts between them. We have largely eliminated open fires in uninsulated buildings, which require massive inputs, labor, and maintenance. But we still often depend on windows for ventilation instead of a proper, separate system.  The rest of this chapter will help you avoid such errors.
 
 ##### constraints
 
-- provides plenty of fresh air
+- system provides plenty of fresh air
 - absolutely lightproof
-- silent: hum and harmonics from fan and exterior noises extinguished
+- silent: absolutely no hum or harmonics from fan and exterior noises mostly extinguished
 - comfortable temperature: no undesired cold drafts
 - economical: ie, no wasted heat to the outdoors. This is more involved and a lower priority than retreating itself, so don't get stuck on it. It requires a heat recovery ventilator (HRV). Besides significantly lowering heating costs, an HRV improves air quality and comfort in nearly all climates. More about it below.
 
@@ -54,7 +58,7 @@ More commonly, balanced systems put supplies in bedrooms and living rooms, and r
 
 Balanced systems are rare. More common are negative pressure systems: bedroom and living room windows act as passive supplies and bathroom and kitchen exhaust fans as active returns. In this case, a lightproof multi-purpose _helix_ vent, built into a window blind, is the supply. Or a silencer if noise surrounds your dwelling. A threshold vent is the return, letting stale air escape the bedroom to the exhaust fan.
 
-Rooms with totally passive ventilation rely on open windows, exterior vents, and infiltration through cracks (that will get sealed against light). Such rooms will need helix vents in blinds at different heights to take advantage of convection. But they probably call for a fan and a silencer, maybe ducting.
+Rooms with totally passive ventilation rely on open windows, exterior vents, and infiltration through cracks. These will get sealed against light. Such rooms will need helix vents in blinds at different heights to take advantage of convection. But they probably call for a fan and a silencer, maybe ducting.
 
 By closely observing buildings I have discovered some simple ways to ventilate them. Sometimes rooms have lightproof and sound-dampened holes built into them in unexpected places:
 
@@ -69,6 +73,8 @@ Another darkroom had no ventilation or suitable holes anywhere. Except it had no
 Similarly, we hung 7m of ducting that ran through three rooms; attached a silencer to it; made three window panels; and imperfectly covered five more windows with only one new screw hole in the entire rented house. And that hole was invisible behind a loose piece of trim. "Leave no trace" is a fun game that often improves design.
 
 Sewage pipes drain downward but are ventilated upward. Once, friends and I replaced a flush toilet with a composting toilet. The exposed drain pipe, being oversize and in a single-story house, wasn't subject to backflow. So it proved a perfect exhaust duct for a case fan at floor level. Imagination conquers all obstacles (and renews itself in darkness).
+
+If you are building a new house, separate ventilation from fenestration (windows). This improves many attributes of a shelter: security, economy, comfort, quietness, control, and darkenability.
  
 #### lightproof
 
@@ -266,9 +272,9 @@ You can make or buy duct silencers.
 - manufactured silencers are made of metal and other super durable materials and cost $100-200.
 
 In the past year, I built two box silencers into window recesses. They were simpler and much more effective than I hoped. They swallowed up sound. One of two window panes formed one face of the box. The window recess in the thick wall provided the 4 sides. Boards formed the box's outer face against the inside of security bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See  
-[*darkness > window > hard panel*](/darkness#hard-panel) section for more about adapting the design below.
+[*darkness > window > panel*](/darkness#panel) section for more about adapting the design below.
 
-Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
+Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
 [![plan: silencer](/img/plan/image/silencer.png)](/img/plan/silencer.pdf)
 
@@ -367,7 +373,7 @@ The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found i
 
 ##### purity
 
-In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration but seemed less important. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
+In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration but seemed less important. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The cheap DC centrifugal blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
 
 Regarding other purification methods, I had heard of ionization, but just learned it also produces toxic levels of ozone. Photo Catalytic Oxydation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
 
