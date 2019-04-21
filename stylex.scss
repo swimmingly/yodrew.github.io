@@ -1,0 +1,349 @@
+---
+---
+
+// IMPORTS (more at bottom)
+@import "reset" ;
+@import "variables" ;
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html  {
+  font-size: 100% ;  }
+
+body  {
+  background-color: black ;
+  margin-top: 20px ;
+  font: 18px/1.4 helvetica ;
+  color: grey ;  }
+
+.container  {
+  margin: 0 auto ;
+  max-width: 790px ;
+  padding: 10px ;
+  width: 100% ;  }
+
+h1, h2, h3, h4, h5, h6  {
+  font-family: $helveticaNeue ;
+  color: $lightGray ;
+  font-weight: bold ;
+  line-height: 1.4 ;
+  margin: 20px 0 15px ;
+  padding: 0 ;
+  @include mobile  {
+    line-height: 1.4 ;  }  }
+
+h1  {
+  font-size: 36px ;
+  line-height: 1em ;
+  a  {
+    color: inherit ;  }  }
+
+h2  {
+  font-size: 32px ;  }
+
+h3  {
+  font-size: 28px ;  }
+
+h4  {
+  font-size: 24px ;
+  color: $gray ;  }
+
+h5  {
+  font-size: 21px ;
+  color: $gray ;  }
+
+h6  {
+  font-size: 18px ;
+  color: $gray ;  }
+
+p  {
+  margin: 15px 0 ;  }
+
+a  {
+  color: $blue ;
+  text-decoration: none ;
+  cursor: pointer ;
+  &:hover, &:active  {
+    color: $blue ;  }  }
+
+ul, ol  {
+  margin: 15px 0 ;
+  padding-left: 30px ;  }
+
+ul  {
+  list-style-type: disc ;  }
+
+ol  {
+  list-style-type: decimal ;  }
+
+ol ul, ul ol, ul ul, ol ol  {
+  margin: 0 ;  }
+
+ul ul, ol ul  {
+  list-style-type: circle ;  }
+
+em, i  {
+  font-style: italic ;  }
+
+strong, b  {
+  font-weight: bold ;  }
+
+sup  {
+    vertical-align: super ;
+    font-size: smaller ;  }
+
+img  {
+  max-width: 600px ;
+  max-height: 600px ;
+  background-color: white ;
+  padding: 20px ;  }
+
+dl:after {content:"";display:table;clear:both;}
+dd {
+    padding:.5em 0;}
+dl {
+    width:100%;}
+dt, dd {
+    display:inline-block ;
+    width:20%;}
+dt {
+    text-align:right ;
+    font-weight:bold ;
+    clear:left ;
+    float:left;}
+dd {
+    width:80% ;
+    padding-left:1em ;
+    clear:right;}
+dt:first-child {
+    padding-top:.5em;}
+dd + dt {
+   clear:both ;
+    padding-top:.5em;}
+
+table {
+    border: solid 1px #AAAAAA ;
+    border-collapse: collapse ;
+    border-spacing: 0 ;  }
+
+thead th {
+    border: solid 1px #AAAAAA ;
+    padding: 10px ;
+    text-align: left ;  }
+
+tbody td {
+    border: solid 1px #AAAAAA ;
+    padding: 4px ;  }
+
+td {
+ white-space: nowrap ;  }
+
+// Fix images Google Translate popup boxes
+.gmnoprint img  {
+  max-width: none ;  }
+
+.date  {
+  font-style: italic ;
+  color: $darkGray ;  }
+
+// Specify the color of the selection
+::-moz-selection  {
+  color: $black ;
+  background: $lightGray ;  }
+::selection  {
+  color: $black ;
+  background: $lightGray ;  }
+
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after  {
+  content: " " ;
+  display: table ;  }
+
+.clearfix:after  {
+   clear: both ;  }
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+//
+// .masthead
+//
+
+.wrapper-masthead  {
+    float: none ;
+    
+.masthead  {
+  }
+
+.site-info  {
+    margin: 0;
+}
+
+.site-name  {
+  color: $lightGray ;
+  cursor: pointer ;
+  font-family: $helveticaNeue ;
+  font-weight: bold ;
+  font-size: 36px ;
+  }
+
+.site-description  {
+  color: $gray ;
+  margin: -30px 0 0 10px ;
+}
+
+.site-author  {
+  margin: -30px 0 0 30px ;
+  color: $gray ;}
+
+.none  {
+    display: none ;
+ul li  {
+    list-style-type:none; 
+    margin-left: -30px ;  }  }
+
+.submenu  {
+  float: right ;
+  margin: 25px 10px 30px 40px ;
+  font-size:90% ;
+  li  {list-style-type: none;}
+  a {color: $blue2;}  }
+
+.arrow  {
+    padding-top: 20px ;
+     font-size: 3em ;
+     font-weight: 600 ;
+     text-decoration: none ;
+    text-align: center ;  }
+
+.arrowblog  {
+    padding-top: 20px ;
+    font-size: 1.1em ;
+    font-weight: 600 ;
+    text-decoration: none ;
+    text-align: center ;  }
+
+
+nav  {
+  padding: 10px;
+  font-family: $helveticaNeue;
+  font-size: 18px;   }
+
+
+//
+// .main
+//
+
+.posts > .post  {
+  padding-bottom: 2em ;
+  border-bottom: 1px solid $darkGray ;  }
+
+.posts > .post:last-child  {
+  padding-bottom: 1em ;
+  border-bottom: none ;  }
+
+.post  {
+  blockquote  {
+    margin: 1.8em .8em ;
+    border-left: 2px solid $gray ;
+    padding: 0.1em 1em ;
+    color: $gray ;
+    font-size: 22px ;
+    font-style: italic ;
+    }
+
+  .comments  {
+    margin-top: 10px ;
+    }
+
+  .read-more  {
+    text-transform: uppercase ;
+    font-size: 15px ;  }  }
+
+.wrapper-footer  { 
+  background-color: $black ;  }
+
+footer  {
+  padding-bottom: 40px ;
+  text-align: center ;  }
+
+.menu  {
+    margin: 0 0 20px 0;  
+    }
+
+.menu ul  {
+    list-style: none ;
+    position: relative ;
+    margin: 0 ;
+    padding: 0 ;  }
+
+.menu ul a  {
+    display: block ;
+    text-decoration: none ;
+    font-weight: 700 ;
+  }
+
+.menu ul li  {
+    position: relative ;
+    float: left ;
+    font-weight: 700 ;
+    font-size: 30px ;
+    line-height: 35px ;
+    padding: 0;   }
+
+.menu ul li.current-menu-item  {
+    background: #555  }
+
+.menu ul li:hover  {
+    background: #333  }
+
+.menu ul ul  {
+    display: none ;
+    position: absolute ;
+    top: 100% ;
+    left: 0 ;
+    background: #222 ;
+    padding: 0 ;  }
+
+.menu ul ul li  {
+    float: none ;
+    font-weight: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
+    padding: 1px 10px ;
+    text-align: right ;  }
+
+.menu ul ul a  {
+    font-weight: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
+    padding: 1px 10px; 
+    text-align: left; }
+
+.menu ul ul ul  {
+    top: 0 ;
+    left: 100% ;  }
+
+.menu ul ul ul li  {
+    text-align: left ;
+    font-style: italic ;
+    padding: 1px 10px;  }
+
+.menu ul ul ul a  {
+    font-weight: normal ;
+    font-style: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
+    width: 280px ;
+    padding: 1px 10px ;  }
+
+.menu ul li:hover > ul  {
+    display: block ;  }
+
+// @import "highlights" ;
+// @import "svg-icons" ;
+}

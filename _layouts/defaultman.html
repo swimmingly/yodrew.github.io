@@ -15,13 +15,20 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
-<body>
-    <div class="container">
-        <div class="site-info">
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+        
+          <div class="site-info">
             <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-                <p><span class="site-description">profound rest for the self-healing psyche</span><br />
-                <span class="site-author">a book by andrew durham&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="10%" title="buy now" style="padding:0;filter:brightness(90%)"></a></span></p>  
-        </div>
+            <p class="site-description">profound rest for the self-healing psyche</p>
+            <p class="site-author">a book by andrew durham</p>
+          </div>
+
+<div style="float:right">                     <a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now" style="padding:0;filter:brightness(90%)"></a> 
+        </div></div></div>        
+
 <nav class="man">
     <ul>
         <li>&#9776;&nbsp;&nbsp;
@@ -73,7 +80,6 @@
         </li>
     </ul>
 </nav>
-    </div>
 
 <!---
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> 
@@ -99,19 +105,25 @@
             <a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="95%" title="buy now" style="padding:0;filter:brightness(70%)"></a>
           </p>
 -->
+        </header>
+      </div>
+    </div>
+
 
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
-        <footer class="footer">
+ <div class="wrapper-footer">
+    <div class="container">
+       <footer class="footer">
 
           {% include svg-icons.html %}
-        </footer>
+       </footer>
     </div>
+ </div>
 
     {% include analytics.html %}
-</body>
+  </body>
 </html>
 

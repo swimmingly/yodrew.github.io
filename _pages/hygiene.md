@@ -73,20 +73,22 @@ Nonetheless, hygiene remains the most effective and influential approach to heal
 
 Shelton describes hygiene as "the employment of materials, agents, and influences that have a normal relationship to life, in the preservation and restoration of health according to well-defined laws and demonstrated principles of nature."[^2] These laws of life are the absolute heart of hygiene and thus a great key to understanding it.
 
-I have grouped laws by subject and importance. Four primary laws form the context for the rest. Two of them, the laws of _Coordination_ and _Capacity_, I formulated for the first time. I suppose that hasn't happened in a century or two. I substantially edited the original list. See it in [_appendix: laws of life_](/appendix-laws-of-life)). Those familiar with it can read my criticisms of it there. Titles in parentheses below refer to it.
+I have grouped laws by subject and importance. Four primary laws form the context for the rest. I formulated two of them, _Coordination_ and _Capacity_. I suppose that has not happened since Shelton or earlier. 
+
+I substantially edited the original list. See it in [_appendix: laws of life_](/appendix-laws-of-life)), along my criticisms of it. Titles in parentheses below refer to it.
 
 Here are all the laws of life, the strongest dose of hygienism you can get.
 
 ##### primary
 
-- **Force**: A force inherent in organisms, called life force or vital force, sustains the instinct of self-preservation in every cell of the body. (_Life's Great Law_)
-- **Order**: Life's defining characteristics are its self-preserving nature and conditional existence. The constant practical aim of self-preservation is health, life's natural state. Self-preserving means completely self-generating, self-maintaining (self-ordering, directing, and defending), and self-healing (self-repairing, cleaning, and energizing).
-- **Coordination**: The instinct of self-preservation coordinates all living processes. Instinct is a basic form of consciousness. The faculty of consciousness is the psyche. Thus the psyche is the coordinating system of animals. It works mostly unconsciously. The conscious mostly serves to maintain conditions.
+- **Force**: A force inherent in an organism, called lifeforce, sustains its structure and the instinct of self-preservation in its every cell, organ, and system. (_Life's Great Law_)
+- **Order**: Life's defining characteristics are its self-preserving nature and conditional existence. The constant practical aim of self-preservation is health, life's natural state. Self-preserving means it is completely self-generating, self-maintaining (self-ordering, directing, and defending), and self-healing (self-repairing, cleaning, and energizing). From the outside, it needs only its original conditions: air, warmth, water, light and darkness, food, company, etc.
+- **Coordination**: The instinct of self-preservation coordinates living processes. Instinct is a basic form of consciousness. The faculty of consciousness is the psyche. Thus the psyche is the coordinating system of animals. It works mostly unconsciously (involuntarily). The voluntary conscious mostly serves to maintain conditions.
 - **Capacity**: Capacity determines function. Capacity is the degree of an organism's structural integrity. Function is its physical, emotional, and mental ability to live. Capacity increases with rest and decreases with trauma. How one is determines what one can do---_and benefit from_.
 
 ##### secondary
 
-###### general
+###### process
 
 - **Action**: Whenever action occurs in an organism in response to external influences, the action must be ascribed to the living thing. It has the power of action, not the external thing, whose main characteristic is inertia. Much related to the laws of _Power_ and _Capacity_.
 - **Dual Effect**: Every action and substance has a primary effect followed by an opposite and equal secondary effect.
@@ -97,7 +99,7 @@ Here are all the laws of life, the strongest dose of hygienism you can get.
 
 - **Economy**: An organism under favorable conditions stores excess vital energy and materials above the current expenditures as a "reserve fund" to be employed in time of special need. (_Special Economy_)
 - **Compensation**: When activity has expended the substance and energy of the body, rest is induced in order to replenish them.
-- **Development**: The development of an organism is directly proportional to the amount of vital forces and nutritive materials which are available to it, thus limited by the factor in shortest supply. (integrates the _the Minimum_)
+- **Development**: The development of an organism is directly proportional to the amount of vital forces and nutritive materials which are available to it, and limited by the factor in shortest supply. (integrates the _the Minimum_)
 
 ###### energy
 
@@ -105,7 +107,7 @@ Here are all the laws of life, the strongest dose of hygienism you can get.
 - **Distribution**: Distribution of power is proportionate to the importance and needs of the various organs and tissues of the body.
 - **Limitation**: When the expenditure of vital power has advanced so far that a fatal exhaustion is imminent, a check is put upon the unnecessary expenditure of power; the organism rebels against the further use of an accustomed stimulant.
 
-###### material
+###### substance
 
 - **Utilization**: The normal materials of life are all that an organism is ever capable of constructively utilizing, whether it is well or sick. No substance or process that is not a normal factor in physiology can be of any value in the structure of an organism. That which is unusable in a state of health, is equally unusable in a state of illness. 
 - **Selectivity**: When the quality of nutriment being received by an organism is higher than that of the present living tissue, the organism will discard lower-grade cells to make room for appropriating the superior materials into new and healthy tissue. (_Quality Selection_)
