@@ -75,7 +75,7 @@ Shelton describes hygiene as "the employment of materials, agents, and influence
 
 I have grouped laws by subject and importance. Four primary laws form the context for the rest. I formulated two of them, _Coordination_ and _Capacity_. I suppose that has not happened since Shelton or earlier. 
 
-I substantially edited the original list. See it in [_appendix: laws of life_](/appendix-laws-of-life)), along my criticisms of it. Titles in parentheses below refer to it.
+I substantially edited the original list. See it in [_appendix: laws of life_](/appendix-laws-of-life)), along with my criticisms of it. Titles in parentheses below refer to it.
 
 Here are all the laws of life, the strongest dose of hygienism you can get.
 

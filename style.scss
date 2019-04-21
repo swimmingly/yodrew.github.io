@@ -2,104 +2,103 @@
 ---
 
 // IMPORTS (more at bottom)
-@import "reset";
-@import "variables";
+@import "reset" ;
+@import "variables" ;
 
 /**************/
 /* BASE RULES */
 /**************/
 
 html  {
-  font-size: 100%;  }
+  font-size: 100% ;  }
 
 body  {
-    background-color: black;
-    font: 18px/1.4 helvetica;
-    color: grey;
-    margin-top: 15px;
-    padding: 10px;
-    }
+  background-color: black ;
+  margin-top: 20px ;
+  font: 18px/1.4 helvetica ;
+  color: grey ;  }
 
 .container  {
-    margin: 0 auto;
-    max-width: 790px;
-    padding: 10px;
-    width: 100%;  }
+  margin: 0 auto ;
+  max-width: 790px ;
+  padding: 20px 30px ;
+  width: 100% ;  }
 
 h1, h2, h3, h4, h5, h6  {
-  font-family: $helveticaNeue;
-  color: $lightGray;
-  font-weight: bold;
-  line-height: 1.4;
-  margin: 20px 0 15px;
-  padding: 0; }
+  font-family: $helveticaNeue ;
+  color: $lightGray ;
+  font-weight: bold ;
+  line-height: 1.4 ;
+  margin: 20px 0 15px ;
+  padding: 0 ;
+  @include mobile  {
+    line-height: 1.4 ;  }  }
 
 h1  {
-  font-size: 36px;
-  line-height: 36px;
-  margin: 0;
+  font-size: 36px ;
+  line-height: 1em ;
   a  {
-    color: inherit;  }  }
+    color: inherit ;  }  }
 
 h2  {
-  font-size: 32px;  }
+  font-size: 32px ;  }
 
 h3  {
-  font-size: 28px;  }
+  font-size: 28px ;  }
 
 h4  {
-  font-size: 24px;
-  color: $gray;  }
+  font-size: 24px ;
+  color: $gray ;  }
 
 h5  {
-  font-size: 21px;
-  color: $gray;  }
+  font-size: 21px ;
+  color: $gray ;  }
 
 h6  {
-  font-size: 18px;
-  color: $gray;  }
+  font-size: 18px ;
+  color: $gray ;  }
 
 p  {
-  margin: 15px 0;  }
+  margin: 15px 0 ;  }
 
 a  {
-  color: $blue;
-  text-decoration: none;
-  cursor: pointer;
+  color: $blue ;
+  text-decoration: none ;
+  cursor: pointer ;
   &:hover, &:active  {
-    color: $blue;  }  }
+    color: $blue ;  }  }
 
 ul, ol  {
-  margin: 15px 0;
-  padding-left: 30px;  }
+  margin: 15px 0 ;
+  padding-left: 30px ;  }
 
 ul  {
-  list-style-type: disc;  }
+  list-style-type: disc ;  }
 
 ol  {
-  list-style-type: decimal;  }
+  list-style-type: decimal ;  }
 
 ol ul, ul ol, ul ul, ol ol  {
-  margin: 0;  }
+  margin: 0 ;  }
 
 ul ul, ol ul  {
-  list-style-type: circle;  }
+  list-style-type: circle ;  }
 
 em, i  {
-  font-style: italic;  }
+  font-style: italic ;  }
 
 strong, b  {
-  font-weight: bold;  }
+  font-weight: bold ;  }
 
 sup  {
-    vertical-align: super;
-    font-size: smaller;  }
+    vertical-align: super ;
+    font-size: smaller ;  }
 
 img  {
-  max-width: 600px;
-  max-height: 600px;
-  background-color: white;
-  padding: 20px;  }
+  max-width: 600px ;
+  max-height: 600px ;
+  background-color: white ;
+  padding: 20px ;  }
 
 dl:after {content:"";display:table;clear:both;}
 dd {
@@ -107,179 +106,244 @@ dd {
 dl {
     width:100%;}
 dt, dd {
-    display:inline-block;
+    display:inline-block ;
     width:20%;}
 dt {
-    text-align:right;
-    font-weight:bold;
-    clear:left;
+    text-align:right ;
+    font-weight:bold ;
+    clear:left ;
     float:left;}
 dd {
-    width:80%;
-    padding-left:1em;
+    width:80% ;
+    padding-left:1em ;
     clear:right;}
 dt:first-child {
     padding-top:.5em;}
 dd + dt {
-   clear:both;
+   clear:both ;
     padding-top:.5em;}
 
 table {
-    border: solid 1px #AAAAAA;
-    border-collapse: collapse;
-    border-spacing: 0;  }
+    border: solid 1px #AAAAAA ;
+    border-collapse: collapse ;
+    border-spacing: 0 ;  }
 
 thead th {
-    border: solid 1px #AAAAAA;
-    padding: 10px;
-    text-align: left;  }
+    border: solid 1px #AAAAAA ;
+    padding: 10px ;
+    text-align: left ;  }
 
 tbody td {
-    border: solid 1px #AAAAAA;
-    padding: 4px;  }
+    border: solid 1px #AAAAAA ;
+    padding: 4px ;  }
 
 td {
- white-space: nowrap;  }
+ white-space: nowrap ;  }
+
+/*
+dl
+  {    
+  width: 100% ;  }
+dt  {
+  float: left ;
+  text-align: right ;
+  width: 25% ;
+  font-weight: bold ;  }
+
+dt::after
+ {
+    content: ":" ;  }
+
+dd  {
+  color: grey ;
+  margin-left: 30% ;  }
+*/
 
 // Fix images Google Translate popup boxes
 .gmnoprint img  {
-  max-width: none;  }
+  max-width: none ;  }
 
 .date  {
-  font-style: italic;
-  color: $darkGray;  }
+  font-style: italic ;
+  color: $darkGray ;  }
 
 // Specify the color of the selection
 ::-moz-selection  {
-  color: $black;
-  background: $lightGray;  }
+  color: $black ;
+  background: $lightGray ;  }
 ::selection  {
-  color: $black;
-  background: $lightGray;  }
+  color: $black ;
+  background: $lightGray ;  }
 
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after  {
-  content: " ";
-  display: table;  }
+  content: " " ;
+  display: table ;  }
 
 .clearfix:after  {
-   clear: both;  }
+   clear: both ;  }
 
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
 
+//
+// .masthead
+//
+
+.wrapper-masthead  {
+    float: none ;
+    
+/*    float: right ;
+    margin: -20px 0 0 0 ;
+    width: 240px ;
+    padding: -40px 20px 0 0;  */ }
+
+.masthead  {
+  @include mobile  {
+    width: 35% ;  }  }
 
 .site-info  {
-    display: block;
-    float: left;
-    margin: 0;
-  } 
+
+    display: none ;
+      @include mobile  {
+    float: none ;
+    display: block ;
+    margin: 0 auto ;  }  }
+
+.site-name  {
+  margin: -20px 0 0 0 ;
+  color: $lightGray ;
+  cursor: pointer ;
+  font-family: $helveticaNeue ;
+  font-weight: bold ;
+  font-size: 36px ;
+  letter-spacing: 1px ;  }
 
 .site-description  {
-    float:left;
-    margin: 0;
-    color: $gray;
-    font-style: italic;
-    font-size: 22px;
-    line-height: 22px;  }
+  margin: -20px 0 0 0 ;
+  color: $gray ;
+  font-size: 14px ;
+
+  @include mobile  {
+    margin: 3px 0 ;  }  }
 
 .site-author  {
-    float:left;
-    margin: -50px 0 0 0;
-    color: $gray;
-    font-size: 18px;  }
+  margin: 1px 0 0 0 ;
+  color: $gray ;
+  font-size: 14px ;
+  font-style: italic ;
+  @include mobile  {
+    margin: 3px 0 ;  }  }
 
 .none  {
-    display: none;
+    display: none ;
 ul li  {
     list-style-type:none; 
-    margin-left: -30px;  }  }
+    margin-left: -30px ;  }  }
+
+.submenu  {
+  float: right ;
+  margin: 25px 10px 30px 40px ;
+  font-size:90% ;
+  li  {list-style-type: none;}
+  a {color: $blue2;}  }
 
 .arrow  {
-    padding-top: 20px;
-     font-size: 3em;
-     font-weight: 600;
-     text-decoration: none;
-    text-align: center;  }
+    padding-top: 20px ;
+     font-size: 3em ;
+     font-weight: 600 ;
+     text-decoration: none ;
+    text-align: center ;  }
 
 .arrowblog  {
-    padding-top: 20px;
-    font-size: 1.1em;
-    font-weight: 600;
-    text-decoration: none;
-    text-align: center;  }
+    padding-top: 20px ;
+    font-size: 1.1em ;
+    font-weight: 600 ;
+    text-decoration: none ;
+    text-align: center ;  }
 
 nav  {
-  padding: 20px 30px;
-  font-family: $helveticaNeue;
+  padding: 20px 30px ;
+  font-family: $helveticaNeue ;
   font-size: 18px; 
 
+  @include mobile  {
+    margin-top: 9px ;
+    display: block ;
+    font-size: 14px ;  }
+
   a  {
-    color: $blue;
-    font-weight: 300;
-    letter-spacing: 1px;
+    color: $blue ;
+    font-weight: 300 ;
+    letter-spacing: 1px ;
+    @include mobile
+      {
+      margin: 0 10px ;
+      color: blue; 
+      }
     }  }
 
-// .main {}
-
+//
+// .main
+//
 
 .posts > .post  {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $darkGray;  }
+  padding-bottom: 2em ;
+  border-bottom: 1px solid $darkGray ;  }
 
 .posts > .post:last-child  {
-  padding-bottom: 1em;
-  border-bottom: none;  }
+  padding-bottom: 1em ;
+  border-bottom: none ;  }
 
 .post  {
   blockquote  {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    margin: 1.8em .8em ;
+    border-left: 2px solid $gray ;
+    padding: 0.1em 1em ;
+    color: $gray ;
+    font-size: 22px ;
+    font-style: italic ;
     }
 
   .comments  {
-    margin-top: 10px;
+    margin-top: 10px ;
     }
 
   .read-more  {
-    text-transform: uppercase;
-    font-size: 15px;  }  }
+    text-transform: uppercase ;
+    font-size: 15px ;  }  }
 
 .wrapper-footer  { 
-  background-color: $black;  }
+  background-color: $black ;  }
 
 footer  {
-  padding-bottom: 40px;
-  text-align: center;  }
+  padding-bottom: 40px ;
+  text-align: center ;  }
 
 .man  {
     margin: 0 0 20px 0;  }
 
 .man ul  {
-    list-style: none;
-    position: relative;
-    float: left;
-    margin: 0;
-    padding: 0;  }
+    list-style: none ;
+    position: relative ;
+    float: left ;
+    margin: 0 ;
+    padding: 0 ;  }
 
 .man ul a  {
-    display: block;
-    text-decoration: none;
-    font-weight: 700;
+    display: block ;
+    text-decoration: none ;
+    font-weight: 700 ;
   }
 
 .man ul li  {
-    position: relative;
-    float: left;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 35px;
+    position: relative ;
+    float: left ;
+    font-weight: 700 ;
+    font-size: 30px ;
+    line-height: 35px ;
     padding: 0;   }
 
 .man ul li.current-menu-item  {
@@ -289,47 +353,48 @@ footer  {
     background: #333  }
 
 .man ul ul  {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background: #222;
-    padding: 0;  }
+    display: none ;
+    position: absolute ;
+    top: 100% ;
+    left: 0 ;
+    background: #222 ;
+    padding: 0 ;  }
 
 .man ul ul li  {
-    float: none;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 25px;
-    padding: 1px 10px;
-    text-align: right;  }
+    float: none ;
+    font-weight: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
+    padding: 1px 10px ;
+    text-align: right ;  }
 
 .man ul ul a  {
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 25px;
+    font-weight: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
     padding: 1px 10px; 
     text-align: left; }
 
 .man ul ul ul  {
-    top: 0;
-    left: 100%;  }
+    top: 0 ;
+    left: 100% ;  }
 
 .man ul ul ul li  {
-    text-align: left;
-    font-style: italic;
+    text-align: left ;
+    font-style: italic ;
     padding: 1px 10px;  }
 
 .man ul ul ul a  {
-    font-weight: normal;
-    font-style: normal;
-    font-size: 20px;
-    line-height: 25px;
-    width: 280px;
-    padding: 1px 10px;  }
+    font-weight: normal ;
+    font-style: normal ;
+    font-size: 20px ;
+    line-height: 25px ;
+    width: 280px ;
+    padding: 1px 10px ;  }
 
 .man ul li:hover > ul  {
-    display: block;}
+    display: block ;  }
 
-
+// @import "highlights" ;
+// @import "svg-icons" ;
 
