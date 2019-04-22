@@ -110,7 +110,7 @@ Here are all the laws of life, the strongest dose of hygienism you can get.
 ###### substance
 
 - **Utilization**: The normal materials of life are all that an organism is ever capable of constructively utilizing, whether it is well or sick. No substance or process that is not a normal factor in physiology can be of any value in the structure of an organism. That which is unusable in a state of health, is equally unusable in a state of illness. 
-- **Selectivity**: When the quality of nutriment being received by an organism is higher than that of the present living tissue, the organism will discard lower-grade cells to make room for appropriating the superior materials into new and healthy tissue. (_Quality Selection_)
+- **Selection**: When the quality of nutriment being received by an organism is higher than that of the present living tissue, the organism will discard lower-grade cells to make room for appropriating the superior materials into new and healthy tissue. (_Quality Selection_)
 - **Elimination**: All injurious substances which, by any means, gain admittance into an organism are counteracted, neutralized, and eliminated as fully as bodily nerve energy supply allows and by such means and through such channels as will produce the least amount of harm to living structure. (_Selective Elimination_)
 - **Conservation**: Whenever nutritive abstinence occurs, an organism's reserves are conserved and economized. Living structures are autolyzed in the inverse order of their usefulness, while toxic substances are eliminated. This law refers to fasting; it applies to starvation as well. (_Autolysis_)
 
