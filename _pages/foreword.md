@@ -8,9 +8,9 @@ navnext: preface
 
 This book comes out of an investigation into the cause of joy. 
 
-At 15, great joy spontaneously overcame me. It felt _normal_. But after three heavenly months, it disappeared. The need to solve this mystery gripped me. It dwarfed my other concerns.
+At 15, great joy spontaneously overcame me. It felt _normal_. But after three heavenly months, it disappeared. My other concerns seemed empty. The need to solve this mystery gripped me.
 
-After 21 years of investigation, I solved it. I discovered the destroyer of joy, cataclysmic trauma; the self-healing power of the psyche; and the essential condition nature provides us to heal: darkness. More than a decade of testing, refinement, and documentation followed.
+After 21 years of investigation, I did. Others had discovered the destroyer of joy: cataclysmic trauma. I discovered the self-healing power of the psyche and the essential condition nature provides us to heal: darkness. More than a decade of testing, refinement, and documentation followed.
 
 Briefly, joy is a function of being alive, not effort. Lack of joy indicates a damaged system, not moral failure. Given conditions of profound rest, this damage heals by itself, and joy returns. 
 
